@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>영상 검토</title>
+<style>
+  body { font-family: -apple-system, "Apple SD Gothic Neo", sans-serif; margin: 0; padding: 20px; background: #f6f6f6; color: #222; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  p.help { color: #666; margin: 0 0 20px; font-size: 14px; }
+  .row { display: grid; grid-template-columns: 140px repeat(4, minmax(0, 1fr)); gap: 10px; align-items: start; background: #fff; border-radius: 12px; padding: 10px; margin-bottom: 10px; }
+  .name { font-weight: 700; }
+  .name small { display: block; color: #888; font-weight: 400; }
+  .v { font-size: 12px; line-height: 1.35; }
+  .v img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; display: block; }
+  .v.chosen img { outline: 4px solid #2a7; outline-offset: -4px; }
+  .v code { background: #eee; padding: 1px 4px; border-radius: 4px; user-select: all; }
+  .v a { color: inherit; text-decoration: none; }
+  .local { color: #2a7; font-weight: 700; }
+</style>
+</head>
+<body>
+<h1>🎬 기차 영상 검토</h1>
+<p class="help">초록 테두리 = 지금 앱에 나오는 영상. 썸네일을 누르면 유튜브에서 열려요. 바꾸려면 <code>data/media.json</code>에서 해당 기차의 <code>video.youtube</code>를 원하는 ID로 바꾸세요.</p>
+<div id="list"></div>
+<script>
+const fmt = (s) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const card = (v, chosen) => `
+  <div class="v ${chosen ? "chosen" : ""}">
+    <a href="https://www.youtube.com/watch?v=${esc(v.youtube)}" target="_blank" rel="noopener">
+      <img src="https://i.ytimg.com/vi/${esc(v.youtube)}/mqdefault.jpg" alt="">
+    </a>
+    ${v.seconds ? fmt(v.seconds) + " · " : ""}${esc(v.title)}<br><code>${esc(v.youtube)}</code>
+  </div>`;
+
+Promise.all([fetch("../data/trains.json").then((r) => r.json()), fetch("../data/media.json").then((r) => r.json())])
+  .then(([data, media]) => {
+    document.getElementById("list").innerHTML = data.trains.map((t) => {
+      const v = (media[t.id] || {}).video;
+      const body = !v ? "<div>영상 없음</div>"
+        : v.file ? `<div class="v local">로컬 영상: ${esc(v.file)}</div>`
+        : card(v, true) + (v.alternatives || []).map((a) => card(a, false)).join("");
+      return `<div class="row"><div class="name">${esc(t.name)}<small>${esc(t.id)}</small></div>${body}</div>`;
+    }).join("");
+  });
+</script>
+</body>
+</html>

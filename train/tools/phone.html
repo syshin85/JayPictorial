@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>폰 화면 확인</title>
+<style>
+  body { margin: 0; padding: 10px; background: #333; display: flex; gap: 12px; flex-wrap: wrap; font: 12px -apple-system, sans-serif; color: #fff; }
+  figure { margin: 0; }
+  iframe { border: 0; background: #fff; border-radius: 16px; display: block; }
+</style>
+</head>
+<body>
+<script>
+// Shows app screens at phone sizes side by side: ?routes=#/,#/book/korea&w=390&h=844
+const q = new URLSearchParams(location.search);
+const w = q.get("w") || 390, h = q.get("h") || 844;
+for (const route of (q.get("routes") || "#/").split(",")) {
+  document.body.insertAdjacentHTML("beforeend",
+    `<figure><iframe src="../index.html?v=${Date.now()}${route}" width="${w}" height="${h}"></iframe><figcaption>${route}</figcaption></figure>`);
+}
+</script>
+</body>
+</html>

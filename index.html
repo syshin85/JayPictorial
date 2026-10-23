@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>신재하의 도감</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="신재하의 도감">
+  <meta name="theme-color" content="#FFF6E5">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icon.png">
+  <link rel="icon" href="assets/icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #FFF6E5;
+      --ink: #3A2A1A;
+      --ink-soft: #7A6650;
+      --line: #F0E2C8;
+      --head: "Jua", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; background: var(--bg); color: var(--ink);
+      font-family: "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+      -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent;
+      overscroll-behavior-y: none;
+    }
+    body { padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); }
+
+    .pick {
+      min-height: 100dvh;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: 44px; padding: 32px 24px 64px;
+    }
+    .hero { text-align: center; }
+    .hero-book { font-size: 104px; line-height: 1; animation: bob 1.8s ease-in-out infinite; }
+    @keyframes bob { 50% { transform: translateY(-10px) rotate(-3deg); } }
+    .hero h1 {
+      font-family: var(--head); font-weight: 400;
+      font-size: clamp(52px, 9vw, 92px); margin: 10px 0 4px;
+      color: #2F7DE1; letter-spacing: 2px; line-height: 1.05;
+    }
+    .hero h1 small { display: block; font-size: .42em; color: #E8453C; letter-spacing: 1px; }
+    .hero p { font-size: 24px; color: var(--ink-soft); margin: 0; }
+
+    .books {
+      display: grid; gap: 24px; width: 100%; max-width: 760px;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    }
+    .book {
+      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;
+      min-height: 250px; padding: 26px 20px; border-radius: 32px;
+      text-decoration: none; color: #fff; background: #E8453C;
+      box-shadow: 0 10px 0 #B5302A;
+      -webkit-user-select: none; user-select: none; touch-action: manipulation;
+    }
+    .book:active { transform: translateY(8px); box-shadow: 0 2px 0 #B5302A; }
+    .book-emoji { font-size: 96px; line-height: 1; }
+    .book-name { font-family: var(--head); font-size: 40px; }
+    .book-sub { font-size: 19px; opacity: .92; }
+
+    .book.soon {
+      background: transparent; color: var(--ink-soft); box-shadow: none;
+      border: 5px dashed var(--line); pointer-events: none;
+    }
+    .book.soon .book-emoji { opacity: .6; }
+    .book.soon .book-name { font-size: 30px; }
+
+    @media (max-width: 600px) {
+      .pick { gap: 28px; padding: 24px 16px 40px; }
+      .hero-book { font-size: 72px; }
+      .hero p { font-size: 18px; }
+      .books { gap: 18px; }
+      .book { min-height: 190px; border-radius: 26px; }
+      .book-emoji { font-size: 72px; }
+      .book-name { font-size: 32px; }
+      .book.soon .book-name { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="pick">
+    <div class="hero">
+      <div class="hero-book" aria-hidden="true">📖</div>
+      <h1><small>신재하의</small>도감</h1>
+      <p>어떤 도감을 볼까요?</p>
+    </div>
+    <nav class="books">
+      <a class="book" href="train/">
+        <span class="book-emoji" aria-hidden="true">🚄</span>
+        <span class="book-name">기차 도감</span>
+        <span class="book-sub">세계의 멋진 기차들</span>
+      </a>
+      <div class="book soon" aria-hidden="true">
+        <span class="book-emoji">🎁</span>
+        <span class="book-name">새 도감이 곧 와요!</span>
+      </div>
+    </nav>
+  </main>
+  <script>
+    // Offline support for this page; the train pictorial has its own service worker in train/.
+    if ("serviceWorker" in navigator && !["localhost", "127.0.0.1"].includes(location.hostname)) {
+      navigator.serviceWorker.register("sw.js").catch(() => {});
+    }
+  </script>
+</body>
+</html>

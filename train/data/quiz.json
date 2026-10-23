@@ -1,0 +1,2371 @@
+[
+ {
+  "id": "q001",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/gtx-a/thumb.jpg",
+  "choices": [
+   {
+    "text": "GTX-A",
+    "image": null
+   },
+   {
+    "text": "SRT",
+    "image": null
+   },
+   {
+    "text": "KTX-이음",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "GTX-A — 땅속 깊이 달리는 급행!",
+  "train": "gtx-a"
+ },
+ {
+  "id": "q002",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/ktx-cheongryong/thumb.jpg",
+  "choices": [
+   {
+    "text": "KTX-청룡",
+    "image": null
+   },
+   {
+    "text": "우이신설 경전철",
+    "image": null
+   },
+   {
+    "text": "GTX-A",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "KTX-청룡 — 한국에서 가장 빠른 기차!",
+  "train": "ktx-cheongryong"
+ },
+ {
+  "id": "q003",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/seoul-line2/thumb.jpg",
+  "choices": [
+   {
+    "text": "ITX-청춘",
+    "image": null
+   },
+   {
+    "text": "서울 지하철 2호선",
+    "image": null
+   },
+   {
+    "text": "KTX",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "서울 지하철 2호선 — 동그랗게 빙글빙글 도는 지하철!",
+  "train": "seoul-line2"
+ },
+ {
+  "id": "q004",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/arex/thumb.jpg",
+  "choices": [
+   {
+    "text": "ITX-청춘",
+    "image": null
+   },
+   {
+    "text": "공항철도",
+    "image": null
+   },
+   {
+    "text": "KTX",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "공항철도 — 공항까지 달리는 기차!",
+  "train": "arex"
+ },
+ {
+  "id": "q005",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/ktx/thumb.jpg",
+  "choices": [
+   {
+    "text": "KTX",
+    "image": null
+   },
+   {
+    "text": "서울 지하철 1호선",
+    "image": null
+   },
+   {
+    "text": "공항철도",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "KTX — 한국 최초의 고속열차!",
+  "train": "ktx"
+ },
+ {
+  "id": "q006",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/ktx-sancheon/thumb.jpg",
+  "choices": [
+   {
+    "text": "GTX-A",
+    "image": null
+   },
+   {
+    "text": "KTX-산천",
+    "image": null
+   },
+   {
+    "text": "무궁화호",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "KTX-산천 — 한국 기술로 만든 고속열차!",
+  "train": "ktx-sancheon"
+ },
+ {
+  "id": "q007",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/itx-cheongchun/thumb.jpg",
+  "choices": [
+   {
+    "text": "ITX-청춘",
+    "image": null
+   },
+   {
+    "text": "신분당선",
+    "image": null
+   },
+   {
+    "text": "SRT",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "ITX-청춘 — 2층 칸이 있는 초록 기차!",
+  "train": "itx-cheongchun"
+ },
+ {
+  "id": "q008",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/romancecar-gse/thumb.jpg",
+  "choices": [
+   {
+    "text": "긴자선",
+    "image": null
+   },
+   {
+    "text": "로망스카 GSE",
+    "image": null
+   },
+   {
+    "text": "하코네 등산철도",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "로망스카 GSE — 맨 앞이 전망석인 특급열차!",
+  "train": "romancecar-gse"
+ },
+ {
+  "id": "q009",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/laview/thumb.jpg",
+  "choices": [
+   {
+    "text": "세이부 라뷰",
+    "image": null
+   },
+   {
+    "text": "야마노테선",
+    "image": null
+   },
+   {
+    "text": "800계 쓰바메",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "세이부 라뷰 — 커다란 창문의 은빛 열차!",
+  "train": "laview"
+ },
+ {
+  "id": "q010",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/tokyo-monorail/thumb.jpg",
+  "choices": [
+   {
+    "text": "800계 쓰바메",
+    "image": null
+   },
+   {
+    "text": "로망스카 GSE",
+    "image": null
+   },
+   {
+    "text": "도쿄 모노레일",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "도쿄 모노레일 — 레일 하나 위를 달리는 기차!",
+  "train": "tokyo-monorail"
+ },
+ {
+  "id": "q011",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/sl-yamaguchi/thumb.jpg",
+  "choices": [
+   {
+    "text": "긴자선",
+    "image": null
+   },
+   {
+    "text": "E5 하야부사",
+    "image": null
+   },
+   {
+    "text": "SL 야마구치호",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "SL 야마구치호 — 칙칙폭폭 일본 증기기관차!",
+  "train": "sl-yamaguchi"
+ },
+ {
+  "id": "q012",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/seven-stars/thumb.jpg",
+  "choices": [
+   {
+    "text": "E7 카가야키",
+    "image": null
+   },
+   {
+    "text": "500계 신칸센",
+    "image": null
+   },
+   {
+    "text": "나나츠보시",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "나나츠보시 — 규슈의 호텔 같은 기차!",
+  "train": "seven-stars"
+ },
+ {
+  "id": "q013",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/e5-hayabusa/thumb.jpg",
+  "choices": [
+   {
+    "text": "E5 하야부사",
+    "image": null
+   },
+   {
+    "text": "유리카모메",
+    "image": null
+   },
+   {
+    "text": "세이부 라뷰",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "E5 하야부사 — 초록색 매 신칸센!",
+  "train": "e5-hayabusa"
+ },
+ {
+  "id": "q014",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/ginza-line/thumb.jpg",
+  "choices": [
+   {
+    "text": "N700S 신칸센",
+    "image": null
+   },
+   {
+    "text": "SL 야마구치호",
+    "image": null
+   },
+   {
+    "text": "긴자선",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "긴자선 — 아시아 최초의 지하철!",
+  "train": "ginza-line"
+ },
+ {
+  "id": "q015",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/taiwan-hsr/thumb.jpg",
+  "choices": [
+   {
+    "text": "다르질링 토이 트레인",
+    "image": null
+   },
+   {
+    "text": "대만 고속철도",
+    "image": null
+   },
+   {
+    "text": "하노이 기찻길 마을",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "대만 고속철도 — 대만을 달리는 신칸센 친구!",
+  "train": "taiwan-hsr"
+ },
+ {
+  "id": "q016",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/darjeeling/thumb.jpg",
+  "choices": [
+   {
+    "text": "충칭 모노레일",
+    "image": null
+   },
+   {
+    "text": "대만 고속철도",
+    "image": null
+   },
+   {
+    "text": "다르질링 토이 트레인",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "다르질링 토이 트레인 — 히말라야 장난감 기차!",
+  "train": "darjeeling"
+ },
+ {
+  "id": "q017",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/hanoi-train-street/thumb.jpg",
+  "choices": [
+   {
+    "text": "이스턴 앤 오리엔탈 특급",
+    "image": null
+   },
+   {
+    "text": "하노이 기찻길 마을",
+    "image": null
+   },
+   {
+    "text": "상하이 지하철",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "하노이 기찻길 마을 — 집 앞을 지나는 기차!",
+  "train": "hanoi-train-street"
+ },
+ {
+  "id": "q018",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/whoosh/thumb.jpg",
+  "choices": [
+   {
+    "text": "하노이 기찻길 마을",
+    "image": null
+   },
+   {
+    "text": "홍콩 트램",
+    "image": null
+   },
+   {
+    "text": "우쉬 고속철도",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "우쉬 고속철도 — 동남아 첫 고속열차!",
+  "train": "whoosh"
+ },
+ {
+  "id": "q019",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/qinghai-tibet/thumb.jpg",
+  "choices": [
+   {
+    "text": "홍콩 트램",
+    "image": null
+   },
+   {
+    "text": "칭짱 철도",
+    "image": null
+   },
+   {
+    "text": "싱가포르 MRT",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "칭짱 철도 — 세계에서 가장 높은 철도!",
+  "train": "qinghai-tibet"
+ },
+ {
+  "id": "q020",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/maeklong/thumb.jpg",
+  "choices": [
+   {
+    "text": "매끌롱 시장 기차",
+    "image": null
+   },
+   {
+    "text": "홍콩 트램",
+    "image": null
+   },
+   {
+    "text": "다르질링 토이 트레인",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "매끌롱 시장 기차 — 시장 한가운데를 지나요!",
+  "train": "maeklong"
+ },
+ {
+  "id": "q021",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/shanghai-metro/thumb.jpg",
+  "choices": [
+   {
+    "text": "허셰호 CRH380A",
+    "image": null
+   },
+   {
+    "text": "상하이 지하철",
+    "image": null
+   },
+   {
+    "text": "우쉬 고속철도",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "상하이 지하철 — 세계에서 제일 붐비는 지하철!",
+  "train": "shanghai-metro"
+ },
+ {
+  "id": "q022",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/bernina-express/thumb.jpg",
+  "choices": [
+   {
+    "text": "라스토치카",
+    "image": null
+   },
+   {
+    "text": "베르니나 특급",
+    "image": null
+   },
+   {
+    "text": "런던 지하철",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "베르니나 특급 — 알프스를 넘는 빨간 기차!",
+  "train": "bernina-express"
+ },
+ {
+  "id": "q023",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/ave/thumb.jpg",
+  "choices": [
+   {
+    "text": "AVE",
+    "image": null
+   },
+   {
+    "text": "베르니나 특급",
+    "image": null
+   },
+   {
+    "text": "리스본 28번 트램",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "AVE — 스페인의 고속열차!",
+  "train": "ave"
+ },
+ {
+  "id": "q024",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/sapsan/thumb.jpg",
+  "choices": [
+   {
+    "text": "삽산",
+    "image": null
+   },
+   {
+    "text": "바이칼 순환철도",
+    "image": null
+   },
+   {
+    "text": "베르니나 특급",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "삽산 — 러시아의 매 고속열차!",
+  "train": "sapsan"
+ },
+ {
+  "id": "q025",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/orient-express/thumb.jpg",
+  "choices": [
+   {
+    "text": "오리엔트 특급",
+    "image": null
+   },
+   {
+    "text": "AVE",
+    "image": null
+   },
+   {
+    "text": "삽산",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "오리엔트 특급 — 궁전 같은 호화 열차!",
+  "train": "orient-express"
+ },
+ {
+  "id": "q026",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/circum-baikal/thumb.jpg",
+  "choices": [
+   {
+    "text": "상트페테르부르크 지하철",
+    "image": null
+   },
+   {
+    "text": "바이칼 순환철도",
+    "image": null
+   },
+   {
+    "text": "라스토치카",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "바이칼 순환철도 — 호숫가 터널 기찻길!",
+  "train": "circum-baikal"
+ },
+ {
+  "id": "q027",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/wuppertal-schwebebahn/thumb.jpg",
+  "choices": [
+   {
+    "text": "플롬 철도",
+    "image": null
+   },
+   {
+    "text": "삽산",
+    "image": null
+   },
+   {
+    "text": "부퍼탈 공중열차",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "부퍼탈 공중열차 — 거꾸로 매달린 기차!",
+  "train": "wuppertal-schwebebahn"
+ },
+ {
+  "id": "q028",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/spb-metro/thumb.jpg",
+  "choices": [
+   {
+    "text": "TGV",
+    "image": null
+   },
+   {
+    "text": "상트페테르부르크 지하철",
+    "image": null
+   },
+   {
+    "text": "플라잉 스코츠맨",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "상트페테르부르크 지하철 — 아주 깊은 땅속 지하철!",
+  "train": "spb-metro"
+ },
+ {
+  "id": "q029",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/big-boy/thumb.jpg",
+  "choices": [
+   {
+    "text": "마운트 워싱턴 톱니 기차",
+    "image": null
+   },
+   {
+    "text": "코스트 스타라이트",
+    "image": null
+   },
+   {
+    "text": "빅보이",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "빅보이 — 엄청 큰 증기기관차!",
+  "train": "big-boy"
+ },
+ {
+  "id": "q030",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/us-freight/thumb.jpg",
+  "choices": [
+   {
+    "text": "미국 화물열차",
+    "image": null
+   },
+   {
+    "text": "캘리포니아 제퍼",
+    "image": null
+   },
+   {
+    "text": "브라이트라인",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "미국 화물열차 — 끝이 안 보이는 긴 기차!",
+  "train": "us-freight"
+ },
+ {
+  "id": "q031",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/twentieth-century-limited/thumb.jpg",
+  "choices": [
+   {
+    "text": "샌프란시스코 케이블카",
+    "image": null
+   },
+   {
+    "text": "아셀라",
+    "image": null
+   },
+   {
+    "text": "20세기 특급",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "20세기 특급 — 빨간 카펫을 깔던 기차!",
+  "train": "twentieth-century-limited"
+ },
+ {
+  "id": "q032",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/nyc-subway/thumb.jpg",
+  "choices": [
+   {
+    "text": "뉴욕 지하철",
+    "image": null
+   },
+   {
+    "text": "코스트 스타라이트",
+    "image": null
+   },
+   {
+    "text": "20세기 특급",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "뉴욕 지하철 — 역이 가장 많은 지하철!",
+  "train": "nyc-subway"
+ },
+ {
+  "id": "q033",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/coast-starlight/thumb.jpg",
+  "choices": [
+   {
+    "text": "뉴욕 지하철",
+    "image": null
+   },
+   {
+    "text": "코스트 스타라이트",
+    "image": null
+   },
+   {
+    "text": "빅보이",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "코스트 스타라이트 — 바닷가를 달리는 2층 기차!",
+  "train": "coast-starlight"
+ },
+ {
+  "id": "q034",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/sf-cable-car/thumb.jpg",
+  "choices": [
+   {
+    "text": "시애틀 모노레일",
+    "image": null
+   },
+   {
+    "text": "캘리포니아 제퍼",
+    "image": null
+   },
+   {
+    "text": "샌프란시스코 케이블카",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "샌프란시스코 케이블카 — 언덕을 오르는 땡땡 전차!",
+  "train": "sf-cable-car"
+ },
+ {
+  "id": "q035",
+  "kind": "name",
+  "question": "이 기차의 이름은 무엇일까요?",
+  "image": "assets/trains/california-zephyr/thumb.jpg",
+  "choices": [
+   {
+    "text": "캘리포니아 제퍼",
+    "image": null
+   },
+   {
+    "text": "뉴욕 지하철",
+    "image": null
+   },
+   {
+    "text": "시카고 L",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "캘리포니아 제퍼 — 로키산맥을 넘는 2층 기차!",
+  "train": "california-zephyr"
+ },
+ {
+  "id": "q036",
+  "kind": "country",
+  "question": "KTX는 어느 나라 기차일까요?",
+  "image": "assets/trains/ktx/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "KTX는 한국 기차예요. 🇰🇷",
+  "train": "ktx"
+ },
+ {
+  "id": "q037",
+  "kind": "country",
+  "question": "서울 지하철 2호선은 어느 나라 기차일까요?",
+  "image": "assets/trains/seoul-line2/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "서울 지하철 2호선은 한국 기차예요. 🇰🇷",
+  "train": "seoul-line2"
+ },
+ {
+  "id": "q038",
+  "kind": "country",
+  "question": "E5 하야부사는 어느 나라 기차일까요?",
+  "image": "assets/trains/e5-hayabusa/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "E5 하야부사는 일본 기차예요. 🇯🇵",
+  "train": "e5-hayabusa"
+ },
+ {
+  "id": "q039",
+  "kind": "country",
+  "question": "긴자선은 어느 나라 기차일까요?",
+  "image": "assets/trains/ginza-line/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "긴자선은 일본 기차예요. 🇯🇵",
+  "train": "ginza-line"
+ },
+ {
+  "id": "q040",
+  "kind": "country",
+  "question": "푸싱호는 어느 나라 기차일까요?",
+  "image": "assets/trains/fuxing/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "푸싱호는 중국 기차예요. 🇨🇳",
+  "train": "fuxing"
+ },
+ {
+  "id": "q041",
+  "kind": "country",
+  "question": "상하이 자기부상열차는 어느 나라 기차일까요?",
+  "image": "assets/trains/shanghai-maglev/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "상하이 자기부상열차는 중국 기차예요. 🇨🇳",
+  "train": "shanghai-maglev"
+ },
+ {
+  "id": "q042",
+  "kind": "country",
+  "question": "대만 고속철도는 어느 나라 기차일까요?",
+  "image": "assets/trains/taiwan-hsr/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   },
+   {
+    "text": "🇹🇼 대만",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "대만 고속철도는 대만 기차예요. 🇹🇼",
+  "train": "taiwan-hsr"
+ },
+ {
+  "id": "q043",
+  "kind": "country",
+  "question": "다르질링 토이 트레인은 어느 나라 기차일까요?",
+  "image": "assets/trains/darjeeling/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇳 인도",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "다르질링 토이 트레인은 인도 기차예요. 🇮🇳",
+  "train": "darjeeling"
+ },
+ {
+  "id": "q044",
+  "kind": "country",
+  "question": "매끌롱 시장 기차는 어느 나라 기차일까요?",
+  "image": "assets/trains/maeklong/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇹🇭 태국",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "매끌롱 시장 기차는 태국 기차예요. 🇹🇭",
+  "train": "maeklong"
+ },
+ {
+  "id": "q045",
+  "kind": "country",
+  "question": "삽산은 어느 나라 기차일까요?",
+  "image": "assets/trains/sapsan/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "삽산은 러시아 기차예요. 🇷🇺",
+  "train": "sapsan"
+ },
+ {
+  "id": "q046",
+  "kind": "country",
+  "question": "TGV는 어느 나라 기차일까요?",
+  "image": "assets/trains/tgv/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   },
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "TGV는 프랑스 기차예요. 🇫🇷",
+  "train": "tgv"
+ },
+ {
+  "id": "q047",
+  "kind": "country",
+  "question": "ICE는 어느 나라 기차일까요?",
+  "image": "assets/trains/ice/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "ICE는 독일 기차예요. 🇩🇪",
+  "train": "ice"
+ },
+ {
+  "id": "q048",
+  "kind": "country",
+  "question": "런던 지하철은 어느 나라 기차일까요?",
+  "image": "assets/trains/london-underground/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "런던 지하철은 영국 기차예요. 🇬🇧",
+  "train": "london-underground"
+ },
+ {
+  "id": "q049",
+  "kind": "country",
+  "question": "빅보이는 어느 나라 기차일까요?",
+  "image": "assets/trains/big-boy/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "빅보이는 미국 기차예요. 🇺🇸",
+  "train": "big-boy"
+ },
+ {
+  "id": "q050",
+  "kind": "country",
+  "question": "샌프란시스코 케이블카는 어느 나라 기차일까요?",
+  "image": "assets/trains/sf-cable-car/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "샌프란시스코 케이블카는 미국 기차예요. 🇺🇸",
+  "train": "sf-cable-car"
+ },
+ {
+  "id": "q051",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "KTX-이음",
+    "image": "assets/trains/ktx-eum/thumb.jpg"
+   },
+   {
+    "text": "우쉬 고속철도",
+    "image": "assets/trains/whoosh/thumb.jpg"
+   },
+   {
+    "text": "뉴욕 지하철",
+    "image": "assets/trains/nyc-subway/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "우쉬 고속철도는 시속 350km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "whoosh"
+ },
+ {
+  "id": "q052",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "푸싱호",
+    "image": "assets/trains/fuxing/thumb.jpg"
+   },
+   {
+    "text": "브라이트라인",
+    "image": "assets/trains/brightline/thumb.jpg"
+   },
+   {
+    "text": "긴자선",
+    "image": "assets/trains/ginza-line/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "푸싱호는 시속 350km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "fuxing"
+ },
+ {
+  "id": "q053",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "다르질링 토이 트레인",
+    "image": "assets/trains/darjeeling/thumb.jpg"
+   },
+   {
+    "text": "상하이 자기부상열차",
+    "image": "assets/trains/shanghai-maglev/thumb.jpg"
+   },
+   {
+    "text": "나나츠보시",
+    "image": "assets/trains/seven-stars/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "상하이 자기부상열차는 시속 300km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "shanghai-maglev"
+ },
+ {
+  "id": "q054",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "주피터",
+    "image": "assets/trains/jupiter-locomotive/thumb.jpg"
+   },
+   {
+    "text": "ICE",
+    "image": "assets/trains/ice/thumb.jpg"
+   },
+   {
+    "text": "플라잉 스코츠맨",
+    "image": "assets/trains/flying-scotsman/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "ICE는 시속 300km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "ice"
+ },
+ {
+  "id": "q055",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "베르니나 특급",
+    "image": "assets/trains/bernina-express/thumb.jpg"
+   },
+   {
+    "text": "무궁화호",
+    "image": "assets/trains/mugunghwa/thumb.jpg"
+   },
+   {
+    "text": "KTX",
+    "image": "assets/trains/ktx/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "KTX는 시속 300km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "ktx"
+ },
+ {
+  "id": "q056",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "시애틀 모노레일",
+    "image": "assets/trains/seattle-monorail/thumb.jpg"
+   },
+   {
+    "text": "브라이트라인",
+    "image": "assets/trains/brightline/thumb.jpg"
+   },
+   {
+    "text": "허셰호 CRH380A",
+    "image": "assets/trains/crh380a/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "허셰호 CRH380A는 시속 350km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "crh380a"
+ },
+ {
+  "id": "q057",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "선라이즈 이즈모",
+    "image": "assets/trains/sunrise-izumo/thumb.jpg"
+   },
+   {
+    "text": "삽산",
+    "image": "assets/trains/sapsan/thumb.jpg"
+   },
+   {
+    "text": "다르질링 토이 트레인",
+    "image": "assets/trains/darjeeling/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "삽산은 시속 250km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "sapsan"
+ },
+ {
+  "id": "q058",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "KTX",
+    "image": "assets/trains/ktx/thumb.jpg"
+   },
+   {
+    "text": "리니어 L0계",
+    "image": "assets/trains/scmaglev-l0/thumb.jpg"
+   },
+   {
+    "text": "하노이 기찻길 마을",
+    "image": "assets/trains/hanoi-train-street/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "리니어 L0계는 시속 500km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "scmaglev-l0"
+ },
+ {
+  "id": "q059",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "KTX-이음",
+    "image": "assets/trains/ktx-eum/thumb.jpg"
+   },
+   {
+    "text": "아리산 삼림철도",
+    "image": "assets/trains/alishan/thumb.jpg"
+   },
+   {
+    "text": "P36 증기기관차",
+    "image": "assets/trains/p36-steam/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "KTX-이음은 시속 260km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "ktx-eum"
+ },
+ {
+  "id": "q060",
+  "kind": "speed",
+  "question": "이 중에서 누가 가장 빠를까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "800계 쓰바메",
+    "image": "assets/trains/shinkansen-800/thumb.jpg"
+   },
+   {
+    "text": "긴자선",
+    "image": "assets/trains/ginza-line/thumb.jpg"
+   },
+   {
+    "text": "ITX-청춘",
+    "image": "assets/trains/itx-cheongchun/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "800계 쓰바메는 시속 260km로 달려요. 셋 중에 가장 빨라요! 🚀",
+  "train": "shinkansen-800"
+ },
+ {
+  "id": "q061",
+  "kind": "speed",
+  "question": "이 중에서 가장 천천히 달리는 기차는 누구일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "0계 신칸센",
+    "image": "assets/trains/shinkansen-0/thumb.jpg"
+   },
+   {
+    "text": "시베리아 횡단철도",
+    "image": "assets/trains/trans-siberian/thumb.jpg"
+   },
+   {
+    "text": "유로스타",
+    "image": "assets/trains/eurostar/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "시베리아 횡단철도는 시속 120km로 달려요. 셋 중에 가장 천천히 달려요! 🐢",
+  "train": "trans-siberian"
+ },
+ {
+  "id": "q062",
+  "kind": "speed",
+  "question": "이 중에서 가장 천천히 달리는 기차는 누구일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "AVE",
+    "image": "assets/trains/ave/thumb.jpg"
+   },
+   {
+    "text": "아리산 삼림철도",
+    "image": "assets/trains/alishan/thumb.jpg"
+   },
+   {
+    "text": "GTX-A",
+    "image": "assets/trains/gtx-a/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "아리산 삼림철도는 시속 30km로 달려요. 셋 중에 가장 천천히 달려요! 🐢",
+  "train": "alishan"
+ },
+ {
+  "id": "q063",
+  "kind": "speed",
+  "question": "이 중에서 가장 천천히 달리는 기차는 누구일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "리니어 L0계",
+    "image": "assets/trains/scmaglev-l0/thumb.jpg"
+   },
+   {
+    "text": "라스토치카",
+    "image": "assets/trains/lastochka/thumb.jpg"
+   },
+   {
+    "text": "히로시마 노면전차",
+    "image": "assets/trains/hiroden/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "히로시마 노면전차는 시속 40km로 달려요. 셋 중에 가장 천천히 달려요! 🐢",
+  "train": "hiroden"
+ },
+ {
+  "id": "q064",
+  "kind": "speed",
+  "question": "이 중에서 가장 천천히 달리는 기차는 누구일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "800계 쓰바메",
+    "image": "assets/trains/shinkansen-800/thumb.jpg"
+   },
+   {
+    "text": "다르질링 토이 트레인",
+    "image": "assets/trains/darjeeling/thumb.jpg"
+   },
+   {
+    "text": "ITX-마음",
+    "image": "assets/trains/itx-maeum/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "다르질링 토이 트레인은 시속 20km로 달려요. 셋 중에 가장 천천히 달려요! 🐢",
+  "train": "darjeeling"
+ },
+ {
+  "id": "q065",
+  "kind": "speed",
+  "question": "이 중에서 가장 천천히 달리는 기차는 누구일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "로망스카 GSE",
+    "image": "assets/trains/romancecar-gse/thumb.jpg"
+   },
+   {
+    "text": "KTX-산천",
+    "image": "assets/trains/ktx-sancheon/thumb.jpg"
+   },
+   {
+    "text": "브라이트라인",
+    "image": "assets/trains/brightline/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "로망스카 GSE는 시속 110km로 달려요. 셋 중에 가장 천천히 달려요! 🐢",
+  "train": "romancecar-gse"
+ },
+ {
+  "id": "q066",
+  "kind": "fact",
+  "question": "닥터 옐로는 무슨 일을 하는 기차일까요?",
+  "image": "assets/trains/doctor-yellow/thumb.jpg",
+  "choices": [
+   {
+    "text": "선로와 전선을 검사해요",
+    "image": null
+   },
+   {
+    "text": "손님을 태우고 여행해요",
+    "image": null
+   },
+   {
+    "text": "짐을 실어 날라요",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "닥터 옐로는 선로와 전선이 아프지 않은지 검사하는 의사 선생님 기차예요.",
+  "train": "doctor-yellow"
+ },
+ {
+  "id": "q067",
+  "kind": "fact",
+  "question": "KTX-산천의 앞모습은 무엇을 닮았을까요?",
+  "image": "assets/trains/ktx-sancheon/thumb.jpg",
+  "choices": [
+   {
+    "text": "오리 부리",
+    "image": null
+   },
+   {
+    "text": "파란 용",
+    "image": null
+   },
+   {
+    "text": "물고기 산천어",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "앞모습이 맑은 물에 사는 물고기 '산천어'를 닮았어요.",
+  "train": "ktx-sancheon"
+ },
+ {
+  "id": "q068",
+  "kind": "fact",
+  "question": "KTX-청룡의 '청룡'은 무슨 뜻일까요?",
+  "image": "assets/trains/ktx-cheongryong/thumb.jpg",
+  "choices": [
+   {
+    "text": "빨간 새",
+    "image": null
+   },
+   {
+    "text": "하얀 호랑이",
+    "image": null
+   },
+   {
+    "text": "푸른 용",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "2024년이 '푸른 용(청룡)의 해'여서 청룡이라는 이름이 붙었어요.",
+  "train": "ktx-cheongryong"
+ },
+ {
+  "id": "q069",
+  "kind": "fact",
+  "question": "서울 지하철 2호선은 어떤 모양으로 달릴까요?",
+  "image": "assets/trains/seoul-line2/thumb.jpg",
+  "choices": [
+   {
+    "text": "세모 🔺",
+    "image": null
+   },
+   {
+    "text": "일직선 ➖",
+    "image": null
+   },
+   {
+    "text": "동그라미 ⭕",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "길이 동그라미 모양이라서 계속 타면 처음 탄 역으로 돌아와요.",
+  "train": "seoul-line2"
+ },
+ {
+  "id": "q070",
+  "kind": "fact",
+  "question": "무궁화호 이름은 무엇에서 따왔을까요?",
+  "image": "assets/trains/mugunghwa/thumb.jpg",
+  "choices": [
+   {
+    "text": "우리나라 꽃 🌺",
+    "image": null
+   },
+   {
+    "text": "밤하늘의 별 ⭐",
+    "image": null
+   },
+   {
+    "text": "바다 물고기 🐟",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "무궁화는 우리나라를 대표하는 꽃이에요.",
+  "train": "mugunghwa"
+ },
+ {
+  "id": "q071",
+  "kind": "fact",
+  "question": "'하야부사'는 무슨 뜻일까요?",
+  "image": "assets/trains/e5-hayabusa/thumb.jpg",
+  "choices": [
+   {
+    "text": "고래 🐋",
+    "image": null
+   },
+   {
+    "text": "거북이 🐢",
+    "image": null
+   },
+   {
+    "text": "매 🦅",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "'하야부사'는 일본어로 하늘을 가장 빨리 나는 새 '매'라는 뜻이에요.",
+  "train": "e5-hayabusa"
+ },
+ {
+  "id": "q072",
+  "kind": "fact",
+  "question": "러시아 고속열차 '삽산'은 무슨 뜻일까요?",
+  "image": "assets/trains/sapsan/thumb.jpg",
+  "choices": [
+   {
+    "text": "토끼 🐰",
+    "image": null
+   },
+   {
+    "text": "곰 🐻",
+    "image": null
+   },
+   {
+    "text": "매 🦅",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "'삽산'은 러시아어로 '매'라는 뜻이에요.",
+  "train": "sapsan"
+ },
+ {
+  "id": "q073",
+  "kind": "fact",
+  "question": "'히노토리'는 무슨 뜻일까요?",
+  "image": "assets/trains/hinotori/thumb.jpg",
+  "choices": [
+   {
+    "text": "거북이 🐢",
+    "image": null
+   },
+   {
+    "text": "불사조 🔥",
+    "image": null
+   },
+   {
+    "text": "나비 🦋",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "'히노토리'는 일본어로 '불사조'라는 뜻이에요.",
+  "train": "hinotori"
+ },
+ {
+  "id": "q074",
+  "kind": "fact",
+  "question": "'프레차로사'는 무슨 뜻일까요?",
+  "image": "assets/trains/frecciarossa/thumb.jpg",
+  "choices": [
+   {
+    "text": "파란 바다 🌊",
+    "image": null
+   },
+   {
+    "text": "빨간 화살 🏹",
+    "image": null
+   },
+   {
+    "text": "노란 별 ⭐",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "'프레차로사'는 이탈리아어로 '빨간 화살'이라는 뜻이에요.",
+  "train": "frecciarossa"
+ },
+ {
+  "id": "q075",
+  "kind": "fact",
+  "question": "스페인 기차 AVE(아베)는 무슨 뜻일까요?",
+  "image": "assets/trains/ave/thumb.jpg",
+  "choices": [
+   {
+    "text": "물고기 🐟",
+    "image": null
+   },
+   {
+    "text": "새 🐦",
+    "image": null
+   },
+   {
+    "text": "꽃 🌸",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "'아베'는 스페인어로 '새'라는 뜻이에요.",
+  "train": "ave"
+ },
+ {
+  "id": "q076",
+  "kind": "fact",
+  "question": "'라스토치카'는 무슨 뜻일까요?",
+  "image": "assets/trains/lastochka/thumb.jpg",
+  "choices": [
+   {
+    "text": "제비 🐦",
+    "image": null
+   },
+   {
+    "text": "곰 🐻",
+    "image": null
+   },
+   {
+    "text": "사자 🦁",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "'라스토치카'는 러시아어로 '제비'라는 뜻이에요.",
+  "train": "lastochka"
+ },
+ {
+  "id": "q077",
+  "kind": "fact",
+  "question": "유로스타는 어디를 지나서 다른 나라로 갈까요?",
+  "image": "assets/trains/eurostar/thumb.jpg",
+  "choices": [
+   {
+    "text": "바다 밑 터널",
+    "image": null
+   },
+   {
+    "text": "사막 모래 위",
+    "image": null
+   },
+   {
+    "text": "하늘 위 구름",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "유로스타는 바다 밑에 뚫린 긴 터널을 지나 영국과 프랑스를 오가요.",
+  "train": "eurostar"
+ },
+ {
+  "id": "q078",
+  "kind": "fact",
+  "question": "런던 지하철의 별명은 무엇일까요?",
+  "image": "assets/trains/london-underground/thumb.jpg",
+  "choices": [
+   {
+    "text": "튜브",
+    "image": null
+   },
+   {
+    "text": "딩딩",
+    "image": null
+   },
+   {
+    "text": "총알 기차",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "터널이 동그란 튜브 모양이라서 '튜브'라고 불려요.",
+  "train": "london-underground"
+ },
+ {
+  "id": "q079",
+  "kind": "fact",
+  "question": "홍콩 트램은 몇 층짜리 전차일까요?",
+  "image": "assets/trains/hongkong-tram/thumb.jpg",
+  "choices": [
+   {
+    "text": "5층",
+    "image": null
+   },
+   {
+    "text": "2층",
+    "image": null
+   },
+   {
+    "text": "1층",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "홍콩 트램은 2층 전차예요. 별명은 '딩딩'이에요.",
+  "train": "hongkong-tram"
+ },
+ {
+  "id": "q080",
+  "kind": "fact",
+  "question": "부퍼탈 공중열차는 어떻게 달릴까요?",
+  "image": "assets/trains/wuppertal-schwebebahn/thumb.jpg",
+  "choices": [
+   {
+    "text": "레일에 거꾸로 매달려서",
+    "image": null
+   },
+   {
+    "text": "땅속 깊이 숨어서",
+    "image": null
+   },
+   {
+    "text": "물 위에 둥둥 떠서",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "부퍼탈 공중열차는 레일에 거꾸로 매달려서 강물 위를 달려요.",
+  "train": "wuppertal-schwebebahn"
+ },
+ {
+  "id": "q081",
+  "kind": "fact",
+  "question": "매끌롱 기차는 어디 한가운데를 지나갈까요?",
+  "image": "assets/trains/maeklong/thumb.jpg",
+  "choices": [
+   {
+    "text": "시장",
+    "image": null
+   },
+   {
+    "text": "구름",
+    "image": null
+   },
+   {
+    "text": "바다",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "기차가 오면 시장 상인들이 햇빛 가리개를 착착 접어요.",
+  "train": "maeklong"
+ },
+ {
+  "id": "q082",
+  "kind": "fact",
+  "question": "오토 트레인은 사람과 함께 무엇을 태울까요?",
+  "image": "assets/trains/auto-train/thumb.jpg",
+  "choices": [
+   {
+    "text": "비행기 ✈️",
+    "image": null
+   },
+   {
+    "text": "코끼리 🐘",
+    "image": null
+   },
+   {
+    "text": "자동차 🚗",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "오토 트레인은 사람과 자동차를 함께 태우고 달려요.",
+  "train": "auto-train"
+ },
+ {
+  "id": "q083",
+  "kind": "fact",
+  "question": "선라이즈 이즈모에서는 어떻게 여행할까요?",
+  "image": "assets/trains/sunrise-izumo/thumb.jpg",
+  "choices": [
+   {
+    "text": "수영을 하며",
+    "image": null
+   },
+   {
+    "text": "침대에서 잠을 자며",
+    "image": null
+   },
+   {
+    "text": "축구를 하며",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "선라이즈 이즈모는 밤에 출발해서 아침에 도착하는 침대 기차예요.",
+  "train": "sunrise-izumo"
+ },
+ {
+  "id": "q084",
+  "kind": "fact",
+  "question": "20세기 특급 손님들은 무엇을 밟고 기차에 탔을까요?",
+  "image": "assets/trains/twentieth-century-limited/thumb.jpg",
+  "choices": [
+   {
+    "text": "빨간 카펫",
+    "image": null
+   },
+   {
+    "text": "하얀 눈",
+    "image": null
+   },
+   {
+    "text": "초록 잔디",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "역에 깔린 빨간 카펫을 밟고 기차에 탔어요.",
+  "train": "twentieth-century-limited"
+ },
+ {
+  "id": "q085",
+  "kind": "fact",
+  "question": "아주 높은 곳을 달리는 칭짱 철도, 자리마다 무엇이 나올까요?",
+  "image": "assets/trains/qinghai-tibet/thumb.jpg",
+  "choices": [
+   {
+    "text": "아이스크림",
+    "image": null
+   },
+   {
+    "text": "비눗방울",
+    "image": null
+   },
+   {
+    "text": "산소",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "공기가 부족해서 자리마다 산소가 나오는 장치가 있어요.",
+  "train": "qinghai-tibet"
+ },
+ {
+  "id": "q086",
+  "kind": "fact",
+  "question": "자기부상열차는 바퀴 대신 무엇의 힘으로 떠서 달릴까요?",
+  "image": "assets/trains/shanghai-maglev/thumb.jpg",
+  "choices": [
+   {
+    "text": "바람개비",
+    "image": null
+   },
+   {
+    "text": "자석 🧲",
+    "image": null
+   },
+   {
+    "text": "풍선 🎈",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "자기부상열차는 자석의 힘으로 선로 위에 살짝 떠서 달려요.",
+  "train": "shanghai-maglev"
+ },
+ {
+  "id": "q087",
+  "kind": "fact",
+  "question": "자코바이트가 건너는 다리는 어떤 영화에 나왔을까요?",
+  "image": "assets/trains/jacobite/thumb.jpg",
+  "choices": [
+   {
+    "text": "토이 스토리",
+    "image": null
+   },
+   {
+    "text": "해리 포터",
+    "image": null
+   },
+   {
+    "text": "겨울왕국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "해리 포터 영화에서 '호그와트 급행열차'가 건넌 바로 그 다리예요.",
+  "train": "jacobite"
+ },
+ {
+  "id": "q088",
+  "kind": "fact",
+  "question": "뉴욕 지하철은 언제 달릴까요?",
+  "image": "assets/trains/nyc-subway/thumb.jpg",
+  "choices": [
+   {
+    "text": "주말에만",
+    "image": null
+   },
+   {
+    "text": "낮에만",
+    "image": null
+   },
+   {
+    "text": "하루 24시간 내내",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "뉴욕 지하철은 낮에도 밤에도 쉬지 않고 달려요.",
+  "train": "nyc-subway"
+ },
+ {
+  "id": "q089",
+  "kind": "fact",
+  "question": "KTX는 어느 나라 고속열차 기술을 배워서 만들었을까요?",
+  "image": "assets/trains/ktx/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "KTX는 프랑스 TGV 기술을 배워서 만들었어요.",
+  "train": "ktx"
+ },
+ {
+  "id": "q090",
+  "kind": "fact",
+  "question": "신분당선은 누가 운전할까요?",
+  "image": "assets/trains/shinbundang/thumb.jpg",
+  "choices": [
+   {
+    "text": "승객이 돌아가며",
+    "image": null
+   },
+   {
+    "text": "컴퓨터가 스스로",
+    "image": null
+   },
+   {
+    "text": "기관사 아저씨",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "신분당선은 기관사 없이 컴퓨터가 운전하는 지하철이에요.",
+  "train": "shinbundang"
+ },
+ {
+  "id": "q091",
+  "kind": "fact",
+  "question": "샌프란시스코 케이블카는 무엇을 꽉 잡고 언덕을 오를까요?",
+  "image": "assets/trains/sf-cable-car/thumb.jpg",
+  "choices": [
+   {
+    "text": "커다란 풍선",
+    "image": null
+   },
+   {
+    "text": "말 고삐",
+    "image": null
+   },
+   {
+    "text": "땅속 굵은 쇠줄",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "땅속에서 움직이는 굵은 쇠줄을 꽉 잡고 앞으로 나아가요.",
+  "train": "sf-cable-car"
+ },
+ {
+  "id": "q092",
+  "kind": "fact",
+  "question": "ITX-청춘에는 우리나라에서 처음으로 어떤 칸이 생겼을까요?",
+  "image": "assets/trains/itx-cheongchun/thumb.jpg",
+  "choices": [
+   {
+    "text": "수영장 칸",
+    "image": null
+   },
+   {
+    "text": "놀이터 칸",
+    "image": null
+   },
+   {
+    "text": "2층 객차",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "ITX-청춘은 우리나라 처음으로 2층 객차가 달린 기차예요.",
+  "train": "itx-cheongchun"
+ },
+ {
+  "id": "q093",
+  "kind": "fact",
+  "question": "시베리아 횡단철도는 어떤 철도일까요?",
+  "image": "assets/trains/trans-siberian/thumb.jpg",
+  "choices": [
+   {
+    "text": "세계에서 가장 긴 철도",
+    "image": null
+   },
+   {
+    "text": "세계에서 가장 짧은 철도",
+    "image": null
+   },
+   {
+    "text": "바다 위를 달리는 철도",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "길이가 9,000km가 넘는 세계에서 가장 긴 철도예요.",
+  "train": "trans-siberian"
+ },
+ {
+  "id": "q094",
+  "kind": "type",
+  "question": "이 중에서 땅속을 달리는 지하철은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "런던 지하철",
+    "image": "assets/trains/london-underground/thumb.jpg"
+   },
+   {
+    "text": "0계 신칸센",
+    "image": "assets/trains/shinkansen-0/thumb.jpg"
+   },
+   {
+    "text": "자코바이트 증기기관차",
+    "image": "assets/trains/jacobite/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "런던 지하철은 땅속을 달리는 지하철이에요. 🚇",
+  "train": "london-underground"
+ },
+ {
+  "id": "q095",
+  "kind": "type",
+  "question": "이 중에서 땅속을 달리는 지하철은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "E7 카가야키",
+    "image": "assets/trains/e7-kagayaki/thumb.jpg"
+   },
+   {
+    "text": "플라잉 스코츠맨",
+    "image": "assets/trains/flying-scotsman/thumb.jpg"
+   },
+   {
+    "text": "모스크바 지하철",
+    "image": "assets/trains/moscow-metro/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "모스크바 지하철은 땅속을 달리는 지하철이에요. 🚇",
+  "train": "moscow-metro"
+ },
+ {
+  "id": "q096",
+  "kind": "type",
+  "question": "이 중에서 땅속을 달리는 지하철은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "칭짱 철도",
+    "image": "assets/trains/qinghai-tibet/thumb.jpg"
+   },
+   {
+    "text": "뉴욕 지하철",
+    "image": "assets/trains/nyc-subway/thumb.jpg"
+   },
+   {
+    "text": "E7 카가야키",
+    "image": "assets/trains/e7-kagayaki/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "뉴욕 지하철은 땅속을 달리는 지하철이에요. 🚇",
+  "train": "nyc-subway"
+ },
+ {
+  "id": "q097",
+  "kind": "type",
+  "question": "이 중에서 칙칙폭폭 증기기관차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "플라잉 스코츠맨",
+    "image": "assets/trains/flying-scotsman/thumb.jpg"
+   },
+   {
+    "text": "GTX-A",
+    "image": "assets/trains/gtx-a/thumb.jpg"
+   },
+   {
+    "text": "SRT",
+    "image": "assets/trains/srt/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "플라잉 스코츠맨은 석탄을 태워 수증기의 힘으로 달리는 증기기관차예요. 🚂",
+  "train": "flying-scotsman"
+ },
+ {
+  "id": "q098",
+  "kind": "type",
+  "question": "이 중에서 칙칙폭폭 증기기관차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "0계 신칸센",
+    "image": "assets/trains/shinkansen-0/thumb.jpg"
+   },
+   {
+    "text": "800계 쓰바메",
+    "image": "assets/trains/shinkansen-800/thumb.jpg"
+   },
+   {
+    "text": "빅보이",
+    "image": "assets/trains/big-boy/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "빅보이는 석탄을 태워 수증기의 힘으로 달리는 증기기관차예요. 🚂",
+  "train": "big-boy"
+ },
+ {
+  "id": "q099",
+  "kind": "type",
+  "question": "이 중에서 길 위를 달리는 트램(노면전차)은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "대만 고속철도",
+    "image": "assets/trains/taiwan-hsr/thumb.jpg"
+   },
+   {
+    "text": "리스본 28번 트램",
+    "image": "assets/trains/lisbon-tram-28/thumb.jpg"
+   },
+   {
+    "text": "주피터",
+    "image": "assets/trains/jupiter-locomotive/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "리스본 28번 트램은 길 위에 깔린 선로를 달리는 트램이에요. 🚋",
+  "train": "lisbon-tram-28"
+ },
+ {
+  "id": "q100",
+  "kind": "type",
+  "question": "이 중에서 길 위를 달리는 트램(노면전차)은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "히로시마 노면전차",
+    "image": "assets/trains/hiroden/thumb.jpg"
+   },
+   {
+    "text": "TGV",
+    "image": "assets/trains/tgv/thumb.jpg"
+   },
+   {
+    "text": "주피터",
+    "image": "assets/trains/jupiter-locomotive/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "히로시마 노면전차는 길 위에 깔린 선로를 달리는 트램이에요. 🚋",
+  "train": "hiroden"
+ },
+ {
+  "id": "q101",
+  "kind": "type",
+  "question": "이 중에서 레일 한 줄 위를 달리는 모노레일은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "0계 신칸센",
+    "image": "assets/trains/shinkansen-0/thumb.jpg"
+   },
+   {
+    "text": "도쿄 모노레일",
+    "image": "assets/trains/tokyo-monorail/thumb.jpg"
+   },
+   {
+    "text": "E7 카가야키",
+    "image": "assets/trains/e7-kagayaki/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "도쿄 모노레일은 레일 한 줄 위에 올라타서 달리는 모노레일이에요. 🚝",
+  "train": "tokyo-monorail"
+ },
+ {
+  "id": "q102",
+  "kind": "type",
+  "question": "이 중에서 레일 한 줄 위를 달리는 모노레일은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "SL 야마구치호",
+    "image": "assets/trains/sl-yamaguchi/thumb.jpg"
+   },
+   {
+    "text": "충칭 모노레일",
+    "image": "assets/trains/chongqing-monorail/thumb.jpg"
+   },
+   {
+    "text": "ICE",
+    "image": "assets/trains/ice/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "충칭 모노레일은 레일 한 줄 위에 올라타서 달리는 모노레일이에요. 🚝",
+  "train": "chongqing-monorail"
+ },
+ {
+  "id": "q103",
+  "kind": "type",
+  "question": "이 중에서 아주 빠른 고속열차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "홍콩 트램",
+    "image": "assets/trains/hongkong-tram/thumb.jpg"
+   },
+   {
+    "text": "빅보이",
+    "image": "assets/trains/big-boy/thumb.jpg"
+   },
+   {
+    "text": "E6 고마치",
+    "image": "assets/trains/e6-komachi/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "E6 고마치는 시속 320km로 달리는 고속열차예요. 🚄",
+  "train": "e6-komachi"
+ }
+]

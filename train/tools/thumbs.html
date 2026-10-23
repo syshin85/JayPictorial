@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>썸네일 검토</title>
+<style>
+  body { font-family: -apple-system, "Apple SD Gothic Neo", sans-serif; margin: 0; padding: 12px; background: #f6f6f6; }
+  h2 { font-size: 16px; margin: 14px 0 6px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+  .t { background: #fff; border-radius: 8px; overflow: hidden; font-size: 12px; }
+  .t img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; background: #ddd; }
+  .t div { padding: 3px 6px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .t b { color: #c00; }
+</style>
+</head>
+<body>
+<div id="list"></div>
+<script>
+// Every train's card thumbnail, grouped by region (cards are cropped exactly like this in the app).
+Promise.all([fetch("../data/trains.json").then((r) => r.json()), fetch("../data/media.json").then((r) => r.json())]).then(([data, media]) => {
+  document.getElementById("list").innerHTML = data.regions.map((region) => `
+    <h2>${region.flag} ${region.name}</h2>
+    <div class="grid">${data.trains.filter((t) => t.region === region.id).map((t) => {
+      const n = ((media[t.id] || {}).images || []).length;
+      return `<div class="t"><img src="../assets/trains/${t.id}/thumb.jpg?v=${Date.now()}" alt="">
+        <div>${t.name} ${n < 5 ? `<b>(${n})</b>` : ""}<br><small>${t.id}</small></div></div>`;
+    }).join("")}</div>`).join("");
+});
+</script>
+</body>
+</html>

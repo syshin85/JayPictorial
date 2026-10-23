@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>사진 후보</title>
+<style>
+  body { font-family: -apple-system, sans-serif; margin: 0; padding: 10px; background: #f6f6f6; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 6px; }
+  .c { position: relative; background: #fff; border-radius: 6px; overflow: hidden; }
+  .c img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; background: #ddd; }
+  .c b { position: absolute; top: 4px; left: 4px; background: #000c; color: #fff; font-size: 18px; padding: 1px 7px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<div class="grid" id="grid"></div>
+<script>
+// Numbered Commons candidates written by tools/photo_picker.py find <id> (cropped like the app's cards).
+const id = new URLSearchParams(location.search).get("id");
+fetch(`candidates/${id}.json?v=${Date.now()}`).then((r) => r.json()).then((list) => {
+  document.title = id;
+  document.getElementById("grid").innerHTML = list
+    .map((c) => `<div class="c"><img src="${c.thumb}" alt="" title="${c.title.replace(/"/g, "")}"><b>${c.n}</b></div>`)
+    .join("");
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "신재하의 도감",
+  "short_name": "신재하의 도감",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF6E5",
+  "theme_color": "#FFF6E5",
+  "icons": [
+    { "src": "assets/icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

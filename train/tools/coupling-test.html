@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>객차 연결하기 테스트</title>
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../coupling.css">
+</head>
+<body>
+<main id="app"></main>
+<script>
+  // assets/ paths in the game are relative to the site root
+  document.write('<base href="../">');
+</script>
+<script src="../coupling.js"></script>
+<script>window.unmount = window.CouplingGame.mount(document.getElementById("app"));</script>
+</body>
+</html>

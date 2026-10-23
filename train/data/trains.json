@@ -1,0 +1,3147 @@
+{
+  "regions": [
+    {
+      "id": "korea",
+      "name": "한국",
+      "flag": "🇰🇷",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "japan",
+      "name": "일본",
+      "flag": "🇯🇵",
+      "color": "#EF4444"
+    },
+    {
+      "id": "asia",
+      "name": "중국",
+      "flag": "🇨🇳",
+      "color": "#F59E0B",
+      "parts": [
+        {
+          "flag": "🇨🇳",
+          "name": "중국"
+        },
+        {
+          "flag": "🌏",
+          "name": "아시아"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "러시아",
+      "flag": "🇷🇺",
+      "color": "#10B981",
+      "parts": [
+        {
+          "flag": "🇷🇺",
+          "name": "러시아"
+        },
+        {
+          "flag": "🇪🇺",
+          "name": "유럽"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "name": "미국",
+      "flag": "🇺🇸",
+      "color": "#6366F1"
+    }
+  ],
+  "types": [
+    {
+      "id": "highspeed",
+      "name": "고속열차",
+      "emoji": "🚄"
+    },
+    {
+      "id": "intercity",
+      "name": "기차",
+      "emoji": "🚆"
+    },
+    {
+      "id": "metro",
+      "name": "지하철·전철",
+      "emoji": "🚇"
+    },
+    {
+      "id": "tram",
+      "name": "트램",
+      "emoji": "🚋"
+    },
+    {
+      "id": "monorail",
+      "name": "모노레일",
+      "emoji": "🚝"
+    },
+    {
+      "id": "scenic",
+      "name": "관광열차",
+      "emoji": "🏔️"
+    },
+    {
+      "id": "steam",
+      "name": "증기기관차",
+      "emoji": "🚂"
+    },
+    {
+      "id": "special",
+      "name": "특별한 기차",
+      "emoji": "🔧"
+    }
+  ],
+  "trains": [
+    {
+      "id": "ktx",
+      "region": "korea",
+      "type": "highspeed",
+      "name": "KTX",
+      "subtitle": "한국 최초의 고속열차",
+      "color": "#1E3A8A",
+      "speedKmh": 300,
+      "since": 2004,
+      "country": "대한민국",
+      "story": "KTX는 2004년에 처음 달리기 시작한 한국의 첫 번째 고속열차예요. 프랑스의 TGV 기술을 배워서 만들었어요. 서울에서 부산까지 약 2시간 반이면 갈 수 있답니다!",
+      "funFact": "KTX가 생기기 전에는 서울에서 부산까지 기차로 4시간도 넘게 걸렸대요.",
+      "wiki": "KTX-I",
+      "photoQuery": "KTX-I train",
+      "photoMatch": [
+        "ktx-i",
+        "ktx i",
+        "ktx (korea",
+        "ktx 0",
+        "korea train express"
+      ],
+      "videoQueries": [
+        "KTX 통과",
+        "KTX 고속열차 주행",
+        "KTX train passing"
+      ],
+      "videoMatch": [
+        "ktx"
+      ],
+      "videoExclude": [
+        "이음",
+        "청룡",
+        "산천",
+        "eum",
+        "cheongryong",
+        "sancheon",
+        "srt",
+        "공항철도"
+      ]
+    },
+    {
+      "id": "ktx-sancheon",
+      "region": "korea",
+      "type": "highspeed",
+      "name": "KTX-산천",
+      "subtitle": "한국 기술로 만든 고속열차",
+      "color": "#0F766E",
+      "speedKmh": 300,
+      "since": 2010,
+      "country": "대한민국",
+      "story": "KTX-산천은 우리나라 기술로 직접 만든 고속열차예요. 앞모습이 맑은 물에 사는 물고기 '산천어'를 닮아서 이런 이름이 붙었어요.",
+      "funFact": "KTX-산천은 두 대를 앞뒤로 이어 붙여서 더 길게 달릴 수도 있어요.",
+      "wiki": "KTX-Sancheon",
+      "photoMatch": [
+        "sancheon"
+      ],
+      "videoQueries": [
+        "KTX-산천 통과",
+        "KTX산천 주행",
+        "KTX-Sancheon passing"
+      ],
+      "videoMatch": [
+        "산천",
+        "sancheon"
+      ]
+    },
+    {
+      "id": "ktx-cheongryong",
+      "region": "korea",
+      "type": "highspeed",
+      "name": "KTX-청룡",
+      "subtitle": "한국에서 가장 빠른 기차",
+      "color": "#1D4ED8",
+      "speedKmh": 320,
+      "since": 2024,
+      "country": "대한민국",
+      "story": "KTX-청룡은 2024년에 처음 달리기 시작한 최신 고속열차예요. 시속 320km로 달려서 한국에서 가장 빠른 기차랍니다. 파란 용처럼 힘차게 달려요!",
+      "funFact": "2024년이 '푸른 용(청룡)의 해'여서 청룡이라는 이름이 붙었어요.",
+      "wiki": "KTX-Cheongryong",
+      "photoQuery": "KTX-Cheongryong",
+      "photoMatch": [
+        "cheong"
+      ],
+      "videoQueries": [
+        "KTX-청룡 통과",
+        "KTX-청룡 주행",
+        "KTX-Cheongryong train"
+      ],
+      "videoMatch": [
+        "청룡",
+        "cheongryong",
+        "cheongnyong"
+      ]
+    },
+    {
+      "id": "ktx-eum",
+      "region": "korea",
+      "type": "highspeed",
+      "name": "KTX-이음",
+      "subtitle": "사람과 도시를 잇는 기차",
+      "color": "#0E7490",
+      "speedKmh": 260,
+      "since": 2021,
+      "country": "대한민국",
+      "story": "KTX-이음은 2021년에 처음 달린 고속열차예요. 맨 앞 기관차만 끄는 게 아니라 여러 칸에 모터가 나뉘어 있어서 빨리 출발하고 빨리 멈출 수 있어요.",
+      "funFact": "'이음'은 사람과 사람, 도시와 도시를 이어준다는 뜻이에요.",
+      "wiki": "KTX-Eum",
+      "photoMatch": [
+        "eum",
+        "emu-250",
+        "emu 250"
+      ],
+      "videoQueries": [
+        "KTX-이음 통과",
+        "KTX-이음 주행",
+        "KTX-EUM train"
+      ],
+      "videoMatch": [
+        "이음",
+        "eum"
+      ]
+    },
+    {
+      "id": "srt",
+      "region": "korea",
+      "type": "highspeed",
+      "name": "SRT",
+      "subtitle": "보라색 고속열차",
+      "color": "#6B21A8",
+      "speedKmh": 300,
+      "since": 2016,
+      "country": "대한민국",
+      "story": "SRT는 서울 수서역에서 출발하는 고속열차예요. 진한 보라색 옷을 입고 있어서 멀리서도 금방 알아볼 수 있어요.",
+      "funFact": "SRT는 'Super Rapid Train', 즉 '아주 빠른 기차'라는 뜻이에요.",
+      "wiki": "Super Rapid Train",
+      "photoQuery": "SRT train Korea",
+      "photoMatch": [
+        "srt"
+      ],
+      "videoQueries": [
+        "SRT 통과",
+        "SRT 고속열차 주행",
+        "SRT train passing"
+      ],
+      "videoMatch": [
+        "srt"
+      ],
+      "videoExclude": [
+        "ktx"
+      ]
+    },
+    {
+      "id": "mugunghwa",
+      "region": "korea",
+      "type": "intercity",
+      "name": "무궁화호",
+      "subtitle": "작은 역에도 멈추는 친절한 기차",
+      "color": "#B91C1C",
+      "speedKmh": 150,
+      "since": 1984,
+      "country": "대한민국",
+      "story": "무궁화호는 오랫동안 우리나라 곳곳을 달려온 기차예요. 고속열차가 서지 않는 작은 마을 역에도 멈춰서 많은 사람들을 태워줘요.",
+      "funFact": "무궁화는 우리나라를 대표하는 꽃이에요. 그래서 기차 이름도 무궁화호예요.",
+      "wiki": "Mugunghwa-ho",
+      "photoQuery": "Mugunghwa-ho train",
+      "photoMatch": [
+        "mugunghwa"
+      ],
+      "videoQueries": [
+        "무궁화호 통과",
+        "무궁화호 주행",
+        "무궁화호 열차 진입"
+      ],
+      "videoMatch": [
+        "무궁화"
+      ],
+      "videoExclude": [
+        "ktx",
+        "srt",
+        "itx"
+      ]
+    },
+    {
+      "id": "seoul-line2",
+      "region": "korea",
+      "type": "metro",
+      "name": "서울 지하철 2호선",
+      "subtitle": "동그랗게 빙글빙글 도는 지하철",
+      "color": "#16A34A",
+      "speedKmh": 80,
+      "since": 1980,
+      "country": "대한민국",
+      "story": "서울 지하철 2호선은 초록색 지하철이에요. 길이 동그라미 모양이라서 계속 타고 있으면 처음 탔던 역으로 다시 돌아와요!",
+      "funFact": "2호선은 서울에서 사람들이 가장 많이 타는 지하철 노선이에요.",
+      "wiki": "Seoul Subway Line 2",
+      "photoQuery": "Seoul Metro Line 2 train",
+      "photoMatch": [
+        "line 2",
+        "2호선"
+      ],
+      "videoQueries": [
+        "2호선 열차 진입",
+        "서울 지하철 2호선 전동차 주행",
+        "Seoul subway line 2 train"
+      ],
+      "videoMatch": [
+        "2호선",
+        "line 2"
+      ]
+    },
+    {
+      "id": "itx-saemaeul",
+      "region": "korea",
+      "type": "intercity",
+      "name": "ITX-새마을",
+      "subtitle": "새마을호를 이은 빠른 기차",
+      "color": "#B4232D",
+      "speedKmh": 150,
+      "since": 2014,
+      "country": "대한민국",
+      "story": "ITX-새마을은 2014년부터 달리기 시작한 기차예요. 옛날 새마을호를 대신해서 서울과 여러 도시를 이어줘요. KTX만큼은 아니지만 무궁화호보다 빨리 달려요!",
+      "funFact": "'새마을'이라는 이름은 여러 사람이 이름을 내고 그중에서 골라서 정했대요.",
+      "wiki": "ITX-Saemaeul",
+      "photoQuery": "ITX-Saemaeul train",
+      "photoMatch": [
+        "itx-saemaeul",
+        "itx saemaeul",
+        "itx-새마을"
+      ],
+      "videoQueries": [
+        "ITX-새마을 통과",
+        "ITX-새마을 진입",
+        "ITX-새마을 열차 주행"
+      ],
+      "videoMatch": [
+        "itx-새마을",
+        "itx새마을",
+        "itx 새마을",
+        "itx-saemaeul"
+      ],
+      "videoExclude": [
+        "마음",
+        "청춘"
+      ]
+    },
+    {
+      "id": "itx-cheongchun",
+      "region": "korea",
+      "type": "intercity",
+      "name": "ITX-청춘",
+      "subtitle": "2층 칸이 있는 초록 기차",
+      "color": "#23874F",
+      "speedKmh": 180,
+      "since": 2012,
+      "country": "대한민국",
+      "story": "ITX-청춘은 서울과 춘천을 이어주는 초록색 기차예요. 가평이나 춘천처럼 강과 산이 예쁜 곳으로 놀러 갈 때 많이 타요.",
+      "funFact": "우리나라에서 처음으로 2층으로 된 객차가 달린 기차예요! 위층에 앉으면 경치가 더 잘 보여요.",
+      "wiki": "ITX-Cheongchun",
+      "photoQuery": "ITX-Cheongchun train",
+      "photoMatch": [
+        "cheongchun",
+        "itx 36"
+      ],
+      "videoQueries": [
+        "ITX-청춘 통과",
+        "ITX-청춘 진입",
+        "ITX-청춘 열차 주행"
+      ],
+      "videoMatch": [
+        "청춘",
+        "cheongchun"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "itx-maeum",
+      "region": "korea",
+      "type": "intercity",
+      "name": "ITX-마음",
+      "subtitle": "무궁화호를 이을 새 기차",
+      "color": "#C30E2F",
+      "speedKmh": 150,
+      "since": 2023,
+      "country": "대한민국",
+      "story": "ITX-마음은 2023년에 처음 달리기 시작한 새 기차예요. 오래된 무궁화호를 대신해서 우리나라 곳곳을 달려요.",
+      "funFact": "경부선, 호남선, 중앙선, 동해선처럼 여러 길을 달려서 전국 곳곳에서 만날 수 있어요.",
+      "wiki": "ITX-Maum",
+      "photoQuery": "Korail 220000",
+      "photoMatch": [
+        "220000",
+        "itx-maum",
+        "itx maum",
+        "마음"
+      ],
+      "videoQueries": [
+        "ITX-마음 통과",
+        "ITX-마음 진입",
+        "ITX-마음 열차 주행"
+      ],
+      "videoMatch": [
+        "itx-마음",
+        "itx마음",
+        "itx 마음",
+        "itx-maum",
+        "itx-maeum"
+      ],
+      "videoExclude": [
+        "새마을"
+      ]
+    },
+    {
+      "id": "gtx-a",
+      "region": "korea",
+      "type": "metro",
+      "name": "GTX-A",
+      "subtitle": "땅속 깊이 달리는 급행",
+      "color": "#7A4A74",
+      "speedKmh": 180,
+      "since": 2024,
+      "country": "대한민국",
+      "story": "GTX-A는 2024년에 생긴 아주 빠른 전철이에요. 땅속 깊은 터널을 달려서 먼 동네에서 서울까지 금방 데려다줘요.",
+      "funFact": "보통 지하철보다 훨씬 빨라서 시속 180km까지 달릴 수 있어요!",
+      "wiki": "Great Train eXpress",
+      "photoQuery": "GTX-A train Hyundai Rotem",
+      "photoMatch": [
+        "gtx-a",
+        "gtx a "
+      ],
+      "videoQueries": [
+        "GTX-A 열차 진입",
+        "GTX-A 통과",
+        "GTX-A 열차 주행"
+      ],
+      "videoMatch": [
+        "gtx-a",
+        "gtx a",
+        "gtx"
+      ],
+      "videoExclude": [
+        "gtx-b",
+        "gtx-c",
+        "rtx",
+        "geforce",
+        "plymouth",
+        "플리머스"
+      ]
+    },
+    {
+      "id": "seoul-line1",
+      "region": "korea",
+      "type": "metro",
+      "name": "서울 지하철 1호선",
+      "subtitle": "우리나라 첫 지하철",
+      "color": "#0052A4",
+      "speedKmh": 110,
+      "since": 1974,
+      "country": "대한민국",
+      "story": "서울 지하철 1호선은 1974년에 처음 생긴 우리나라 첫 번째 지하철이에요. 남색 노선이고, 땅속뿐 아니라 땅 위로도 아주 멀리까지 달려요.",
+      "funFact": "1호선은 인천, 천안, 연천까지 갈 수 있을 만큼 아주아주 길어요!",
+      "wiki": "Seoul Subway Line 1",
+      "photoQuery": "Korail Class 311000 Line 1 train",
+      "photoMatch": [
+        "line 1 train",
+        "line 1-train",
+        "311000",
+        "312000",
+        "341000",
+        "class 311",
+        "class 312",
+        "class 341"
+      ],
+      "videoQueries": [
+        "1호선 열차 진입",
+        "서울 지하철 1호선 전동차 통과",
+        "수도권 전철 1호선 열차"
+      ],
+      "videoMatch": [
+        "1호선",
+        "line 1"
+      ],
+      "videoExclude": [
+        "부산",
+        "대구",
+        "광주",
+        "대전",
+        "인천 1호선",
+        "신분당"
+      ]
+    },
+    {
+      "id": "seoul-line9",
+      "region": "korea",
+      "type": "metro",
+      "name": "서울 지하철 9호선",
+      "subtitle": "급행이 있는 황금색 지하철",
+      "color": "#8C7A3E",
+      "speedKmh": 80,
+      "since": 2009,
+      "country": "대한민국",
+      "story": "9호선은 한강 남쪽을 따라 달리는 황금색 지하철이에요. 모든 역에 서는 열차와 빨리 가는 급행열차가 함께 달려요.",
+      "funFact": "급행열차는 몇몇 역을 건너뛰고, 역에서 기다리는 일반열차를 쌩 하고 앞질러 가요!",
+      "wiki": "Seoul Subway Line 9",
+      "photoQuery": "Seoul Metro Line 9 9000 series train",
+      "photoMatch": [
+        "line 9 9000",
+        "metro 9",
+        "9000 series",
+        "class 9000"
+      ],
+      "videoQueries": [
+        "9호선 급행 진입",
+        "서울 지하철 9호선 열차 진입",
+        "9호선 전동차 주행"
+      ],
+      "videoMatch": [
+        "9호선",
+        "line 9"
+      ],
+      "videoExclude": [
+        "부산"
+      ]
+    },
+    {
+      "id": "shinbundang",
+      "region": "korea",
+      "type": "metro",
+      "name": "신분당선",
+      "subtitle": "운전사 없이 달리는 지하철",
+      "color": "#D4003B",
+      "speedKmh": 90,
+      "since": 2011,
+      "country": "대한민국",
+      "story": "신분당선은 기관사 아저씨 없이 컴퓨터가 운전하는 지하철이에요. 강남에서 수원 광교까지 빠르게 달려요.",
+      "funFact": "맨 앞 칸에는 운전석이 없어서, 커다란 창문으로 터널 앞을 구경할 수 있어요!",
+      "wiki": "Shinbundang Line",
+      "photoQuery": "Shinbundang Line train",
+      "photoMatch": [
+        "shinbundang"
+      ],
+      "videoQueries": [
+        "신분당선 열차 진입",
+        "신분당선 전동차 주행",
+        "신분당선 통과"
+      ],
+      "videoMatch": [
+        "신분당",
+        "shinbundang"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "ui-sinseol",
+      "region": "korea",
+      "type": "metro",
+      "name": "우이신설 경전철",
+      "subtitle": "작고 귀여운 경전철",
+      "color": "#6E8B0E",
+      "speedKmh": 70,
+      "since": 2017,
+      "country": "대한민국",
+      "story": "우이신설선은 서울 북쪽을 달리는 작은 경전철이에요. 보통 지하철보다 열차가 훨씬 짧고 작아서 귀여워요.",
+      "funFact": "13개 역을 모두 땅속에서 다녀요. 처음부터 끝까지 지하로만 달리는 노선이에요!",
+      "wiki": "Ui LRT",
+      "photoQuery": "Ui LRT train",
+      "photoMatch": [
+        "ui lrt",
+        "uitrans",
+        "ui-sinseol",
+        "우이신설"
+      ],
+      "videoQueries": [
+        "우이신설선 열차 진입",
+        "우이신설 경전철 주행",
+        "우이신설선 전동차"
+      ],
+      "videoMatch": [
+        "우이신설",
+        "ui-sinseol",
+        "ui lrt"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "arex",
+      "region": "korea",
+      "type": "metro",
+      "name": "공항철도",
+      "subtitle": "공항까지 달리는 기차",
+      "color": "#0072A8",
+      "speedKmh": 110,
+      "since": 2007,
+      "country": "대한민국",
+      "story": "공항철도는 서울역에서 인천국제공항까지 달리는 기차예요. 비행기를 타러 갈 때 큰 여행 가방을 들고 많이 타요.",
+      "funFact": "김포공항과 인천공항, 두 공항을 모두 이어주는 기차예요!",
+      "wiki": "AREX",
+      "photoQuery": "AREX train airport railroad",
+      "photoMatch": [
+        "arex 2000",
+        "arex 1000",
+        "arex train",
+        "arex-train",
+        "arex 210",
+        "airport railroad express"
+      ],
+      "videoQueries": [
+        "공항철도 직통열차 통과",
+        "공항철도 열차 진입",
+        "AREX 열차 주행"
+      ],
+      "videoMatch": [
+        "공항철도",
+        "arex"
+      ],
+      "videoExclude": [
+        "ktx"
+      ]
+    },
+    {
+      "id": "shinkansen-0",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "0계 신칸센",
+      "subtitle": "세계 최초의 고속열차",
+      "color": "#1E40AF",
+      "speedKmh": 210,
+      "since": 1964,
+      "country": "일본",
+      "story": "0계 신칸센은 1964년에 처음 달린 세계 최초의 고속열차예요. 동그랗고 귀여운 코 때문에 '총알 기차'라고 불렸어요.",
+      "funFact": "지금은 은퇴해서 박물관에 가면 만날 수 있어요.",
+      "wiki": "0 Series Shinkansen",
+      "videoQueries": [
+        "0系新幹線 走行",
+        "0系 新幹線 発車",
+        "0 series shinkansen"
+      ],
+      "videoMatch": [
+        "0系",
+        "0 series",
+        "0계"
+      ],
+      "videoExclude": [
+        "n700",
+        "500系",
+        "e5",
+        "e2"
+      ]
+    },
+    {
+      "id": "n700s",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "N700S 신칸센",
+      "subtitle": "오리 부리 모양 최신 신칸센",
+      "color": "#2563EB",
+      "speedKmh": 300,
+      "since": 2020,
+      "country": "일본",
+      "story": "N700S는 도쿄와 오사카 사이를 달리는 최신 신칸센이에요. 하얀 몸에 파란 줄무늬가 있고, 앞부분이 오리 부리처럼 길쭉해요.",
+      "funFact": "정전이 되어도 배터리로 혼자 조금 더 달릴 수 있는 똑똑한 기차예요.",
+      "wiki": "N700S Series Shinkansen",
+      "photoQuery": "N700S Shinkansen",
+      "photoMatch": [
+        "n700s"
+      ],
+      "videoQueries": [
+        "N700S 通過",
+        "N700S 走行",
+        "N700S shinkansen passing"
+      ],
+      "videoMatch": [
+        "n700s"
+      ]
+    },
+    {
+      "id": "e5-hayabusa",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "E5 하야부사",
+      "subtitle": "초록색 매 신칸센",
+      "color": "#15803D",
+      "speedKmh": 320,
+      "since": 2011,
+      "country": "일본",
+      "story": "E5 하야부사는 초록색과 하얀색 옷을 입은 신칸센이에요. 아주 긴 코를 가졌고, 시속 320km로 달려서 일본에서 가장 빠른 기차 중 하나예요.",
+      "funFact": "'하야부사'는 일본어로 '매'라는 뜻이에요. 하늘을 가장 빨리 나는 새랍니다!",
+      "wiki": "E5 Series Shinkansen",
+      "photoMatch": [
+        "e5",
+        "hayabusa"
+      ],
+      "videoQueries": [
+        "E5系 はやぶさ 通過",
+        "E5系 はやぶさ 走行",
+        "E5 hayabusa passing"
+      ],
+      "videoMatch": [
+        "e5",
+        "はやぶさ",
+        "hayabusa"
+      ],
+      "videoExclude": [
+        "e6",
+        "こまち"
+      ]
+    },
+    {
+      "id": "e6-komachi",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "E6 고마치",
+      "subtitle": "빨간색 신칸센",
+      "color": "#DC2626",
+      "speedKmh": 320,
+      "since": 2013,
+      "country": "일본",
+      "story": "E6 고마치는 새빨간 코를 가진 신칸센이에요. 눈이 많이 오는 아키타 지방까지 달려가요.",
+      "funFact": "초록색 하야부사와 손을 잡듯이 연결되어 함께 달리기도 해요!",
+      "wiki": "E6 Series Shinkansen",
+      "photoMatch": [
+        "e6",
+        "e61",
+        "e62",
+        "komachi"
+      ],
+      "videoQueries": [
+        "E6系 こまち 走行",
+        "E6系 こまち 通過",
+        "E6 komachi shinkansen"
+      ],
+      "videoMatch": [
+        "e6",
+        "こまち",
+        "komachi"
+      ]
+    },
+    {
+      "id": "doctor-yellow",
+      "region": "japan",
+      "type": "special",
+      "name": "닥터 옐로",
+      "subtitle": "노란색 선로 의사 선생님",
+      "color": "#CA8A04",
+      "speedKmh": 270,
+      "since": 2001,
+      "country": "일본",
+      "story": "닥터 옐로는 손님을 태우지 않는 특별한 노란색 신칸센이에요. 달리면서 선로와 전선이 아프지 않은지 검사하는 의사 선생님 기차예요.",
+      "funFact": "자주 볼 수 없어서 '보면 행운이 온다'는 이야기가 있어요.",
+      "wiki": "Doctor Yellow",
+      "photoQuery": "Doctor Yellow 923 Shinkansen",
+      "photoMatch": [
+        "923",
+        "922",
+        "doctor yellow"
+      ],
+      "videoQueries": [
+        "ドクターイエロー 通過",
+        "ドクターイエロー 走行",
+        "Doctor Yellow shinkansen passing"
+      ],
+      "videoMatch": [
+        "ドクターイエロー",
+        "doctor yellow",
+        "923"
+      ]
+    },
+    {
+      "id": "yamanote",
+      "region": "japan",
+      "type": "metro",
+      "name": "야마노테선",
+      "subtitle": "도쿄를 빙글 도는 연두색 전철",
+      "color": "#65A30D",
+      "speedKmh": 90,
+      "since": 1925,
+      "country": "일본",
+      "story": "야마노테선은 도쿄 한가운데를 동그랗게 도는 연두색 전철이에요. 서울 지하철 2호선처럼 계속 타면 제자리로 돌아와요.",
+      "funFact": "한 바퀴에 역이 30개나 있어요. 한 바퀴 도는 데 1시간쯤 걸려요.",
+      "wiki": "Yamanote Line",
+      "photoQuery": "Yamanote Line E235",
+      "photoMatch": [
+        "e235",
+        "yamanote"
+      ],
+      "videoQueries": [
+        "山手線 E235系 発車",
+        "山手線 E235系 走行",
+        "Yamanote line E235 train"
+      ],
+      "videoMatch": [
+        "山手線",
+        "yamanote"
+      ]
+    },
+    {
+      "id": "shinkansen-500",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "500계 신칸센",
+      "subtitle": "물총새를 닮은 신칸센",
+      "color": "#1E3A8A",
+      "speedKmh": 300,
+      "since": 1997,
+      "country": "일본",
+      "story": "500계 신칸센은 1997년에 처음 달린 신칸센이에요. 연필처럼 아주 길고 뾰족한 코를 가지고 있어요. 일본에서 처음으로 손님을 태우고 시속 300km로 달린 기차랍니다!",
+      "funFact": "물속으로 쏙 들어가는 새 '물총새'의 부리를 본떠서 앞모습을 만들었어요. 그래서 터널에 들어갈 때 소리가 작아졌대요.",
+      "wiki": "500 Series Shinkansen",
+      "photoQuery": "500 series Shinkansen",
+      "photoMatch": [
+        "500 series",
+        "500系",
+        "series 500",
+        "jrw-500"
+      ],
+      "videoQueries": [
+        "500系 新幹線 通過",
+        "500系 こだま 発車",
+        "500 series shinkansen passing"
+      ],
+      "videoMatch": [
+        "500系",
+        "500 series",
+        "500계"
+      ],
+      "videoExclude": [
+        "n700",
+        "700系"
+      ]
+    },
+    {
+      "id": "e7-kagayaki",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "E7 카가야키",
+      "subtitle": "하늘색과 구릿빛 신칸센",
+      "color": "#1E6FA8",
+      "speedKmh": 260,
+      "since": 2014,
+      "country": "일본",
+      "story": "E7 신칸센은 도쿄에서 눈이 많이 오는 호쿠리쿠 지방까지 달려가요. 하얀 몸에 하늘색과 구릿빛 줄무늬를 두르고 있어요.",
+      "funFact": "'카가야키'는 일본어로 '반짝반짝 빛남'이라는 뜻이에요. 이 신칸센이 달리는 가장 빠른 열차 이름이랍니다.",
+      "wiki": "E7 and W7 Series Shinkansen",
+      "photoQuery": "E7 series Shinkansen",
+      "photoMatch": [
+        "e7",
+        "w7",
+        "kagayaki"
+      ],
+      "videoQueries": [
+        "E7系 かがやき 通過",
+        "E7系 北陸新幹線 走行",
+        "E7 series shinkansen passing"
+      ],
+      "videoMatch": [
+        "e7",
+        "w7",
+        "かがやき",
+        "kagayaki"
+      ],
+      "videoExclude": [
+        "e5",
+        "e6",
+        "e2"
+      ]
+    },
+    {
+      "id": "shinkansen-800",
+      "region": "japan",
+      "type": "highspeed",
+      "name": "800계 쓰바메",
+      "subtitle": "제비처럼 날쌘 규슈 신칸센",
+      "color": "#B91C1C",
+      "speedKmh": 260,
+      "since": 2004,
+      "country": "일본",
+      "story": "800계 신칸센은 일본 남쪽 규슈 섬을 달리는 신칸센이에요. 하얀 몸에 빨간 줄무늬가 멋져요.",
+      "funFact": "의자가 나무로 만들어져 있고, 창문 가리개도 나무로 되어 있어요. 기차 안이 따뜻한 집 같아요.",
+      "wiki": "800 Series Shinkansen",
+      "photoQuery": "800 series Shinkansen",
+      "photoMatch": [
+        "800 series",
+        "800系",
+        "series 800",
+        "tsubame"
+      ],
+      "videoQueries": [
+        "800系 新幹線 つばめ 走行",
+        "800系 九州新幹線 通過",
+        "800 series shinkansen tsubame"
+      ],
+      "videoMatch": [
+        "800系",
+        "800 series",
+        "800계"
+      ],
+      "videoExclude": [
+        "n700"
+      ]
+    },
+    {
+      "id": "scmaglev-l0",
+      "region": "japan",
+      "type": "monorail",
+      "name": "리니어 L0계",
+      "subtitle": "공중에 둥 떠서 달리는 기차",
+      "color": "#1D4ED8",
+      "speedKmh": 500,
+      "since": 2013,
+      "country": "일본",
+      "story": "L0계는 바퀴 대신 자석의 힘으로 선로 위에 둥 떠서 달리는 기차예요. 2013년부터 시험 선로에서 연습하고 있어요. 앞으로 도쿄와 나고야를 이어줄 거예요.",
+      "funFact": "2015년 시험 운행에서 시속 603km를 기록했어요! 사람을 태운 기차 중 세계에서 가장 빠른 기록이에요.",
+      "wiki": "L0 Series",
+      "photoQuery": "L0 series maglev",
+      "photoMatch": [
+        "l0"
+      ],
+      "videoQueries": [
+        "リニア L0系 走行",
+        "超電導リニア L0系 試験走行",
+        "L0 series maglev 500km/h"
+      ],
+      "videoMatch": [
+        "l0",
+        "リニア",
+        "maglev"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "romancecar-gse",
+      "region": "japan",
+      "type": "intercity",
+      "name": "로망스카 GSE",
+      "subtitle": "맨 앞이 전망석인 특급열차",
+      "color": "#DD3C00",
+      "speedKmh": 110,
+      "since": 2018,
+      "country": "일본",
+      "story": "로망스카 GSE는 도쿄에서 온천 마을 하코네로 가는 빨간 특급열차예요. 운전석이 2층에 있어서 맨 앞자리에 앉으면 커다란 창문으로 앞을 볼 수 있어요.",
+      "funFact": "옆 창문도 높이가 1미터나 되는 커다란 창문이라서 바깥 경치가 잘 보여요.",
+      "wiki": "Odakyu 70000 series GSE",
+      "photoQuery": "Odakyu 70000 series GSE Romancecar",
+      "photoMatch": [
+        "70000",
+        "gse"
+      ],
+      "videoQueries": [
+        "ロマンスカー GSE 走行",
+        "小田急 70000形 GSE 通過",
+        "Odakyu Romancecar GSE"
+      ],
+      "videoMatch": [
+        "gse",
+        "70000"
+      ],
+      "videoExclude": [
+        "vse",
+        "mse",
+        "lse"
+      ]
+    },
+    {
+      "id": "laview",
+      "region": "japan",
+      "type": "intercity",
+      "name": "세이부 라뷰",
+      "subtitle": "커다란 창문의 은빛 열차",
+      "color": "#3366CC",
+      "speedKmh": 105,
+      "since": 2019,
+      "country": "일본",
+      "story": "라뷰는 도쿄에서 산으로 둘러싸인 마을 지치부까지 달리는 특급열차예요. 동글동글한 은색 얼굴과 아주 커다란 창문이 특징이에요.",
+      "funFact": "유명한 건축가가 '거실처럼 편안한 기차'를 생각하며 디자인했대요. 의자도 노란색이에요!",
+      "wiki": "Seibu 001 series",
+      "photoQuery": "Seibu 001 series Laview",
+      "photoMatch": [
+        "001",
+        "laview"
+      ],
+      "videoQueries": [
+        "西武 001系 Laview 走行",
+        "ラビュー 通過",
+        "Seibu Laview train"
+      ],
+      "videoMatch": [
+        "laview",
+        "ラビュー",
+        "001系"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "hinotori",
+      "region": "japan",
+      "type": "intercity",
+      "name": "긴테쓰 히노토리",
+      "subtitle": "불사조처럼 빨간 특급열차",
+      "color": "#8F0E36",
+      "speedKmh": 130,
+      "since": 2020,
+      "country": "일본",
+      "story": "히노토리는 오사카와 나고야 사이를 달리는 진한 빨간색 특급열차예요. 반짝이는 빨간 옷을 입은 모습이 정말 멋져요.",
+      "funFact": "'히노토리'는 일본어로 '불사조'라는 뜻이에요. 불꽃처럼 빨간 이 기차와 잘 어울리는 이름이죠?",
+      "wiki": "Kintetsu 80000 series",
+      "photoQuery": "Kintetsu 80000 series Hinotori",
+      "photoMatch": [
+        "80000",
+        "hinotori"
+      ],
+      "videoQueries": [
+        "近鉄 ひのとり 通過",
+        "ひのとり 80000系 走行",
+        "Kintetsu Hinotori train"
+      ],
+      "videoMatch": [
+        "ひのとり",
+        "hinotori",
+        "80000"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "sunrise-izumo",
+      "region": "japan",
+      "type": "scenic",
+      "name": "선라이즈 이즈모",
+      "subtitle": "잠자면서 가는 침대 기차",
+      "color": "#7C2D12",
+      "speedKmh": 130,
+      "since": 1998,
+      "country": "일본",
+      "story": "선라이즈 이즈모는 밤에 도쿄를 출발해서 아침에 도착하는 침대 기차예요. 기차 안에 작은 방과 침대가 있어서 잠을 자면서 여행할 수 있어요.",
+      "funFact": "지금 일본에서 매일 달리는 침대 기차는 선라이즈 이즈모와 선라이즈 세토뿐이에요.",
+      "wiki": "Sunrise Izumo",
+      "photoQuery": "Sunrise Izumo 285 series",
+      "photoMatch": [
+        "sunrise",
+        "285"
+      ],
+      "videoQueries": [
+        "サンライズ出雲 走行",
+        "サンライズ 285系 通過",
+        "Sunrise Izumo train"
+      ],
+      "videoMatch": [
+        "サンライズ",
+        "sunrise",
+        "285系"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "seven-stars",
+      "region": "japan",
+      "type": "scenic",
+      "name": "나나츠보시",
+      "subtitle": "규슈의 호텔 같은 기차",
+      "color": "#5B1A1A",
+      "speedKmh": 100,
+      "since": 2013,
+      "country": "일본",
+      "story": "나나츠보시는 일본 규슈를 며칠 동안 천천히 여행하는 아주 호화로운 기차예요. 진한 갈색 기관차가 객차를 끌고, 기차 안에 침실과 식당이 있어요.",
+      "funFact": "'나나츠보시'는 '일곱 개의 별'이라는 뜻이에요. 규슈의 일곱 지역과 객차 일곱 칸을 뜻한대요.",
+      "wiki": "Seven Stars in Kyushu",
+      "photoQuery": "Seven Stars in Kyushu train",
+      "photoMatch": [
+        "seven stars",
+        "nanatsuboshi",
+        "df200-7000",
+        "77 series",
+        "ななつ星"
+      ],
+      "videoQueries": [
+        "ななつ星 in 九州 走行",
+        "ななつ星 通過",
+        "Seven Stars in Kyushu train"
+      ],
+      "videoMatch": [
+        "ななつ星",
+        "seven stars",
+        "nanatsuboshi"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "sl-yamaguchi",
+      "region": "japan",
+      "type": "steam",
+      "name": "SL 야마구치호",
+      "subtitle": "칙칙폭폭 일본 증기기관차",
+      "color": "#1F2937",
+      "speedKmh": 85,
+      "since": 1979,
+      "country": "일본",
+      "story": "SL 야마구치호는 검은 증기기관차가 끄는 관광열차예요. 1979년부터 산과 들을 지나 옛날 마을 쓰와노까지 칙칙폭폭 달려요.",
+      "funFact": "앞에서 끄는 C57 1 기관차는 날씬하고 예뻐서 '귀부인'이라는 별명을 가지고 있어요.",
+      "wiki": "JNR Class C57",
+      "photoQuery": "C57 1 SL Yamaguchi",
+      "photoMatch": [
+        "c57",
+        "yamaguchi"
+      ],
+      "videoQueries": [
+        "SLやまぐち号 C57 走行",
+        "SLやまぐち号 発車",
+        "SL Yamaguchi steam train"
+      ],
+      "videoMatch": [
+        "やまぐち",
+        "yamaguchi",
+        "c57"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "ginza-line",
+      "region": "japan",
+      "type": "metro",
+      "name": "긴자선",
+      "subtitle": "아시아 최초의 지하철",
+      "color": "#C2410C",
+      "speedKmh": 65,
+      "since": 1927,
+      "country": "일본",
+      "story": "긴자선은 1927년에 생긴 도쿄의 주황색 지하철이에요. 아시아에서 처음으로 생긴 지하철이랍니다.",
+      "funFact": "지금 달리는 노란 전철은 옛날 처음 생겼을 때의 기차 모습을 본떠서 만들었어요.",
+      "wiki": "Ginza Line",
+      "photoQuery": "Tokyo Metro 1000 series Ginza Line",
+      "photoMatch": [
+        "ginza",
+        "1000 series"
+      ],
+      "videoQueries": [
+        "銀座線 1000系 発車",
+        "東京メトロ 銀座線 到着",
+        "Tokyo Metro Ginza Line train"
+      ],
+      "videoMatch": [
+        "銀座線",
+        "ginza"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "hiroden",
+      "region": "japan",
+      "type": "tram",
+      "name": "히로시마 노면전차",
+      "subtitle": "길 위를 달리는 꼬마 전차",
+      "color": "#15803D",
+      "speedKmh": 40,
+      "since": 1912,
+      "country": "일본",
+      "story": "히로시마에서는 자동차가 다니는 길 위로 노면전차가 달려요. 일본에서 노면전차 길이 가장 긴 도시예요.",
+      "funFact": "여러 나라와 지역에서 온 전차가 함께 달려서 '움직이는 전차 박물관'이라고 불려요.",
+      "wiki": "Hiroshima Electric Railway",
+      "photoQuery": "Hiroden tram Hiroshima",
+      "photoMatch": [
+        "hiroden",
+        "hiroshima electric",
+        "green mover"
+      ],
+      "videoQueries": [
+        "広島電鉄 路面電車 走行",
+        "広電 グリーンムーバー",
+        "Hiroshima tram Hiroden"
+      ],
+      "videoMatch": [
+        "広電",
+        "広島電鉄",
+        "hiroden",
+        "hiroshima"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "enoden",
+      "region": "japan",
+      "type": "tram",
+      "name": "에노덴",
+      "subtitle": "바닷가를 달리는 꼬마 전차",
+      "color": "#15803D",
+      "speedKmh": 45,
+      "since": 1902,
+      "country": "일본",
+      "story": "에노덴은 가마쿠라에서 바닷가 마을을 지나 달리는 작고 귀여운 초록 전차예요. 창밖으로 파란 바다가 보이고, 어떤 곳에서는 자동차와 함께 길 위를 달려요.",
+      "funFact": "집과 가게 사이 아주 좁은 곳을 지나가서, 손을 뻗으면 닿을 것 같은 곳도 있어요.",
+      "wiki": "Enoshima Electric Railway",
+      "photoQuery": "Enoden train Enoshima",
+      "photoMatch": [
+        "enoden",
+        "enoshima"
+      ],
+      "videoQueries": [
+        "江ノ電 走行",
+        "江ノ電 併用軌道 腰越",
+        "Enoden train Kamakura"
+      ],
+      "videoMatch": [
+        "江ノ電",
+        "enoden",
+        "江ノ島電鉄"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "tokyo-monorail",
+      "region": "japan",
+      "type": "monorail",
+      "name": "도쿄 모노레일",
+      "subtitle": "레일 하나 위를 달리는 기차",
+      "color": "#1E40AF",
+      "speedKmh": 80,
+      "since": 1964,
+      "country": "일본",
+      "story": "도쿄 모노레일은 레일 한 줄 위에 올라타서 달리는 기차예요. 도쿄 시내와 하네다 공항을 이어줘요.",
+      "funFact": "1964년 도쿄 올림픽이 열리기 바로 전에 처음 달리기 시작했어요. 창밖으로 비행기도 볼 수 있어요!",
+      "wiki": "Tokyo Monorail",
+      "photoQuery": "Tokyo Monorail train",
+      "photoMatch": [
+        "monorail"
+      ],
+      "videoQueries": [
+        "東京モノレール 走行",
+        "東京モノレール 10000形",
+        "Tokyo Monorail Haneda"
+      ],
+      "videoMatch": [
+        "モノレール",
+        "monorail"
+      ],
+      "videoExclude": [
+        "多摩",
+        "大阪",
+        "千葉",
+        "沖縄",
+        "osaka",
+        "chiba",
+        "tama",
+        "okinawa"
+      ]
+    },
+    {
+      "id": "yurikamome",
+      "region": "japan",
+      "type": "monorail",
+      "name": "유리카모메",
+      "subtitle": "운전사가 없는 무인 전철",
+      "color": "#0284C7",
+      "speedKmh": 60,
+      "since": 1995,
+      "country": "일본",
+      "story": "유리카모메는 운전사 없이 컴퓨터가 운전하는 전철이에요. 고무바퀴를 달고 바다 위 커다란 다리를 건너 오다이바로 가요.",
+      "funFact": "운전석이 없어서 맨 앞자리에 앉으면 내가 운전하는 것처럼 앞이 잘 보여요!",
+      "wiki": "Yurikamome",
+      "photoQuery": "Yurikamome train Odaiba",
+      "photoMatch": [
+        "yurikamome"
+      ],
+      "videoQueries": [
+        "ゆりかもめ 走行",
+        "ゆりかもめ レインボーブリッジ",
+        "Yurikamome train Tokyo"
+      ],
+      "videoMatch": [
+        "ゆりかもめ",
+        "yurikamome"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "hakone-tozan",
+      "region": "japan",
+      "type": "scenic",
+      "name": "하코네 등산철도",
+      "subtitle": "가파른 산을 오르는 기차",
+      "color": "#B91C1C",
+      "speedKmh": 40,
+      "since": 1919,
+      "country": "일본",
+      "story": "하코네 등산철도는 아주 가파른 산을 올라가는 빨간 기차예요. 너무 가팔라서 지그재그로 앞으로 갔다가 뒤로 갔다가 하면서 올라가요.",
+      "funFact": "가장 가파른 곳은 1000m를 가는 동안 80m나 올라가요. 바퀴로 달리는 일본 기차 중 가장 가파른 길이에요.",
+      "wiki": "Hakone Tozan Line",
+      "photoQuery": "Hakone Tozan Railway train",
+      "photoMatch": [
+        "hakone",
+        "tozan"
+      ],
+      "videoQueries": [
+        "箱根登山電車 走行",
+        "箱根登山鉄道 スイッチバック",
+        "Hakone Tozan train"
+      ],
+      "videoMatch": [
+        "箱根登山",
+        "hakone"
+      ],
+      "videoExclude": [
+        "ロマンスカー",
+        "romancecar"
+      ]
+    },
+    {
+      "id": "fuxing",
+      "region": "asia",
+      "type": "highspeed",
+      "name": "푸싱호",
+      "subtitle": "중국의 초고속 열차",
+      "color": "#C8102E",
+      "speedKmh": 350,
+      "since": 2017,
+      "country": "중국",
+      "story": "푸싱호는 중국에서 직접 설계해서 만든 고속열차예요. 시속 350km로 달려서, 손님을 태우는 고속열차 중에 세계에서 가장 빠른 편이에요.",
+      "funFact": "빨간 줄무늬 열차는 '붉은 용', 금색 줄무늬 열차는 '황금 봉황'이라는 별명이 있어요!",
+      "wiki": "Fuxing (train)",
+      "photoQuery": "CR400AF Fuxing train",
+      "photoMatch": [
+        "cr400af",
+        "cr400bf",
+        "fuxing"
+      ],
+      "videoQueries": [
+        "复兴号 通过",
+        "复兴号 高速通过",
+        "Fuxing CR400AF passing"
+      ],
+      "videoMatch": [
+        "复兴号",
+        "復興號",
+        "cr400",
+        "fuxing"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "crh380a",
+      "region": "asia",
+      "type": "highspeed",
+      "name": "허셰호 CRH380A",
+      "subtitle": "뾰족한 코의 하얀 고속열차",
+      "color": "#1F4E9C",
+      "speedKmh": 350,
+      "since": 2010,
+      "country": "중국",
+      "story": "허셰호 CRH380A는 중국의 하얀 고속열차예요. 길쭉하고 뾰족한 코로 바람을 가르며 시속 350km로 달려요. '허셰'는 '사이좋게 어울린다'는 뜻이에요.",
+      "funFact": "시험 운행에서 시속 486km를 넘게 달린 적이 있어요!",
+      "wiki": "China Railway CRH380A",
+      "photoQuery": "CRH380A train",
+      "photoMatch": [
+        "crh380a"
+      ],
+      "videoQueries": [
+        "CRH380A 通过",
+        "和谐号 CRH380A 高速",
+        "CRH380A passing"
+      ],
+      "videoMatch": [
+        "crh380a",
+        "380a"
+      ],
+      "videoExclude": [
+        "cr400",
+        "复兴"
+      ]
+    },
+    {
+      "id": "shanghai-maglev",
+      "region": "asia",
+      "type": "monorail",
+      "name": "상하이 자기부상열차",
+      "subtitle": "둥둥 떠서 달리는 기차",
+      "color": "#1E5AA8",
+      "speedKmh": 300,
+      "since": 2004,
+      "country": "중국",
+      "story": "상하이 자기부상열차는 바퀴 대신 자석의 힘으로 선로 위에 살짝 떠서 달려요. 공항에서 도시까지 30km를 8분 만에 가요!",
+      "funFact": "예전에는 시속 431km로 달렸어요. 그때는 손님을 태우고 달리는 기차 중에 세계에서 가장 빨랐어요!",
+      "wiki": "Shanghai maglev train",
+      "photoQuery": "Shanghai maglev train",
+      "photoMatch": [
+        "maglev train",
+        "transrapid"
+      ],
+      "videoQueries": [
+        "上海磁浮 列车 通过",
+        "Shanghai maglev train passing",
+        "上海磁悬浮列车"
+      ],
+      "videoMatch": [
+        "磁浮",
+        "磁悬浮",
+        "maglev"
+      ],
+      "videoExclude": [
+        "长沙",
+        "changsha",
+        "北京",
+        "beijing",
+        "chuo",
+        "l0",
+        "scmaglev"
+      ]
+    },
+    {
+      "id": "qinghai-tibet",
+      "region": "asia",
+      "type": "scenic",
+      "name": "칭짱 철도",
+      "subtitle": "세계에서 가장 높은 철도",
+      "color": "#2F6B3A",
+      "speedKmh": 120,
+      "since": 2006,
+      "country": "중국",
+      "story": "칭짱 철도는 중국 시닝에서 티베트의 라싸까지 가는 기차예요. 구름이 가까이 보일 만큼 아주 높은 산 위를 달려요.",
+      "funFact": "가장 높은 곳은 해발 5,072m예요! 공기가 부족해서 기차 안 자리마다 산소가 나오는 장치가 있어요.",
+      "wiki": "Qinghai–Tibet railway",
+      "photoQuery": "Qinghai Tibet railway train",
+      "photoMatch": [
+        "qingzang railway",
+        "nj2",
+        "qinghai-tibet railway",
+        "qinghai tibet railway"
+      ],
+      "videoQueries": [
+        "青藏铁路 火车 通过",
+        "青藏铁路 列车",
+        "Qinghai Tibet railway train"
+      ],
+      "videoMatch": [
+        "青藏",
+        "qinghai",
+        "tibet",
+        "qingzang"
+      ],
+      "videoExclude": [
+        "川藏"
+      ]
+    },
+    {
+      "id": "hongkong-tram",
+      "region": "asia",
+      "type": "tram",
+      "name": "홍콩 트램",
+      "subtitle": "2층짜리 딩딩 전차",
+      "color": "#1F7A3A",
+      "speedKmh": 40,
+      "since": 1904,
+      "country": "중국 (홍콩)",
+      "story": "홍콩 트램은 1904년부터 홍콩 섬을 달려온 2층 전차예요. 위층에 올라가면 높은 빌딩 사이로 도시 구경을 실컷 할 수 있어요.",
+      "funFact": "'땡땡' 울리는 종소리 때문에 홍콩 사람들은 '딩딩'이라고 불러요. 세계에서 2층 트램을 가장 많이 가지고 있어요!",
+      "wiki": "Hong Kong Tramways",
+      "photoQuery": "Hong Kong tram double decker",
+      "photoMatch": [
+        "double-decker",
+        "tram no",
+        "hk tramways",
+        "hong kong tram",
+        "tramways 1"
+      ],
+      "videoQueries": [
+        "香港電車 叮叮",
+        "Hong Kong tram ding ding",
+        "香港 電車 行駛"
+      ],
+      "videoMatch": [
+        "電車",
+        "电车",
+        "叮叮",
+        "tram"
+      ],
+      "videoExclude": [
+        "peak",
+        "山頂",
+        "山顶"
+      ]
+    },
+    {
+      "id": "chongqing-monorail",
+      "region": "asia",
+      "type": "monorail",
+      "name": "충칭 모노레일",
+      "subtitle": "건물을 통과하는 기차",
+      "color": "#2B8A3E",
+      "speedKmh": 75,
+      "since": 2005,
+      "country": "중국",
+      "story": "충칭 모노레일은 레일 한 줄 위에 올라타서 달리는 기차예요. 산과 언덕이 많은 충칭 도시를 오르락내리락 달려요.",
+      "funFact": "리쯔바역에서는 기차가 아파트 건물 한가운데를 지나가요! 역이 건물 6~8층 안에 있거든요.",
+      "wiki": "Line 2 (Chongqing Rail Transit)",
+      "photoQuery": "Chongqing Rail Transit Line 2 monorail train",
+      "photoMatch": [
+        "chongqing metro line 2",
+        "line 2 monorail",
+        "crt line 2",
+        "chongqing rail transit line 2"
+      ],
+      "videoQueries": [
+        "重庆 轻轨2号线 李子坝",
+        "重庆 单轨 穿楼",
+        "Chongqing monorail through building"
+      ],
+      "videoMatch": [
+        "李子坝",
+        "重庆",
+        "chongqing",
+        "轻轨"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "shanghai-metro",
+      "region": "asia",
+      "type": "metro",
+      "name": "상하이 지하철",
+      "subtitle": "세계에서 제일 붐비는 지하철",
+      "color": "#D2232A",
+      "speedKmh": 80,
+      "since": 1993,
+      "country": "중국",
+      "story": "상하이 지하철은 중국 상하이 곳곳을 거미줄처럼 이어주는 지하철이에요. 노선이 19개나 있어요.",
+      "funFact": "한 해 동안 38억 번이 넘게 사람들이 탔어요. 세계에서 사람들이 가장 많이 타는 지하철이에요!",
+      "wiki": "Shanghai Metro",
+      "photoQuery": "Shanghai Metro train",
+      "photoMatch": [
+        "train"
+      ],
+      "videoQueries": [
+        "上海地铁 进站",
+        "上海地铁 列车 进站",
+        "Shanghai Metro train arriving"
+      ],
+      "videoMatch": [
+        "上海地铁",
+        "shanghai metro"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "taiwan-hsr",
+      "region": "asia",
+      "type": "highspeed",
+      "name": "대만 고속철도",
+      "subtitle": "대만을 달리는 신칸센 친구",
+      "color": "#C2410C",
+      "speedKmh": 300,
+      "since": 2007,
+      "country": "대만",
+      "story": "대만 고속철도는 대만의 서쪽 바닷가를 따라 북쪽 타이베이에서 남쪽 가오슝까지 달려요. 하얀 몸에 주황색 줄무늬가 멋진 기차예요.",
+      "funFact": "일본 신칸센 기술로 만든 기차예요. 신칸센 기술이 다른 나라로 간 건 대만이 처음이었대요!",
+      "wiki": "Taiwan High Speed Rail",
+      "photoQuery": "THSR 700T train",
+      "photoMatch": [
+        "thsr",
+        "700t",
+        "taiwan high speed",
+        "高鐵"
+      ],
+      "videoQueries": [
+        "THSR 700T passing",
+        "台灣高鐵 700T 通過",
+        "Taiwan High Speed Rail train passing"
+      ],
+      "videoMatch": [
+        "thsr",
+        "700t",
+        "台灣高鐵",
+        "高鐵",
+        "taiwan high speed"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "alishan",
+      "region": "asia",
+      "type": "scenic",
+      "name": "아리산 삼림철도",
+      "subtitle": "구름 위 숲속 꼬마 기차",
+      "color": "#B91C1C",
+      "speedKmh": 30,
+      "since": 1913,
+      "country": "대만",
+      "story": "아리산 삼림철도는 대만의 높은 산 아리산을 오르는 작은 빨간 기차예요. 옛날에는 숲에서 자른 나무를 실어 나르던 기차였어요.",
+      "funFact": "산을 오르려고 Z자 모양으로 앞뒤로 왔다 갔다 하며 올라가요. 터널도 50개가 넘어요!",
+      "wiki": "Alishan Forest Railway",
+      "photoQuery": "Alishan Forest Railway train",
+      "photoMatch": [
+        "alishan",
+        "阿里山"
+      ],
+      "videoQueries": [
+        "Alishan Forest Railway train",
+        "阿里山林業鐵路 列車",
+        "阿里山森林鐵路 火車"
+      ],
+      "videoMatch": [
+        "alishan",
+        "阿里山"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "darjeeling",
+      "region": "asia",
+      "type": "scenic",
+      "name": "다르질링 토이 트레인",
+      "subtitle": "히말라야 장난감 기차",
+      "color": "#1D4ED8",
+      "speedKmh": 20,
+      "since": 1881,
+      "country": "인도",
+      "story": "다르질링 히말라야 철도는 인도의 높은 산을 천천히 오르는 아주 작은 기차예요. 작고 귀여워서 '토이 트레인(장난감 기차)'이라고 불려요.",
+      "funFact": "산을 오르려고 빙글 도는 고리 길과 지그재그 길을 지나가요. 유네스코 세계유산이기도 해요!",
+      "wiki": "Darjeeling Himalayan Railway",
+      "photoQuery": "Darjeeling Himalayan Railway toy train",
+      "photoMatch": [
+        "darjeeling",
+        "dhr",
+        "toy train",
+        "ghum",
+        "batasia"
+      ],
+      "videoQueries": [
+        "Darjeeling toy train",
+        "Darjeeling Himalayan Railway steam train",
+        "Darjeeling toy train Batasia loop"
+      ],
+      "videoMatch": [
+        "darjeeling",
+        "dhr",
+        "toy train"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "vande-bharat",
+      "region": "asia",
+      "type": "intercity",
+      "name": "반데 바라트",
+      "subtitle": "인도의 빠른 새 기차",
+      "color": "#1E40AF",
+      "speedKmh": 160,
+      "since": 2019,
+      "country": "인도",
+      "story": "반데 바라트 익스프레스는 인도에서 직접 만든 새 기차예요. 맨 앞 기관차가 끄는 게 아니라 기차 칸들이 스스로 힘을 내서 달려요.",
+      "funFact": "시험 운행에서는 시속 180km도 넘게 달렸어요! 처음에는 '트레인 18'이라고 불렸대요.",
+      "wiki": "Vande Bharat Express",
+      "photoQuery": "Vande Bharat Express train",
+      "photoMatch": [
+        "vande bharat",
+        "train 18",
+        "train18"
+      ],
+      "videoQueries": [
+        "Vande Bharat Express passing",
+        "Vande Bharat Express high speed",
+        "Vande Bharat train crossing"
+      ],
+      "videoMatch": [
+        "vande bharat",
+        "vandebharat",
+        "train 18"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "maeklong",
+      "region": "asia",
+      "type": "intercity",
+      "name": "매끌롱 시장 기차",
+      "subtitle": "시장 한가운데를 지나요",
+      "color": "#C2410C",
+      "speedKmh": 50,
+      "since": 1905,
+      "country": "태국",
+      "story": "매끌롱 기차는 태국의 시장 한가운데로 지나가요. 기차가 오면 상인들이 햇빛 가리개를 착착 접고, 기차가 지나가면 다시 펼쳐요.",
+      "funFact": "그래서 이 시장의 별명은 '우산 접는 시장'이에요!",
+      "wiki": "Maeklong Railway",
+      "photoQuery": "Maeklong Railway Market train",
+      "photoMatch": [
+        "maeklong",
+        "mae klong",
+        "rom hoop",
+        "rom hup",
+        "talad rom"
+      ],
+      "videoQueries": [
+        "Maeklong railway market train",
+        "Mae Klong market train passing",
+        "ตลาดร่มหุบ รถไฟ"
+      ],
+      "videoMatch": [
+        "maeklong",
+        "mae klong",
+        "ร่มหุบ",
+        "แม่กลอง"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "hanoi-train-street",
+      "region": "asia",
+      "type": "intercity",
+      "name": "하노이 기찻길 마을",
+      "subtitle": "집 앞을 지나는 기차",
+      "color": "#1E3A8A",
+      "speedKmh": 30,
+      "since": 1902,
+      "country": "베트남",
+      "story": "베트남 하노이에는 집과 집 사이 아주 좁은 골목으로 기차가 지나가는 곳이 있어요. 기차가 오면 사람들이 물건을 얼른 치우고, 기차가 지나가면 다시 차를 마시며 쉬어요.",
+      "funFact": "이 기찻길은 120년도 더 전인 1902년에 만들어졌는데, 지금도 기차가 다녀요!",
+      "wiki": "Hanoi Train Street",
+      "photoQuery": "Hanoi Train Street",
+      "photoMatch": [
+        "train street",
+        "railway street",
+        "đường tàu",
+        "phùng hưng",
+        "phung hung"
+      ],
+      "videoQueries": [
+        "Hanoi train street train passing",
+        "Hanoi train street",
+        "Phố đường tàu Hà Nội tàu chạy qua"
+      ],
+      "videoMatch": [
+        "train street",
+        "đường tàu",
+        "duong tau"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "whoosh",
+      "region": "asia",
+      "type": "highspeed",
+      "name": "우쉬 고속철도",
+      "subtitle": "동남아 첫 고속열차",
+      "color": "#B91C1C",
+      "speedKmh": 350,
+      "since": 2023,
+      "country": "인도네시아",
+      "story": "우쉬는 인도네시아의 큰 도시 자카르타와 반둥을 잇는 고속열차예요. 3시간 걸리던 길을 이제 40분도 안 돼서 갈 수 있어요.",
+      "funFact": "동남아시아에서 처음 생긴 고속철도이고, 시속 350km로 달려요!",
+      "wiki": "High-speed rail in Indonesia",
+      "photoQuery": "KCIC400AF Whoosh train",
+      "photoMatch": [
+        "kcic",
+        "whoosh",
+        "jakarta-bandung",
+        "jakarta–bandung"
+      ],
+      "videoQueries": [
+        "Whoosh kereta cepat melintas",
+        "Whoosh high speed train passing",
+        "KCIC400AF Whoosh"
+      ],
+      "videoMatch": [
+        "whoosh",
+        "kcic",
+        "kereta cepat"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "singapore-mrt",
+      "region": "asia",
+      "type": "metro",
+      "name": "싱가포르 MRT",
+      "subtitle": "섬나라를 잇는 똑똑한 전철",
+      "color": "#15803D",
+      "speedKmh": 90,
+      "since": 1987,
+      "country": "싱가포르",
+      "story": "싱가포르 MRT는 작은 섬나라 싱가포르 곳곳을 이어주는 전철이에요. 땅속으로도 달리고, 높은 다리 위로도 달려요.",
+      "funFact": "어떤 노선은 운전사 없이 컴퓨터가 스스로 기차를 운전해요!",
+      "wiki": "Mass Rapid Transit (Singapore)",
+      "photoQuery": "Singapore MRT train",
+      "photoMatch": [
+        "mrt train",
+        "smrt",
+        "c151",
+        "c751",
+        "c830",
+        "c851",
+        "r151",
+        "t251",
+        "cr151"
+      ],
+      "videoQueries": [
+        "Singapore MRT train arriving",
+        "Singapore MRT train departing",
+        "SMRT train"
+      ],
+      "videoMatch": [
+        "mrt",
+        "smrt"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "eastern-oriental",
+      "region": "asia",
+      "type": "scenic",
+      "name": "이스턴 앤 오리엔탈 특급",
+      "subtitle": "정글을 지나는 호텔 기차",
+      "color": "#14532D",
+      "speedKmh": 80,
+      "since": 1993,
+      "country": "싱가포르 · 말레이시아",
+      "story": "이스턴 앤 오리엔탈 특급은 초록색 옷을 입은 아주 멋진 호화 열차예요. 싱가포르와 말레이시아의 정글과 바닷가를 지나며 며칠 동안 여행해요.",
+      "funFact": "기차 안에서 잠도 자고 밥도 먹어요. 1993년 첫 여행 때는 태국 방콕까지 4일 동안 달렸대요!",
+      "wiki": "Eastern & Oriental Express",
+      "photoQuery": "Eastern and Oriental Express train",
+      "photoMatch": [
+        "eastern & oriental",
+        "eastern and oriental",
+        "e&o",
+        "e&oe"
+      ],
+      "videoQueries": [
+        "Eastern and Oriental Express train",
+        "Eastern & Oriental Express passing",
+        "Belmond Eastern Oriental Express train"
+      ],
+      "videoMatch": [
+        "eastern & oriental",
+        "eastern and oriental",
+        "e&o"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "sapsan",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "삽산",
+      "subtitle": "러시아의 매 고속열차",
+      "color": "#B91C1C",
+      "speedKmh": 250,
+      "since": 2009,
+      "country": "러시아",
+      "story": "삽산은 러시아의 큰 도시 모스크바와 상트페테르부르크를 이어주는 고속열차예요. 하얀 몸에 빨간 줄무늬를 두르고 시속 250km로 쌩쌩 달려요. 두 도시 사이를 4시간쯤이면 갈 수 있어요.",
+      "funFact": "'삽산'은 러시아어로 하늘을 아주 빠르게 나는 새 '매'라는 뜻이에요. 독일의 ICE 3와 형제 같은 기차랍니다!",
+      "wiki": "Sapsan",
+      "photoQuery": "Sapsan train",
+      "photoMatch": [
+        "sapsan",
+        "velaro rus",
+        "эвс",
+        "сапсан"
+      ],
+      "videoQueries": [
+        "Сапсан проезд",
+        "Sapsan train passing",
+        "Сапсан на скорости"
+      ],
+      "videoMatch": [
+        "sapsan",
+        "сапсан"
+      ],
+      "videoExclude": [
+        "ласточка",
+        "lastochka"
+      ]
+    },
+    {
+      "id": "trans-siberian",
+      "region": "europe",
+      "type": "intercity",
+      "name": "시베리아 횡단철도",
+      "subtitle": "세계에서 가장 긴 철도",
+      "color": "#991B1B",
+      "speedKmh": 120,
+      "since": 1916,
+      "country": "러시아",
+      "story": "시베리아 횡단철도는 러시아 서쪽 모스크바에서 동쪽 끝 블라디보스토크까지 이어진 아주아주 긴 철도예요. 이 길을 끝까지 달리는 '로시야호' 기차를 타면 일주일 가까이 기차 안에서 먹고 자면서 여행해요.",
+      "funFact": "길이가 9,000km가 넘어서 세계에서 가장 긴 철도예요. 서울에서 부산까지를 20번도 넘게 가는 거리랍니다!",
+      "wiki": "Trans-Siberian Railway",
+      "photoQuery": "Trans-Siberian train",
+      "photoMatch": [
+        "trans-siberian train",
+        "trans siberian train",
+        "transsiberian train",
+        "trans sibir",
+        "vl 85",
+        "rossiya",
+        "россия",
+        "trans-siberian express",
+        "train on the trans-siberian",
+        "trans-siberian railway 89",
+        "siberia train",
+        "train in siberia"
+      ],
+      "videoQueries": [
+        "Россия поезд 001 Москва Владивосток",
+        "Trans-Siberian train passing",
+        "Транссиб поезд проезд"
+      ],
+      "videoMatch": [
+        "trans-siberian",
+        "trans siberian",
+        "транссиб",
+        "россия",
+        "rossiya"
+      ],
+      "videoExclude": [
+        "сапсан",
+        "sapsan"
+      ]
+    },
+    {
+      "id": "lastochka",
+      "region": "europe",
+      "type": "intercity",
+      "name": "라스토치카",
+      "subtitle": "빨간 제비 전철",
+      "color": "#DC2626",
+      "speedKmh": 160,
+      "since": 2013,
+      "country": "러시아",
+      "story": "라스토치카는 빨간색과 하얀색 옷을 입은 전철이에요. 러시아 여러 도시와 그 근처 마을들을 부지런히 오가며 사람들을 태워줘요.",
+      "funFact": "'라스토치카'는 러시아어로 '제비'라는 뜻이에요. 처음에는 소치 겨울 올림픽 때 손님들을 태우려고 만들어졌어요.",
+      "wiki": "Lastochka",
+      "photoQuery": "Lastochka train ES2G",
+      "photoMatch": [
+        "lastochka",
+        "ласточка",
+        "es2g",
+        "эс2г",
+        "es1",
+        "эс1"
+      ],
+      "videoQueries": [
+        "Ласточка проезд",
+        "Lastochka train passing",
+        "ЭС2Г Ласточка прибытие"
+      ],
+      "videoMatch": [
+        "lastochka",
+        "ласточка",
+        "эс2г",
+        "es2g"
+      ],
+      "videoExclude": [
+        "сапсан",
+        "sapsan"
+      ]
+    },
+    {
+      "id": "moscow-metro",
+      "region": "europe",
+      "type": "metro",
+      "name": "모스크바 지하철",
+      "subtitle": "땅속의 궁전 지하철",
+      "color": "#1E40AF",
+      "speedKmh": 90,
+      "since": 1935,
+      "country": "러시아",
+      "story": "모스크바 지하철은 1935년에 처음 문을 열었어요. 역마다 반짝이는 샹들리에와 멋진 그림, 조각이 있어서 '지하 궁전'이라고 불려요.",
+      "funFact": "사람이 많은 시간에는 기차가 1분 30초도 안 되는 간격으로 와요. 기다릴 틈이 거의 없답니다!",
+      "wiki": "Moscow Metro",
+      "photoQuery": "Moscow Metro station",
+      "photoMatch": [
+        "metro msk",
+        "mosmetro",
+        "moscow metro",
+        "81-7",
+        "komsomolskaya",
+        "mayakovskaya"
+      ],
+      "videoQueries": [
+        "Московское метро прибытие поезда",
+        "Moscow metro train arriving",
+        "метро Москва поезд Москва-2020"
+      ],
+      "videoMatch": [
+        "metro",
+        "метро"
+      ],
+      "videoExclude": [
+        "петербург",
+        "petersburg",
+        "spb",
+        "спб"
+      ]
+    },
+    {
+      "id": "spb-metro",
+      "region": "europe",
+      "type": "metro",
+      "name": "상트페테르부르크 지하철",
+      "subtitle": "아주 깊은 땅속 지하철",
+      "color": "#0E7490",
+      "speedKmh": 90,
+      "since": 1955,
+      "country": "러시아",
+      "story": "상트페테르부르크 지하철은 세계에서 가장 깊은 곳을 달리는 지하철 중 하나예요. 역에 가려면 아주 긴 에스컬레이터를 한참 동안 타고 내려가야 해요.",
+      "funFact": "가장 깊은 역은 땅속 86m에 있어요. 아파트 30층쯤 되는 높이만큼 땅 아래로 내려가는 거예요!",
+      "wiki": "Saint Petersburg Metro",
+      "photoQuery": "Saint Petersburg Metro train",
+      "photoMatch": [
+        "metro spb",
+        "saint petersburg metro",
+        "petersburg metro",
+        "métro",
+        "neva",
+        "81-7",
+        "admiralteyskaya"
+      ],
+      "videoQueries": [
+        "метро Петербург прибытие поезда",
+        "Saint Petersburg metro train arriving",
+        "Петербургский метрополитен поезд"
+      ],
+      "videoMatch": [
+        "петербург",
+        "petersburg",
+        "spb",
+        "спб"
+      ],
+      "videoExclude": [
+        "москва",
+        "moscow"
+      ]
+    },
+    {
+      "id": "circum-baikal",
+      "region": "europe",
+      "type": "scenic",
+      "name": "바이칼 순환철도",
+      "subtitle": "호숫가 터널 기찻길",
+      "color": "#0369A1",
+      "speedKmh": 40,
+      "since": 1905,
+      "country": "러시아",
+      "story": "바이칼 순환철도는 세계에서 가장 깊은 호수인 바이칼 호수 옆 바위 절벽을 따라 달리는 기찻길이에요. 지금은 관광열차가 천천히 달리며 반짝이는 호수를 보여줘요.",
+      "funFact": "이 짧은 기찻길에 터널이 38개, 다리가 200개도 넘게 있어요. 가끔은 칙칙폭폭 증기기관차도 달려요!",
+      "wiki": "Circum–Baikal railway",
+      "photoQuery": "Circum-Baikal railway train",
+      "photoMatch": [
+        "circum-baikal",
+        "circum baikal",
+        "кбжд",
+        "baikal railway",
+        "кругобайкальск"
+      ],
+      "videoQueries": [
+        "Кругобайкальская железная дорога поезд",
+        "Circum-Baikal railway train",
+        "КБЖД поезд Байкал"
+      ],
+      "videoMatch": [
+        "кругобайкал",
+        "кбжд",
+        "circum-baikal",
+        "circum baikal",
+        "baikal",
+        "байкал"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "p36-steam",
+      "region": "europe",
+      "type": "steam",
+      "name": "P36 증기기관차",
+      "subtitle": "빨간 줄무늬 '장군'",
+      "color": "#166534",
+      "speedKmh": 125,
+      "since": 1950,
+      "country": "러시아",
+      "story": "P36은 초록색 몸에 빨간 줄무늬를 두른 커다란 증기기관차예요. 옛날에는 먼 도시로 가는 손님 기차를 힘차게 끌었어요. 지금은 박물관에서 만나거나, 특별한 날 관광열차를 끌고 칙칙폭폭 달리는 모습을 볼 수 있어요.",
+      "funFact": "옆구리의 빨간 줄무늬가 장군님 바지의 줄무늬 같다고 해서 '장군'이라는 별명이 붙었어요.",
+      "wiki": "Soviet locomotive class P36",
+      "photoQuery": "P36 steam locomotive",
+      "photoMatch": [
+        "p36",
+        "п36",
+        "p-36"
+      ],
+      "videoQueries": [
+        "паровоз П36 ретропоезд",
+        "P36 steam locomotive",
+        "П36 паровоз проезд"
+      ],
+      "videoMatch": [
+        "п36",
+        "p36",
+        "p-36",
+        "п-36"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "moscow-tram",
+      "region": "europe",
+      "type": "tram",
+      "name": "모스크바 트램",
+      "subtitle": "도시를 누비는 노면전차",
+      "color": "#9F1239",
+      "speedKmh": 75,
+      "since": 1899,
+      "country": "러시아",
+      "story": "모스크바 트램은 도시 길 위에 깔린 선로를 따라 달리는 전차예요. 100년도 넘게 모스크바 사람들을 태워왔고, 요즘은 바닥이 낮고 날렵한 새 트램 '비티야지'가 달려요.",
+      "funFact": "아주 옛날에는 말이 끄는 마차 트램이었다가, 1899년부터 전기로 달리는 트램이 되었어요.",
+      "wiki": "Trams in Moscow",
+      "photoQuery": "Moscow tram Vityaz",
+      "photoMatch": [
+        "moscow tram",
+        "vityaz",
+        "витязь",
+        "71-931",
+        "трамвай москв",
+        "tram in moscow",
+        "tram moscow"
+      ],
+      "videoQueries": [
+        "трамвай Витязь-М Москва",
+        "Moscow tram Vityaz-M",
+        "московский трамвай проезд"
+      ],
+      "videoMatch": [
+        "трамвай",
+        "tram",
+        "витязь",
+        "vityaz"
+      ],
+      "videoExclude": [
+        "петербург",
+        "petersburg"
+      ]
+    },
+    {
+      "id": "tgv",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "TGV",
+      "subtitle": "프랑스의 초고속 열차",
+      "color": "#1E3A8A",
+      "speedKmh": 320,
+      "since": 1981,
+      "country": "프랑스",
+      "story": "TGV는 프랑스의 고속열차예요. 1981년부터 달렸고, 한국의 KTX도 TGV 기술을 배워서 만들어졌어요.",
+      "funFact": "2007년 시험 운행에서 시속 574.8km를 기록했어요! 바퀴로 달리는 기차 중 세계에서 가장 빠른 기록이에요.",
+      "wiki": "TGV",
+      "photoMatch": [
+        "tgv"
+      ],
+      "videoQueries": [
+        "TGV passage grande vitesse",
+        "TGV passing high speed",
+        "TGV à pleine vitesse"
+      ],
+      "videoMatch": [
+        "tgv"
+      ],
+      "videoExclude": [
+        "frecciarossa",
+        "ice",
+        "eurostar"
+      ]
+    },
+    {
+      "id": "eurostar",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "유로스타",
+      "subtitle": "바다 밑을 지나가는 기차",
+      "color": "#CA8A04",
+      "speedKmh": 300,
+      "since": 1994,
+      "country": "영국 · 프랑스 · 벨기에",
+      "story": "유로스타는 영국 런던과 프랑스 파리를 이어주는 고속열차예요. 바다 밑에 뚫린 아주 긴 터널을 지나서 다른 나라로 건너가요.",
+      "funFact": "바다 밑 터널의 길이는 약 50km나 돼요. 기차를 타고 바다 밑을 20분 넘게 달려요!",
+      "wiki": "Eurostar",
+      "photoQuery": "Eurostar train",
+      "photoMatch": [
+        "eurostar",
+        "class 373",
+        "class 374",
+        "e300",
+        "e320"
+      ],
+      "videoQueries": [
+        "Eurostar passing high speed",
+        "Eurostar e320 passing",
+        "Eurostar train at speed"
+      ],
+      "videoMatch": [
+        "eurostar"
+      ],
+      "videoExclude": [
+        "tgv",
+        "thalys"
+      ]
+    },
+    {
+      "id": "ice",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "ICE",
+      "subtitle": "독일의 하얀 고속열차",
+      "color": "#B91C1C",
+      "speedKmh": 300,
+      "since": 1991,
+      "country": "독일",
+      "story": "ICE는 독일의 고속열차예요. 하얀 몸에 빨간 줄무늬를 두르고 독일의 큰 도시들을 빠르게 이어줘요.",
+      "funFact": "ICE 3는 맨 앞자리 승객이 운전석 유리창 너머로 앞을 볼 수 있어요!",
+      "wiki": "Intercity Express",
+      "photoQuery": "ICE 3 train",
+      "photoMatch": [
+        "ice",
+        "class 401",
+        "class 403",
+        "class 406",
+        "class 407",
+        "class 412"
+      ],
+      "videoQueries": [
+        "ICE 3 Durchfahrt",
+        "ICE train passing high speed",
+        "ICE 3 train at speed"
+      ],
+      "videoMatch": [
+        "ice"
+      ],
+      "videoExclude": [
+        "tgv",
+        "eurostar"
+      ]
+    },
+    {
+      "id": "frecciarossa",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "프레차로사",
+      "subtitle": "이탈리아의 빨간 화살",
+      "color": "#DC2626",
+      "speedKmh": 300,
+      "since": 2015,
+      "country": "이탈리아",
+      "story": "프레차로사는 이탈리아의 빨간 고속열차예요. 로마, 밀라노 같은 멋진 도시들을 빠르게 이어줘요.",
+      "funFact": "'프레차로사'는 이탈리아어로 '빨간 화살'이라는 뜻이에요.",
+      "wiki": "Frecciarossa 1000",
+      "photoMatch": [
+        "frecciarossa",
+        "etr 400",
+        "etr400",
+        "etr 1000",
+        "etr1000"
+      ],
+      "videoQueries": [
+        "Frecciarossa 1000 passaggio",
+        "Frecciarossa 1000 alta velocità",
+        "Frecciarossa 1000 passing"
+      ],
+      "videoMatch": [
+        "frecciarossa",
+        "etr 1000",
+        "etr1000"
+      ]
+    },
+    {
+      "id": "glacier-express",
+      "region": "europe",
+      "type": "scenic",
+      "name": "빙하 특급",
+      "subtitle": "세상에서 가장 느린 특급열차",
+      "color": "#B91C1C",
+      "speedKmh": 40,
+      "since": 1930,
+      "country": "스위스",
+      "story": "빙하 특급은 스위스의 높은 알프스 산을 지나가는 빨간 기차예요. 눈 덮인 산과 멋진 경치를 구경하라고 일부러 천천히 달려요.",
+      "funFact": "끝에서 끝까지 약 8시간 동안 다리 291개와 터널 91개를 지나가요!",
+      "wiki": "Glacier Express",
+      "photoMatch": [
+        "glacier"
+      ],
+      "videoQueries": [
+        "Glacier Express Landwasser Viaduct",
+        "Glacier Express train passing",
+        "Glacier Express Oberalp"
+      ],
+      "videoMatch": [
+        "glacier"
+      ]
+    },
+    {
+      "id": "flying-scotsman",
+      "region": "europe",
+      "type": "steam",
+      "name": "플라잉 스코츠맨",
+      "subtitle": "칙칙폭폭 유명한 증기기관차",
+      "color": "#166534",
+      "speedKmh": 160,
+      "since": 1923,
+      "country": "영국",
+      "story": "플라잉 스코츠맨은 100년도 더 된 영국의 증기기관차예요. 석탄을 태워 물을 끓이고, 그 수증기의 힘으로 칙칙폭폭 달려요.",
+      "funFact": "1934년에 공식 기록으로 처음 시속 160km를 넘긴 증기기관차예요.",
+      "wiki": "LNER Class A3 4472 Flying Scotsman",
+      "photoMatch": [
+        "flying scotsman",
+        "flyingscotsman",
+        "4472",
+        "60103"
+      ],
+      "videoQueries": [
+        "Flying Scotsman passing",
+        "Flying Scotsman steam at speed",
+        "Flying Scotsman 4472 passing"
+      ],
+      "videoMatch": [
+        "flying scotsman",
+        "4472",
+        "60103"
+      ]
+    },
+    {
+      "id": "orient-express",
+      "region": "europe",
+      "type": "scenic",
+      "name": "오리엔트 특급",
+      "subtitle": "궁전 같은 호화 열차",
+      "color": "#1E3A8A",
+      "speedKmh": 100,
+      "since": 1883,
+      "country": "유럽 여러 나라",
+      "story": "오리엔트 특급은 1883년에 처음 달린 아주 유명한 기차예요. 파리에서 멀리 이스탄불까지 여러 나라를 지나 달렸어요. 기차 안이 궁전처럼 화려해요.",
+      "funFact": "기차 안에서 맛있는 식사를 하고, 침대에서 잠도 자면서 여행할 수 있어요.",
+      "wiki": "Orient Express",
+      "photoMatch": [
+        "orient"
+      ],
+      "videoQueries": [
+        "Venice Simplon Orient Express passing",
+        "Orient Express train passing",
+        "Orient Express steam train"
+      ],
+      "videoMatch": [
+        "orient"
+      ]
+    },
+    {
+      "id": "london-underground",
+      "region": "europe",
+      "type": "metro",
+      "name": "런던 지하철",
+      "subtitle": "세계 최초의 지하철",
+      "color": "#B91C1C",
+      "speedKmh": 100,
+      "since": 1863,
+      "country": "영국",
+      "story": "런던 지하철은 영국 런던 땅속을 달리는 지하철이에요. 터널이 동그란 튜브 모양이라서 '튜브'라는 별명이 있어요. 빨간 동그라미 표지판이 아주 유명해요.",
+      "funFact": "1863년에 처음 생긴, 세계에서 가장 오래된 지하철이에요. 160년도 넘었답니다!",
+      "wiki": "London Underground",
+      "photoQuery": "London Underground train",
+      "photoMatch": [
+        "stock",
+        "tube train",
+        "underground train",
+        "line train"
+      ],
+      "videoQueries": [
+        "London Underground train arriving",
+        "London Underground train passing",
+        "Tube train arriving station London"
+      ],
+      "videoMatch": [
+        "underground",
+        "tube"
+      ],
+      "videoExclude": [
+        "cab",
+        "map",
+        "escalator"
+      ]
+    },
+    {
+      "id": "bernina-express",
+      "region": "europe",
+      "type": "scenic",
+      "name": "베르니나 특급",
+      "subtitle": "알프스를 넘는 빨간 기차",
+      "color": "#B91C1C",
+      "speedKmh": 60,
+      "since": 1910,
+      "country": "스위스 · 이탈리아",
+      "story": "베르니나 특급은 스위스에서 이탈리아까지 눈 덮인 알프스 산을 넘어가는 빨간 관광열차예요. 창문이 아주 커서 산과 호수를 실컷 구경할 수 있어요.",
+      "funFact": "한 번 여행하는 동안 다리 196개와 터널 55개를 지나가요!",
+      "wiki": "Bernina Express",
+      "photoQuery": "Bernina Express train",
+      "photoMatch": [
+        "bernina express",
+        "bernina-express",
+        "berninabahn"
+      ],
+      "videoQueries": [
+        "Bernina Express train Brusio viaduct",
+        "Bernina Express passing",
+        "Bernina Express Zug"
+      ],
+      "videoMatch": [
+        "bernina"
+      ],
+      "videoExclude": [
+        "window",
+        "inside",
+        "seat"
+      ]
+    },
+    {
+      "id": "jungfrau",
+      "region": "europe",
+      "type": "scenic",
+      "name": "융프라우 철도",
+      "subtitle": "유럽에서 가장 높은 기차역",
+      "color": "#15803D",
+      "speedKmh": 25,
+      "since": 1912,
+      "country": "스위스",
+      "story": "융프라우 철도는 스위스의 높은 산을 오르는 산악열차예요. 산속에 뚫린 터널을 따라 눈과 얼음이 가득한 꼭대기까지 올라가요.",
+      "funFact": "종점인 융프라우요흐역은 해발 3,454m에 있는, 유럽에서 가장 높은 기차역이에요!",
+      "wiki": "Jungfrau Railway",
+      "photoQuery": "Jungfraubahn train",
+      "photoMatch": [
+        "jungfraubahn",
+        "jungfrau railway"
+      ],
+      "videoQueries": [
+        "Jungfraubahn train Kleine Scheidegg",
+        "Jungfrau Railway train",
+        "Jungfraubahn Zug"
+      ],
+      "videoMatch": [
+        "jungfrau"
+      ],
+      "videoExclude": [
+        "inside"
+      ]
+    },
+    {
+      "id": "lisbon-tram-28",
+      "region": "europe",
+      "type": "tram",
+      "name": "리스본 28번 트램",
+      "subtitle": "언덕을 오르는 노란 전차",
+      "color": "#CA8A04",
+      "speedKmh": 40,
+      "since": 1873,
+      "country": "포르투갈",
+      "story": "리스본 28번 트램은 포르투갈 리스본의 좁고 가파른 골목길을 오르내리는 노란 꼬마 전차예요. 아주 오래된 모습 그대로 지금도 사람들을 태우고 달려요.",
+      "funFact": "리스본에서는 1873년부터 전차가 다녔는데, 맨 처음에는 말이 끌었대요!",
+      "wiki": "Trams in Lisbon",
+      "photoQuery": "Lisbon tram 28",
+      "photoMatch": [
+        "tram 28",
+        "28 tram",
+        "28e",
+        "remodelado"
+      ],
+      "videoQueries": [
+        "Lisbon tram 28 Alfama",
+        "Elétrico 28 Lisboa",
+        "Lisbon yellow tram 28 street"
+      ],
+      "videoMatch": [
+        "tram 28",
+        "28 tram",
+        "elétrico 28",
+        "eléctrico 28",
+        "lisbon tram",
+        "tram lisbon",
+        "28e"
+      ],
+      "videoExclude": [
+        "pickpocket",
+        "소매치기"
+      ]
+    },
+    {
+      "id": "jacobite",
+      "region": "europe",
+      "type": "steam",
+      "name": "자코바이트 증기기관차",
+      "subtitle": "영화 속 마법 학교 기차",
+      "color": "#7F1D1D",
+      "speedKmh": 60,
+      "since": 1984,
+      "country": "영국",
+      "story": "자코바이트는 스코틀랜드의 산과 호수 사이를 달리는 증기기관차예요. 칙칙폭폭 하얀 연기를 내뿜으며 멋진 곡선 다리를 건너가요.",
+      "funFact": "해리 포터 영화에서 마법 학교로 가는 '호그와트 급행열차'로 나온 바로 그 다리를 건너가요!",
+      "wiki": "The Jacobite (steam train)",
+      "photoQuery": "Jacobite steam train Glenfinnan",
+      "photoMatch": [
+        "jacobite"
+      ],
+      "videoQueries": [
+        "Jacobite steam train Glenfinnan Viaduct",
+        "The Jacobite steam train passing",
+        "Jacobite Glenfinnan viaduct crossing"
+      ],
+      "videoMatch": [
+        "jacobite",
+        "glenfinnan"
+      ],
+      "videoExclude": [
+        "universal",
+        "orlando",
+        "lego",
+        "studio"
+      ]
+    },
+    {
+      "id": "wuppertal-schwebebahn",
+      "region": "europe",
+      "type": "monorail",
+      "name": "부퍼탈 공중열차",
+      "subtitle": "거꾸로 매달린 기차",
+      "color": "#1D4ED8",
+      "speedKmh": 60,
+      "since": 1901,
+      "country": "독일",
+      "story": "부퍼탈 공중열차는 레일에 거꾸로 매달려서 달리는 신기한 기차예요. 강물 위 높은 곳에 매달려서 하늘을 나는 것처럼 달려요.",
+      "funFact": "1901년부터 달린, 매달려 다니는 전기 열차 중 세계에서 가장 오래된 기차예요. 강물 위 12m 높이에서 달려요!",
+      "wiki": "Wuppertal Schwebebahn",
+      "photoQuery": "Wuppertal Schwebebahn",
+      "photoMatch": [
+        "schwebebahn",
+        "wsb"
+      ],
+      "videoQueries": [
+        "Wuppertaler Schwebebahn Vorbeifahrt",
+        "Schwebebahn Wuppertal Generation 15 fährt über die Wupper",
+        "Wuppertal suspension railway train passing"
+      ],
+      "videoMatch": [
+        "schwebebahn",
+        "wuppertal"
+      ],
+      "videoExclude": [
+        "unfall",
+        "tuffi"
+      ]
+    },
+    {
+      "id": "flam-railway",
+      "region": "europe",
+      "type": "scenic",
+      "name": "플롬 철도",
+      "subtitle": "폭포 옆을 달리는 기차",
+      "color": "#14532D",
+      "speedKmh": 40,
+      "since": 1940,
+      "country": "노르웨이",
+      "story": "플롬 철도는 노르웨이의 깊은 계곡을 따라 달리는 초록색 기차예요. 높은 산 위에서 바닷가 마을까지 구불구불 내려가면서 폭포와 절벽을 구경할 수 있어요.",
+      "funFact": "20km 남짓한 짧은 길에 터널이 20개나 있어요. 아주 가파른 길이라 천천히 조심조심 달려요.",
+      "wiki": "Flåm Line",
+      "photoQuery": "Flamsbana train",
+      "photoMatch": [
+        "flåmsbana",
+        "flåm line",
+        "flåm railway",
+        "flamsbana",
+        "flam railway"
+      ],
+      "videoQueries": [
+        "Flåmsbana tog",
+        "Flam railway train passing",
+        "Flåm railway train Kjosfossen"
+      ],
+      "videoMatch": [
+        "flåm",
+        "flam",
+        "flåmsbana",
+        "flamsbana"
+      ],
+      "videoExclude": [
+        "inside",
+        "window"
+      ]
+    },
+    {
+      "id": "ave",
+      "region": "europe",
+      "type": "highspeed",
+      "name": "AVE",
+      "subtitle": "스페인의 고속열차",
+      "color": "#6B21A8",
+      "speedKmh": 300,
+      "since": 1992,
+      "country": "스페인",
+      "story": "AVE는 스페인의 고속열차예요. 1992년 마드리드와 세비야 사이를 달리기 시작했고, 지금은 스페인 곳곳을 빠르게 이어줘요.",
+      "funFact": "'아베(ave)'는 스페인어로 '새'라는 뜻이에요. 새처럼 빠르게 날아가는 기차랍니다!",
+      "wiki": "AVE",
+      "photoQuery": "AVE Renfe train",
+      "photoMatch": [
+        "ave a",
+        "ave in",
+        "renfe ave",
+        "velaro",
+        "s103",
+        "clase 100",
+        "talgo 350"
+      ],
+      "videoQueries": [
+        "AVE pasando alta velocidad",
+        "Renfe AVE 103 passing",
+        "AVE high speed train Spain passing"
+      ],
+      "videoMatch": [
+        "ave",
+        "renfe"
+      ],
+      "videoExclude": [
+        "ouigo",
+        "iryo",
+        "avlo",
+        "cab"
+      ]
+    },
+    {
+      "id": "acela",
+      "region": "usa",
+      "type": "highspeed",
+      "name": "아셀라",
+      "subtitle": "미국에서 가장 빠른 기차",
+      "color": "#1E3A8A",
+      "speedKmh": 260,
+      "since": 2000,
+      "country": "미국",
+      "story": "아셀라는 미국의 큰 도시 워싱턴, 뉴욕, 보스턴을 잇는 고속열차예요. 아메리카 대륙에서 가장 빠른 기차랍니다.",
+      "funFact": "아주 빠른 기차지만, 시속 260km로 달릴 수 있는 곳은 전체 길 중 조금뿐이에요.",
+      "wiki": "Acela",
+      "photoQuery": "Amtrak Acela train",
+      "photoMatch": [
+        "acela",
+        "avelia"
+      ],
+      "videoQueries": [
+        "Amtrak Acela passing",
+        "Acela high speed train passing",
+        "Avelia Liberty Acela"
+      ],
+      "videoMatch": [
+        "acela",
+        "avelia"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "big-boy",
+      "region": "usa",
+      "type": "steam",
+      "name": "빅보이",
+      "subtitle": "엄청 큰 증기기관차",
+      "color": "#1F2937",
+      "speedKmh": 130,
+      "since": 1941,
+      "country": "미국",
+      "story": "빅보이는 1941년에 만들어진 아주아주 큰 증기기관차예요. 무거운 화물열차를 끌고 높은 산을 넘으려고 태어났어요. 지금도 4014호 빅보이 한 대가 다시 칙칙폭폭 달리고 있어요!",
+      "funFact": "기관차와 석탄·물 차를 합친 무게가 커다란 점보 비행기보다 더 무거워요!",
+      "wiki": "Union Pacific Big Boy",
+      "photoQuery": "Union Pacific Big Boy 4014",
+      "photoMatch": [
+        "big boy",
+        "4014",
+        "4884"
+      ],
+      "videoQueries": [
+        "Big Boy 4014 passing",
+        "Union Pacific Big Boy 4014 steam",
+        "Big Boy 4014 whistle"
+      ],
+      "videoMatch": [
+        "big boy",
+        "4014"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "sf-cable-car",
+      "region": "usa",
+      "type": "tram",
+      "name": "샌프란시스코 케이블카",
+      "subtitle": "언덕을 오르는 땡땡 전차",
+      "color": "#9F1239",
+      "speedKmh": 15,
+      "since": 1873,
+      "country": "미국",
+      "story": "샌프란시스코 케이블카는 아주 가파른 언덕을 오르내리는 작은 전차예요. 땅속에서 쉬지 않고 움직이는 굵은 쇠줄을 꽉 잡아서 앞으로 나아가요.",
+      "funFact": "사람이 손으로 직접 운전하는 이런 케이블카는 세계에서 여기만 남아 있어요. 땡땡 종 치기 대회도 열린대요!",
+      "wiki": "San Francisco cable car system",
+      "photoQuery": "San Francisco cable car",
+      "photoMatch": [
+        "cable car",
+        "cablecar",
+        "powell",
+        "hyde st"
+      ],
+      "videoQueries": [
+        "San Francisco cable car",
+        "San Francisco cable car hill",
+        "San Francisco cable car Powell Hyde"
+      ],
+      "videoMatch": [
+        "cable car",
+        "cablecar"
+      ],
+      "videoExclude": [
+        "model",
+        "toy"
+      ]
+    },
+    {
+      "id": "nyc-subway",
+      "region": "usa",
+      "type": "metro",
+      "name": "뉴욕 지하철",
+      "subtitle": "역이 가장 많은 지하철",
+      "color": "#1D4ED8",
+      "speedKmh": 80,
+      "since": 1904,
+      "country": "미국",
+      "story": "뉴욕 지하철은 미국의 큰 도시 뉴욕의 땅속을 달리는 지하철이에요. 낮에도 밤에도, 하루 24시간 내내 쉬지 않고 달려요!",
+      "funFact": "역이 400개가 넘어서, 세계에서 역이 가장 많은 지하철이에요!",
+      "wiki": "New York City Subway",
+      "photoQuery": "New York City Subway train",
+      "photoMatch": [
+        "subway",
+        "nyc",
+        "mta",
+        "r142",
+        "r160",
+        "r179",
+        "r211",
+        "r62",
+        "r46",
+        "r68"
+      ],
+      "videoQueries": [
+        "NYC subway train arriving",
+        "New York subway express train passing",
+        "NYC subway R211 train"
+      ],
+      "videoMatch": [
+        "subway",
+        "nyc",
+        "mta"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "california-zephyr",
+      "region": "usa",
+      "type": "intercity",
+      "name": "캘리포니아 제퍼",
+      "subtitle": "로키산맥을 넘는 2층 기차",
+      "color": "#334155",
+      "speedKmh": 127,
+      "since": 1983,
+      "country": "미국",
+      "story": "캘리포니아 제퍼는 미국 시카고에서 서쪽 샌프란시스코 근처까지 아주 멀리 달리는 기차예요. 창밖으로 눈 덮인 로키산맥과 강, 사막을 구경할 수 있어요.",
+      "funFact": "끝에서 끝까지 가는 데 이틀도 넘게 걸려요. 기차에서 이틀 밤을 자야 해요!",
+      "wiki": "California Zephyr",
+      "photoQuery": "Amtrak California Zephyr",
+      "photoMatch": [
+        "california zephyr",
+        "zephyr"
+      ],
+      "videoQueries": [
+        "Amtrak California Zephyr passing",
+        "California Zephyr train",
+        "California Zephyr Glenwood Canyon"
+      ],
+      "videoMatch": [
+        "zephyr"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "chicago-l",
+      "region": "usa",
+      "type": "metro",
+      "name": "시카고 L",
+      "subtitle": "공중으로 달리는 고가 전철",
+      "color": "#C60C30",
+      "speedKmh": 88,
+      "since": 1892,
+      "country": "미국",
+      "story": "시카고 L은 미국 시카고에서 높은 다리 위로 달리는 전철이에요. 'L'은 '높이 올라간'이라는 뜻의 영어 엘리베이티드(elevated)에서 따온 이름이에요.",
+      "funFact": "시내 한가운데에는 기차가 빌딩 사이를 네모나게 빙 도는 '루프'라는 길이 있어요!",
+      "wiki": "Chicago \"L\"",
+      "photoQuery": "Chicago L CTA train",
+      "photoMatch": [
+        "cta",
+        "chicago l",
+        "chicago 'l'",
+        "chicago \"l\"",
+        "elevated"
+      ],
+      "videoQueries": [
+        "Chicago L train passing",
+        "CTA train Loop elevated",
+        "CTA 7000 series train"
+      ],
+      "videoMatch": [
+        "cta",
+        "chicago l",
+        "chicago 'l'",
+        "the loop",
+        "\"l\""
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "brightline",
+      "region": "usa",
+      "type": "intercity",
+      "name": "브라이트라인",
+      "subtitle": "플로리다를 달리는 기차",
+      "color": "#CA8A04",
+      "speedKmh": 200,
+      "since": 2018,
+      "country": "미국",
+      "story": "브라이트라인은 미국 플로리다의 마이애미와 올랜도를 잇는 기차예요. 놀이공원이 많은 올랜도까지 신나게 달려가요.",
+      "funFact": "가장 빠른 곳에서는 시속 200km로 달려요. 회사가 직접 만들어 운영하는 미국의 하나뿐인 여객 철도예요!",
+      "wiki": "Brightline",
+      "photoQuery": "Brightline train Florida",
+      "photoMatch": [
+        "brightline",
+        "bright line",
+        "scb-40",
+        "all aboard florida"
+      ],
+      "videoQueries": [
+        "Brightline train passing",
+        "Brightline high speed Florida",
+        "Brightline train crossing"
+      ],
+      "videoMatch": [
+        "brightline"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "mount-washington",
+      "region": "usa",
+      "type": "scenic",
+      "name": "마운트 워싱턴 톱니 기차",
+      "subtitle": "가파른 산을 오르는 톱니 기차",
+      "color": "#7C2D12",
+      "speedKmh": 7,
+      "since": 1869,
+      "country": "미국",
+      "story": "이 기차는 미국의 높은 산 마운트 워싱턴을 오르는 기차예요. 바퀴의 톱니가 선로 가운데 사다리 같은 레일에 꽉 맞물려서 아주 가파른 산도 미끄러지지 않고 올라가요.",
+      "funFact": "세계에서 처음 생긴 톱니바퀴 산악 기차예요. 올라갈 때는 사람이 걷는 것과 비슷한 빠르기로 천천히 올라가요!",
+      "wiki": "Mount Washington Cog Railway",
+      "photoQuery": "Mount Washington Cog Railway",
+      "photoMatch": [
+        "cog railway",
+        "cog",
+        "mount washington",
+        "peppersass"
+      ],
+      "videoQueries": [
+        "Mount Washington Cog Railway",
+        "Mount Washington Cog Railway steam",
+        "Mount Washington cog train climbing"
+      ],
+      "videoMatch": [
+        "cog",
+        "mount washington"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "us-freight",
+      "region": "usa",
+      "type": "special",
+      "name": "미국 화물열차",
+      "subtitle": "끝이 안 보이는 긴 기차",
+      "color": "#C2410C",
+      "speedKmh": 110,
+      "since": 1830,
+      "country": "미국",
+      "story": "미국 화물열차는 컨테이너, 자동차, 곡식 같은 짐을 잔뜩 싣고 아주 먼 곳까지 날라요. 기관차 여러 대가 힘을 합쳐 끌어서 기차가 엄청 길어요.",
+      "funFact": "미국은 세계에서 철길이 가장 긴 나라예요. 컨테이너를 2층으로 쌓아 나르는 기차도 있어요!",
+      "wiki": "Rail transportation in the United States",
+      "photoQuery": "BNSF freight train",
+      "photoMatch": [
+        "freight",
+        "bnsf",
+        "union pacific",
+        "csx",
+        "norfolk southern",
+        "intermodal",
+        "double stack",
+        "double-stack",
+        "coal train"
+      ],
+      "videoQueries": [
+        "BNSF freight train passing",
+        "Union Pacific freight train",
+        "double stack container train passing"
+      ],
+      "videoMatch": [
+        "freight",
+        "bnsf",
+        "union pacific",
+        "csx",
+        "norfolk southern",
+        "double stack"
+      ],
+      "videoExclude": [
+        "big boy",
+        "4014",
+        "toy",
+        "model",
+        "lego"
+      ]
+    },
+    {
+      "id": "general-locomotive",
+      "region": "usa",
+      "type": "steam",
+      "name": "제너럴",
+      "subtitle": "유명한 기차 추격전",
+      "color": "#7C2D12",
+      "speedKmh": 60,
+      "since": 1855,
+      "country": "미국",
+      "story": "제너럴은 1855년에 만들어진 옛날 증기기관차예요. 앞에 커다란 굴뚝과 소 밀어내기 장치가 달린 귀여운 모양이에요. 지금은 박물관에서 편히 쉬고 있어요.",
+      "funFact": "옛날에 기차 두 대가 선로 위에서 서로 쫓고 쫓기는 아주 유명한 '기차 추격전'의 주인공이에요!",
+      "wiki": "The General (locomotive)",
+      "photoQuery": "General locomotive Western Atlantic",
+      "photoMatch": [
+        "general locomotive",
+        "general (locomotive)",
+        "western & atlantic",
+        "general, western",
+        "general abandon"
+      ],
+      "videoQueries": [
+        "The General locomotive Kennesaw museum",
+        "The General steam locomotive 1855",
+        "Great Locomotive Chase General locomotive"
+      ],
+      "videoMatch": [
+        "general"
+      ],
+      "videoExclude": [
+        "lego",
+        "model",
+        "o gauge",
+        "n scale"
+      ]
+    },
+    {
+      "id": "jupiter-locomotive",
+      "region": "usa",
+      "type": "steam",
+      "name": "주피터",
+      "subtitle": "대륙을 이은 기관차",
+      "color": "#991B1B",
+      "speedKmh": 60,
+      "since": 1869,
+      "country": "미국",
+      "story": "주피터는 빨강, 파랑, 금색으로 알록달록 꾸민 증기기관차예요. 1869년에 미국 동쪽과 서쪽에서 깔아 온 철길이 처음으로 하나로 이어지던 날, 그 자리에 있었어요.",
+      "funFact": "그날 동쪽에서 온 119호 기관차와 서쪽에서 온 주피터가 코를 마주 대고 만났어요. 이음매에는 황금 못을 박았답니다!",
+      "wiki": "Jupiter (locomotive)",
+      "photoQuery": "Jupiter locomotive Golden Spike",
+      "photoMatch": [
+        "jupiter",
+        "golden spike",
+        "promontory"
+      ],
+      "videoQueries": [
+        "Jupiter 119 Golden Spike locomotives",
+        "Jupiter steam locomotive Golden Spike National Historical Park",
+        "Golden Spike locomotives Jupiter 119 run"
+      ],
+      "videoMatch": [
+        "jupiter",
+        "golden spike",
+        "119"
+      ],
+      "videoExclude": [
+        "lego",
+        "model"
+      ]
+    },
+    {
+      "id": "twentieth-century-limited",
+      "region": "usa",
+      "type": "intercity",
+      "name": "20세기 특급",
+      "subtitle": "빨간 카펫을 깔던 기차",
+      "color": "#334155",
+      "speedKmh": 130,
+      "since": 1902,
+      "country": "미국",
+      "story": "20세기 특급은 뉴욕과 시카고 사이를 달리던 아주 멋진 기차였어요. 1938년부터는 매끈한 유선형 증기기관차가 앞장서서 '세계에서 가장 유명한 기차'라고 불렸어요.",
+      "funFact": "손님들은 역에 깔린 빨간 카펫을 밟고 기차에 탔어요. 그래서 '레드카펫 대접'이라는 말이 여기서 생겼대요!",
+      "wiki": "20th Century Limited",
+      "photoQuery": "20th Century Limited train",
+      "photoMatch": [
+        "20th century",
+        "century limited",
+        "century ltd",
+        "hudson"
+      ],
+      "videoQueries": [
+        "20th Century Limited train film",
+        "New York Central 20th Century Limited Hudson",
+        "20th Century Limited streamliner"
+      ],
+      "videoMatch": [
+        "20th century",
+        "century limited"
+      ],
+      "videoExclude": [
+        "lego",
+        "model",
+        "ho scale"
+      ]
+    },
+    {
+      "id": "pioneer-zephyr",
+      "region": "usa",
+      "type": "intercity",
+      "name": "파이오니어 제퍼",
+      "subtitle": "반짝반짝 은색 기차",
+      "color": "#475569",
+      "speedKmh": 180,
+      "since": 1934,
+      "country": "미국",
+      "story": "파이오니어 제퍼는 1934년에 만들어진 은색으로 반짝이는 기차예요. 녹슬지 않는 금속으로 만들어서 거울처럼 빛나요. 지금은 시카고의 박물관에서 만날 수 있어요.",
+      "funFact": "덴버에서 시카고까지 1,600km가 넘는 길을 해 뜰 때부터 해 질 때까지 쉬지 않고 한 번에 달렸어요!",
+      "wiki": "Pioneer Zephyr",
+      "photoQuery": "Pioneer Zephyr train",
+      "photoMatch": [
+        "pioneer zephyr",
+        "burlington zephyr"
+      ],
+      "videoQueries": [
+        "Pioneer Zephyr 1934 film",
+        "Burlington Zephyr Dawn to Dusk run",
+        "Pioneer Zephyr train"
+      ],
+      "videoMatch": [
+        "zephyr"
+      ],
+      "videoExclude": [
+        "california zephyr",
+        "lego",
+        "model"
+      ]
+    },
+    {
+      "id": "seattle-monorail",
+      "region": "usa",
+      "type": "monorail",
+      "name": "시애틀 모노레일",
+      "subtitle": "2분이면 도착!",
+      "color": "#B91C1C",
+      "speedKmh": 72,
+      "since": 1962,
+      "country": "미국",
+      "story": "시애틀 모노레일은 1962년 세계 박람회 때 만들어진 모노레일이에요. 굵은 선로 하나에 올라타서 도시 위를 슝 하고 달려요.",
+      "funFact": "한쪽 끝에서 반대쪽 끝까지 2분쯤이면 도착해요. 60년도 넘은 처음 그 기차가 지금도 달리고 있어요!",
+      "wiki": "Seattle Center Monorail",
+      "photoQuery": "Seattle Monorail train",
+      "photoMatch": [
+        "seattle monorail",
+        "seattle center monorail",
+        "monorail"
+      ],
+      "videoQueries": [
+        "Seattle Monorail train arriving",
+        "Seattle Center Monorail ride",
+        "Seattle Monorail passing"
+      ],
+      "videoMatch": [
+        "seattle monorail",
+        "seattle center monorail",
+        "monorail"
+      ],
+      "videoExclude": [
+        "disney",
+        "las vegas"
+      ]
+    },
+    {
+      "id": "auto-train",
+      "region": "usa",
+      "type": "special",
+      "name": "오토 트레인",
+      "subtitle": "자동차를 태우는 기차",
+      "color": "#1E3A8A",
+      "speedKmh": 110,
+      "since": 1983,
+      "country": "미국",
+      "story": "오토 트레인은 사람과 자동차를 함께 태우고 달리는 특별한 기차예요. 버지니아에서 플로리다까지 밤새 달리는 동안, 자동차는 뒤쪽의 커다란 상자 같은 칸에 실려 가요.",
+      "funFact": "한 번에 자동차를 300대 넘게 실을 수 있어요! 그래서 기차가 엄청나게 길어요.",
+      "wiki": "Auto Train",
+      "photoQuery": "Amtrak Auto Train",
+      "photoMatch": [
+        "auto train",
+        "autotrain",
+        "auto-train"
+      ],
+      "videoQueries": [
+        "Amtrak Auto Train passing",
+        "Amtrak Auto Train 53",
+        "Auto Train Amtrak long train"
+      ],
+      "videoMatch": [
+        "auto train",
+        "autotrain",
+        "auto-train"
+      ],
+      "videoExclude": []
+    },
+    {
+      "id": "coast-starlight",
+      "region": "usa",
+      "type": "scenic",
+      "name": "코스트 스타라이트",
+      "subtitle": "바닷가를 달리는 2층 기차",
+      "color": "#1D4ED8",
+      "speedKmh": 127,
+      "since": 1971,
+      "country": "미국",
+      "story": "코스트 스타라이트는 시애틀에서 로스앤젤레스까지 미국 서쪽 바닷가를 따라 달리는 기차예요. 2층으로 된 커다란 객차에 타서 산과 바다를 구경하며 여행해요.",
+      "funFact": "유리창이 천장까지 닿는 전망칸이 있어서, 하늘과 바다를 한눈에 볼 수 있어요!",
+      "wiki": "Coast Starlight",
+      "photoQuery": "Amtrak Coast Starlight train",
+      "photoMatch": [
+        "coast starlight"
+      ],
+      "videoQueries": [
+        "Amtrak Coast Starlight passing",
+        "Coast Starlight train",
+        "Amtrak Coast Starlight along the coast"
+      ],
+      "videoMatch": [
+        "coast starlight"
+      ],
+      "videoExclude": []
+    }
+  ]
+}

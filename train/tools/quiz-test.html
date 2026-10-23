@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>퀴즈 테스트</title>
+<base href="../">
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+<main id="app"></main>
+<script src="quiz.js"></script>
+<script>
+// Standalone harness for the quiz (the real app mounts it from app.js).
+fetch("data/quiz.json?v=" + Date.now()).then((r) => r.json()).then((quiz) => {
+  window.unmountQuiz = window.QuizGame.mount(document.getElementById("app"), { quiz });
+});
+</script>
+</body>
+</html>
