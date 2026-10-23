@@ -3,5 +3,4 @@ _site/
 dist/
 __pycache__/
 train/dist/
-train/diff_work/
 train/tools/candidates/

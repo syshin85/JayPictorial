@@ -1,6 +1,6 @@
 {
-  "name": "신재하의 기차 도감",
-  "short_name": "신재하의 기차 도감",
+  "name": "기차 도감",
+  "short_name": "기차 도감",
   "start_url": "./",
   "display": "standalone",
   "orientation": "any",

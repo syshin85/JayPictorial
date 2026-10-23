@@ -1,6 +1,6 @@
 {
-  "name": "신재하의 도감",
-  "short_name": "신재하의 도감",
+  "name": "신재하의 백과사전",
+  "short_name": "신재하의 백과사전",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -1,9 +1,9 @@
-# JayPictorial — 신재하의 도감
+# JayPictorial — 신재하의 백과사전
 
 A collection of picture books (도감) for a 6-year-old, as one website on GitHub Pages.
 
 - `index.html` — the top page: pick a pictorial.
-- `train/` — 신재하의 기차 도감 (trains). See `train/README.md`.
+- `train/` — 기차 도감 (trains). See `train/README.md`.
 - More pictorials go in their own folders and get a card on the top page
   and an entry in `PICTORIALS` in `tools/build_site.py`.
 

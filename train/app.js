@@ -76,7 +76,7 @@ function renderHome() {
       <a class="round-btn pictorial-back" href="../" aria-label="도감 고르기">📚</a>
       <div class="home-hero">
         <div class="home-train" aria-hidden="true">🚄</div>
-        <h1><small>신재하의</small>기차 도감</h1>
+        <h1>기차 도감</h1>
         <p>세계의 멋진 기차들을 만나보자!</p>
       </div>
       <div class="home-buttons">
@@ -99,10 +99,6 @@ function renderHome() {
         <button class="big-btn home-coupling" data-go="#/coupling">
           <span class="big-emoji">🧮</span>
           <span class="big-label">객차 연결하기</span>
-        </button>
-        <button class="big-btn home-diff" data-go="#/diff">
-          <span class="big-emoji">🔍</span>
-          <span class="big-label">틀린그림찾기</span>
         </button>
         <button class="big-btn home-music" data-go="#/music">
           <span class="big-emoji">🎵</span>
@@ -488,10 +484,6 @@ function renderCoupling() {
   unmountGame = window.CouplingGame.mount(app);
 }
 
-function renderDiff() {
-  unmountGame = window.DiffGame.mount(app, { trains: state.trains, media: state.media });
-}
-
 function renderQuiz() {
   unmountGame = window.QuizGame.mount(app, { quiz: state.quiz });
 }
@@ -508,7 +500,6 @@ function route() {
   else if (page === "quiz") renderQuiz();
   else if (page === "music") renderMusic(arg);
   else if (page === "coupling") renderCoupling();
-  else if (page === "diff") renderDiff();
   else if (page === "book") renderBook(arg);
   else if (page === "train") renderTrain(arg);
   else renderHome();
