@@ -4,6 +4,7 @@ A collection of picture books (도감) for a 6-year-old, as one website on GitHu
 
 - `index.html` — the top page: pick a pictorial.
 - `train/` — 기차 도감 (trains). See `train/README.md`.
+- `space/` — 우주 도감 (planets, stars, rockets, spacecraft).
 - More pictorials go in their own folders and get a card on the top page
   and an entry in `PICTORIALS` in `tools/build_site.py`.
 

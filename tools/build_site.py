@@ -16,7 +16,7 @@ SITE = ROOT / "_site"
 
 TOP_FILES = ["index.html", "sw.js", "manifest.webmanifest", ".nojekyll"]
 TOP_DIRS = ["assets"]
-PICTORIALS = ["train"]  # each has tools/build_web.py with main(out_dir)
+PICTORIALS = ["train", "space"]  # each has tools/build_web.py with main(out_dir)
 
 
 def main():

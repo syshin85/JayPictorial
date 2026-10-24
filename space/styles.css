@@ -1,0 +1,314 @@
+/* 우주 도감: same layout as the train pictorial, on a night-sky theme */
+:root {
+  --bg: #0E1433;
+  --ink: #F3F4FF;
+  --ink-soft: #A9B0D6;
+  --card: #1B2250;
+  --line: #070B22;
+  --raise: #252E66;
+  --radius: 28px;
+  --head: "Jua", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+  --body: "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--body);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+/* little stars behind everything */
+body {
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  min-height: 100dvh;
+  background:
+    radial-gradient(1.5px 1.5px at 12% 18%, #fff 50%, transparent 51%),
+    radial-gradient(1px 1px at 28% 72%, #fff 50%, transparent 51%),
+    radial-gradient(2px 2px at 46% 34%, #FFE9A8 50%, transparent 51%),
+    radial-gradient(1px 1px at 63% 12%, #fff 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 78% 58%, #CFE0FF 50%, transparent 51%),
+    radial-gradient(1px 1px at 90% 26%, #fff 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 8% 88%, #fff 50%, transparent 51%),
+    radial-gradient(1px 1px at 55% 92%, #fff 50%, transparent 51%),
+    var(--bg);
+  background-size: 420px 420px, 420px 420px, 420px 420px, 420px 420px, 420px 420px, 420px 420px, 420px 420px, 420px 420px, auto;
+  background-attachment: fixed;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+img { display: block; max-width: 100%; -webkit-user-drag: none; -webkit-touch-callout: none; }
+
+h1, h2, .card-name, .big-label, .tab, .chip b, .fun-title {
+  font-family: var(--head);
+  font-weight: 400;
+}
+
+/* ---------- home ---------- */
+.home {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  padding: 32px 24px 120px;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-hero { text-align: center; }
+/* back to the pictorial chooser (JayPictorial top page) */
+.pictorial-back {
+  position: absolute; z-index: 2; text-decoration: none;
+  top: 16px; left: 16px;
+}
+.home-hero h1 { font-size: clamp(56px, 9vw, 96px); margin: 8px 0 4px; color: #FFD34D; letter-spacing: 2px; line-height: 1.05; }
+.home-hero p { font-size: 24px; color: var(--ink-soft); margin: 0; }
+.home-rocket { font-size: 110px; animation: fly 1.8s ease-in-out infinite; }
+
+@keyframes fly {
+  0%, 100% { transform: translateY(0) rotate(-6deg); }
+  50% { transform: translateY(-14px) rotate(4deg); }
+}
+
+.home-buttons { display: flex; flex-wrap: wrap; gap: 28px; justify-content: center; }
+
+.big-btn {
+  width: min(280px, 42vw, 32vh);
+  aspect-ratio: 1;
+  border-radius: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  background: var(--c);
+  color: #fff;
+  box-shadow: 0 10px 0 color-mix(in srgb, var(--c) 55%, #000);
+  transition: transform .12s, box-shadow .12s;
+}
+.big-btn:active { transform: translateY(8px); box-shadow: 0 2px 0 color-mix(in srgb, var(--c) 55%, #000); }
+.big-emoji { font-size: 96px; line-height: 1; }
+.big-label { font-size: 34px; text-align: center; line-height: 1.2; padding: 0 8px; }
+
+.planets-deco {
+  position: absolute; left: 0; right: 0; bottom: 28px;
+  text-align: center; font-size: 40px; letter-spacing: 28px; opacity: .85;
+}
+
+/* ---------- top bar ---------- */
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; align-items: center; gap: 16px;
+  padding: 16px 24px;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.topbar h1 { margin: 0; font-size: 36px; flex: 1; }
+.topbar .count { font-family: var(--head); font-size: 22px; color: var(--ink-soft); }
+.crumb { flex: 1; text-align: center; font-family: var(--head); font-size: 26px; color: var(--ink-soft); }
+.crumb .flag { margin-right: 6px; }
+
+.round-btn {
+  width: 64px; height: 64px; flex: none;
+  border-radius: 50%;
+  background: var(--raise);
+  font-size: 30px;
+  box-shadow: 0 4px 0 var(--line);
+  display: grid; place-items: center;
+}
+.round-btn:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--line); }
+
+/* ---------- book ---------- */
+.tabs { display: flex; gap: 14px; padding: 4px 24px 20px; flex-wrap: wrap; }
+.tab {
+  font-size: 28px;
+  padding: 12px 28px 12px 20px;
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink-soft);
+  box-shadow: 0 4px 0 var(--line);
+  display: flex; align-items: center; gap: 10px;
+}
+.tab .flag { font-size: 34px; }
+.tab.active { background: var(--c); color: #fff; box-shadow: 0 4px 0 color-mix(in srgb, var(--c) 60%, #000); }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 24px;
+  padding: 0 24px 48px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-align: left;
+  box-shadow: 0 6px 0 var(--line);
+  border-bottom: 8px solid var(--c);
+  transition: transform .12s;
+  animation: cardIn .35s backwards;
+}
+.card:nth-child(2) { animation-delay: .04s; }
+.card:nth-child(3) { animation-delay: .08s; }
+.card:nth-child(4) { animation-delay: .12s; }
+.card:nth-child(5) { animation-delay: .16s; }
+.card:nth-child(6) { animation-delay: .20s; }
+.card:nth-child(n+7) { animation-delay: .24s; }
+.card:active { transform: scale(.96); }
+
+@keyframes cardIn { from { opacity: 0; transform: translateY(16px); } }
+
+.card-img { position: relative; aspect-ratio: 4 / 3; background: #000; }
+.card-img img { width: 100%; height: 100%; object-fit: cover; }
+.placeholder { display: grid; place-items: center; height: 100%; font-size: 72px; }
+.card-body { padding: 14px 18px 16px; }
+.card-name { font-size: 28px; line-height: 1.15; }
+.card-sub { font-size: 16px; color: var(--ink-soft); margin-top: 4px; }
+
+/* ---------- detail ---------- */
+.detail { padding-bottom: 48px; }
+
+.detail-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 28px;
+  padding: 0 24px;
+  align-items: start;
+}
+@media (orientation: portrait), (max-width: 900px) {
+  .detail-main { grid-template-columns: 1fr; }
+}
+
+.gallery { position: sticky; top: 96px; }
+@media (orientation: portrait), (max-width: 900px) { .gallery { position: static; } }
+
+.slides {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  border-radius: var(--radius);
+  background: #000;
+  scrollbar-width: none;
+  aspect-ratio: 4 / 3;
+  box-shadow: 0 8px 0 var(--line);
+}
+.slides::-webkit-scrollbar { display: none; }
+/* contain, not cover: tall rockets and round planets stay whole on the black sky */
+.slide {
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  scroll-snap-align: center;
+}
+.slide.placeholder { font-size: 120px; }
+
+.thumbs { display: flex; gap: 10px; margin-top: 18px; }
+.thumb {
+  flex: 1; min-width: 0; aspect-ratio: 4 / 3;
+  border-radius: 14px; overflow: hidden;
+  opacity: .5;
+  outline: 4px solid transparent;
+  outline-offset: 2px;
+  transition: opacity .15s, outline-color .15s;
+}
+.thumb img { width: 100%; height: 100%; object-fit: cover; }
+.thumb.active { opacity: 1; outline-color: var(--c); }
+
+.item-name { font-size: clamp(44px, 6vw, 64px); margin: 0; color: var(--c); line-height: 1.05; }
+.item-sub { font-size: 22px; color: var(--ink-soft); margin: 8px 0 20px; }
+
+.chips { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.chip {
+  background: var(--card);
+  border-radius: 20px;
+  padding: 14px 12px;
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  box-shadow: 0 4px 0 var(--line);
+  text-align: center;
+}
+.chip-ico { font-size: 30px; }
+.chip-k { font-size: 14px; color: var(--ink-soft); }
+.chip b { font-size: 30px; line-height: 1.1; white-space: nowrap; }
+.chip b.sm { font-size: 20px; padding-top: 6px; white-space: normal; }
+.chip small { font-size: 15px; margin-left: 2px; }
+
+.story { font-size: 22px; line-height: 1.7; margin: 24px 0 20px; }
+
+.fun {
+  background: #2A2560;
+  border-radius: 22px;
+  padding: 16px 22px;
+  border: 3px dashed #FFD34D;
+}
+.fun-title { font-size: 24px; color: #FFD34D; }
+.fun p { font-size: 20px; line-height: 1.6; margin: 6px 0 0; }
+
+.credits { margin: 32px 24px 0; color: var(--ink-soft); font-size: 13px; }
+.credits summary { cursor: pointer; font-size: 15px; }
+.credits ul { padding-left: 18px; line-height: 1.6; }
+.credits a { color: inherit; }
+
+/* ---------- small screens (phones in portrait) ---------- */
+/* Korean lines break between words, never in the middle of one */
+body { word-break: keep-all; overflow-wrap: break-word; }
+@media (max-width: 600px) {
+  .home { gap: 32px; padding: 24px 16px 90px; }
+  .home-rocket { font-size: 76px; }
+  .home-hero p { font-size: 18px; }
+  .home-buttons { gap: 14px; width: 100%; max-width: 420px; }
+  .big-btn { width: calc(50% - 7px); border-radius: 28px; gap: 8px; box-shadow: 0 7px 0 color-mix(in srgb, var(--c) 55%, #000); }
+  .big-emoji { font-size: 60px; }
+  .big-label { font-size: 22px; }
+  .planets-deco { font-size: 28px; letter-spacing: 16px; bottom: 20px; }
+  .topbar { padding: 10px 16px; gap: 10px; }
+  .topbar h1 { font-size: 26px; }
+  .round-btn { width: 48px; height: 48px; font-size: 22px; }
+  /* one row of small tabs that scrolls sideways */
+  .tabs { flex-wrap: nowrap; overflow-x: auto; gap: 8px; padding: 2px 16px 14px; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: none; font-size: 17px; padding: 8px 14px 8px 10px; gap: 6px; box-shadow: 0 3px 0 var(--line); }
+  .tab .flag { font-size: 20px; }
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; padding: 0 16px 32px; }
+  .card { border-radius: 20px; border-bottom-width: 6px; }
+  .card-body { padding: 10px 12px 12px; }
+  .card-name { font-size: 18px; }
+  .card-sub { font-size: 12px; }
+  .detail-main { padding: 0 16px; gap: 20px; }
+  .slides { border-radius: 20px; }
+  .thumbs { gap: 6px; margin-top: 12px; }
+  .item-name { font-size: 38px; }
+  .item-sub { font-size: 17px; margin-bottom: 14px; }
+  .chips { gap: 8px; }
+  .chip { padding: 10px 6px; border-radius: 16px; }
+  .chip-ico { font-size: 24px; }
+  .chip-k { font-size: 12px; }
+  .chip b { font-size: 22px; }
+  .chip b.sm { font-size: 15px; }
+  .chip small { font-size: 12px; }
+  .story { font-size: 18px; line-height: 1.65; }
+  .fun { padding: 12px 16px; }
+  .fun-title { font-size: 20px; }
+  .fun p { font-size: 16px; }
+  .credits { margin: 24px 16px 0; }
+  .crumb { font-size: 20px; }
+}

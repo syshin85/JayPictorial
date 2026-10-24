@@ -3,4 +3,6 @@ _site/
 dist/
 __pycache__/
 train/dist/
+space/dist/
 train/tools/candidates/
+space/tools/candidates.json

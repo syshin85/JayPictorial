@@ -1,0 +1,10 @@
+{
+  "name": "우주 도감",
+  "short_name": "우주 도감",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E1433",
+  "theme_color": "#0E1433",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
