@@ -535,10 +535,10 @@
     "images": [
       {
         "src": "assets/items/danuri/1.jpg",
-        "credit": "Unknown authorUnknown author",
-        "license": "CC BY 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:KPLO_flight_configuration.jpg",
-        "file": "File:KPLO flight configuration.jpg"
+        "credit": "Ministry of Science and ICT 과학기술정보통신부",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:Kplo_rendered_image.png",
+        "file": "File:Kplo rendered image.png"
       },
       {
         "src": "assets/items/danuri/2.jpg",

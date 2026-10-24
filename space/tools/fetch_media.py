@@ -8,11 +8,14 @@ Usage:
   python3 tools/fetch_media.py mars iss   # refetch specific item ids
 
 An item can pin its photos with "photos": ["File:….jpg", …] (used in that order), and drop
-unwanted ones with "photoSkip": ["word in file name", …].
+unwanted ones with "photoSkip": ["word in file name", …]. A pinned .png (a cut-out render on a
+white or transparent background) is put on a black sky by tools/on_black.swift.
 """
 import json
 import re
+import subprocess
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.parse
@@ -119,6 +122,17 @@ def image_url(ii, width):
     return head.replace("/commons/", "/commons/thumb/", 1) + f"/{name}/{w}px-{name}"
 
 
+def download(f, ii, width):
+    """JPEG bytes of a photo at about `width` pixels."""
+    if not f.lower().endswith(".png"):
+        return get(image_url(ii, width))
+    with tempfile.TemporaryDirectory() as tmp:
+        src, out = Path(tmp) / "in.png", Path(tmp) / "out.jpg"
+        src.write_bytes(get(ii["url"] if ii["width"] <= 1280 else image_url(ii, 1280)))
+        subprocess.run(["swift", str(Path(__file__).parent / "on_black.swift"), str(src), str(out), str(width)], check=True)
+        return out.read_bytes()
+
+
 def fetch_images(item, old_images=()):
     if item.get("photos"):
         infos = image_infos(item["photos"], PHOTO_WIDTH)
@@ -141,7 +155,7 @@ def fetch_images(item, old_images=()):
     images = []
     for f, ii in infos[:IMAGES_PER_ITEM]:
         n = len(images) + 1
-        (out_dir / f"{n}.jpg").write_bytes(have[f] if f in have else get(image_url(ii, PHOTO_WIDTH)))
+        (out_dir / f"{n}.jpg").write_bytes(have[f] if f in have else download(f, ii, PHOTO_WIDTH))
         meta = ii.get("extmetadata", {})
         images.append({
             "src": f"assets/items/{item['id']}/{n}.jpg",
@@ -155,7 +169,7 @@ def fetch_images(item, old_images=()):
     if infos and infos[0][0] == old_first and old_thumb:
         (out_dir / "thumb.jpg").write_bytes(old_thumb)
     elif infos:
-        (out_dir / "thumb.jpg").write_bytes(get(image_url(infos[0][1], THUMB_WIDTH)))
+        (out_dir / "thumb.jpg").write_bytes(download(*infos[0], THUMB_WIDTH))
     return images
 
 
