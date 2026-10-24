@@ -36,7 +36,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Venus-pacific-levelled.jpg",
         "file": "File:Venus-pacific-levelled.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "yUrIzPRI4GE",
+      "title": "Magellan: Venus False-Color Terrain",
+      "seconds": 61,
+      "channel": "NASA Scientific Visualization Studio"
+    }
   },
   "earth": {
     "images": [
@@ -75,7 +81,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Earthset_(art002e009288).jpg",
         "file": "File:Earthset (art002e009288).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "0D4lDD3kkhc",
+      "title": "Time-Lapse: 7 Amazing Views of Earth from Space | National Geographic",
+      "seconds": 49,
+      "channel": "National Geographic"
+    }
   },
   "meteor": {
     "images": [
@@ -114,7 +126,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Murnpeowie_meteorite.jpg",
         "file": "File:Murnpeowie meteorite.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "HGmKcIKoLNg",
+      "title": "60 Seconds Timelapse of the Perseid Meteor Shower in Joshua Tree Park",
+      "seconds": 61,
+      "channel": "Kai Gradert"
+    }
   },
   "saturn-v": {
     "images": [
@@ -153,7 +171,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Saturn_V_boosters_at_United_States_Space_%26_Rocket_Center_-_panoramio.jpg",
         "file": "File:Saturn V boosters at United States Space & Rocket Center - panoramio.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "eZDaM3MHNqg",
+      "title": "1969 Apollo 11 Saturn V launch in slow motion, Pad Camera 4 (looking down near bottom)",
+      "seconds": 80,
+      "channel": "Raw Space"
+    }
   },
   "falcon-9": {
     "images": [
@@ -192,7 +216,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Launch_of_Falcon_9_carrying_CASSIOPE_(130929-F-ET475-012).jpg",
         "file": "File:Launch of Falcon 9 carrying CASSIOPE (130929-F-ET475-012).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "mrKKf1ARWCc",
+      "title": "SpaceX CRS-35 launch and Falcon 9 first stage landing",
+      "seconds": 159,
+      "channel": "SciNews"
+    }
   },
   "starship": {
     "images": [
@@ -231,7 +261,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Starship_full_stack_with_Jeep.jpg",
         "file": "File:Starship full stack with Jeep.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "nVNIoQUcFI4",
+      "title": "WATCH: SpaceX catches Starship rocket booster back at the launch pad",
+      "seconds": 76,
+      "channel": "Associated Press"
+    }
   },
   "nuri": {
     "images": [
@@ -270,7 +306,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:KSLV-II_Nuri_and_the_launchpad_01.jpg",
         "file": "File:KSLV-II Nuri and the launchpad 01.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "7FnbLEjJrcU",
+      "title": "[공식] 누리호 4차 발사 미공개 4K 영상 최초 공개",
+      "seconds": 92,
+      "channel": "한국항공우주연구원 KARI TV"
+    }
   },
   "sls": {
     "images": [
@@ -309,7 +351,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160029).jpg",
         "file": "File:Artemis I Launch (NHQ202211160029).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "flxSwcQqT-U",
+      "title": "ARTEMIS I launch with Outro - M83",
+      "seconds": 123,
+      "channel": "Rabbit-dyne "
+    }
   },
   "ariane-5": {
     "images": [
@@ -341,7 +389,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_(NHQ202112230018).jpg",
         "file": "File:Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230018).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "qnTMm6LGMsw",
+      "title": "Webb flies Ariane 5: from preparation to liftoff at Europe’s Spaceport",
+      "seconds": 195,
+      "channel": "European Space Agency, ESA"
+    }
   },
   "vostok-1": {
     "images": [
@@ -373,7 +427,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Vostok_1_after_landing.jpg",
         "file": "File:Vostok 1 after landing.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "JGMvpP2gGy8",
+      "title": "Yuri Gagarin Launches As First Human In Space On Vostok-1 R7 1961 - Footage And Radio",
+      "seconds": 165,
+      "channel": "Julian Danzer (HAL9001)"
+    }
   },
   "apollo-11": {
     "images": [
@@ -412,7 +472,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
         "file": "File:Apollo 11 Launch - GPN-2000-000630.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "wd6ekSYpt9w",
+      "title": "NASA | \"Plant the Flag\" - Partially Restored Apollo 11 Video",
+      "seconds": 44,
+      "channel": "NASA Goddard"
+    }
   },
   "space-shuttle": {
     "images": [
@@ -451,7 +517,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Discovery_Landing_after_STS-124.jpg",
         "file": "File:Space Shuttle Discovery Landing after STS-124.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ZafFZo6s5JU",
+      "title": "[소리주의] 우주왕복선 발사부터 착륙까지 전과정",
+      "seconds": 177,
+      "channel": "Rogan Amie"
+    }
   },
   "iss": {
     "images": [
@@ -490,7 +562,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:ISS_from_Atlantis_-_Sts101-714-016.jpg",
         "file": "File:ISS from Atlantis - Sts101-714-016.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "A-yzpHm2sN8",
+      "title": "The International Space Station seen from Soyuz MS-08 (4K UHD)",
+      "seconds": 104,
+      "channel": "SciNews"
+    }
   },
   "hubble": {
     "images": [
@@ -529,7 +607,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:UGC_1810_and_UGC_1813_in_Arp_273_(captured_by_the_Hubble_Space_Telescope).jpg",
         "file": "File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "7GQnUMVyU2w",
+      "title": "Hubble Deployment from Shuttle Cargo Bay - IMAX 3D",
+      "seconds": 67,
+      "channel": "mycompasstv"
+    }
   },
   "danuri": {
     "images": [
@@ -561,7 +645,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Space_Launch_Delta_45_supports_successful_Falcon_9_KPLO_launch_(7358476).jpeg",
         "file": "File:Space Launch Delta 45 supports successful Falcon 9 KPLO launch (7358476).jpeg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "alfZC3nJOGI",
+      "title": "🌎👉🌕 지구에서 달까지! 달 궤도선 다누리가 가는 길",
+      "seconds": 130,
+      "channel": "한국항공우주연구원 KARI TV"
+    }
   },
   "sojourner": {
     "images": [
@@ -600,7 +690,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Mars_Pathfinder_Lander_preparations.jpg",
         "file": "File:Mars Pathfinder Lander preparations.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "YywBMm8IvzI",
+      "title": "Pathfinder Landing (with Airbags) on MARS",
+      "seconds": 231,
+      "channel": "Giove Space"
+    }
   },
   "cassini": {
     "images": [
@@ -639,7 +735,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Backlit_Saturn_from_Cassini_Orbiter_2007_May_9.jpg",
         "file": "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "G-i_4hbi7hI",
+      "title": "Animation of Cassini \"E20\" Enceladus Flyby - Oct. 14, 2015",
+      "seconds": 132,
+      "channel": "NASA Solar System"
+    }
   },
   "mercury": {
     "images": [
@@ -678,7 +780,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg",
         "file": "File:MESSENGER - spacecraft at mercury - atmercury lg.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ENwD31EDFjc",
+      "title": "MESSENGER at Mercury",
+      "seconds": 232,
+      "channel": "NASA Solar System"
+    }
   },
   "mars": {
     "images": [
@@ -717,7 +825,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Mars_-_2020_Opposition_(crop).jpg",
         "file": "File:Mars - 2020 Opposition (crop).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "Al7VBQ3knzI",
+      "title": "Mars Rotation - Hubble Space Telescope - 35th Anniversary",
+      "seconds": 31,
+      "channel": "Space Telescope Science Institute"
+    }
   },
   "jupiter": {
     "images": [
@@ -756,7 +870,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Juno_orbit_around_Jupiter.jpg",
         "file": "File:Juno orbit around Jupiter.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "uj3Lq7Gu94Y",
+      "title": "Fly into the Great Red Spot of Jupiter with NASA’s Juno Mission",
+      "seconds": 75,
+      "channel": "NASA"
+    }
   },
   "saturn": {
     "images": [
@@ -795,7 +915,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:PIA17218_%E2%80%93_A_Farewell_to_Saturn,_Brightened_Version.jpg",
         "file": "File:PIA17218 – A Farewell to Saturn, Brightened Version.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "uppO4op2sNU",
+      "title": "SATURN: REAL FOOTAGE FROM CASSINI MISSION",
+      "seconds": 107,
+      "channel": "VERTIGOLABS"
+    }
   },
   "uranus": {
     "images": [
@@ -834,7 +960,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Alien_aurorae_on_Uranus_(remastered).jpg",
         "file": "File:Alien aurorae on Uranus (remastered).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "1p5uAPsluyg",
+      "title": "Uranus and it’s Rings | James Webb Space Telescope",
+      "seconds": 82,
+      "channel": "JWST Videos"
+    }
   },
   "neptune": {
     "images": [
@@ -873,7 +1005,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:PIA00063_Neptune_-_True_Color_of_Clouds.jpg",
         "file": "File:PIA00063 Neptune - True Color of Clouds.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ynUihD47ajo",
+      "title": "Voyager 2 flyby Animation - Neptune and Triton (1989) - REDUX",
+      "seconds": 95,
+      "channel": "Ian Regan"
+    }
   },
   "moon": {
     "images": [
@@ -912,7 +1050,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Full_Eclipse_of_the_Moon_as_seen_in_from_Irvine,_CA,_USA_(52075715442)_(cropped).jpg",
         "file": "File:Full Eclipse of the Moon as seen in from Irvine, CA, USA (52075715442) (cropped).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "Ilifg26TZrI",
+      "title": "Apollo 13 Views of the Moon in 4K",
+      "seconds": 145,
+      "channel": "NASA Goddard"
+    }
   },
   "pluto": {
     "images": [
@@ -951,7 +1095,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:New_Pluto_Images_from_NASA%E2%80%99s_New_Horizons-_It%E2%80%99s_Complicated_(21323357845).jpg",
         "file": "File:New Pluto Images from NASA’s New Horizons- It’s Complicated (21323357845).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "g1fPhhTT2Oo",
+      "title": "New Horizons Flyover of Pluto",
+      "seconds": 120,
+      "channel": "NASA Video"
+    }
   },
   "comet": {
     "images": [
@@ -990,7 +1140,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Great_Comet_1861_(128495343).jpg",
         "file": "File:Great Comet 1861 (128495343).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "2wQRVAK6O0U",
+      "title": "Wow! See Comet NEOWISE from space in stunning time-lapse video",
+      "seconds": 73,
+      "channel": "VideoFromSpace"
+    }
   },
   "asteroid": {
     "images": [
@@ -1029,7 +1185,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:PIA23554-AsteroidBennu-EjectingParticles-20190106.jpg",
         "file": "File:PIA23554-AsteroidBennu-EjectingParticles-20190106.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "O8R2hsoIgTc",
+      "title": "To Bennu and Back: Journey’s End",
+      "seconds": 226,
+      "channel": "NASA Goddard"
+    }
   },
   "europa": {
     "images": [
@@ -1068,7 +1230,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Photo_composite_of_suspected_water_plumes_on_Europa.jpg",
         "file": "File:Photo composite of suspected water plumes on Europa.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "foT1nW3T3a8",
+      "title": "Juno: Europa Flyby",
+      "seconds": 108,
+      "channel": "Planetary Vistas"
+    }
   },
   "titan": {
     "images": [
@@ -1107,7 +1275,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:A_Titan_Sample_Return_Using_In-Situ_Propellants.jpg",
         "file": "File:A Titan Sample Return Using In-Situ Propellants.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "2zryvUlGINc",
+      "title": "Huygens's descent to Titan's surface",
+      "seconds": 181,
+      "channel": "Observing Space"
+    }
   },
   "milky-way": {
     "images": [
@@ -1146,7 +1320,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg",
         "file": "File:Milky Way Night Sky Black Rock Desert Nevada.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ofmi03d1U0s",
+      "title": "Beauty of the Night Sky - Milky Way Time Lapse",
+      "seconds": 129,
+      "channel": "Harles Garage"
+    }
   },
   "andromeda": {
     "images": [
@@ -1185,7 +1365,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Galaxie_d%27Androm%C3%A8de_M31.jpg",
         "file": "File:Galaxie d'Andromède M31.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "TijClV4uHIk",
+      "title": "Zooming in on the Andromeda Galaxy",
+      "seconds": 57,
+      "channel": "HubbleWebbESA"
+    }
   },
   "black-hole": {
     "images": [
@@ -1224,7 +1410,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Montage_of_the_Event_Horizon_Telescope_observatories_(night)_(eso2208-eht-mwg).jpg",
         "file": "File:Montage of the Event Horizon Telescope observatories (night) (eso2208-eht-mwg).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ghoUhPbzFiQ",
+      "title": "Zooming-in to the heart of M87 to see a new view of its black hole",
+      "seconds": 48,
+      "channel": "European Southern Observatory (ESO)"
+    }
   },
   "orion-nebula": {
     "images": [
@@ -1263,7 +1455,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Orion.nebula.arp.750pix.jpg",
         "file": "File:Orion.nebula.arp.750pix.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "f32nnwgii4M",
+      "title": "Zoom-in on the Orion Nebula",
+      "seconds": 50,
+      "channel": "HubbleWebbESA"
+    }
   },
   "sirius": {
     "images": [
@@ -1302,7 +1500,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_Sirius_B_and_distant_Sirius_A_main_star_v3.jpg",
         "file": "File:Artist's impression of Sirius B and distant Sirius A main star v3.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "joXOU-TkcOA",
+      "title": "Incredible Twinkling Sirius | Brightest Star in the Night Sky",
+      "seconds": 76,
+      "channel": "Traveling across States"
+    }
   },
   "pleiades": {
     "images": [
@@ -1341,7 +1545,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Plejades_(M45).jpg",
         "file": "File:Plejades (M45).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "vi2CnjW5Olo",
+      "title": "M45 플레이아데스성단, 타임랩스~!!",
+      "seconds": 28,
+      "channel": "도도솔솔라라솔"
+    }
   },
   "crew-dragon": {
     "images": [
@@ -1380,7 +1590,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Crew_Dragon_Pad_Abort_Test_(16814592054).jpg",
         "file": "File:Crew Dragon Pad Abort Test (16814592054).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "SkTAD05mPCs",
+      "title": "스페이스X 크루드래곤과 국제우주정거장 도킹의 순간",
+      "seconds": 50,
+      "channel": "페이스"
+    }
   },
   "orion": {
     "images": [
@@ -1419,7 +1635,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Delta_IV_Heavy_on_pad_with_Orion_EFT-1_(KSC-2014-4686).jpg",
         "file": "File:Delta IV Heavy on pad with Orion EFT-1 (KSC-2014-4686).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "jrDv0OdMt5s",
+      "title": "NASA’s Artemis I Moon Mission: Launch to Splashdown Highlights",
+      "seconds": 123,
+      "channel": "NASA"
+    }
   },
   "sputnik-1": {
     "images": [
@@ -1458,7 +1680,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Sputnik_statellite_mock_up.JPG",
         "file": "File:Sputnik statellite mock up.JPG"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "lfnfNe31fmY",
+      "title": "Sputnik 1 Satellite-1 Radio Signal",
+      "seconds": 89,
+      "channel": "Technic Recordings"
+    }
   },
   "jwst": {
     "images": [
@@ -1497,7 +1725,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Stephan%27s_Quintet_taken_by_James_Webb_Space_Telescope.jpg",
         "file": "File:Stephan's Quintet taken by James Webb Space Telescope.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "RzGLKQ7_KZQ",
+      "title": "James Webb Space Telescope Deployment Sequence (Nominal)",
+      "seconds": 107,
+      "channel": "James Webb Space Telescope (JWST)"
+    }
   },
   "gps": {
     "images": [
@@ -1536,7 +1770,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:GPS-0012_San_Diego_Air_%26_Space_Museum.jpg",
         "file": "File:GPS-0012 San Diego Air & Space Museum.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "ZYRZf5c11gs",
+      "title": "Atlas 5 rocket launches newest GPS satellite into orbit",
+      "seconds": 43,
+      "channel": "News Direct"
+    }
   },
   "curiosity": {
     "images": [
@@ -1575,7 +1815,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:MarsCuriosityRover-WornWheel-20140218.jpg",
         "file": "File:MarsCuriosityRover-WornWheel-20140218.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "a4YqNoLkmxE",
+      "title": "The Curiosity Rover Landing",
+      "seconds": 193,
+      "channel": "SciShow"
+    }
   },
   "sun": {
     "images": [
@@ -1614,7 +1860,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Sun_Releases_Strong_Solar_Flare_on_October_23,_2024_(SVS14709_-_SDO_X3pt3_10-23-2024_0342_131-304).jpg",
         "file": "File:Sun Releases Strong Solar Flare on October 23, 2024 (SVS14709 - SDO X3pt3 10-23-2024 0342 131-304).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "kJPz-oRnRDE",
+      "title": "NASA's Solar Dynamics Observatory: Year 7 Ultra HD (4k)",
+      "seconds": 202,
+      "channel": "NASA Goddard"
+    }
   },
   "perseverance": {
     "images": [
@@ -1646,7 +1898,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Perseverance_sky_crane_(cropped).jpg",
         "file": "File:Perseverance sky crane (cropped).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "GUqsH5y1j1M",
+      "title": "Watch NASA's Perseverance Rover Land | Video from Mars!",
+      "seconds": 69,
+      "channel": "NASA"
+    }
   },
   "ingenuity": {
     "images": [
@@ -1685,7 +1943,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:22372_PIA23159-16_Mars_Helicopter_Prototype.jpg",
         "file": "File:22372 PIA23159-16 Mars Helicopter Prototype.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "wMnOo2zcjXA",
+      "title": "First Video of NASA’s Ingenuity Mars Helicopter in Flight, Includes Takeoff and Landing (High-Res)",
+      "seconds": 57,
+      "channel": "NASA Jet Propulsion Laboratory"
+    }
   },
   "voyager-1": {
     "images": [
@@ -1724,7 +1988,13 @@
         "source": "https://commons.wikimedia.org/wiki/File:Crescent_Saturn_as_seen_from_Voyager_1.jpg",
         "file": "File:Crescent Saturn as seen from Voyager 1.jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "3LoWEncvTLQ",
+      "title": "VOYAGER 1 - Launch (1977/09/05)",
+      "seconds": 165,
+      "channel": "Retro Space HD"
+    }
   },
   "new-horizons": {
     "images": [
@@ -1763,6 +2033,12 @@
         "source": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_New_Horizons_spacecraft_(NH_final).jpg",
         "file": "File:NASA’s New Horizons spacecraft (NH final).jpg"
       }
-    ]
+    ],
+    "video": {
+      "youtube": "mogmLxSTnRw",
+      "title": "NASA New Horizons animations",
+      "seconds": 156,
+      "channel": "NASA New Horizons"
+    }
   }
 }

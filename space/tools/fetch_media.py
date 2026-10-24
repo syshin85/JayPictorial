@@ -190,7 +190,7 @@ def main():
         except Exception as e:  # keep going; one bad page shouldn't stop the rest
             print(f"{item['id']}: failed ({e})")
             continue
-        media[item["id"]] = {"images": images}
+        media.setdefault(item["id"], {})["images"] = images  # keeps the hand-picked video
         print(f"{item['id']}: {len(images)} photos")
         MEDIA.write_text(json.dumps(media, ensure_ascii=False, indent=2) + "\n")
 

@@ -19,7 +19,8 @@
       "story": "태양은 스스로 빛을 내는 별이에요. 지구와 다른 행성들은 모두 태양 주위를 빙글빙글 돌아요. 태양이 있어서 낮이 밝고, 식물이 자라고, 우리가 따뜻하게 살 수 있어요. 하지만 너무 밝아서 절대로 눈으로 똑바로 보면 안 돼요!",
       "funFact": "태양 안에는 지구가 약 130만 개나 들어갈 수 있대요. 태양의 빛이 지구까지 오는 데는 약 8분이 걸려요.",
       "wiki": "Sun", "photoQuery": "Sun SDO solar", "photoMatch": ["sun", "solar", "sdo", "flare", "prominence", "corona", "eclipse"],
-      "photos": ["File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg", "File:The Sun in white light.jpg", "File:171879main LimbFlareJan12 lg.jpg", "File:2017 Total Solar Eclipse (35909952653).jpg", "File:Sun Releases Strong Solar Flare on October 23, 2024 (SVS14709 - SDO X3pt3 10-23-2024 0342 131-304).jpg"]
+      "photos": ["File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg", "File:The Sun in white light.jpg", "File:171879main LimbFlareJan12 lg.jpg", "File:2017 Total Solar Eclipse (35909952653).jpg", "File:Sun Releases Strong Solar Flare on October 23, 2024 (SVS14709 - SDO X3pt3 10-23-2024 0342 131-304).jpg"],
+      "videoQueries": ["NASA SDO sun 4K", "sun solar flare NASA footage", "태양 플레어 영상"], "videoMatch": ["sun", "solar", "태양", "flare"]
     },
     {
       "id": "mercury", "section": "planets", "name": "수성", "subtitle": "태양에서 가장 가까운 행성", "color": "#9CA3AF",
@@ -27,7 +28,8 @@
       "story": "수성은 태양에서 가장 가깝고, 태양계 행성 중에서 가장 작아요. 표면에는 달처럼 움푹 파인 구덩이(크레이터)가 아주 많아요. 태양 주위를 가장 빨리 돌아서 수성의 1년은 겨우 88일이에요.",
       "funFact": "수성에는 공기가 거의 없어서, 낮에는 약 430℃로 뜨겁고 밤에는 영하 180℃로 꽁꽁 얼어요.",
       "wiki": "Mercury (planet)", "photoQuery": "Mercury planet MESSENGER", "photoMatch": ["mercury", "messenger"],
-      "photos": ["File:Mercury in true color.jpg", "File:Mercury Globe-MESSENGER mosaic centered at 0degN-0degE.jpg", "File:North pole of Mercury -- NASA.jpg", "File:Mercury.jpg", "File:MESSENGER - spacecraft at mercury - atmercury lg.jpg"]
+      "photos": ["File:Mercury in true color.jpg", "File:Mercury Globe-MESSENGER mosaic centered at 0degN-0degE.jpg", "File:North pole of Mercury -- NASA.jpg", "File:Mercury.jpg", "File:MESSENGER - spacecraft at mercury - atmercury lg.jpg"],
+      "videoQueries": ["Mercury planet MESSENGER flyby", "BepiColombo Mercury flyby images", "수성 탐사선 영상"], "videoMatch": ["mercury", "수성", "bepicolombo", "messenger"]
     },
     {
       "id": "venus", "section": "planets", "name": "금성", "subtitle": "가장 밝고 가장 뜨거운 행성", "color": "#EAB308",
@@ -35,7 +37,8 @@
       "story": "금성은 지구와 크기가 거의 같아서 '지구의 쌍둥이'라고도 불러요. 하지만 두꺼운 구름이 열을 꽁꽁 가두어서 태양계에서 가장 뜨거운 행성이에요. 새벽이나 저녁 하늘에서 아주 밝게 빛나서 '샛별'이라고도 해요.",
       "funFact": "금성은 다른 행성들과 반대 방향으로 돌아서, 금성에서는 해가 서쪽에서 떠요!",
       "wiki": "Venus", "photoQuery": "Venus planet", "photoMatch": ["venus"],
-      "photos": ["File:Venus from Mariner 10.jpg", "File:Venus globe.jpg", "File:Maat Mons on Venus.jpg", "File:Phases Venus.jpg", "File:Venus-pacific-levelled.jpg"]
+      "photos": ["File:Venus from Mariner 10.jpg", "File:Venus globe.jpg", "File:Maat Mons on Venus.jpg", "File:Phases Venus.jpg", "File:Venus-pacific-levelled.jpg"],
+      "videoQueries": ["Venus planet NASA", "Venus surface Magellan animation", "금성 영상"], "videoMatch": ["venus", "금성"]
     },
     {
       "id": "earth", "section": "planets", "name": "지구", "subtitle": "우리가 사는 파란 행성", "color": "#3B82F6",
@@ -43,7 +46,8 @@
       "story": "지구는 우리가 사는 행성이에요. 지금까지 알려진 행성 중에서 생물이 사는 곳은 지구뿐이에요. 태양에서 너무 가깝지도 멀지도 않아서 물이 바다로 출렁이고, 공기가 있어서 숨을 쉴 수 있어요.",
       "funFact": "지구 표면의 약 70%는 바다예요. 그래서 우주에서 보면 파랗게 보여요.",
       "wiki": "Earth", "photoQuery": "Earth from space", "photoMatch": ["earth", "blue marble", "earthrise"],
-      "photos": ["File:The Blue Marble, AS17-148-22727.jpg", "File:Earth-moon.jpg", "File:Earth from space, hurricane.jpg", "File:Earth From the Perspective of Artemis II.jpg", "File:Earthset (art002e009288).jpg"]
+      "photos": ["File:The Blue Marble, AS17-148-22727.jpg", "File:Earth-moon.jpg", "File:Earth from space, hurricane.jpg", "File:Earth From the Perspective of Artemis II.jpg", "File:Earthset (art002e009288).jpg"],
+      "videoQueries": ["Earth from space ISS 4K", "Earth from orbit timelapse", "우주에서 본 지구"], "videoMatch": ["earth", "지구"]
     },
     {
       "id": "mars", "section": "planets", "name": "화성", "subtitle": "붉은 모래의 행성", "color": "#DC2626",
@@ -51,7 +55,8 @@
       "story": "화성은 땅이 녹슨 쇠처럼 붉어서 '붉은 행성'이라고 불러요. 아주 오래전에는 화성에 강물이 흘렀던 흔적이 있어요. 그래서 지금도 여러 탐사 로봇이 화성을 돌아다니며 조사하고 있어요.",
       "funFact": "화성에는 태양계에서 가장 높은 산 '올림푸스 산'이 있어요. 에베레스트 산보다 2배 넘게 높아요!",
       "wiki": "Mars", "photoQuery": "Mars planet surface", "photoMatch": ["mars", "olympus mons", "valles"],
-      "photos": ["File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg", "File:MARS THE RED PLANET.jpg", "File:PIA26554A-Mars-CuriosityRover-UbajaraSite-20230430.jpg", "File:The cratered surface of the planet Mars (artist's impression) (iau1402a).jpg", "File:Mars - 2020 Opposition (crop).jpg"]
+      "photos": ["File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg", "File:MARS THE RED PLANET.jpg", "File:PIA26554A-Mars-CuriosityRover-UbajaraSite-20230430.jpg", "File:The cratered surface of the planet Mars (artist's impression) (iau1402a).jpg", "File:Mars - 2020 Opposition (crop).jpg"],
+      "videoQueries": ["Mars planet rotation 4K", "Mars globe rotating Hubble", "Mars from orbit flyover 4K", "화성 자전"], "videoMatch": ["mars", "화성"]
     },
     {
       "id": "jupiter", "section": "planets", "name": "목성", "subtitle": "태양계에서 가장 큰 행성", "color": "#D97706",
@@ -59,7 +64,8 @@
       "story": "목성은 태양계에서 가장 큰 행성이에요. 땅이 없고 대부분 가스로 되어 있어요. 줄무늬처럼 보이는 것은 아주 센 바람에 실려 가는 구름이에요. 목성 둘레에는 달이 90개도 넘게 돌고 있어요.",
       "funFact": "목성의 빨간 점 '대적점'은 지구보다 더 큰 거대한 폭풍이에요. 수백 년 동안 계속 불고 있어요.",
       "wiki": "Jupiter", "photoQuery": "Jupiter planet Juno", "photoMatch": ["jupiter", "juno", "great red spot"],
-      "photos": ["File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg", "File:Jupiter - Juno.jpg", "File:Juno flyby of Jupiter, Perijove 16 (PIA22694).jpg", "File:Juno flyby of Jupiter, Perijove 16 (PIA22693).jpg", "File:Juno orbit around Jupiter.jpg"]
+      "photos": ["File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg", "File:Jupiter - Juno.jpg", "File:Juno flyby of Jupiter, Perijove 16 (PIA22694).jpg", "File:Juno flyby of Jupiter, Perijove 16 (PIA22693).jpg", "File:Juno orbit around Jupiter.jpg"],
+      "videoQueries": ["Jupiter Juno flyby", "Jupiter Juno spacecraft footage", "목성 주노 영상"], "videoMatch": ["jupiter", "목성", "juno"]
     },
     {
       "id": "saturn", "section": "planets", "name": "토성", "subtitle": "멋진 고리를 가진 행성", "color": "#CA8A04",
@@ -67,7 +73,8 @@
       "story": "토성은 커다란 고리로 유명해요. 고리는 얼음과 돌 조각 수없이 많은 것들이 토성 주위를 돌며 만든 거예요. 토성도 목성처럼 대부분 가스로 되어 있고, 달을 태양계에서 가장 많이 가지고 있어요.",
       "funFact": "토성은 아주 가벼워서, 토성이 들어갈 만큼 커다란 욕조가 있다면 물에 둥둥 뜰 거예요!",
       "wiki": "Saturn", "photoQuery": "Saturn Cassini rings", "photoMatch": ["saturn"],
-      "photos": ["File:Saturn in natural colors (captured by the Hubble Space Telescope).jpg", "File:Saturn global view from Cassini, rings open.jpg", "File:8423 20181 1saturn2016.jpg", "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg", "File:PIA17218 – A Farewell to Saturn, Brightened Version.jpg"]
+      "photos": ["File:Saturn in natural colors (captured by the Hubble Space Telescope).jpg", "File:Saturn global view from Cassini, rings open.jpg", "File:8423 20181 1saturn2016.jpg", "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg", "File:PIA17218 – A Farewell to Saturn, Brightened Version.jpg"],
+      "videoQueries": ["Saturn Cassini images", "Saturn rings Cassini flyby", "토성 영상"], "videoMatch": ["saturn", "토성"]
     },
     {
       "id": "uranus", "section": "planets", "name": "천왕성", "subtitle": "옆으로 누워서 도는 행성", "color": "#22D3EE",
@@ -75,7 +82,8 @@
       "story": "천왕성은 청록색으로 보이는 얼음 행성이에요. 아주 먼 옛날 무언가에 크게 부딪혀서 옆으로 누운 채로 데굴데굴 구르듯 태양 주위를 돌아요. 천왕성에도 가느다란 고리가 있어요.",
       "funFact": "천왕성은 망원경으로 처음 발견한 행성이에요. 1781년에 윌리엄 허셜이 찾아냈어요.",
       "wiki": "Uranus", "photoQuery": "Uranus planet", "photoMatch": ["uranus"],
-      "photos": ["File:Uranus (Edited).jpg", "File:Uranus2.jpg", "File:Uranus - January 22 1986 (26534993078).jpg", "File:Uranus Final Image.jpg", "File:Alien aurorae on Uranus (remastered).jpg"]
+      "photos": ["File:Uranus (Edited).jpg", "File:Uranus2.jpg", "File:Uranus - January 22 1986 (26534993078).jpg", "File:Uranus Final Image.jpg", "File:Alien aurorae on Uranus (remastered).jpg"],
+      "videoQueries": ["Uranus planet James Webb", "Uranus Voyager 2", "천왕성 영상"], "videoMatch": ["uranus", "천왕성"]
     },
     {
       "id": "neptune", "section": "planets", "name": "해왕성", "subtitle": "태양에서 가장 먼 행성", "color": "#2563EB",
@@ -83,7 +91,8 @@
       "story": "해왕성은 태양에서 가장 멀리 있는 행성이에요. 바다처럼 짙은 파란색이라서 바다의 신 이름을 따서 지었어요. 너무 멀어서 햇빛이 아주 약하고, 무척 추워요.",
       "funFact": "해왕성에는 태양계에서 가장 센 바람이 불어요. 비행기보다 2배 넘게 빠르대요!",
       "wiki": "Neptune", "photoQuery": "Neptune Voyager", "photoMatch": ["neptune"],
-      "photos": ["File:Neptune Full.jpg", "File:Neptune - Voyager 2 (29347980845) flatten crop.jpg", "File:Neptune storms.jpg", "File:Voyager 2 Neptune and Triton.jpg", "File:PIA00063 Neptune - True Color of Clouds.jpg"]
+      "photos": ["File:Neptune Full.jpg", "File:Neptune - Voyager 2 (29347980845) flatten crop.jpg", "File:Neptune storms.jpg", "File:Voyager 2 Neptune and Triton.jpg", "File:PIA00063 Neptune - True Color of Clouds.jpg"],
+      "videoQueries": ["Neptune Voyager 2 flyby", "Neptune planet James Webb", "해왕성 영상"], "videoMatch": ["neptune", "해왕성"]
     },
 
     {
@@ -92,7 +101,8 @@
       "story": "달은 지구 주위를 도는 하나뿐인 위성이에요. 스스로 빛을 내지 않고 햇빛을 받아서 빛나요. 그래서 날마다 보름달, 반달, 초승달로 모양이 바뀌어 보여요. 사람이 가 본 곳 중에서 지구 말고는 달이 유일해요.",
       "funFact": "달에서는 몸무게가 지구의 6분의 1이 돼요. 그래서 우주인들이 달에서 깡충깡충 뛰어다녔어요.",
       "wiki": "Moon", "photoQuery": "Full moon", "photoMatch": ["moon", "lunar"],
-      "photos": ["File:FullMoon2010.jpg", "File:A Man on the Moon, AS11-40-5903.jpg", "File:Two Lunar Phases.jpg", "File:Full moon partially obscured by atmosphere.jpg", "File:Full Eclipse of the Moon as seen in from Irvine, CA, USA (52075715442) (cropped).jpg"]
+      "photos": ["File:FullMoon2010.jpg", "File:A Man on the Moon, AS11-40-5903.jpg", "File:Two Lunar Phases.jpg", "File:Full moon partially obscured by atmosphere.jpg", "File:Full Eclipse of the Moon as seen in from Irvine, CA, USA (52075715442) (cropped).jpg"],
+      "videoQueries": ["Moon surface Apollo footage", "Moon LRO tour 4K", "달 영상 NASA"], "videoMatch": ["moon", "lunar", "달"]
     },
     {
       "id": "pluto", "section": "moons", "name": "명왕성", "subtitle": "하트 무늬가 있는 왜소행성", "color": "#C2A383",
@@ -100,7 +110,8 @@
       "story": "명왕성은 예전에는 아홉 번째 행성이었지만, 2006년부터 '왜소행성'이라고 불러요. 행성보다 작고, 비슷한 친구들이 많이 있는 곳에서 돌고 있기 때문이에요. 아주 멀어서 꽁꽁 언 얼음 세상이에요.",
       "funFact": "2015년에 뉴호라이즌스 탐사선이 가까이 가서 보니, 명왕성에 커다란 하트 모양 무늬가 있었어요!",
       "wiki": "Pluto", "photoQuery": "Pluto New Horizons", "photoMatch": ["pluto", "charon", "new horizons"],
-      "photos": ["File:Pluto in True Color - High-Res.jpg", "File:Pluto-01 Stern 03 Pluto Color TXT.jpg", "File:Pluto-Charon-v2-10-1-15.jpg", "File:MVIC sunset scan of Pluto.jpg", "File:New Pluto Images from NASA’s New Horizons- It’s Complicated (21323357845).jpg"]
+      "photos": ["File:Pluto in True Color - High-Res.jpg", "File:Pluto-01 Stern 03 Pluto Color TXT.jpg", "File:Pluto-Charon-v2-10-1-15.jpg", "File:MVIC sunset scan of Pluto.jpg", "File:New Pluto Images from NASA’s New Horizons- It’s Complicated (21323357845).jpg"],
+      "videoQueries": ["Pluto New Horizons flyover", "Pluto flyby animation New Horizons", "명왕성 영상"], "videoMatch": ["pluto", "명왕성"]
     },
     {
       "id": "comet", "section": "moons", "name": "혜성", "subtitle": "긴 꼬리를 가진 얼음 덩어리", "color": "#38BDF8",
@@ -108,7 +119,8 @@
       "story": "혜성은 얼음과 먼지가 뭉친 덩어리예요. 평소에는 태양에서 아주 먼 곳에 있다가, 태양 가까이 오면 얼음이 녹아 길고 멋진 꼬리가 생겨요. 가장 유명한 혜성은 76년마다 찾아오는 '핼리 혜성'이에요.",
       "funFact": "혜성의 꼬리는 언제나 태양의 반대쪽을 향해요. 태양에서 나오는 바람이 꼬리를 밀어내기 때문이에요.",
       "wiki": "Comet", "photoQuery": "comet tail", "photoMatch": ["comet", "hale-bopp", "halley", "neowise", "mcnaught"],
-      "photos": ["File:Comet Hale-Bopp 1995O1.jpg", "File:Comet P1 McNaught02 - 23-01-07-edited.jpg", "File:Comet C 2023 A3 Tsuchinshan ATLAS tail and antitail.jpg", "File:Great Comet of 1882.jpg", "File:Great Comet 1861 (128495343).jpg"]
+      "photos": ["File:Comet Hale-Bopp 1995O1.jpg", "File:Comet P1 McNaught02 - 23-01-07-edited.jpg", "File:Comet C 2023 A3 Tsuchinshan ATLAS tail and antitail.jpg", "File:Great Comet of 1882.jpg", "File:Great Comet 1861 (128495343).jpg"],
+      "videoQueries": ["comet NEOWISE timelapse", "comet Rosetta 67P", "혜성 영상"], "videoMatch": ["comet", "혜성", "neowise", "67p"]
     },
     {
       "id": "asteroid", "section": "moons", "name": "소행성", "subtitle": "우주를 떠도는 바위", "color": "#A8A29E",
@@ -116,7 +128,8 @@
       "story": "소행성은 태양 주위를 도는 커다란 바위예요. 대부분은 화성과 목성 사이에 띠처럼 모여 있어서 그곳을 '소행성대'라고 해요. 감자처럼 울퉁불퉁하게 생긴 것이 많아요.",
       "funFact": "2022년에 나사(NASA)는 다트(DART)라는 우주선을 소행성에 일부러 부딪혀서, 소행성이 도는 길을 바꾸는 데 성공했어요.",
       "wiki": "Asteroid", "photoQuery": "asteroid spacecraft image", "photoMatch": ["asteroid", "eros", "vesta", "ceres", "bennu", "ryugu", "ida", "itokawa", "dimorphos", "didymos", "gaspra", "lutetia", "mathilde"],
-      "photos": ["File:Eros - PIA02923 (color).jpg", "File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg", "File:An image of the strange asteroid Lutetia from the ESA Rosetta probe.jpg", "File:Asteroid (21) Lutetia - final sequence of images before closest approach.jpg", "File:PIA23554-AsteroidBennu-EjectingParticles-20190106.jpg"]
+      "photos": ["File:Eros - PIA02923 (color).jpg", "File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg", "File:An image of the strange asteroid Lutetia from the ESA Rosetta probe.jpg", "File:Asteroid (21) Lutetia - final sequence of images before closest approach.jpg", "File:PIA23554-AsteroidBennu-EjectingParticles-20190106.jpg"],
+      "videoQueries": ["OSIRIS-REx Bennu touchdown", "Hayabusa2 Ryugu touchdown", "DART asteroid impact final images"], "videoMatch": ["asteroid", "bennu", "ryugu", "dart", "소행성", "osiris", "hayabusa"]
     },
     {
       "id": "meteor", "section": "moons", "name": "별똥별", "subtitle": "하늘을 휙 지나가는 빛", "color": "#FBBF24",
@@ -124,7 +137,8 @@
       "story": "별똥별은 진짜 별이 아니에요. 우주의 작은 돌 부스러기가 아주 빠르게 지구의 공기 속으로 들어오면서 뜨거워져 타는 빛이에요. 별똥별을 '유성'이라고도 하고, 한꺼번에 많이 떨어지면 '유성우'라고 해요.",
       "funFact": "타지 않고 땅까지 떨어진 돌은 '운석'이라고 불러요. 박물관에서 진짜 운석을 볼 수 있어요.",
       "wiki": "Meteoroid", "photoQuery": "Perseid meteor shower", "photoMatch": ["meteor", "perseid", "geminid", "leonid", "fireball"],
-      "photos": ["File:Perseid meteor shower.jpg", "File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg", "File:Perseid Meteor Shower; 8-11-15 (20703806542).jpg", "File:018 Human looking at the stars during Perseids with the Milky Way in the background Photo by Giles Laurent.jpg", "File:Murnpeowie meteorite.jpg"]
+      "photos": ["File:Perseid meteor shower.jpg", "File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg", "File:Perseid Meteor Shower; 8-11-15 (20703806542).jpg", "File:018 Human looking at the stars during Perseids with the Milky Way in the background Photo by Giles Laurent.jpg", "File:Murnpeowie meteorite.jpg"],
+      "videoQueries": ["Perseid meteor shower timelapse", "Geminid meteor shower timelapse", "유성우 타임랩스"], "videoMatch": ["meteor", "perseid", "geminid", "유성", "별똥별", "shooting star"]
     },
     {
       "id": "europa", "section": "moons", "name": "유로파", "subtitle": "얼음 아래 바다가 있는 목성의 달", "color": "#FDE68A",
@@ -132,7 +146,8 @@
       "story": "유로파는 목성 주위를 도는 달이에요. 겉은 매끈한 얼음으로 덮여 있고, 그 아래에는 지구의 바다보다 물이 더 많은 커다란 바다가 숨어 있을 거래요. 그래서 과학자들은 유로파에 아주 작은 생물이 있을지도 모른다고 생각해요.",
       "funFact": "1610년에 갈릴레이가 망원경으로 처음 찾았어요. 2024년에는 '유로파 클리퍼' 탐사선이 유로파를 만나러 출발했어요.",
       "wiki": "Europa (moon)", "photoQuery": "Europa moon Jupiter", "photoMatch": ["europa"],
-      "photos": ["File:Europa-moon.jpg", "File:PIA19048 realistic color Europa mosaic edited.jpg", "File:PIA19048 realistic color Europa mosaic (original).jpg", "File:Europa - July 9 1979 (18267960842).jpg", "File:Photo composite of suspected water plumes on Europa.jpg"]
+      "photos": ["File:Europa-moon.jpg", "File:PIA19048 realistic color Europa mosaic edited.jpg", "File:PIA19048 realistic color Europa mosaic (original).jpg", "File:Europa - July 9 1979 (18267960842).jpg", "File:Photo composite of suspected water plumes on Europa.jpg"],
+      "videoQueries": ["Europa moon Juno flyby", "Europa Clipper mission", "유로파 영상"], "videoMatch": ["europa", "유로파"]
     },
     {
       "id": "titan", "section": "moons", "name": "타이탄", "subtitle": "구름이 덮인 토성의 달", "color": "#F59E0B",
@@ -140,7 +155,8 @@
       "story": "타이탄은 토성의 달 중에서 가장 커요. 두꺼운 주황색 구름이 덮고 있고, 땅에는 강과 호수도 있어요. 하지만 물이 아니라 아주 차가운 기름 같은 액체(메탄)가 흘러요.",
       "funFact": "2005년에 하위헌스 탐사선이 타이탄에 내려앉았어요. 지구에서 가장 먼 곳에 착륙한 우주선이에요.",
       "wiki": "Titan (moon)", "photoQuery": "Titan moon Saturn", "photoMatch": ["titan"],
-      "photos": ["File:Titan in true color by Kevin M. Gill.jpg", "File:Titan in front of the ring and Saturn.jpg", "File:Titan globe.jpg", "File:Titan Rhea.jpg", "File:A Titan Sample Return Using In-Situ Propellants.jpg"]
+      "photos": ["File:Titan in true color by Kevin M. Gill.jpg", "File:Titan in front of the ring and Saturn.jpg", "File:Titan globe.jpg", "File:Titan Rhea.jpg", "File:A Titan Sample Return Using In-Situ Propellants.jpg"],
+      "videoQueries": ["Titan Huygens descent", "Huygens landing Titan footage", "타이탄 영상"], "videoMatch": ["titan", "huygens", "타이탄"]
     },
 
     {
@@ -149,7 +165,8 @@
       "story": "은하는 아주 많은 별이 모여 있는 별들의 마을이에요. 우리 태양도 '우리은하'라는 커다란 은하 안에 있어요. 우리은하는 소용돌이처럼 생겼고, 태양계는 그 소용돌이 팔 하나에 살고 있어요.",
       "funFact": "아주 깜깜한 시골 밤하늘에 보이는 뿌연 '은하수'는 우리은하를 안에서 바라본 모습이에요.",
       "wiki": "Milky Way", "photoQuery": "Milky Way night sky", "photoMatch": ["milky way", "milkyway", "galactic"],
-      "photos": ["File:Laser Towards Milky Ways Centre.jpg", "File:Night Sky - Boney Mountain & Milky Way (11074300594).jpg", "File:Milky Way and starry night sky (26972689115).jpg", "File:Copper Breaks State Park with the Milky Way Galaxy.jpg", "File:Milky Way Night Sky Black Rock Desert Nevada.jpg"]
+      "photos": ["File:Laser Towards Milky Ways Centre.jpg", "File:Night Sky - Boney Mountain & Milky Way (11074300594).jpg", "File:Milky Way and starry night sky (26972689115).jpg", "File:Copper Breaks State Park with the Milky Way Galaxy.jpg", "File:Milky Way Night Sky Black Rock Desert Nevada.jpg"],
+      "videoQueries": ["Milky Way timelapse 4K", "Milky Way night sky time lapse", "은하수 타임랩스"], "videoMatch": ["milky way", "milkyway", "은하수", "우리은하"]
     },
     {
       "id": "andromeda", "section": "stars", "name": "안드로메다 은하", "subtitle": "우리은하의 가장 큰 이웃", "color": "#C084FC",
@@ -157,7 +174,8 @@
       "story": "안드로메다 은하는 우리은하 가까이에 있는 커다란 소용돌이 은하예요. 아주 깜깜한 곳에서는 망원경 없이 맨눈으로도 희미하게 볼 수 있어요. 지금 보이는 빛은 250만 년 전에 출발한 빛이에요!",
       "funFact": "안드로메다 은하와 우리은하는 서로 조금씩 가까워지고 있어요. 아주아주 먼 훗날 만날지도 몰라요.",
       "wiki": "Andromeda Galaxy", "photoQuery": "Andromeda Galaxy M31", "photoMatch": ["andromeda", "m31", "messier 31"],
-      "photos": ["File:Andromeda Galaxy 560mm FL.jpg", "File:M31, the Andromeda Galaxy, Killarney Provincial Park Observatory.jpg", "File:Moon over Andromeda (rotated).jpg", "File:Andromeda galaxy Ssc2005-20a1.jpg", "File:Galaxie d'Andromède M31.jpg"]
+      "photos": ["File:Andromeda Galaxy 560mm FL.jpg", "File:M31, the Andromeda Galaxy, Killarney Provincial Park Observatory.jpg", "File:Moon over Andromeda (rotated).jpg", "File:Andromeda galaxy Ssc2005-20a1.jpg", "File:Galaxie d'Andromède M31.jpg"],
+      "videoQueries": ["Andromeda galaxy Hubble zoom", "Andromeda galaxy timelapse telescope", "안드로메다 은하"], "videoMatch": ["andromeda", "안드로메다", "m31"]
     },
     {
       "id": "black-hole", "section": "stars", "name": "블랙홀", "subtitle": "빛도 빠져나올 수 없는 곳", "color": "#F97316",
@@ -165,7 +183,8 @@
       "story": "블랙홀은 끌어당기는 힘이 너무너무 세서 빛조차 빠져나올 수 없는 곳이에요. 그래서 블랙홀 자체는 까맣게 보여요. 아주 큰 별이 일생을 마치고 쪼그라들면 블랙홀이 되기도 해요.",
       "funFact": "2019년에 과학자들이 전 세계의 망원경을 하나로 이어서 블랙홀의 첫 사진을 찍었어요. 도넛처럼 생겼어요!",
       "wiki": "Black hole", "photoQuery": "black hole Event Horizon Telescope", "photoMatch": ["black hole", "blackhole", "m87", "sagittarius a", "event horizon"],
-      "photos": ["File:Black hole - Messier 87 crop max res.jpg", "File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg", "File:M87 Black Hole (gemini1101a).jpg", "File:Black Hole Outflows From Centaurus A.jpg", "File:Montage of the Event Horizon Telescope observatories (night) (eso2208-eht-mwg).jpg"]
+      "photos": ["File:Black hole - Messier 87 crop max res.jpg", "File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg", "File:M87 Black Hole (gemini1101a).jpg", "File:Black Hole Outflows From Centaurus A.jpg", "File:Montage of the Event Horizon Telescope observatories (night) (eso2208-eht-mwg).jpg"],
+      "videoQueries": ["black hole Event Horizon Telescope first image", "NASA black hole visualization", "블랙홀 영상"], "videoMatch": ["black hole", "블랙홀", "m87", "sagittarius"]
     },
     {
       "id": "orion-nebula", "section": "stars", "name": "오리온 성운", "subtitle": "아기 별이 태어나는 곳", "color": "#EC4899",
@@ -173,7 +192,8 @@
       "story": "성운은 우주에 떠 있는 커다란 가스와 먼지 구름이에요. 오리온 성운에서는 가스가 뭉쳐서 새로운 별들이 계속 태어나고 있어요. 겨울밤 오리온자리의 '칼' 부분에서 뿌옇게 보여요.",
       "funFact": "오리온 성운에는 막 태어난 아기 별이 수천 개나 있어요. 우주의 아기 별 놀이터예요.",
       "wiki": "Orion Nebula", "photoQuery": "Orion Nebula M42", "photoMatch": ["orion", "m42", "messier 42"],
-      "photos": ["File:M42 Orion Nebula and Running Man (Dust and Gas).jpg", "File:The Great Orion Nebula in Narrowband.jpg", "File:Orion nebula tõrva.jpg", "File:M42 and M43 Nebula in the Constellation Orion.jpg", "File:Orion.nebula.arp.750pix.jpg"]
+      "photos": ["File:M42 Orion Nebula and Running Man (Dust and Gas).jpg", "File:The Great Orion Nebula in Narrowband.jpg", "File:Orion nebula tõrva.jpg", "File:M42 and M43 Nebula in the Constellation Orion.jpg", "File:Orion.nebula.arp.750pix.jpg"],
+      "videoQueries": ["Orion Nebula zoom Hubble", "Orion Nebula James Webb", "오리온 성운"], "videoMatch": ["orion nebula", "오리온 성운", "m42"]
     },
     {
       "id": "sirius", "section": "stars", "name": "시리우스", "subtitle": "밤하늘에서 가장 밝은 별", "color": "#93C5FD",
@@ -181,7 +201,8 @@
       "story": "시리우스는 밤하늘에서 가장 밝게 반짝이는 별이에요. 큰개자리에 있어서 '개의 별'이라고도 불러요. 겨울밤 오리온자리 왼쪽 아래를 보면 하얗게 빛나는 시리우스를 찾을 수 있어요.",
       "funFact": "시리우스는 사실 별 두 개가 짝꿍처럼 붙어 도는 별이에요. 작은 별은 너무 어두워서 맨눈으로는 안 보여요.",
       "wiki": "Sirius", "photoQuery": "Sirius star", "photoMatch": ["sirius", "canis major"],
-      "photos": ["File:Sirius A and B artwork.jpg", "File:The Dog Star, Sirius, and its Tiny Companion (2005-36-1820).jpg", "File:Sirius.jpg", "File:Sirius A and B- A Double-Star System in the Constellation Canis Major (2940666747).jpg", "File:Artist's impression of Sirius B and distant Sirius A main star v3.jpg"]
+      "photos": ["File:Sirius A and B artwork.jpg", "File:The Dog Star, Sirius, and its Tiny Companion (2005-36-1820).jpg", "File:Sirius.jpg", "File:Sirius A and B- A Double-Star System in the Constellation Canis Major (2940666747).jpg", "File:Artist's impression of Sirius B and distant Sirius A main star v3.jpg"],
+      "videoQueries": ["Sirius star twinkling telescope", "Sirius brightest star", "시리우스 별"], "videoMatch": ["sirius", "시리우스"]
     },
     {
       "id": "pleiades", "section": "stars", "name": "플레이아데스 성단", "subtitle": "옹기종기 모인 별 가족", "color": "#60A5FA",
@@ -189,7 +210,8 @@
       "story": "플레이아데스 성단은 같은 때에 태어난 별들이 모여 있는 별 가족이에요. 맨눈으로는 6~7개의 별이 옹기종기 보여요. 우리나라에서는 옛날부터 '좀생이별'이라고 불렀어요.",
       "funFact": "일본에서는 이 별들을 '스바루'라고 불러요. 그래서 일본 자동차 회사 스바루의 로고에 별 여섯 개가 그려져 있어요.",
       "wiki": "Pleiades", "photoQuery": "Pleiades M45", "photoMatch": ["pleiades", "m45", "messier 45", "seven sisters"],
-      "photos": ["File:Pleiades large.jpg", "File:M45 Killarney Provincial Park Observatory.jpg", "File:M45 Pleiades (noao-m45).jpg", "File:M45 (the Pleiades) with B star color balance.jpg", "File:Plejades (M45).jpg"]
+      "photos": ["File:Pleiades large.jpg", "File:M45 Killarney Provincial Park Observatory.jpg", "File:M45 Pleiades (noao-m45).jpg", "File:M45 (the Pleiades) with B star color balance.jpg", "File:Plejades (M45).jpg"],
+      "videoQueries": ["Pleiades star cluster telescope", "Pleiades timelapse", "플레이아데스 성단"], "videoMatch": ["pleiades", "플레이아데스", "m45", "seven sisters"]
     },
 
     {
@@ -198,7 +220,8 @@
       "story": "새턴 V는 아폴로 우주인들을 달까지 보낸 거대한 로켓이에요. 세 덩어리로 되어 있어서, 연료를 다 쓴 부분은 하나씩 떨어져 나가요. 맨 꼭대기에 우주인이 타는 작은 우주선이 있었어요.",
       "funFact": "새턴 V는 아파트 약 35층 높이예요. 발사할 때 땅이 흔들리고 소리가 아주 멀리까지 들렸대요.",
       "wiki": "Saturn V", "photoQuery": "Saturn V rocket", "photoMatch": ["saturn v", "saturn_v", "apollo"],
-      "photos": ["File:Apollo 11 Launch - GPN-2000-000630.jpg", "File:Apollo 11 Launch2.jpg", "File:Saturn V, Davidson Center for Space Exploration (Huntsville, Alabama, USA).jpg", "File:Saturn V Rocket -- Johnson Space Center.jpg", "File:Saturn V boosters at United States Space & Rocket Center - panoramio.jpg"]
+      "photos": ["File:Apollo 11 Launch - GPN-2000-000630.jpg", "File:Apollo 11 Launch2.jpg", "File:Saturn V, Davidson Center for Space Exploration (Huntsville, Alabama, USA).jpg", "File:Saturn V Rocket -- Johnson Space Center.jpg", "File:Saturn V boosters at United States Space & Rocket Center - panoramio.jpg"],
+      "videoQueries": ["Saturn V launch Apollo 11 slow motion", "Saturn V launch footage", "새턴 5 발사"], "videoMatch": ["saturn v", "saturn 5", "새턴"]
     },
     {
       "id": "falcon-9", "section": "rockets", "name": "팰컨 9", "subtitle": "다시 돌아와 착륙하는 로켓", "color": "#64748B",
@@ -206,7 +229,8 @@
       "story": "팰컨 9은 스페이스X라는 회사가 만든 로켓이에요. 인공위성과 우주인을 우주로 실어 날라요. 한국의 달 탐사선 다누리도 팰컨 9을 타고 우주로 갔어요.",
       "funFact": "팰컨 9의 아래쪽 로켓은 일을 마치면 다시 돌아와 똑바로 서서 착륙해요. 그리고 또 날아가요!",
       "wiki": "Falcon 9", "photoQuery": "Falcon 9 launch landing", "photoMatch": ["falcon 9", "falcon_9", "falcon-9", "f9"],
-      "photos": ["File:Launch of Falcon 9 carrying CRS-6 Dragon (17170624642).jpg", "File:Falcon 9 Axiom-3 Launch (8203049).jpg", "File:Falcon 9 Flight 20 OG2 first stage post-landing (23273082823) cropped.jpg", "File:Falcon 9 first stage at LZ-1 (23827554109).jpg", "File:Launch of Falcon 9 carrying CASSIOPE (130929-F-ET475-012).jpg"]
+      "photos": ["File:Launch of Falcon 9 carrying CRS-6 Dragon (17170624642).jpg", "File:Falcon 9 Axiom-3 Launch (8203049).jpg", "File:Falcon 9 Flight 20 OG2 first stage post-landing (23273082823) cropped.jpg", "File:Falcon 9 first stage at LZ-1 (23827554109).jpg", "File:Launch of Falcon 9 carrying CASSIOPE (130929-F-ET475-012).jpg"],
+      "videoQueries": ["Falcon 9 landing", "Falcon 9 launch and landing", "팰컨9 착륙"], "videoMatch": ["falcon 9", "falcon9", "팰컨", "팔콘"]
     },
     {
       "id": "starship", "section": "rockets", "name": "스타십", "subtitle": "세상에서 가장 큰 로켓", "color": "#A3A3A3",
@@ -214,7 +238,8 @@
       "story": "스타십은 지금까지 만든 로켓 중에서 가장 크고 힘이 센 로켓이에요. 반짝이는 은색 몸통을 가졌어요. 언젠가 사람을 달과 화성에 데려가려고 만들고 있어요.",
       "funFact": "2024년에 스타십의 아래쪽 로켓이 돌아오자, 발사탑의 커다란 '젓가락 팔'이 로켓을 공중에서 붙잡았어요!",
       "wiki": "SpaceX Starship", "photoQuery": "SpaceX Starship", "photoMatch": ["starship", "super heavy"],
-      "photos": ["File:SpaceX Starship ignition during IFT-5.jpg", "File:Starship SN9 Evening Rays.jpg", "File:Starship lifted off from Starbase during flight test 11.jpg", "File:SpaceX Starship during IFT-5.jpg", "File:Starship full stack with Jeep.jpg"]
+      "photos": ["File:SpaceX Starship ignition during IFT-5.jpg", "File:Starship SN9 Evening Rays.jpg", "File:Starship lifted off from Starbase during flight test 11.jpg", "File:SpaceX Starship during IFT-5.jpg", "File:Starship full stack with Jeep.jpg"],
+      "videoQueries": ["Starship booster catch", "Starship launch", "스타십 발사"], "videoMatch": ["starship", "스타십", "super heavy"]
     },
     {
       "id": "nuri", "section": "rockets", "name": "누리호", "subtitle": "우리나라가 만든 로켓", "color": "#2563EB",
@@ -222,7 +247,8 @@
       "story": "누리호는 우리나라 기술로 만든 첫 우주 로켓이에요. 전라남도 고흥의 나로우주센터에서 발사해요. 2022년에 인공위성을 우주에 올려놓는 데 성공했어요.",
       "funFact": "누리호 덕분에 우리나라는 1톤이 넘는 인공위성을 스스로 우주에 올릴 수 있는 세계 7번째 나라가 되었어요.",
       "wiki": "Nuri (rocket)", "photoQuery": "Nuri rocket KSLV-II", "photoMatch": ["nuri", "kslv", "누리"],
-      "photos": ["File:KSLV-II Nuri Launch 2021-10-21.jpg", "File:P R KSLV-2 211021 0113.jpg", "File:KSLV II TLV 2018 11 28 (cropped).jpg", "File:Nuri KSLV-II TLV.jpg", "File:KSLV-II Nuri and the launchpad 01.jpg"]
+      "photos": ["File:KSLV-II Nuri Launch 2021-10-21.jpg", "File:P R KSLV-2 211021 0113.jpg", "File:KSLV II TLV 2018 11 28 (cropped).jpg", "File:Nuri KSLV-II TLV.jpg", "File:KSLV-II Nuri and the launchpad 01.jpg"],
+      "videoQueries": ["누리호 발사", "누리호 발사 장면", "Nuri rocket launch"], "videoMatch": ["누리호", "nuri"]
     },
     {
       "id": "sls", "section": "rockets", "name": "SLS", "subtitle": "아르테미스 달 탐사 로켓", "color": "#F97316",
@@ -230,7 +256,8 @@
       "story": "SLS는 나사(NASA)가 사람을 다시 달에 보내려고 만든 커다란 로켓이에요. 주황색 몸통 양옆에 하얀 보조 로켓 두 개가 붙어 있어요. 맨 위에는 오리온 우주선을 싣고 날아가요.",
       "funFact": "2022년 첫 발사 때 SLS는 오리온 우주선을 달까지 보냈어요. 이 계획 이름은 '아르테미스'예요.",
       "wiki": "Space Launch System", "photoQuery": "Space Launch System Artemis I launch", "photoMatch": ["sls", "space launch system", "artemis"],
-      "photos": ["File:Artemis II launch (SLS MAF 20260401 ArtemisIILaunch 02) crop.jpg", "File:Artemis I SLS with Full Moon (KSC-20220614-PH-CSH01 0068).jpeg", "File:Artemis I Launch (NHQ202211160030).jpg", "File:Artemis II Preflight (NHQ202603300013).jpg", "File:Artemis I Launch (NHQ202211160029).jpg"]
+      "photos": ["File:Artemis II launch (SLS MAF 20260401 ArtemisIILaunch 02) crop.jpg", "File:Artemis I SLS with Full Moon (KSC-20220614-PH-CSH01 0068).jpeg", "File:Artemis I Launch (NHQ202211160030).jpg", "File:Artemis II Preflight (NHQ202603300013).jpg", "File:Artemis I Launch (NHQ202211160029).jpg"],
+      "videoQueries": ["Artemis I launch SLS", "SLS rocket launch", "아르테미스 발사"], "videoMatch": ["sls", "artemis", "아르테미스"]
     },
     {
       "id": "ariane-5", "section": "rockets", "name": "아리안 5", "subtitle": "제임스 웹 망원경을 쏘아 올린 로켓", "color": "#0EA5E9",
@@ -238,7 +265,8 @@
       "story": "아리안 5는 유럽의 여러 나라가 함께 만든 로켓이에요. 남아메리카의 프랑스령 기아나에서 발사했어요. 커다란 인공위성들을 우주로 많이 실어 날랐어요.",
       "funFact": "2021년 크리스마스에 아리안 5는 제임스 웹 우주망원경을 우주로 쏘아 올렸어요.",
       "wiki": "Ariane 5", "photoQuery": "Ariane 5 launch", "photoMatch": ["ariane"],
-      "photos": ["File:Ariane 5 with James Webb Space Telescope Prelaunch (51773093465).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch. (NHQ202112230013).jpg", "File:Ariane 5 Rollout with James Webb Space Telescope (NHQ202112230026).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230018).jpg"]
+      "photos": ["File:Ariane 5 with James Webb Space Telescope Prelaunch (51773093465).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch. (NHQ202112230013).jpg", "File:Ariane 5 Rollout with James Webb Space Telescope (NHQ202112230026).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230018).jpg"],
+      "videoQueries": ["Ariane 5 launch James Webb", "Ariane 5 launch", "아리안 5 발사"], "videoMatch": ["ariane 5", "ariane", "아리안"]
     },
 
     {
@@ -247,7 +275,8 @@
       "story": "1961년, 유리 가가린이 보스토크 1호를 타고 사람으로서는 처음으로 우주에 갔어요. 공처럼 둥근 우주선을 타고 지구를 한 바퀴 돌고 돌아왔어요. 그 시간은 약 1시간 48분이었어요.",
       "funFact": "가가린은 우주에서 지구를 보고 '지구는 파랗다'라고 말했대요.",
       "wiki": "Vostok 1", "photoQuery": "Vostok spacecraft capsule", "photoMatch": ["vostok", "gagarin"],
-      "photos": ["File:Vostok spacecraft.jpg", "File:Vostok 5 reentry capsule 03.jpg", "File:Gagarin Capsule.jpg", "File:Vostok 1 after landing.jpg"]
+      "photos": ["File:Vostok spacecraft.jpg", "File:Vostok 5 reentry capsule 03.jpg", "File:Gagarin Capsule.jpg", "File:Vostok 1 after landing.jpg"],
+      "videoQueries": ["Vostok 1 Gagarin launch footage", "Yuri Gagarin Vostok", "가가린 보스토크"], "videoMatch": ["vostok", "gagarin", "가가린", "보스토크"]
     },
     {
       "id": "apollo-11", "section": "spacecraft", "name": "아폴로 11호", "subtitle": "처음으로 달에 내린 우주선", "color": "#E5E7EB",
@@ -255,7 +284,8 @@
       "story": "1969년, 아폴로 11호의 우주인 닐 암스트롱과 버즈 올드린이 사람으로서는 처음으로 달 위를 걸었어요. 마이클 콜린스는 달 주위를 돌며 두 사람을 기다렸어요. 세 사람은 모두 무사히 지구로 돌아왔어요.",
       "funFact": "달에는 바람이 불지 않아서, 그때 찍힌 우주인의 발자국이 지금도 그대로 남아 있을 거래요.",
       "wiki": "Apollo 11", "photoQuery": "Apollo 11 lunar module Aldrin", "photoMatch": ["apollo 11", "apollo_11", "as11", "aldrin", "armstrong", "eagle"],
-      "photos": ["File:A Man on the Moon, AS11-40-5903 (cropped).jpg", "File:Apollo 11 Lunar Module Eagle in landing configuration in lunar orbit from the Command and Service Module Columbia.jpg", "File:Buzz Aldrin's bootprint on the Moon, AS11-40-5877.jpg", "File:Apollo 11.jpg", "File:Apollo 11 Launch - GPN-2000-000630.jpg"]
+      "photos": ["File:A Man on the Moon, AS11-40-5903 (cropped).jpg", "File:Apollo 11 Lunar Module Eagle in landing configuration in lunar orbit from the Command and Service Module Columbia.jpg", "File:Buzz Aldrin's bootprint on the Moon, AS11-40-5877.jpg", "File:Apollo 11.jpg", "File:Apollo 11 Launch - GPN-2000-000630.jpg"],
+      "videoQueries": ["Apollo 11 moon landing footage", "Apollo 11 lunar module landing", "아폴로 11호 달 착륙"], "videoMatch": ["apollo 11", "아폴로"]
     },
     {
       "id": "space-shuttle", "section": "spacecraft", "name": "우주왕복선", "subtitle": "비행기처럼 착륙하는 우주선", "color": "#F8FAFC",
@@ -263,7 +293,8 @@
       "story": "우주왕복선은 로켓처럼 하늘로 솟아올랐다가, 돌아올 때는 비행기처럼 활주로에 내려앉았어요. 여러 번 다시 쓸 수 있는 우주선이었어요. 허블 우주망원경을 우주에 올려놓고, 국제우주정거장을 짓는 일도 했어요.",
       "funFact": "우주왕복선은 모두 5대가 우주에 갔어요. 지금은 박물관에서 진짜 우주왕복선을 볼 수 있어요.",
       "wiki": "Space Shuttle", "photoQuery": "Space Shuttle launch landing orbiter", "photoMatch": ["shuttle", "sts", "columbia", "discovery", "atlantis", "endeavour", "orbiter"],
-      "photos": ["File:STS120LaunchHiRes-edit1.jpg", "File:Space Shuttle Challenger lands for the first time, completing STS-6.jpg", "File:STS132 Atlantis undocking2 (cropped).jpg", "File:B 747 overflight with Space Shuttle Endeavour.jpg", "File:Space Shuttle Discovery Landing after STS-124.jpg"]
+      "photos": ["File:STS120LaunchHiRes-edit1.jpg", "File:Space Shuttle Challenger lands for the first time, completing STS-6.jpg", "File:STS132 Atlantis undocking2 (cropped).jpg", "File:B 747 overflight with Space Shuttle Endeavour.jpg", "File:Space Shuttle Discovery Landing after STS-124.jpg"],
+      "videoQueries": ["Space Shuttle launch", "Space Shuttle landing", "우주왕복선 발사"], "videoMatch": ["shuttle", "왕복선", "atlantis", "discovery", "endeavour"]
     },
     {
       "id": "iss", "section": "spacecraft", "name": "국제우주정거장", "subtitle": "우주인들이 사는 우주의 집", "color": "#CBD5E1",
@@ -271,7 +302,8 @@
       "story": "국제우주정거장은 여러 나라가 힘을 모아 지구 위에 지은 커다란 우주의 집이에요. 우주인들이 몇 달씩 살면서 여러 가지 실험을 해요. 둥둥 떠다니기 때문에 잠잘 때는 침낭을 벽에 묶어 놓고 자요.",
       "funFact": "우주정거장은 아주 빨라서 하루에 해돋이를 16번이나 봐요. 맑은 밤에는 땅에서도 반짝이며 지나가는 모습이 보여요.",
       "wiki": "International Space Station", "photoQuery": "International Space Station", "photoMatch": ["iss", "international space station"],
-      "photos": ["File:International Space Station after undocking of STS-132.jpg", "File:Axiom modules connected to ISS.jpg", "File:ISS-41 EVA-1 (g) Alexander Gerst.jpg", "File:ISS-43 Samantha Cristoforetti on the Biolab in the Columbus module.jpg", "File:ISS from Atlantis - Sts101-714-016.jpg"]
+      "photos": ["File:International Space Station after undocking of STS-132.jpg", "File:Axiom modules connected to ISS.jpg", "File:ISS-41 EVA-1 (g) Alexander Gerst.jpg", "File:ISS-43 Samantha Cristoforetti on the Biolab in the Columbus module.jpg", "File:ISS from Atlantis - Sts101-714-016.jpg"],
+      "videoQueries": ["ISS fly around Soyuz", "International Space Station exterior view 4K", "Space Station seen from Crew Dragon", "국제우주정거장 외부"], "videoMatch": ["space station", "iss", "우주정거장"]
     },
     {
       "id": "crew-dragon", "section": "spacecraft", "name": "크루 드래건", "subtitle": "터치스크린으로 조종하는 우주선", "color": "#E2E8F0",
@@ -279,7 +311,8 @@
       "story": "크루 드래건은 스페이스X가 만든 우주선이에요. 팰컨 9 로켓 꼭대기에 타고 국제우주정거장까지 우주인들을 데려다줘요. 돌아올 때는 낙하산을 펴고 바다에 풍덩 내려앉아요.",
       "funFact": "크루 드래건 안에는 버튼 대신 커다란 터치스크린이 있어요. 스마트폰처럼 눌러서 조종해요.",
       "wiki": "SpaceX Dragon 2", "photoQuery": "Crew Dragon", "photoMatch": ["dragon", "crew-", "crew dragon", "demo-2"],
-      "photos": ["File:Crew Dragon at the ISS for Demo Mission 1 (cropped).jpg", "File:The SpaceX Crew Dragon Endeavour approaches the International Space Station (iss065e002661).jpg", "File:NASA’s SpaceX Crew-4 Splashdown (NHQ202210140015).jpeg", "File:SpaceX Dragon 2 and astronauts 2018.jpg", "File:Crew Dragon Pad Abort Test (16814592054).jpg"]
+      "photos": ["File:Crew Dragon at the ISS for Demo Mission 1 (cropped).jpg", "File:The SpaceX Crew Dragon Endeavour approaches the International Space Station (iss065e002661).jpg", "File:NASA’s SpaceX Crew-4 Splashdown (NHQ202210140015).jpeg", "File:SpaceX Dragon 2 and astronauts 2018.jpg", "File:Crew Dragon Pad Abort Test (16814592054).jpg"],
+      "videoQueries": ["Crew Dragon docking", "Crew Dragon splashdown", "크루 드래건 도킹"], "videoMatch": ["dragon", "드래건", "드래곤"]
     },
     {
       "id": "orion", "section": "spacecraft", "name": "오리온", "subtitle": "다시 달로 가는 우주선", "color": "#FB923C",
@@ -287,7 +320,8 @@
       "story": "오리온은 우주인들을 다시 달로 데려가려고 만든 우주선이에요. 2022년에는 사람 없이 SLS 로켓을 타고 달 주위를 돌고 무사히 돌아왔어요. 우주인 4명이 탈 수 있어요.",
       "funFact": "첫 달 여행 때 오리온에는 사람 대신 '캄포스'라는 이름의 마네킹이 타고 있었어요.",
       "wiki": "Orion (spacecraft)", "photoQuery": "Orion spacecraft Artemis", "photoMatch": ["orion", "artemis"],
-      "photos": ["File:Orion lunar orbit (Sept 2006).jpg", "File:Artemis 1 at maximum distance from Earth.jpg", "File:EFT-1 Orion recovery.5.jpg", "File:NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg", "File:Delta IV Heavy on pad with Orion EFT-1 (KSC-2014-4686).jpg"]
+      "photos": ["File:Orion lunar orbit (Sept 2006).jpg", "File:Artemis 1 at maximum distance from Earth.jpg", "File:EFT-1 Orion recovery.5.jpg", "File:NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg", "File:Delta IV Heavy on pad with Orion EFT-1 (KSC-2014-4686).jpg"],
+      "videoQueries": ["Orion spacecraft Artemis moon", "Orion splashdown Artemis", "오리온 우주선"], "videoMatch": ["orion", "오리온", "artemis"]
     },
 
     {
@@ -296,7 +330,8 @@
       "story": "스푸트니크 1호는 사람이 만들어 우주에 올린 첫 번째 인공위성이에요. 반짝이는 공 모양에 긴 안테나 네 개가 달려 있었어요. 지구를 돌면서 '삐삐' 신호를 보냈어요.",
       "funFact": "스푸트니크 1호는 비치볼만 한 크기였어요. 이 작은 위성 덕분에 우주 시대가 시작되었어요.",
       "wiki": "Sputnik 1", "photoQuery": "Sputnik 1", "photoMatch": ["sputnik"],
-      "photos": ["File:Sputnik asm.jpg", "File:Sputnik en el Planetario de Madrid 01.jpg", "File:Moscow Polytechnical Museum, Sputnik 1.jpg", "File:Kansas Cosmosphere Sputnik 1 2008.jpg", "File:Sputnik statellite mock up.JPG"]
+      "photos": ["File:Sputnik asm.jpg", "File:Sputnik en el Planetario de Madrid 01.jpg", "File:Moscow Polytechnical Museum, Sputnik 1.jpg", "File:Kansas Cosmosphere Sputnik 1 2008.jpg", "File:Sputnik statellite mock up.JPG"],
+      "videoQueries": ["Sputnik 1 beep", "Sputnik 1 satellite", "스푸트니크"], "videoMatch": ["sputnik", "스푸트니크"]
     },
     {
       "id": "hubble", "section": "satellites", "name": "허블 우주망원경", "subtitle": "우주에 떠 있는 커다란 눈", "color": "#9CA3AF",
@@ -304,7 +339,8 @@
       "story": "허블 우주망원경은 지구 위 우주에 떠서 먼 우주를 찍는 망원경이에요. 공기가 없는 우주에서 보니까 별과 은하가 아주 또렷하게 보여요. 이 도감에 있는 은하와 성운 사진 중에도 허블이 찍은 것이 많아요.",
       "funFact": "허블이 고장 났을 때 우주인들이 우주왕복선을 타고 5번이나 고치러 갔어요.",
       "wiki": "Hubble Space Telescope", "photoQuery": "Hubble Space Telescope", "photoMatch": ["hubble", "hst"],
-      "photos": ["File:Hubble Space Telescope (27946391011).jpg", "File:Hubble 2009 close-up 2.jpg", "File:Upgrading Hubble during SM1.jpg", "File:Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg", "File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg"]
+      "photos": ["File:Hubble Space Telescope (27946391011).jpg", "File:Hubble 2009 close-up 2.jpg", "File:Upgrading Hubble during SM1.jpg", "File:Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg", "File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg"],
+      "videoQueries": ["Hubble Space Telescope deploy", "Hubble telescope orbit footage", "허블 우주망원경"], "videoMatch": ["hubble", "허블"]
     },
     {
       "id": "jwst", "section": "satellites", "name": "제임스 웹 우주망원경", "subtitle": "금빛 거울을 가진 우주망원경", "color": "#EAB308",
@@ -312,7 +348,8 @@
       "story": "제임스 웹 우주망원경은 지금까지 만든 우주망원경 중에서 가장 커요. 금으로 얇게 덮은 육각형 거울 18개가 벌집처럼 모여 있어요. 아주 먼 곳에서 온 희미한 빛까지 볼 수 있어서, 우주가 처음 생겼을 때의 은하도 찾고 있어요.",
       "funFact": "제임스 웹은 테니스장만 한 커다란 햇빛 가리개를 우산처럼 펴서 몸을 차갑게 지켜요.",
       "wiki": "James Webb Space Telescope", "photoQuery": "James Webb Space Telescope mirror", "photoMatch": ["webb", "jwst"],
-      "photos": ["File:James Webb Space Telescope 2009 top.jpg", "File:JWST Full Mirror.jpg", "File:James Webb Space Telescope Mirror37.jpg", "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg", "File:Stephan's Quintet taken by James Webb Space Telescope.jpg"]
+      "photos": ["File:James Webb Space Telescope 2009 top.jpg", "File:JWST Full Mirror.jpg", "File:James Webb Space Telescope Mirror37.jpg", "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg", "File:Stephan's Quintet taken by James Webb Space Telescope.jpg"],
+      "videoQueries": ["James Webb telescope deployment", "James Webb Space Telescope unfolding", "제임스 웹 망원경 전개"], "videoMatch": ["webb", "jwst", "웹"]
     },
     {
       "id": "gps", "section": "satellites", "name": "GPS 위성", "subtitle": "길을 알려 주는 인공위성", "color": "#38BDF8",
@@ -320,7 +357,8 @@
       "story": "GPS 위성들은 지구 둘레를 돌면서 계속 신호를 보내요. 자동차 내비게이션이나 휴대폰 지도는 이 신호를 받아서 지금 내가 어디에 있는지 알아내요. 위성 신호 여러 개를 함께 받아야 정확한 위치를 알 수 있어요.",
       "funFact": "어디에 있든지 하늘에는 늘 GPS 위성이 4개 넘게 떠 있도록 자리를 나눠서 돌고 있어요.",
       "wiki": "GPS satellite blocks", "photoQuery": "GPS satellite", "photoMatch": ["gps", "navstar"],
-      "photos": ["File:GPS Satellite NASA art-iif.jpg", "File:Navstar-2F.jpg", "File:GPS-IIRM.jpg", "File:GPS-constellation-3D-NOAA.jpg", "File:GPS-0012 San Diego Air & Space Museum.jpg"]
+      "photos": ["File:GPS Satellite NASA art-iif.jpg", "File:Navstar-2F.jpg", "File:GPS-IIRM.jpg", "File:GPS-constellation-3D-NOAA.jpg", "File:GPS-0012 San Diego Air & Space Museum.jpg"],
+      "videoQueries": ["GPS satellite animation", "how GPS works satellites", "GPS 위성 원리"], "videoMatch": ["gps", "위성"]
     },
     {
       "id": "danuri", "section": "satellites", "name": "다누리", "subtitle": "우리나라 첫 달 탐사선", "color": "#6366F1",
@@ -328,7 +366,8 @@
       "story": "다누리는 우리나라가 처음으로 달에 보낸 탐사선이에요. 2022년에 팰컨 9 로켓을 타고 출발해서, 달 위를 빙글빙글 돌면서 달의 사진을 찍어 지구로 보냈어요. '달을 다 누리라'는 뜻으로 이름을 지었어요.",
       "funFact": "다누리는 달까지 가는 길에 방탄소년단(BTS)의 노래 '다이너마이트'를 우주 인터넷으로 지구에 보냈어요.",
       "wiki": "Danuri", "photoQuery": "Danuri lunar orbiter", "photoMatch": ["danuri", "kplo", "다누리"],
-      "photos": ["File:Kplo rendered image.png", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353884).jpeg", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353885).jpeg", "File:Space Launch Delta 45 supports successful Falcon 9 KPLO launch (7358476).jpeg"]
+      "photos": ["File:Kplo rendered image.png", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353884).jpeg", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353885).jpeg", "File:Space Launch Delta 45 supports successful Falcon 9 KPLO launch (7358476).jpeg"],
+      "videoQueries": ["다누리 발사", "다누리 달 궤도", "Danuri launch"], "videoMatch": ["다누리", "danuri", "kplo"]
     },
 
     {
@@ -337,7 +376,8 @@
       "story": "소저너는 화성 땅 위를 굴러다닌 첫 번째 탐사 로봇이에요. 바퀴 여섯 개로 아주 천천히 움직이면서 화성의 돌을 조사했어요. 에어백으로 감싼 착륙선을 타고 통통 튀면서 화성에 내렸어요.",
       "funFact": "소저너의 무게는 약 10kg이에요. 6살 어린이보다도 가벼워요!",
       "wiki": "Sojourner (rover)", "photoQuery": "Sojourner rover Mars Pathfinder", "photoMatch": ["sojourner", "pathfinder"],
-      "photos": ["File:Sojourner on Mars PIA01122.jpg", "File:Sojourner at JPL Mars Yard 01.jpg", "File:Pathfinder and Sojourner (18647779303).jpg", "File:Mars Pathfinder rover after landing on Mars.jpg", "File:Mars Pathfinder Lander preparations.jpg"]
+      "photos": ["File:Sojourner on Mars PIA01122.jpg", "File:Sojourner at JPL Mars Yard 01.jpg", "File:Pathfinder and Sojourner (18647779303).jpg", "File:Mars Pathfinder rover after landing on Mars.jpg", "File:Mars Pathfinder Lander preparations.jpg"],
+      "videoQueries": ["Sojourner rover Mars Pathfinder", "Mars Pathfinder landing", "소저너 화성"], "videoMatch": ["sojourner", "pathfinder", "소저너"]
     },
     {
       "id": "curiosity", "section": "rovers", "name": "큐리오시티", "subtitle": "자동차만 한 화성 탐사 로봇", "color": "#EA580C",
@@ -345,7 +385,8 @@
       "story": "큐리오시티는 '호기심'이라는 뜻을 가진 화성 탐사 로봇이에요. 몸에 달린 레이저로 돌을 쏘아 무엇으로 되어 있는지 알아내요. 아주 오래전 화성에 물이 흘렀다는 증거를 찾아냈어요.",
       "funFact": "화성에 도착한 지 1년 되던 날, 큐리오시티는 스스로에게 생일 축하 노래를 불러 주었어요.",
       "wiki": "Curiosity (rover)", "photoQuery": "Curiosity rover selfie Mars", "photoMatch": ["curiosity", "msl"],
-      "photos": ["File:Curiosity rover selfie at Namib Dune Sol 1128 (53678107023).jpg", "File:MSL Artist Concept (PIA14164 crop).jpg", "File:Curiosity rover selfie at Mont Mercou Sol 3070 (53677088587).jpg", "File:Curiosity's Vehicle System Test Bed (VSTB) Rover (PIA15876).jpg", "File:MarsCuriosityRover-WornWheel-20140218.jpg"]
+      "photos": ["File:Curiosity rover selfie at Namib Dune Sol 1128 (53678107023).jpg", "File:MSL Artist Concept (PIA14164 crop).jpg", "File:Curiosity rover selfie at Mont Mercou Sol 3070 (53677088587).jpg", "File:Curiosity's Vehicle System Test Bed (VSTB) Rover (PIA15876).jpg", "File:MarsCuriosityRover-WornWheel-20140218.jpg"],
+      "videoQueries": ["Curiosity rover landing", "Curiosity rover driving Mars", "큐리오시티 착륙"], "videoMatch": ["curiosity", "큐리오시티"]
     },
     {
       "id": "perseverance", "section": "rovers", "name": "퍼서비어런스", "subtitle": "화성의 소리를 들려준 로봇", "color": "#F97316",
@@ -353,7 +394,8 @@
       "story": "퍼서비어런스는 '끈기'라는 뜻을 가진 화성 탐사 로봇이에요. 옛날에 호수였던 곳을 돌아다니며 아주 작은 생물의 흔적을 찾고 있어요. 흥미로운 돌은 작은 통에 담아 두었다가, 나중에 지구로 가져올 계획이에요.",
       "funFact": "퍼서비어런스는 마이크로 화성에서 부는 바람 소리를 처음으로 녹음해서 지구에 들려주었어요.",
       "wiki": "Perseverance (rover)", "photoQuery": "Perseverance rover Mars", "photoMatch": ["perseverance", "mars 2020"],
-      "photos": ["File:PIA24836 Perseverance's Selfie at Rochette.jpg", "File:Perseverance's Selfie With 'Cheyava Falls' (PIA26344).jpg", "File:Perseverance Landing Skycrane.jpg", "File:Perseverance sky crane (cropped).jpg"]
+      "photos": ["File:PIA24836 Perseverance's Selfie at Rochette.jpg", "File:Perseverance's Selfie With 'Cheyava Falls' (PIA26344).jpg", "File:Perseverance Landing Skycrane.jpg", "File:Perseverance sky crane (cropped).jpg"],
+      "videoQueries": ["Perseverance rover landing footage", "Perseverance rover driving", "퍼서비어런스 착륙"], "videoMatch": ["perseverance", "퍼서비어런스"]
     },
     {
       "id": "ingenuity", "section": "rovers", "name": "인저뉴어티", "subtitle": "화성 하늘을 난 헬리콥터", "color": "#FBBF24",
@@ -361,7 +403,8 @@
       "story": "인저뉴어티는 퍼서비어런스의 배에 매달려 화성에 간 작은 헬리콥터예요. 2021년에 지구가 아닌 다른 행성에서 처음으로 하늘을 날았어요. 화성은 공기가 아주 얇아서 날개를 엄청 빨리 돌려야 떠오를 수 있어요.",
       "funFact": "처음엔 다섯 번만 날 계획이었는데, 씩씩하게 72번이나 날았어요!",
       "wiki": "Ingenuity (helicopter)", "photoQuery": "Ingenuity helicopter Mars", "photoMatch": ["ingenuity", "helicopter"],
-      "photos": ["File:Ingenuity at Two Years on Mars (PIA25881).jpg", "File:Mastcam-Z Gives Ingenuity a Close-up.jpg", "File:PIA22460-Mars2020Mission-Helicopter-20180525.jpg", "File:NASA's Ingenuity helicopter on Mars by Perseverance Mastcam-Z, Sol 768 (53475637956).jpg", "File:22372 PIA23159-16 Mars Helicopter Prototype.jpg"]
+      "photos": ["File:Ingenuity at Two Years on Mars (PIA25881).jpg", "File:Mastcam-Z Gives Ingenuity a Close-up.jpg", "File:PIA22460-Mars2020Mission-Helicopter-20180525.jpg", "File:NASA's Ingenuity helicopter on Mars by Perseverance Mastcam-Z, Sol 768 (53475637956).jpg", "File:22372 PIA23159-16 Mars Helicopter Prototype.jpg"],
+      "videoQueries": ["Ingenuity helicopter flight Mars", "Ingenuity first flight", "인저뉴어티 비행"], "videoMatch": ["ingenuity", "인저뉴어티", "helicopter", "헬리콥터"]
     },
     {
       "id": "voyager-1", "section": "rovers", "name": "보이저 1호", "subtitle": "가장 멀리 날아간 탐사선", "color": "#E5E7EB",
@@ -369,7 +412,8 @@
       "story": "보이저 1호는 목성과 토성을 지나 지금은 태양계 바깥까지 날아간 탐사선이에요. 사람이 만든 물건 중에서 지구에서 가장 멀리 가 있어요. 거의 50년 동안 지금도 계속 날아가며 지구에 신호를 보내고 있어요.",
       "funFact": "보이저 1호에는 지구의 소리를 담은 황금 레코드가 실려 있어요. 그 안에 한국말 '안녕하세요'도 들어 있어요!",
       "wiki": "Voyager 1", "photoQuery": "Voyager spacecraft golden record", "photoMatch": ["voyager"],
-      "photos": ["File:Voyager.jpg", "File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg", "File:Titan 3E with Voyager 1.jpg", "File:Great Red Spot From Voyager 1.jpg", "File:Crescent Saturn as seen from Voyager 1.jpg"]
+      "photos": ["File:Voyager.jpg", "File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg", "File:Titan 3E with Voyager 1.jpg", "File:Great Red Spot From Voyager 1.jpg", "File:Crescent Saturn as seen from Voyager 1.jpg"],
+      "videoQueries": ["Voyager 1 launch", "Voyager spacecraft golden record", "보이저 1호"], "videoMatch": ["voyager", "보이저"]
     },
     {
       "id": "new-horizons", "section": "rovers", "name": "뉴호라이즌스", "subtitle": "명왕성을 만난 탐사선", "color": "#94A3B8",
@@ -377,7 +421,8 @@
       "story": "뉴호라이즌스는 명왕성을 처음으로 가까이에서 본 탐사선이에요. 9년 넘게 날아가서 2015년에 명왕성 옆을 휙 지나가며 사진을 찍었어요. 그 뒤로도 더 먼 우주로 계속 날아가고 있어요.",
       "funFact": "뉴호라이즌스는 지구를 떠날 때 지금까지의 어떤 탐사선보다도 빠른 속도로 출발했어요.",
       "wiki": "New Horizons", "photoQuery": "New Horizons spacecraft", "photoMatch": ["new horizons", "new_horizons"],
-      "photos": ["File:New horizons (NASA).jpg", "File:New Horizons (ann21001a).jpg", "File:New Horizons 1.jpg", "File:Cape Canaveral New Horizons launch.jpg", "File:NASA’s New Horizons spacecraft (NH final).jpg"]
+      "photos": ["File:New horizons (NASA).jpg", "File:New Horizons (ann21001a).jpg", "File:New Horizons 1.jpg", "File:Cape Canaveral New Horizons launch.jpg", "File:NASA’s New Horizons spacecraft (NH final).jpg"],
+      "videoQueries": ["New Horizons Pluto flyby", "New Horizons launch", "뉴호라이즌스"], "videoMatch": ["new horizons", "뉴호라이즌스", "pluto"]
     },
     {
       "id": "cassini", "section": "rovers", "name": "카시니", "subtitle": "토성을 13년 동안 돈 탐사선", "color": "#CA8A04",
@@ -385,7 +430,8 @@
       "story": "카시니는 토성을 탐험한 커다란 탐사선이에요. 13년 동안 토성 둘레를 돌면서 토성과 고리, 여러 달을 자세히 조사했어요. 타이탄에 내려앉은 하위헌스 탐사선도 카시니가 데려갔어요.",
       "funFact": "카시니는 토성을 돌면서 사진을 45만 장 넘게 찍어서 지구로 보냈어요.",
       "wiki": "Cassini–Huygens", "photoQuery": "Cassini spacecraft Saturn", "photoMatch": ["cassini", "huygens"],
-      "photos": ["File:Cassini Saturn Orbit Insertion.jpg", "File:PIA22767-CassiniOrbitingSaturn-Grandfinale-ArtistConcept-20181002.jpg", "File:Cassini assembly.jpg", "File:Top view of the rings of Saturn by Cassini - October 10, 2013.jpg", "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg"]
+      "photos": ["File:Cassini Saturn Orbit Insertion.jpg", "File:PIA22767-CassiniOrbitingSaturn-Grandfinale-ArtistConcept-20181002.jpg", "File:Cassini assembly.jpg", "File:Top view of the rings of Saturn by Cassini - October 10, 2013.jpg", "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg"],
+      "videoQueries": ["Cassini grand finale Saturn", "Cassini spacecraft Saturn flyby", "카시니 토성"], "videoMatch": ["cassini", "카시니"]
     }
   ]
 }

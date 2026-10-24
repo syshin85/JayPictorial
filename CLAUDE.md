@@ -8,7 +8,7 @@ Moved here from `~/Desktop/jayTrain` (old Netlify copy, left as is — don't edi
 ## Layout
 - `index.html` — top page: pick a pictorial (cards). `sw.js` here only caches the top page.
 - `train/` — 기차 도감 (see `train/README.md`). Home has a 📚 button back to `../`.
-- `space/` — 우주 도감: same structure as train (home → book with tabs → detail), night-sky theme, no games/videos yet. Home: 우주 알아보기 (`sky`: planets, moons, stars) and 우주선 알아보기 (`ships`: rockets, spacecraft, satellites, rovers). `data/space.json` (books → sections → items, `facts` = 3 chips); photos via `space/tools/fetch_media.py` (Wikimedia, `photos` pins exact files, `photoSkip` drops some) → `data/media.json`, `assets/items/<id>/`.
+- `space/` — 우주 도감: same structure as train (home → book with tabs → detail), night-sky theme, no games yet. Home: 우주 알아보기 (`sky`: planets, moons, stars) and 우주선 알아보기 (`ships`: rockets, spacecraft, satellites, rovers). `data/space.json` (books → sections → items, `facts` = 3 chips); photos via `space/tools/fetch_media.py` (Wikimedia, `photos` pins exact files, `photoSkip` drops some) → `data/media.json`, `assets/items/<id>/`. Videos: one per item, same kid-safe player as train; picked by viewing frames with `space/tools/video_picker.py find` + `tools/video_review.html`, then `set id:n`. They must show the thing itself — the planet, or the machine actually working (launch, landing, docking, driving, flying); no explosions/failures, news, talking heads.
 - New pictorial → its own folder with `tools/build_web.py` (`main(out_dir)`), a card in `index.html`, and an entry in `PICTORIALS` in `tools/build_site.py`.
 
 ## Publish (GitHub Pages)
