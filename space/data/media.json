@@ -2040,5 +2040,1036 @@
       "seconds": 156,
       "channel": "NASA New Horizons"
     }
+  },
+  "naro": {
+    "images": [
+      {
+        "src": "assets/items/naro/1.jpg",
+        "credit": "한국항공우주연구원 (Korea Aerospace Research Institute)",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%82%98%EB%A1%9C%ED%98%B8(KSLV-I)_%EB%B0%9C%EC%82%AC_%EC%9E%A5%EB%A9%B4_(12).jpg",
+        "file": "File:나로호(KSLV-I) 발사 장면 (12).jpg"
+      },
+      {
+        "src": "assets/items/naro/2.jpg",
+        "credit": "한국항공우주연구원 (Korea Aerospace Research Institute)",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%82%98%EB%A1%9C%ED%98%B8(KSLV-I)_%EB%B0%9C%EC%82%AC_(1).jpg",
+        "file": "File:나로호(KSLV-I) 발사 (1).jpg"
+      },
+      {
+        "src": "assets/items/naro/3.jpg",
+        "credit": "사진가 이은준",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:KSLV-I_%EB%82%98%EB%A1%9C%ED%98%B8_%EB%B0%9C%EC%82%AC%EB%8C%80_%EC%9D%80%ED%95%98%EC%88%98.jpg",
+        "file": "File:KSLV-I 나로호 발사대 은하수.jpg"
+      },
+      {
+        "src": "assets/items/naro/4.jpg",
+        "credit": "한국항공우주연구원 (Korea Aerospace Research Institute)",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%82%98%EB%A1%9C%ED%98%B8(KSLV-I)_%EB%B0%9C%EC%82%AC%EB%8C%80_%EC%9D%B4%EC%86%A1_(5).jpg",
+        "file": "File:나로호(KSLV-I) 발사대 이송 (5).jpg"
+      },
+      {
+        "src": "assets/items/naro/5.jpg",
+        "credit": "한국항공우주연구원 (Korea Aerospace Research Institute)",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%82%98%EB%A1%9C%ED%98%B8(KSLV-I)_%EB%B0%9C%EC%82%AC_(3).jpg",
+        "file": "File:나로호(KSLV-I) 발사 (3).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "Zz6fdS1xFvw",
+      "title": "나로호 3차 발사장면 (초고속카메라)",
+      "seconds": 66,
+      "channel": "Lug Silva"
+    }
+  },
+  "soyuz-rocket": {
+    "images": [
+      {
+        "src": "assets/items/soyuz-rocket/1.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_(4).jpg",
+        "file": "File:Soyuz TMA-09M spacecraft at the Baikonur Cosmodrome launch pad (4).jpg"
+      },
+      {
+        "src": "assets/items/soyuz-rocket/2.jpg",
+        "credit": "Ministry of Defence of the Russian Federation",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_2.1b_GLONASS-K2_13L_launch_01.jpg",
+        "file": "File:Soyuz 2.1b GLONASS-K2 13L launch 01.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-rocket/3.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-13_erected_at_Baikonur_Cosmodrome_launch_pad.jpg",
+        "file": "File:Soyuz TMA-13 erected at Baikonur Cosmodrome launch pad.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-rocket/4.jpg",
+        "credit": "Carla Cioffi",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-05M_rocket_launches_from_Baikonur_4.jpg",
+        "file": "File:Soyuz TMA-05M rocket launches from Baikonur 4.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-rocket/5.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_rocket_rolled_out_to_the_launch_pad.jpg",
+        "file": "File:Soyuz rocket rolled out to the launch pad.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "QFKrHBM1ago",
+      "title": "Soyuz rocket launches US-Russian crew of 3 to International Space Station",
+      "seconds": 92,
+      "channel": "Associated Press"
+    }
+  },
+  "long-march-5": {
+    "images": [
+      {
+        "src": "assets/items/long-march-5/1.jpg",
+        "credit": "篁竹水声",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E5%BE%81%E4%BA%94%E5%8F%B7%E9%81%A5%E4%BA%8C%E7%81%AB%E7%AE%AD%E8%BD%AC%E5%9C%BA.jpg",
+        "file": "File:长征五号遥二火箭转场.jpg"
+      },
+      {
+        "src": "assets/items/long-march-5/2.jpg",
+        "credit": "Xiaojun Wang, China Academy of Launch Vehicle Technology",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Long_March_5_rolling_out_at_WSLS.jpg",
+        "file": "File:Long March 5 rolling out at WSLS.jpg"
+      },
+      {
+        "src": "assets/items/long-march-5/3.jpg",
+        "credit": "Shujianyang",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:CZ-5_at_WSLS_03.jpg",
+        "file": "File:CZ-5 at WSLS 03.jpg"
+      },
+      {
+        "src": "assets/items/long-march-5/4.jpg",
+        "credit": "Shujianyang",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:CZ-5_at_WSLS_02.jpg",
+        "file": "File:CZ-5 at WSLS 02.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "vR30tiZEO24",
+      "title": "Long March-5 launches TJSW-25",
+      "seconds": 94,
+      "channel": "SciNews"
+    }
+  },
+  "h-2a": {
+    "images": [
+      {
+        "src": "assets/items/h-2a/1.jpg",
+        "credit": "20nana75 (squared by Juan Pablo Arancibia Medina)",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:H2A11001_(square).jpg",
+        "file": "File:H2A11001 (square).jpg"
+      },
+      {
+        "src": "assets/items/h-2a/2.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:H-IIA_rocket_carrying_GPM_at_Tanegashima_(201402270013HQ).jpg",
+        "file": "File:H-IIA rocket carrying GPM at Tanegashima (201402270013HQ).jpg"
+      },
+      {
+        "src": "assets/items/h-2a/3.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:H-IIA_F23_launched_the_GPM_and_seven_other_satellites.jpg",
+        "file": "File:H-IIA F23 launched the GPM and seven other satellites.jpg"
+      },
+      {
+        "src": "assets/items/h-2a/4.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:H-IIA_No._F23_with_GPM_between_lightning_towers.jpg",
+        "file": "File:H-IIA No. F23 with GPM between lightning towers.jpg"
+      },
+      {
+        "src": "assets/items/h-2a/5.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Payload_fairing_of_GPM%27s_H-IIA_rocket.jpg",
+        "file": "File:Payload fairing of GPM's H-IIA rocket.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "CeTwomis-F0",
+      "title": "H-IIA F35 launches QZS-3 (Michibiki 3/みちびき3号機)",
+      "seconds": 198,
+      "channel": "SciNews"
+    }
+  },
+  "new-glenn": {
+    "images": [
+      {
+        "src": "assets/items/new-glenn/1.jpg",
+        "credit": "U.S. Space Force photo by Gwendolyn Kurzen",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:New_Glenn_-_BlueBird_7_Launch_(9628277)_(cropped).jpg",
+        "file": "File:New Glenn - BlueBird 7 Launch (9628277) (cropped).jpg"
+      },
+      {
+        "src": "assets/items/new-glenn/2.jpg",
+        "credit": "U.S. Space Force photo by Gwendolyn Kurzen",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:New_Glenn_-_BlueBird_7_Launch_(9628276).jpg",
+        "file": "File:New Glenn - BlueBird 7 Launch (9628276).jpg"
+      },
+      {
+        "src": "assets/items/new-glenn/3.jpg",
+        "credit": "U.S. Space Force photo by Senior Airman Samuel Becker",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
+        "file": "File:Blue Origin New Glenn flight 2.jpg"
+      },
+      {
+        "src": "assets/items/new-glenn/4.jpg",
+        "credit": "U.S. Space Force 45SW by Senior Airman Samuel Becker",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_(8832113).jpg",
+        "file": "File:New Glenn launch signals new era for Space Launch Complex 36 (8832113).jpg"
+      },
+      {
+        "src": "assets/items/new-glenn/5.jpg",
+        "credit": "U.S. Space Force photo by Gwendolyn Kurzen",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:New_Glenn_-_BlueBird_7_Launch_(9628275).jpg",
+        "file": "File:New Glenn - BlueBird 7 Launch (9628275).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "tP6H2x2OKdg",
+      "title": "Blue Origin's New Glenn rocket deploys Mars satellites, sticks booster landing • FRANCE 24 English",
+      "seconds": 80,
+      "channel": "FRANCE 24 English"
+    }
+  },
+  "electron": {
+    "images": [
+      {
+        "src": "assets/items/electron/1.jpg",
+        "credit": "NASA Kennedy Space Center / Rocket Lab",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0001-reupload)_(cropped).jpg",
+        "file": "File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0001-reupload) (cropped).jpg"
+      },
+      {
+        "src": "assets/items/electron/2.jpg",
+        "credit": "NASA Kennedy Space Center / Rocket Lab",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0006).jpg",
+        "file": "File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0006).jpg"
+      },
+      {
+        "src": "assets/items/electron/3.jpg",
+        "credit": "NASA Kennedy Space Center / Rocket Lab",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0001-reupload).jpg",
+        "file": "File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0001-reupload).jpg"
+      },
+      {
+        "src": "assets/items/electron/4.jpg",
+        "credit": "Yourong F. Wang",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:CAPSTONE-LAUNCH.jpg",
+        "file": "File:CAPSTONE-LAUNCH.jpg"
+      },
+      {
+        "src": "assets/items/electron/5.jpg",
+        "credit": "NASA Kennedy Space Center / Rocket Lab",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE_and_Ice_Launch_(KSC-20240605-PH-RKL01_0002).jpg",
+        "file": "File:Rocket Lab PREFIRE and Ice Launch (KSC-20240605-PH-RKL01 0002).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "TLmUOdnqeb0",
+      "title": "Electron launches the 12th StriX satellite",
+      "seconds": 110,
+      "channel": "SciNews"
+    }
+  },
+  "mercury-capsule": {
+    "images": [
+      {
+        "src": "assets/items/mercury-capsule/1.jpg",
+        "credit": "HrAtsuo",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Friendship_7_the_National_Air_and_Space_Museum.JPG",
+        "file": "File:Friendship 7 the National Air and Space Museum.JPG"
+      },
+      {
+        "src": "assets/items/mercury-capsule/2.jpg",
+        "credit": "Soerfm",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Escape_rocket_of_Mercury-Redstone_1-crop.jpg",
+        "file": "File:Escape rocket of Mercury-Redstone 1-crop.jpg"
+      },
+      {
+        "src": "assets/items/mercury-capsule/3.jpg",
+        "credit": "Alan Wilson from Peterborough, Cambs, UK",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercury_Spacecraft_-_Capsule_15B_%E2%80%98Freedom_7_II%E2%80%99_(51281910923).jpg",
+        "file": "File:Mercury Spacecraft - Capsule 15B ‘Freedom 7 II’ (51281910923).jpg"
+      },
+      {
+        "src": "assets/items/mercury-capsule/4.jpg",
+        "credit": "HrAtsuo",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Freedom_7_U.S._Naval_Academy.JPG",
+        "file": "File:Freedom 7 U.S. Naval Academy.JPG"
+      },
+      {
+        "src": "assets/items/mercury-capsule/5.jpg",
+        "credit": "Clemens Vasters from Viersen, Germany",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercury_10_at_the_Evergreen_Aviation_%26_Space_Museum_1679_(6586666405).jpg",
+        "file": "File:Mercury 10 at the Evergreen Aviation & Space Museum 1679 (6586666405).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "u4fBG1fxa1M",
+      "title": "Mercury Atlas 6 Launch",
+      "seconds": 102,
+      "channel": "Space Resources"
+    }
+  },
+  "soyuz-spacecraft": {
+    "images": [
+      {
+        "src": "assets/items/soyuz-spacecraft/1.jpg",
+        "credit": "The original uploader was Thegreenj at English Wikipedia.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-7_spacecraft2edit1.jpg",
+        "file": "File:Soyuz TMA-7 spacecraft2edit1.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-spacecraft/2.jpg",
+        "credit": "CactiStaccingCrane",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_MS.jpg",
+        "file": "File:Soyuz MS.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-spacecraft/3.jpg",
+        "credit": "NASA TV",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-05M_spacecraft_approaches_the_International_Space_Station.jpg",
+        "file": "File:Soyuz TMA-05M spacecraft approaches the International Space Station.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-spacecraft/4.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-17_retro-rockets_firing_during_landing.jpg",
+        "file": "File:Soyuz TMA-17 retro-rockets firing during landing.jpg"
+      },
+      {
+        "src": "assets/items/soyuz-spacecraft/5.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-16_relocates_from_Zvezda_Service_Module_to_Poisk_module.jpg",
+        "file": "File:Soyuz TMA-16 relocates from Zvezda Service Module to Poisk module.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "f2X2kaqYatI",
+      "title": "Soyuz Landing",
+      "seconds": 53,
+      "channel": "Ghostpredictions"
+    }
+  },
+  "shenzhou": {
+    "images": [
+      {
+        "src": "assets/items/shenzhou/1.jpg",
+        "credit": "Brücke-Osteuropa",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shenzhou_5.jpg",
+        "file": "File:Shenzhou 5.jpg"
+      },
+      {
+        "src": "assets/items/shenzhou/2.jpg",
+        "credit": "Created by ForrestXYC, photoshopped by Ib",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Launch_of_Shenzhou_13.jpg",
+        "file": "File:Launch of Shenzhou 13.jpg"
+      },
+      {
+        "src": "assets/items/shenzhou/3.jpg",
+        "credit": "Shujianyang",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shenzhou-1_return_capsule_at_CSTM_01.jpg",
+        "file": "File:Shenzhou-1 return capsule at CSTM 01.jpg"
+      },
+      {
+        "src": "assets/items/shenzhou/4.jpg",
+        "credit": "Shujianyang",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shenzhou-13_at_NMC_03.jpg",
+        "file": "File:Shenzhou-13 at NMC 03.jpg"
+      },
+      {
+        "src": "assets/items/shenzhou/5.jpg",
+        "credit": "中国新闻网",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shenzhou_spacecraft_assembly.jpg",
+        "file": "File:Shenzhou spacecraft assembly.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "knF5rzgCEDg",
+      "title": "Shenzhou-11 docks with Tiangong-2 space station",
+      "seconds": 144,
+      "channel": "SciNews"
+    }
+  },
+  "tiangong": {
+    "images": [
+      {
+        "src": "assets/items/tiangong/1.jpg",
+        "credit": "Shujianyang",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinese_Tiangong_Space_Station_(cropped).jpg",
+        "file": "File:Chinese Tiangong Space Station (cropped).jpg"
+      },
+      {
+        "src": "assets/items/tiangong/2.jpg",
+        "credit": "Shujianyang",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinese_Tiangong_Space_Station.jpg",
+        "file": "File:Chinese Tiangong Space Station.jpg"
+      },
+      {
+        "src": "assets/items/tiangong/3.jpg",
+        "credit": "China Manned Space Engineering Office",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rear_view_of_Tiangong_Space_Station.jpg",
+        "file": "File:Rear view of Tiangong Space Station.jpg"
+      },
+      {
+        "src": "assets/items/tiangong/4.jpg",
+        "credit": "China Manned Space Engineering Office",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Large_robotic_arm_of_Tiangong.jpg",
+        "file": "File:Large robotic arm of Tiangong.jpg"
+      },
+      {
+        "src": "assets/items/tiangong/5.jpg",
+        "credit": "China Manned Space Engineering Office",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:First_gathering_on_Tiangong.jpg",
+        "file": "File:First gathering on Tiangong.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "lPpdOZRh2ks",
+      "title": "China's Space Station \"Tiangong\" Fly Around",
+      "seconds": 152,
+      "channel": "Hazegrayart"
+    }
+  },
+  "buran": {
+    "images": [
+      {
+        "src": "assets/items/buran/1.jpg",
+        "credit": "Ermell",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Moskau_Raumf%C3%A4hre_Buran-20080601-RM-094724.jpg",
+        "file": "File:Moskau Raumfähre Buran-20080601-RM-094724.jpg"
+      },
+      {
+        "src": "assets/items/buran/2.jpg",
+        "credit": "MASTER SGT. DAVE CASEY",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Buran_on_An-225_(Le_Bourget_1989)_1.JPEG",
+        "file": "File:Buran on An-225 (Le Bourget 1989) 1.JPEG"
+      },
+      {
+        "src": "assets/items/buran/3.jpg",
+        "credit": "W. Bulach",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:00_4708_Moskau_-_Raumf%C3%A4hre_Buran_(russisch_%D0%91%D1%83%D1%80%D0%B0%D0%BD).jpg",
+        "file": "File:00 4708 Moskau - Raumfähre Buran (russisch Буран).jpg"
+      },
+      {
+        "src": "assets/items/buran/4.jpg",
+        "credit": "Ralf Manteufel",
+        "license": "GFDL 1.2",
+        "source": "https://commons.wikimedia.org/wiki/File:Antonov_An-225_with_Buran_at_Le_Bourget_1989_Manteufel.jpg",
+        "file": "File:Antonov An-225 with Buran at Le Bourget 1989 Manteufel.jpg"
+      },
+      {
+        "src": "assets/items/buran/5.jpg",
+        "credit": "Clemens Vasters from Viersen, Germany",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Buran_at_the_Technik_Museum_Speyer_7557_(8345831356).jpg",
+        "file": "File:Space Shuttle Buran at the Technik Museum Speyer 7557 (8345831356).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "wt0qoR7O2Eo",
+      "title": "Soviet space shuttle Buran Launch and landing.",
+      "seconds": 112,
+      "channel": "Stas Bobkov"
+    }
+  },
+  "kitsat-1": {
+    "images": [
+      {
+        "src": "assets/items/kitsat-1/1.jpg",
+        "credit": "GKIDS",
+        "license": "Fair use",
+        "source": "https://en.wikipedia.org/wiki/File:Kitsat-1_Satellite_Artist%27s_Concept.png",
+        "file": "File:Kitsat-1 Satellite Artist's Concept.png"
+      }
+    ],
+    "video": {
+      "youtube": "hjddvJQjUts",
+      "title": "Korea's first satellite, KITSAT 1",
+      "seconds": 45,
+      "channel": "Arirang News"
+    }
+  },
+  "chollian-2a": {
+    "images": [
+      {
+        "src": "assets/items/chollian-2a/1.jpg",
+        "credit": "Korea Aerospace Research Institute",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EC%B2%9C%EB%A6%AC%EC%95%88_2A_%EC%9D%8C%ED%96%A5%EC%8B%9C%ED%97%98(1)_(1024).jpeg",
+        "file": "File:천리안 2A 음향시험(1) (1024).jpeg"
+      },
+      {
+        "src": "assets/items/chollian-2a/2.jpg",
+        "credit": "Korea Aerospace Research Institute",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EC%B2%9C%EB%A6%AC%EC%95%88_2A_%EC%9D%8C%ED%96%A5%EC%8B%9C%ED%97%98(2)_(1025).jpeg",
+        "file": "File:천리안 2A 음향시험(2) (1025).jpeg"
+      },
+      {
+        "src": "assets/items/chollian-2a/3.jpg",
+        "credit": "Korea Aerospace Research Institute",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%B0%9C%EC%82%AC%EC%B2%B4%EC%97%90_%EC%9E%A5%EC%B0%A9%EB%90%9C_%EC%B2%9C%EB%A6%AC%EC%95%88_2A%ED%98%B8(2)_(1117).jpeg",
+        "file": "File:발사체에 장착된 천리안 2A호(2) (1117).jpeg"
+      },
+      {
+        "src": "assets/items/chollian-2a/4.jpg",
+        "credit": "Korea Aerospace Research Institute",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EC%B2%9C%EB%A6%AC%EC%95%88_2A%ED%98%B8_%EC%B5%9C%EC%A2%85_%EC%A0%90%EA%B2%80(3)_(1089).jpeg",
+        "file": "File:천리안 2A호 최종 점검(3) (1089).jpeg"
+      },
+      {
+        "src": "assets/items/chollian-2a/5.jpg",
+        "credit": "Korea Aerospace Research Institute",
+        "license": "KOGL Type 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%B0%9C%EC%82%AC%EC%B2%B4%EC%97%90_%EC%9E%A5%EC%B0%A9%EB%90%9C_%EC%B2%9C%EB%A6%AC%EC%95%88_2A%ED%98%B8(1)_(1116).jpeg",
+        "file": "File:발사체에 장착된 천리안 2A호(1) (1116).jpeg"
+      }
+    ],
+    "video": {
+      "youtube": "kqIVk0YPMO8",
+      "title": "첫 토종 정지궤도위성 천리안2A호 성공적 발사",
+      "seconds": 105,
+      "channel": "뉴스핌TV"
+    }
+  },
+  "starlink": {
+    "images": [
+      {
+        "src": "assets/items/starlink/1.jpg",
+        "credit": "Official SpaceX Photos",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg",
+        "file": "File:Starlink Mission (47926144123).jpg"
+      },
+      {
+        "src": "assets/items/starlink/2.jpg",
+        "credit": "Jud McCranie",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Starlink_6_satellites.jpg",
+        "file": "File:Starlink 6 satellites.jpg"
+      },
+      {
+        "src": "assets/items/starlink/3.jpg",
+        "credit": "M. Lewinsky/Creative Commons Attribution",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Starlink_Satellites_over_Carson_National_Forest,_New_Mexico_(noirlab2206b).jpg",
+        "file": "File:Starlink Satellites over Carson National Forest, New Mexico (noirlab2206b).jpg"
+      },
+      {
+        "src": "assets/items/starlink/4.jpg",
+        "credit": "U.S. Air Force photo by Senior Airman Zoe Thacker",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:45th_SW_supports_successful_launch_of_Falcon_9_Starlink_(5903425).jpeg",
+        "file": "File:45th SW supports successful launch of Falcon 9 Starlink (5903425).jpeg"
+      },
+      {
+        "src": "assets/items/starlink/5.jpg",
+        "credit": "Odapresste",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Starlink_antenna_on_the_ground.jpg",
+        "file": "File:Starlink antenna on the ground.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "zCM8eJ3YOkM",
+      "title": "Watch SpaceX deploy 52 Starlink satellites in stunning view from space",
+      "seconds": 67,
+      "channel": "VideoFromSpace"
+    }
+  },
+  "chandra": {
+    "images": [
+      {
+        "src": "assets/items/chandra/1.jpg",
+        "credit": "NASA/CXC &amp; J.Vaughan",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandra_X-Ray_Observatory_(noirlab2427c).jpg",
+        "file": "File:Chandra X-Ray Observatory (noirlab2427c).jpg"
+      },
+      {
+        "src": "assets/items/chandra/2.jpg",
+        "credit": "",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandra_X-ray_Observatory.jpg",
+        "file": "File:Chandra X-ray Observatory.jpg"
+      },
+      {
+        "src": "assets/items/chandra/3.jpg",
+        "credit": "NASA/STS-93/Cady Coleman",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandra_X-ray_Observatory_after_release_from_Space_Shuttle_Columbia.jpg",
+        "file": "File:Chandra X-ray Observatory after release from Space Shuttle Columbia.jpg"
+      },
+      {
+        "src": "assets/items/chandra/4.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandra_X-ray_space_observatory_Obs_assemb2_300.jpg",
+        "file": "File:Chandra X-ray space observatory Obs assemb2 300.jpg"
+      },
+      {
+        "src": "assets/items/chandra/5.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandra_X-ray_Observatory_inside_the_Space_Shuttle_payload_bay.jpg",
+        "file": "File:Chandra X-ray Observatory inside the Space Shuttle payload bay.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "3kftURX_AGI",
+      "title": "Learn About Chandra",
+      "seconds": 104,
+      "channel": "Chandra X-ray Observatory"
+    }
+  },
+  "kepler": {
+    "images": [
+      {
+        "src": "assets/items/kepler/1.jpg",
+        "credit": "NASA Ames/ W Stenzel",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NASA-KeplerSpaceTelescope-ArtistConcept-20141027.jpg",
+        "file": "File:NASA-KeplerSpaceTelescope-ArtistConcept-20141027.jpg"
+      },
+      {
+        "src": "assets/items/kepler/2.jpg",
+        "credit": "",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Kepler_bkgd.sm.jpg",
+        "file": "File:Kepler bkgd.sm.jpg"
+      },
+      {
+        "src": "assets/items/kepler/3.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:KeplerSpaceTelescope_-Retirement-ArtistConcept-20181030.jpg",
+        "file": "File:KeplerSpaceTelescope -Retirement-ArtistConcept-20181030.jpg"
+      },
+      {
+        "src": "assets/items/kepler/4.jpg",
+        "credit": "NASA/Troy Cryder",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Kepler_in_Astrotech%27s_Hazardous_Processing_Facility_(KSC-2009-1645).jpg",
+        "file": "File:Kepler in Astrotech's Hazardous Processing Facility (KSC-2009-1645).jpg"
+      },
+      {
+        "src": "assets/items/kepler/5.jpg",
+        "credit": "Photo credit: NASA/Sandra Joseph, Kevin O'Connell",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Ignition_of_Kepler%27s_Delta_II_7925-10L.jpg",
+        "file": "File:Ignition of Kepler's Delta II 7925-10L.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "bmV1D_nyYx4",
+      "title": "NASA's Kepler Reveals Potential New Worlds",
+      "seconds": 79,
+      "channel": "NASA's Ames Research Center"
+    }
+  },
+  "lunokhod-1": {
+    "images": [
+      {
+        "src": "assets/items/lunokhod-1/1.jpg",
+        "credit": "Armael",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lunokhod_1_moon_rover_(MMA_2011)_(1).JPG",
+        "file": "File:Lunokhod 1 moon rover (MMA 2011) (1).JPG"
+      },
+      {
+        "src": "assets/items/lunokhod-1/2.jpg",
+        "credit": "Вадим Кондратьев",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lunokhod_moonrover.jpg",
+        "file": "File:Lunokhod moonrover.jpg"
+      },
+      {
+        "src": "assets/items/lunokhod-1/3.jpg",
+        "credit": "Clemens Vasters from Viersen, Germany",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:USSR_Lunokhod_1_(6586685621)_(2).jpg",
+        "file": "File:USSR Lunokhod 1 (6586685621) (2).jpg"
+      },
+      {
+        "src": "assets/items/lunokhod-1/4.jpg",
+        "credit": "Clemens Vasters from Viersen, Germany",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:USSR_Lunokhod_1_(6586688095)_(7).jpg",
+        "file": "File:USSR Lunokhod 1 (6586688095) (7).jpg"
+      },
+      {
+        "src": "assets/items/lunokhod-1/5.jpg",
+        "credit": "Lunar Reconnaissance Orbiter, NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:LRO_Lunokhod_2.jpg",
+        "file": "File:LRO Lunokhod 2.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "KW5LY_Wpo48",
+      "title": "LUNOKHOD",
+      "seconds": 63,
+      "channel": "British Movietone"
+    }
+  },
+  "lrv": {
+    "images": [
+      {
+        "src": "assets/items/lrv/1.jpg",
+        "credit": "NASA/Dave Scott; cropped by User:Bubba73",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Apollo15LunarRover.jpg",
+        "file": "File:Apollo15LunarRover.jpg"
+      },
+      {
+        "src": "assets/items/lrv/2.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NASA_Apollo_17_Lunar_Roving_Vehicle-crop.jpg",
+        "file": "File:NASA Apollo 17 Lunar Roving Vehicle-crop.jpg"
+      },
+      {
+        "src": "assets/items/lrv/3.jpg",
+        "credit": "Apollo 15 astronauts",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Apollo15LunarRover2.jpg",
+        "file": "File:Apollo15LunarRover2.jpg"
+      },
+      {
+        "src": "assets/items/lrv/4.jpg",
+        "credit": "NASA / Harrison H. Schmitt",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Apollo_17_LEM_and_Lunar_Roving_Vehicle,_AS17-147-22527.jpg",
+        "file": "File:Apollo 17 LEM and Lunar Roving Vehicle, AS17-147-22527.jpg"
+      },
+      {
+        "src": "assets/items/lrv/5.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Lunar_Roving_Vehicle_-_GPN-2000-001122.jpg",
+        "file": "File:Lunar Roving Vehicle - GPN-2000-001122.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "R9FjoEAo6-4",
+      "title": "Apollo 16 Lunar Rover \"Grand Prix\" Footage In HD | Stabilized and Color Graded",
+      "seconds": 97,
+      "channel": "What is Rumble Science"
+    }
+  },
+  "opportunity": {
+    "images": [
+      {
+        "src": "assets/items/opportunity/1.jpg",
+        "credit": "NASA/JPL-Solar System Visualization Team",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Opportunity_PIA03240.jpg",
+        "file": "File:Opportunity PIA03240.jpg"
+      },
+      {
+        "src": "assets/items/opportunity/2.jpg",
+        "credit": "NASA/KSC",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Opportunity_Lander_Petals_PIA04848.jpg",
+        "file": "File:Opportunity Lander Petals PIA04848.jpg"
+      },
+      {
+        "src": "assets/items/opportunity/3.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Mer-b-final-launch.jpg",
+        "file": "File:Mer-b-final-launch.jpg"
+      },
+      {
+        "src": "assets/items/opportunity/4.jpg",
+        "credit": "NASA/JPL-Caltech",
+        "license": "",
+        "source": "https://commons.wikimedia.org/wiki/File:PIA22222-Mars-OpportunityRover-FirstSelfie-20180220.jpg",
+        "file": "File:PIA22222-Mars-OpportunityRover-FirstSelfie-20180220.jpg"
+      },
+      {
+        "src": "assets/items/opportunity/5.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:PIA03621-Opportunity_Rover-Olympia_Panorama.jpg",
+        "file": "File:PIA03621-Opportunity Rover-Olympia Panorama.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "1Ll-VHYxWXU",
+      "title": "Opportunity: NASA Rover Completes Mars Mission",
+      "seconds": 232,
+      "channel": "NASA Jet Propulsion Laboratory"
+    }
+  },
+  "yutu-2": {
+    "images": [
+      {
+        "src": "assets/items/yutu-2/1.jpg",
+        "credit": "CNSA",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yutu-2.jpg",
+        "file": "File:Yutu-2.jpg"
+      },
+      {
+        "src": "assets/items/yutu-2/2.jpg",
+        "credit": "CNSA",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yutu-2_leaving_Chang_e-4-iau1901a.jpg",
+        "file": "File:Yutu-2 leaving Chang e-4-iau1901a.jpg"
+      },
+      {
+        "src": "assets/items/yutu-2/3.jpg",
+        "credit": "Jianjun Liu, Xin Ren, Wei Yan, Chunlai Li, He Zhang, Yang Jia, Xingguo Zeng, Wangli Chen, Xingye Gao, Dawei Liu, Xu Tan, Xiaoxia Zhang, Tao Ni, Hongbo Zhang, Wei Zuo, Yan Su &amp; Weibin Wen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chang%27e_4_lander.jpg",
+        "file": "File:Chang'e 4 lander.jpg"
+      },
+      {
+        "src": "assets/items/yutu-2/4.jpg",
+        "credit": "AKAMGO yalms",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_%E5%89%B5%E7%A7%91%E5%8D%9A%E8%A6%BD_InnoTech_Expo_%E7%8E%89%E5%85%94%E4%BA%8C%E8%99%9F%E6%9C%88%E7%90%83%E8%BB%8A_Yutu_2_Two_Luna_Robot_Rover_December_2022_Px3_01.jpg",
+        "file": "File:HK WCN 灣仔北 Wan Chai North 香港會展 HKCEC 創科博覽 InnoTech Expo 玉兔二號月球車 Yutu 2 Two Luna Robot Rover December 2022 Px3 01.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "1ZmYX5nVwLc",
+      "title": "Yutu-2 rolls across the Moon",
+      "seconds": 57,
+      "channel": "The Planetary Society"
+    }
+  },
+  "juno": {
+    "images": [
+      {
+        "src": "assets/items/juno/1.jpg",
+        "credit": "NASA/JPL",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:JUNO_-_PIA13746.jpg",
+        "file": "File:JUNO - PIA13746.jpg"
+      },
+      {
+        "src": "assets/items/juno/2.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Juno_Aces_Eighth_Science_Pass_Of_Jupiter.jpg",
+        "file": "File:Juno Aces Eighth Science Pass Of Jupiter.jpg"
+      },
+      {
+        "src": "assets/items/juno/3.jpg",
+        "credit": "Aubrey Gemignani",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Juno_orbit_around_Jupiter.jpg",
+        "file": "File:Juno orbit around Jupiter.jpg"
+      },
+      {
+        "src": "assets/items/juno/4.jpg",
+        "credit": "NASA/KSC",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Atlas_V_with_Juno_on_CCAFS_SLC-41_(PIA14416).jpg",
+        "file": "File:Atlas V with Juno on CCAFS SLC-41 (PIA14416).jpg"
+      },
+      {
+        "src": "assets/items/juno/5.jpg",
+        "credit": "NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill",
+        "license": "",
+        "source": "https://commons.wikimedia.org/wiki/File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg",
+        "file": "File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "NNt9DTw7nzk",
+      "title": "Juno spacecraft Jupiter arrival animation",
+      "seconds": 145,
+      "channel": "NASAJuno"
+    }
+  },
+  "hayabusa2": {
+    "images": [
+      {
+        "src": "assets/items/hayabusa2/1.jpg",
+        "credit": "DLR German Aerospace Center",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hayabusa2_Ion_thruster.jpg",
+        "file": "File:Hayabusa2 Ion thruster.jpg"
+      },
+      {
+        "src": "assets/items/hayabusa2/2.jpg",
+        "credit": "DLR German Aerospace Center",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hayabusa2_approaching_asteroid.jpg",
+        "file": "File:Hayabusa2 approaching asteroid.jpg"
+      },
+      {
+        "src": "assets/items/hayabusa2/3.jpg",
+        "credit": "JAXA, University of Tokyo &amp; collaborators",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Asteroid_Ryugu_(ann19006a).jpg",
+        "file": "File:Asteroid Ryugu (ann19006a).jpg"
+      },
+      {
+        "src": "assets/items/hayabusa2/4.jpg",
+        "credit": "江戸村のとくぞう",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hayabusa2-211211e.jpg",
+        "file": "File:Hayabusa2-211211e.jpg"
+      },
+      {
+        "src": "assets/items/hayabusa2/5.jpg",
+        "credit": "江戸村のとくぞう",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hayabusa2-211211l.jpg",
+        "file": "File:Hayabusa2-211211l.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "agnSwV451_4",
+      "title": "Hayabusa2’s second touchdown on asteroid Ryugu",
+      "seconds": 130,
+      "channel": "SciNews"
+    }
+  },
+  "rosetta": {
+    "images": [
+      {
+        "src": "assets/items/rosetta/1.jpg",
+        "credit": "European Space Agency",
+        "license": "CC BY-SA 3.0 igo",
+        "source": "https://commons.wikimedia.org/wiki/File:Rosetta_and_Philae_at_comet_(11206660686).jpg",
+        "file": "File:Rosetta and Philae at comet (11206660686).jpg"
+      },
+      {
+        "src": "assets/items/rosetta/2.jpg",
+        "credit": "European Space Agency",
+        "license": "CC BY-SA 3.0 igo",
+        "source": "https://commons.wikimedia.org/wiki/File:Rosetta_and_Philae_at_comet_(11206755953).jpg",
+        "file": "File:Rosetta and Philae at comet (11206755953).jpg"
+      },
+      {
+        "src": "assets/items/rosetta/3.jpg",
+        "credit": "DLR German Aerospace Center",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Philae_on_Comet_67P-Churyumov-Gerasimenko.jpg",
+        "file": "File:Philae on Comet 67P-Churyumov-Gerasimenko.jpg"
+      },
+      {
+        "src": "assets/items/rosetta/4.jpg",
+        "credit": "ESA/Rosetta/NAVCAM, CC BY-SA IGO 3.0",
+        "license": "CC BY-SA 3.0 igo",
+        "source": "https://commons.wikimedia.org/wiki/File:Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+        "file": "File:Comet 67P on 19 September 2014 NavCam mosaic.jpg"
+      },
+      {
+        "src": "assets/items/rosetta/5.jpg",
+        "credit": "ESA/Rosetta/NAVCAM",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Comet_67P_on_31_January_2015_-_NAVCAM.jpg",
+        "file": "File:Comet 67P on 31 January 2015 - NAVCAM.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "fO3oMtm9jBs",
+      "title": "Visualising Rosetta's descent",
+      "seconds": 73,
+      "channel": "European Space Agency, ESA"
+    }
+  },
+  "chandrayaan-3": {
+    "images": [
+      {
+        "src": "assets/items/chandrayaan-3/1.jpg",
+        "credit": "Indian Space Research Organization",
+        "license": "GODL-India",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandrayaan3-landed_(cropped).jpg",
+        "file": "File:Chandrayaan3-landed (cropped).jpg"
+      },
+      {
+        "src": "assets/items/chandrayaan-3/2.jpg",
+        "credit": "Indian Space Research Organization",
+        "license": "GODL-India",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandrayaan3-landed.jpg",
+        "file": "File:Chandrayaan3-landed.jpg"
+      },
+      {
+        "src": "assets/items/chandrayaan-3/3.jpg",
+        "credit": "Indian Space Research OrganisationDerivative work: UnpetitproleX",
+        "license": "GODL-India",
+        "source": "https://commons.wikimedia.org/wiki/File:LVM3_M4,_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_(SLP)_of_SDSC-SHAR,_Sriharikota_(edit).jpg",
+        "file": "File:LVM3 M4, Chandrayaan-3 - Launch vehicle lifting off from the Second Launch Pad (SLP) of SDSC-SHAR, Sriharikota (edit).jpg"
+      },
+      {
+        "src": "assets/items/chandrayaan-3/4.jpg",
+        "credit": "Aliva Sahoo",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vikram_Lander.jpg",
+        "file": "File:Vikram Lander.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "iKamnTyJ4Y0",
+      "title": "BREAKING! Chandrayaan-3 Rover Deployment Video",
+      "seconds": 20,
+      "channel": "The Launch Pad"
+    }
   }
 }

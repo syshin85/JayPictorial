@@ -268,6 +268,60 @@
       "photos": ["File:Ariane 5 with James Webb Space Telescope Prelaunch (51773093465).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch. (NHQ202112230013).jpg", "File:Ariane 5 Rollout with James Webb Space Telescope (NHQ202112230026).jpg", "File:Ariane 5 with James Webb Space Telescope Prelaunch (NHQ202112230018).jpg"],
       "videoQueries": ["Ariane 5 launch James Webb", "Ariane 5 launch", "아리안 5 발사"], "videoMatch": ["ariane 5", "ariane", "아리안"]
     },
+    {
+      "id": "naro", "section": "rockets", "name": "나로호", "subtitle": "우리나라가 처음 쏘아 올린 로켓", "color": "#3B82F6",
+      "facts": [["📏", "높이", "33", "m"], ["🎉", "성공한 해", "2013", "년"], ["🌏", "나라", "대한민국", ""]],
+      "story": "나로호는 우리나라가 처음으로 쏘아 올린 우주 로켓이에요. 아래쪽 로켓은 러시아와 함께 만들고, 위쪽 로켓은 우리나라가 만들었어요. 두 번 실패했지만 포기하지 않고 2013년 세 번째 도전에서 인공위성을 우주에 올려놓았어요.",
+      "funFact": "나로호라는 이름은 로켓을 쏜 나로우주센터가 있는 섬, '나로도'에서 따왔어요.",
+      "wiki": "Naro-1", "photoQuery": "Naro-1 KSLV rocket", "photoMatch": ["naro", "kslv", "나로"],
+      "photos": ["File:나로호(KSLV-I) 발사 장면 (12).jpg", "File:나로호(KSLV-I) 발사 (1).jpg", "File:KSLV-I 나로호 발사대 은하수.jpg", "File:나로호(KSLV-I) 발사대 이송 (5).jpg", "File:나로호(KSLV-I) 발사 (3).jpg"],
+      "videoQueries": ["나로호 발사", "나로호 3차 발사 성공", "Naro-1 launch"], "videoMatch": ["나로호", "naro"]
+    },
+    {
+      "id": "soyuz-rocket", "section": "rockets", "name": "소유즈 로켓", "subtitle": "가장 많이 날아간 로켓", "color": "#64748B",
+      "facts": [["📏", "높이", "약 46", "m"], ["🎂", "첫 발사", "1966", "년"], ["🌏", "나라", "러시아", ""]],
+      "story": "소유즈 로켓은 아래쪽에 보조 로켓 4개가 꽃잎처럼 붙어 있는 러시아의 로켓이에요. 50년 넘게 우주인과 인공위성을 실어 나르며, 세상에서 가장 많이 발사된 로켓이 되었어요.",
+      "funFact": "보조 로켓 4개가 한꺼번에 떨어져 나가며 하늘에 십자 모양을 그려요. 이것을 '코롤료프 십자'라고 불러요.",
+      "wiki": "Soyuz (rocket family)", "photoQuery": "Soyuz rocket launch Baikonur", "photoMatch": ["soyuz"],
+      "photos": ["File:Soyuz TMA-09M spacecraft at the Baikonur Cosmodrome launch pad (4).jpg", "File:Soyuz 2.1b GLONASS-K2 13L launch 01.jpg", "File:Soyuz TMA-13 erected at Baikonur Cosmodrome launch pad.jpg", "File:Soyuz TMA-05M rocket launches from Baikonur 4.jpg", "File:Soyuz rocket rolled out to the launch pad.jpg"],
+      "videoQueries": ["Soyuz rocket launch", "Soyuz launch Baikonur", "소유즈 로켓 발사"], "videoMatch": ["soyuz", "소유즈"]
+    },
+    {
+      "id": "long-march-5", "section": "rockets", "name": "창정 5호", "subtitle": "중국의 커다란 로켓", "color": "#DC2626",
+      "facts": [["📏", "높이", "약 57", "m"], ["🎂", "첫 발사", "2016", "년"], ["🌏", "나라", "중국", ""]],
+      "story": "창정 5호는 중국이 만든 힘센 로켓이에요. '창정'은 '먼 길을 간다'는 뜻이에요. 중국의 화성 탐사선과 달 탐사선을 우주로 보냈어요.",
+      "funFact": "2020년에 창정 5호가 보낸 창어 5호는 달의 흙을 담아 지구로 가져왔어요.",
+      "wiki": "Long March 5", "photoQuery": "Long March 5 launch", "photoMatch": ["long march 5", "changzheng 5", "cz-5", "长征五号"],
+      "photos": ["File:长征五号遥二火箭转场.jpg", "File:Long March 5 rolling out at WSLS.jpg", "File:CZ-5 at WSLS 03.jpg", "File:CZ-5 at WSLS 02.jpg"],
+      "videoQueries": ["Long March 5 launch", "Long March 5 rocket liftoff", "창정 5호 발사"], "videoMatch": ["long march 5", "long march-5", "창정", "cz-5"]
+    },
+    {
+      "id": "h-2a", "section": "rockets", "name": "H-IIA", "subtitle": "일본의 대표 로켓", "color": "#F43F5E",
+      "facts": [["📏", "높이", "53", "m"], ["🎂", "첫 발사", "2001", "년"], ["🌏", "나라", "일본", ""]],
+      "story": "H-IIA는 일본이 만든 로켓이에요. 바닷가에 있는 다네가시마 우주센터에서 발사했어요. 날씨 위성과 탐사선을 우주로 많이 실어 날랐어요.",
+      "funFact": "소행성의 흙을 가져온 탐사선 하야부사2도 H-IIA를 타고 우주로 떠났어요. 2025년에 50번째 비행을 마지막으로 은퇴했어요.",
+      "wiki": "H-IIA", "photoQuery": "H-IIA launch Tanegashima", "photoMatch": ["h-iia", "h-2a", "h2a", "h-ii a"],
+      "photos": ["File:H2A11001 (square).jpg", "File:H-IIA rocket carrying GPM at Tanegashima (201402270013HQ).jpg", "File:H-IIA F23 launched the GPM and seven other satellites.jpg", "File:H-IIA No. F23 with GPM between lightning towers.jpg", "File:Payload fairing of GPM's H-IIA rocket.jpg"],
+      "videoQueries": ["H-IIA launch", "H-IIA rocket liftoff Tanegashima", "H2A ロケット 打ち上げ"], "videoMatch": ["h-iia", "h-2a", "h2a", "h-ⅱa"]
+    },
+    {
+      "id": "new-glenn", "section": "rockets", "name": "뉴 글렌", "subtitle": "블루 오리진의 커다란 로켓", "color": "#1D4ED8",
+      "facts": [["📏", "높이", "약 98", "m"], ["🎂", "첫 발사", "2025", "년"], ["🌏", "나라", "미국", ""]],
+      "story": "뉴 글렌은 블루 오리진이라는 회사가 만든 커다란 로켓이에요. 아래쪽 로켓은 일을 마치면 바다 위에 떠 있는 배에 내려앉아서 다시 쓸 수 있어요.",
+      "funFact": "로켓 이름은 미국인으로 처음 지구 둘레를 돈 우주인 '존 글렌'의 이름에서 따왔어요.",
+      "wiki": "New Glenn", "photoQuery": "New Glenn rocket", "photoMatch": ["new glenn"],
+      "photos": ["File:New Glenn - BlueBird 7 Launch (9628277) (cropped).jpg", "File:New Glenn - BlueBird 7 Launch (9628276).jpg", "File:Blue Origin New Glenn flight 2.jpg", "File:New Glenn launch signals new era for Space Launch Complex 36 (8832113).jpg", "File:New Glenn - BlueBird 7 Launch (9628275).jpg"],
+      "videoQueries": ["New Glenn launch", "New Glenn booster landing", "뉴 글렌 발사"], "videoMatch": ["new glenn", "뉴 글렌", "뉴글렌"]
+    },
+    {
+      "id": "electron", "section": "rockets", "name": "일렉트론", "subtitle": "작고 날쌘 로켓", "color": "#111827",
+      "facts": [["📏", "높이", "18", "m"], ["🎂", "첫 발사", "2017", "년"], ["🌏", "나라", "뉴질랜드", ""]],
+      "story": "일렉트론은 로켓랩이라는 회사가 만든 작은 로켓이에요. 뉴질랜드 바닷가에서 작은 인공위성들을 우주로 실어 날라요. 몸통이 까만색이에요.",
+      "funFact": "일렉트론의 엔진은 3D 프린터로 찍어서 만들어요.",
+      "wiki": "Electron (rocket)", "photoQuery": "Rocket Lab Electron launch", "photoMatch": ["electron"],
+      "photos": ["File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0001-reupload) (cropped).jpg", "File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0006).jpg", "File:TROPICS Rocket Launch (KSC-20230507-PH-RLS01 0001-reupload).jpg", "File:CAPSTONE-LAUNCH.jpg", "File:Rocket Lab PREFIRE and Ice Launch (KSC-20240605-PH-RKL01 0002).jpg"],
+      "videoQueries": ["Rocket Lab Electron launch", "Electron rocket liftoff", "일렉트론 로켓 발사"], "videoMatch": ["electron", "rocket lab", "일렉트론"]
+    },
 
     {
       "id": "vostok-1", "section": "spacecraft", "name": "보스토크 1호", "subtitle": "처음으로 사람이 우주에 간 우주선", "color": "#B91C1C",
@@ -323,6 +377,51 @@
       "photos": ["File:Orion lunar orbit (Sept 2006).jpg", "File:Artemis 1 at maximum distance from Earth.jpg", "File:EFT-1 Orion recovery.5.jpg", "File:NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg", "File:Delta IV Heavy on pad with Orion EFT-1 (KSC-2014-4686).jpg"],
       "videoQueries": ["Orion spacecraft Artemis moon", "Orion splashdown Artemis", "오리온 우주선"], "videoMatch": ["orion", "오리온", "artemis"]
     },
+    {
+      "id": "mercury-capsule", "section": "spacecraft", "name": "머큐리", "subtitle": "미국의 첫 유인 우주선", "color": "#9CA3AF",
+      "facts": [["🎂", "사람 태운 첫 비행", "1961", "년"], ["👨‍🚀", "탄 사람", "1", "명"], ["🌏", "나라", "미국", ""]],
+      "story": "머큐리는 미국이 처음으로 사람을 우주에 보낸 작은 우주선이에요. 우주인 한 명이 겨우 들어갈 만큼 좁았어요. 1962년에는 존 글렌이 머큐리를 타고 미국인으로서 처음 지구 둘레를 돌았어요.",
+      "funFact": "존 글렌은 36년 뒤인 77살에 우주왕복선을 타고 다시 우주에 갔어요!",
+      "wiki": "Project Mercury", "photoQuery": "Mercury capsule Friendship 7", "photoMatch": ["mercury", "friendship 7", "freedom 7", "atlas"],
+      "photos": ["File:Friendship 7 the National Air and Space Museum.JPG", "File:Escape rocket of Mercury-Redstone 1-crop.jpg", "File:Mercury Spacecraft - Capsule 15B ‘Freedom 7 II’ (51281910923).jpg", "File:Freedom 7 U.S. Naval Academy.JPG", "File:Mercury 10 at the Evergreen Aviation & Space Museum 1679 (6586666405).jpg"],
+      "videoQueries": ["Friendship 7 launch John Glenn", "Mercury Atlas launch footage", "Project Mercury launch"], "videoMatch": ["mercury", "friendship 7", "freedom 7", "glenn"]
+    },
+    {
+      "id": "soyuz-spacecraft", "section": "spacecraft", "name": "소유즈 우주선", "subtitle": "50년 넘게 우주인을 태운 우주선", "color": "#22C55E",
+      "facts": [["🎂", "첫 비행", "1967", "년"], ["👨‍🚀", "탄 사람", "3", "명"], ["🌏", "나라", "러시아", ""]],
+      "story": "소유즈 우주선은 세 칸으로 되어 있어요. 둥근 생활 칸, 우주인이 앉는 종 모양 귀환 칸, 그리고 엔진과 날개가 달린 기계 칸이에요. 돌아올 때는 귀환 칸만 낙하산을 펴고 넓은 초원에 내려앉아요.",
+      "funFact": "2008년에 우리나라 첫 우주인 이소연도 소유즈 우주선을 타고 국제우주정거장에 다녀왔어요.",
+      "wiki": "Soyuz (spacecraft)", "photoQuery": "Soyuz spacecraft ISS", "photoMatch": ["soyuz"],
+      "photos": ["File:Soyuz TMA-7 spacecraft2edit1.jpg", "File:Soyuz MS.jpg", "File:Soyuz TMA-05M spacecraft approaches the International Space Station.jpg", "File:Soyuz TMA-17 retro-rockets firing during landing.jpg", "File:Soyuz TMA-16 relocates from Zvezda Service Module to Poisk module.jpg"],
+      "videoQueries": ["Soyuz spacecraft docking ISS", "Soyuz capsule landing", "소유즈 우주선 착륙"], "videoMatch": ["soyuz", "소유즈"]
+    },
+    {
+      "id": "shenzhou", "section": "spacecraft", "name": "선저우", "subtitle": "중국의 유인 우주선", "color": "#EF4444",
+      "facts": [["🎂", "사람 태운 첫 비행", "2003", "년"], ["👨‍🚀", "탄 사람", "3", "명"], ["🌏", "나라", "중국", ""]],
+      "story": "선저우는 중국이 만든 우주선이에요. '선저우'는 '신비로운 배'라는 뜻이에요. 지금은 중국의 우주정거장 톈궁까지 우주인들을 실어 날라요.",
+      "funFact": "2003년에 선저우 5호가 우주인을 태우고 날아서, 중국은 스스로 사람을 우주에 보낸 세계 세 번째 나라가 되었어요.",
+      "wiki": "Shenzhou (spacecraft)", "photoQuery": "Shenzhou spacecraft", "photoMatch": ["shenzhou", "神舟"],
+      "photos": ["File:Shenzhou 5.jpg", "File:Launch of Shenzhou 13.jpg", "File:Shenzhou-1 return capsule at CSTM 01.jpg", "File:Shenzhou-13 at NMC 03.jpg", "File:Shenzhou spacecraft assembly.jpg"],
+      "videoQueries": ["Shenzhou launch", "Shenzhou docking Tiangong", "선저우 발사"], "videoMatch": ["shenzhou", "선저우", "神舟"]
+    },
+    {
+      "id": "tiangong", "section": "spacecraft", "name": "톈궁", "subtitle": "중국의 우주정거장", "color": "#F59E0B",
+      "facts": [["🎂", "첫 모듈 발사", "2021", "년"], ["👨‍🚀", "사는 사람", "3", "명"], ["🌏", "나라", "중국", ""]],
+      "story": "톈궁은 중국이 지구 위에 지은 우주정거장이에요. 커다란 칸 세 개가 T자 모양으로 이어져 있어요. 우주인 세 명이 몇 달씩 지내며 실험을 해요.",
+      "funFact": "'톈궁'은 '하늘의 궁전'이라는 뜻이에요.",
+      "wiki": "Tiangong space station", "photoQuery": "Tiangong space station", "photoMatch": ["tiangong", "tianhe", "天宫"],
+      "photos": ["File:Chinese Tiangong Space Station (cropped).jpg", "File:Chinese Tiangong Space Station.jpg", "File:Rear view of Tiangong Space Station.jpg", "File:Large robotic arm of Tiangong.jpg", "File:First gathering on Tiangong.jpg"],
+      "videoQueries": ["Tiangong space station view", "Tiangong space station fly around", "톈궁 우주정거장"], "videoMatch": ["tiangong", "톈궁", "天宫"]
+    },
+    {
+      "id": "buran", "section": "spacecraft", "name": "부란", "subtitle": "혼자 날아서 착륙한 우주왕복선", "color": "#E5E7EB",
+      "facts": [["🎂", "비행", "1988", "년"], ["🔁", "비행 횟수", "1", "번"], ["🌏", "나라", "소련", ""]],
+      "story": "부란은 소련이 만든 우주왕복선이에요. 미국의 우주왕복선과 아주 비슷하게 생겼어요. 1988년에 딱 한 번 우주에 다녀왔어요.",
+      "funFact": "부란은 사람이 한 명도 타지 않았는데, 컴퓨터가 스스로 조종해서 활주로에 사뿐히 착륙했어요.",
+      "wiki": "Buran (spacecraft)", "photoQuery": "Buran shuttle", "photoMatch": ["buran", "буран"],
+      "photos": ["File:Moskau Raumfähre Buran-20080601-RM-094724.jpg", "File:Buran on An-225 (Le Bourget 1989) 1.JPEG", "File:00 4708 Moskau - Raumfähre Buran (russisch Буран).jpg", "File:Antonov An-225 with Buran at Le Bourget 1989 Manteufel.jpg", "File:Space Shuttle Buran at the Technik Museum Speyer 7557 (8345831356).jpg"],
+      "videoQueries": ["Buran launch 1988", "Buran space shuttle landing", "부란 우주왕복선"], "videoMatch": ["buran", "부란", "буран"]
+    },
 
     {
       "id": "sputnik-1", "section": "satellites", "name": "스푸트니크 1호", "subtitle": "세계 최초의 인공위성", "color": "#D1D5DB",
@@ -368,6 +467,51 @@
       "wiki": "Danuri", "photoQuery": "Danuri lunar orbiter", "photoMatch": ["danuri", "kplo", "다누리"],
       "photos": ["File:Kplo rendered image.png", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353884).jpeg", "File:Korea Pathfinder Lunar Orbiter (KPLO) Launches from Cape Canaveral Space Force Station (7353885).jpeg", "File:Space Launch Delta 45 supports successful Falcon 9 KPLO launch (7358476).jpeg"],
       "videoQueries": ["다누리 발사", "다누리 달 궤도", "Danuri launch"], "videoMatch": ["다누리", "danuri", "kplo"]
+    },
+    {
+      "id": "kitsat-1", "section": "satellites", "name": "우리별 1호", "subtitle": "우리나라 첫 인공위성", "color": "#0EA5E9",
+      "facts": [["🎂", "발사", "1992", "년"], ["⚖️", "무게", "약 50", "kg"], ["🌏", "나라", "대한민국", ""]],
+      "story": "우리별 1호는 우리나라의 첫 번째 인공위성이에요. 카이스트의 젊은 연구원들이 영국에 가서 배우며 만들었어요. 지구를 돌면서 사진을 찍고, 지구로 목소리를 보내기도 했어요.",
+      "funFact": "우리별 1호 덕분에 우리나라는 세계에서 22번째로 인공위성을 가진 나라가 되었어요.",
+      "wiki": "KITSAT-1", "photoQuery": "KITSAT-1 Uribyol", "photoMatch": ["kitsat", "uribyol", "우리별"],
+      "photos": ["File:Kitsat-1 Satellite Artist's Concept.png"],
+      "videoQueries": ["우리별 1호", "우리별 1호 발사", "KITSAT-1"], "videoMatch": ["우리별", "kitsat"]
+    },
+    {
+      "id": "chollian-2a", "section": "satellites", "name": "천리안 2A호", "subtitle": "날씨를 알려 주는 우리 위성", "color": "#38BDF8",
+      "facts": [["🎂", "발사", "2018", "년"], ["🛣️", "높이", "약 3만 6천", "km"], ["🌏", "나라", "대한민국", ""]],
+      "story": "천리안 2A호는 우리나라의 날씨 위성이에요. 아주 높은 곳에서 구름과 태풍이 어떻게 움직이는지 계속 찍어서 보내 줘요. 텔레비전 일기예보에 나오는 구름 사진도 천리안이 찍은 거예요.",
+      "funFact": "천리안 2A호는 지구가 도는 빠르기와 똑같이 돌아서, 늘 같은 자리에 떠서 우리나라 쪽을 바라보고 있어요.",
+      "wiki": "GEO-KOMPSAT-2A", "photoQuery": "GEO-KOMPSAT-2A", "photoMatch": ["kompsat", "chollian", "천리안", "gk2a", "gk-2a"],
+      "photos": ["File:천리안 2A 음향시험(1) (1024).jpeg", "File:천리안 2A 음향시험(2) (1025).jpeg", "File:발사체에 장착된 천리안 2A호(2) (1117).jpeg", "File:천리안 2A호 최종 점검(3) (1089).jpeg", "File:발사체에 장착된 천리안 2A호(1) (1116).jpeg"],
+      "videoQueries": ["천리안 2A호", "천리안 위성 2A호 발사", "천리안 2A 영상"], "videoMatch": ["천리안", "gk2a", "kompsat"]
+    },
+    {
+      "id": "starlink", "section": "satellites", "name": "스타링크", "subtitle": "줄지어 나는 인터넷 위성", "color": "#94A3B8",
+      "facts": [["🎂", "첫 발사", "2019", "년"], ["🛰️", "위성 수", "수천", "개"], ["🌏", "나라", "미국", ""]],
+      "story": "스타링크는 스페이스X가 띄운 아주 많은 인공위성 무리예요. 하늘에서 인터넷 신호를 보내 줘서, 산속이나 바다 위에서도 인터넷을 쓸 수 있게 해 줘요.",
+      "funFact": "막 발사된 스타링크 위성들은 한 줄로 늘어서 날아가서, 밤하늘에서 반짝이는 '우주 기차'처럼 보여요!",
+      "wiki": "Starlink", "photoQuery": "Starlink satellites", "photoMatch": ["starlink"],
+      "photos": ["File:Starlink Mission (47926144123).jpg", "File:Starlink 6 satellites.jpg", "File:Starlink Satellites over Carson National Forest, New Mexico (noirlab2206b).jpg", "File:45th SW supports successful launch of Falcon 9 Starlink (5903425).jpeg", "File:Starlink antenna on the ground.jpg"],
+      "videoQueries": ["Starlink satellite train night sky", "Starlink satellites deploy", "스타링크 위성 기차"], "videoMatch": ["starlink", "스타링크"]
+    },
+    {
+      "id": "chandra", "section": "satellites", "name": "찬드라 X선 망원경", "subtitle": "눈에 안 보이는 빛을 보는 망원경", "color": "#A855F7",
+      "facts": [["🎂", "발사", "1999", "년"], ["🔦", "보는 빛", "X선", ""], ["🌏", "나라", "미국", ""]],
+      "story": "찬드라는 X선이라는 빛으로 우주를 보는 망원경이에요. X선은 우리 눈에는 보이지 않지만, 아주 뜨겁고 힘센 곳에서 많이 나와요. 그래서 찬드라는 블랙홀 주변이나 별이 터진 자리를 잘 볼 수 있어요.",
+      "funFact": "병원에서 뼈 사진을 찍을 때 쓰는 것도 X선이에요. 찬드라는 우주의 X선 사진을 찍는 거예요.",
+      "wiki": "Chandra X-ray Observatory", "photoQuery": "Chandra X-ray Observatory", "photoMatch": ["chandra"],
+      "photos": ["File:Chandra X-Ray Observatory (noirlab2427c).jpg", "File:Chandra X-ray Observatory.jpg", "File:Chandra X-ray Observatory after release from Space Shuttle Columbia.jpg", "File:Chandra X-ray space observatory Obs assemb2 300.jpg", "File:Chandra X-ray Observatory inside the Space Shuttle payload bay.jpg"],
+      "videoQueries": ["Chandra deployment STS-93 Columbia", "Chandra X-ray Observatory animation spacecraft", "Chandra telescope in orbit animation"], "videoMatch": ["chandra", "찬드라"]
+    },
+    {
+      "id": "kepler", "section": "satellites", "name": "케플러 우주망원경", "subtitle": "다른 별의 행성을 찾은 망원경", "color": "#6366F1",
+      "facts": [["🎂", "발사", "2009", "년"], ["🪐", "찾은 행성", "2,600개 넘게", ""], ["🌏", "나라", "미국", ""]],
+      "story": "케플러는 다른 별 둘레를 도는 행성을 찾으려고 만든 우주망원경이에요. 수많은 별을 오랫동안 지켜보면서, 우리 태양계 밖에 있는 행성을 아주 많이 찾아냈어요.",
+      "funFact": "행성이 별 앞을 지나가면 별빛이 아주 살짝 어두워져요. 케플러는 그 작은 변화를 보고 행성을 찾았어요.",
+      "wiki": "Kepler space telescope", "photoQuery": "Kepler space telescope", "photoMatch": ["kepler"],
+      "photos": ["File:NASA-KeplerSpaceTelescope-ArtistConcept-20141027.jpg", "File:Kepler bkgd.sm.jpg", "File:KeplerSpaceTelescope -Retirement-ArtistConcept-20181030.jpg", "File:Kepler in Astrotech's Hazardous Processing Facility (KSC-2009-1645).jpg", "File:Ignition of Kepler's Delta II 7925-10L.jpg"],
+      "videoQueries": ["Kepler space telescope", "Kepler mission planet hunter", "케플러 우주망원경"], "videoMatch": ["kepler", "케플러"]
     },
 
     {
@@ -432,6 +576,78 @@
       "wiki": "Cassini–Huygens", "photoQuery": "Cassini spacecraft Saturn", "photoMatch": ["cassini", "huygens"],
       "photos": ["File:Cassini Saturn Orbit Insertion.jpg", "File:PIA22767-CassiniOrbitingSaturn-Grandfinale-ArtistConcept-20181002.jpg", "File:Cassini assembly.jpg", "File:Top view of the rings of Saturn by Cassini - October 10, 2013.jpg", "File:Backlit Saturn from Cassini Orbiter 2007 May 9.jpg"],
       "videoQueries": ["Cassini grand finale Saturn", "Cassini spacecraft Saturn flyby", "카시니 토성"], "videoMatch": ["cassini", "카시니"]
+    },
+    {
+      "id": "lunokhod-1", "section": "rovers", "name": "루노호트 1호", "subtitle": "달을 달린 첫 로봇 자동차", "color": "#A3A3A3",
+      "facts": [["🎂", "달 도착", "1970", "년"], ["🛞", "바퀴", "8", "개"], ["🌏", "나라", "소련", ""]],
+      "story": "루노호트 1호는 다른 천체 위를 달린 세계 첫 로봇 자동차예요. 커다란 욕조처럼 생긴 몸에 바퀴 8개가 달려 있어요. 지구에 있는 사람들이 텔레비전 화면을 보며 멀리서 조종했어요.",
+      "funFact": "루노호트 1호는 10달 넘게 달 위를 돌아다니며 10km 넘게 달렸어요.",
+      "wiki": "Lunokhod 1", "photoQuery": "Lunokhod rover", "photoMatch": ["lunokhod", "луноход"],
+      "photos": ["File:Lunokhod 1 moon rover (MMA 2011) (1).JPG", "File:Lunokhod moonrover.jpg", "File:USSR Lunokhod 1 (6586685621) (2).jpg", "File:USSR Lunokhod 1 (6586688095) (7).jpg", "File:LRO Lunokhod 2.jpg"],
+      "videoQueries": ["Lunokhod 1 footage", "Lunokhod rover moon", "루노호트"], "videoMatch": ["lunokhod", "루노호트", "луноход"]
+    },
+    {
+      "id": "lrv", "section": "rovers", "name": "월면차", "subtitle": "우주인이 운전한 달 자동차", "color": "#D4D4D8",
+      "facts": [["🎂", "처음 달린 해", "1971", "년"], ["👨‍🚀", "탄 사람", "2", "명"], ["🌏", "나라", "미국", ""]],
+      "story": "월면차는 아폴로 우주인들이 달에서 직접 운전한 자동차예요. 지붕도 문도 없고, 바퀴는 철사로 엮어 만들었어요. 덕분에 우주인들은 걸어서는 못 가는 먼 곳까지 다녀올 수 있었어요.",
+      "funFact": "월면차는 접어서 달 착륙선 옆에 싣고 갔어요. 지금도 달 위에 월면차 3대가 그대로 세워져 있어요.",
+      "wiki": "Lunar Roving Vehicle", "photoQuery": "Lunar Roving Vehicle Apollo", "photoMatch": ["lunar roving", "lrv", "rover"],
+      "photos": ["File:Apollo15LunarRover.jpg", "File:NASA Apollo 17 Lunar Roving Vehicle-crop.jpg", "File:Apollo15LunarRover2.jpg", "File:Apollo 17 LEM and Lunar Roving Vehicle, AS17-147-22527.jpg", "File:Lunar Roving Vehicle - GPN-2000-001122.jpg"],
+      "videoQueries": ["Lunar Roving Vehicle Apollo 16 driving", "Apollo lunar rover footage", "아폴로 월면차"], "videoMatch": ["rover", "lrv", "월면차", "grand prix"]
+    },
+    {
+      "id": "opportunity", "section": "rovers", "name": "오퍼튜니티", "subtitle": "14년 동안 달린 화성 로봇", "color": "#EAB308",
+      "facts": [["🎂", "화성 도착", "2004", "년"], ["🛣️", "달린 거리", "45km 넘게", ""], ["🌏", "나라", "미국", ""]],
+      "story": "오퍼튜니티는 쌍둥이 로봇 스피릿과 함께 화성에 간 탐사 로봇이에요. 원래는 석 달만 일할 계획이었는데, 14년이 넘도록 화성을 돌아다녔어요. 아주 오래전 화성에 물이 있었다는 증거도 찾았어요.",
+      "funFact": "오퍼튜니티는 화성에서 마라톤 거리보다 더 먼 45km 넘게 달렸어요!",
+      "wiki": "Opportunity (rover)", "photoQuery": "Opportunity rover Mars", "photoMatch": ["opportunity", "mer-b", "mer b", "spirit"],
+      "photos": ["File:Opportunity PIA03240.jpg", "File:Opportunity Lander Petals PIA04848.jpg", "File:Mer-b-final-launch.jpg", "File:PIA22222-Mars-OpportunityRover-FirstSelfie-20180220.jpg", "File:PIA03621-Opportunity Rover-Olympia Panorama.jpg"],
+      "videoQueries": ["Opportunity rover Mars", "Spirit and Opportunity rovers", "오퍼튜니티 화성"], "videoMatch": ["opportunity", "오퍼튜니티", "spirit"]
+    },
+    {
+      "id": "yutu-2", "section": "rovers", "name": "위투 2호", "subtitle": "달 뒷면에 간 옥토끼 로봇", "color": "#F5F5F4",
+      "facts": [["🎂", "달 도착", "2019", "년"], ["🌕", "간 곳", "달의 뒷면", ""], ["🌏", "나라", "중국", ""]],
+      "story": "위투 2호는 달의 뒷면을 달린 첫 번째 로봇이에요. 달의 뒷면은 지구에서는 절대 볼 수 없는 쪽이에요. 착륙선 창어 4호와 함께 내려가서 달 뒷면의 흙과 돌을 조사했어요.",
+      "funFact": "'위투'는 '옥토끼'라는 뜻이에요. 달에서 토끼가 떡방아를 찧는다는 옛이야기에서 이름을 따왔어요.",
+      "wiki": "Yutu-2", "photoQuery": "Yutu-2 rover Chang'e 4", "photoMatch": ["yutu", "chang'e 4", "chang'e-4", "玉兔"],
+      "photos": ["File:Yutu-2.jpg", "File:Yutu-2 leaving Chang e-4-iau1901a.jpg", "File:Chang'e 4 lander.jpg", "File:HK WCN 灣仔北 Wan Chai North 香港會展 HKCEC 創科博覽 InnoTech Expo 玉兔二號月球車 Yutu 2 Two Luna Robot Rover December 2022 Px3 01.jpg"],
+      "videoQueries": ["Yutu-2 rover far side moon", "Chang'e 4 landing Yutu 2", "위투 2호"], "videoMatch": ["yutu", "위투", "chang'e 4", "chang'e-4", "玉兔"]
+    },
+    {
+      "id": "juno", "section": "rovers", "name": "주노", "subtitle": "목성을 도는 탐사선", "color": "#0EA5E9",
+      "facts": [["🎂", "출발", "2011", "년"], ["🪐", "목성 도착", "2016", "년"], ["🌏", "나라", "미국", ""]],
+      "story": "주노는 목성 둘레를 돌면서 목성을 조사하는 탐사선이에요. 커다란 태양전지판 날개 3개가 바람개비처럼 펼쳐져 있어요. 목성의 소용돌이 구름을 아주 가까이에서 찍어 보내 주었어요.",
+      "funFact": "주노에는 레고로 만든 작은 인형 3개가 타고 갔어요. 목성을 처음 망원경으로 본 갈릴레이와 신화 속 주피터, 주노예요.",
+      "wiki": "Juno (spacecraft)", "photoQuery": "Juno spacecraft Jupiter", "photoMatch": ["juno"],
+      "photos": ["File:JUNO - PIA13746.jpg", "File:Juno Aces Eighth Science Pass Of Jupiter.jpg", "File:Juno orbit around Jupiter.jpg", "File:Atlas V with Juno on CCAFS SLC-41 (PIA14416).jpg", "File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg"],
+      "videoQueries": ["Juno spacecraft Jupiter arrival animation", "Juno spacecraft flyby", "주노 탐사선"], "videoMatch": ["juno", "주노"]
+    },
+    {
+      "id": "hayabusa2", "section": "rovers", "name": "하야부사2", "subtitle": "소행성의 흙을 가져온 탐사선", "color": "#F97316",
+      "facts": [["🎂", "출발", "2014", "년"], ["📦", "흙 가져온 해", "2020", "년"], ["🌏", "나라", "일본", ""]],
+      "story": "하야부사2는 '류구'라는 소행성에 가서 흙을 모아 온 일본의 탐사선이에요. 소행성에 살짝 내려앉았다가 다시 떠오르면서 흙을 담았어요. 흙이 든 작은 캡슐은 낙하산을 타고 지구에 무사히 도착했어요.",
+      "funFact": "하야부사2는 소행성에 작은 금속 덩어리를 쏘아 구덩이를 만들고, 그 속의 흙까지 모았어요.",
+      "wiki": "Hayabusa2", "photoQuery": "Hayabusa2 Ryugu", "photoMatch": ["hayabusa", "ryugu"],
+      "photos": ["File:Hayabusa2 Ion thruster.jpg", "File:Hayabusa2 approaching asteroid.jpg", "File:Asteroid Ryugu (ann19006a).jpg", "File:Hayabusa2-211211e.jpg", "File:Hayabusa2-211211l.jpg"],
+      "videoQueries": ["Hayabusa2 touchdown Ryugu", "Hayabusa2 mission animation", "하야부사2"], "videoMatch": ["hayabusa", "하야부사", "はやぶさ"]
+    },
+    {
+      "id": "rosetta", "section": "rovers", "name": "로제타와 필레", "subtitle": "혜성에 내려앉은 탐사선", "color": "#60A5FA",
+      "facts": [["🎂", "출발", "2004", "년"], ["☄️", "혜성 착륙", "2014", "년"], ["🌏", "나라", "유럽", ""]],
+      "story": "로제타는 10년 동안 날아가서 혜성을 만난 유럽의 탐사선이에요. 로제타가 데려간 작은 착륙선 '필레'는 사람이 만든 물건 중에서 처음으로 혜성 위에 내려앉았어요.",
+      "funFact": "혜성은 끌어당기는 힘이 아주 약해서, 필레는 착륙할 때 공처럼 통통 튀었다가 내려앉았어요.",
+      "wiki": "Rosetta (spacecraft)", "photoQuery": "Rosetta spacecraft comet 67P Philae", "photoMatch": ["rosetta", "philae", "67p"],
+      "photos": ["File:Rosetta and Philae at comet (11206660686).jpg", "File:Rosetta and Philae at comet (11206755953).jpg", "File:Philae on Comet 67P-Churyumov-Gerasimenko.jpg", "File:Comet 67P on 19 September 2014 NavCam mosaic.jpg", "File:Comet 67P on 31 January 2015 - NAVCAM.jpg"],
+      "videoQueries": ["Rosetta Philae landing animation", "Rosetta mission comet 67P", "로제타 필레"], "videoMatch": ["rosetta", "philae", "로제타", "필레"]
+    },
+    {
+      "id": "chandrayaan-3", "section": "rovers", "name": "찬드라얀 3호", "subtitle": "달의 남극 가까이 내린 탐사선", "color": "#F59E0B",
+      "facts": [["🎂", "달 착륙", "2023", "년"], ["🧭", "간 곳", "달의 남극 근처", ""], ["🌏", "나라", "인도", ""]],
+      "story": "찬드라얀 3호는 인도가 보낸 달 탐사선이에요. 아무도 가 보지 못했던 달의 남극 가까이에 처음으로 내려앉았어요. 착륙선 안에서 작은 로봇 '프라갼'이 나와 달 위를 달렸어요.",
+      "funFact": "찬드라얀 3호 덕분에 인도는 달에 탐사선을 내려앉힌 세계 네 번째 나라가 되었어요.",
+      "wiki": "Chandrayaan-3", "photoQuery": "Chandrayaan-3 Vikram lander", "photoMatch": ["chandrayaan", "vikram", "pragyan"],
+      "photos": ["File:Chandrayaan3-landed (cropped).jpg", "File:Chandrayaan3-landed.jpg", "File:LVM3 M4, Chandrayaan-3 - Launch vehicle lifting off from the Second Launch Pad (SLP) of SDSC-SHAR, Sriharikota (edit).jpg", "File:Vikram Lander.jpg"],
+      "videoQueries": ["Chandrayaan-3 landing", "Chandrayaan 3 Vikram landing moon", "찬드라얀 3호 착륙"], "videoMatch": ["chandrayaan", "찬드라얀", "vikram"]
     }
   ]
 }

@@ -27,7 +27,7 @@ DATA = ROOT / "data" / "space.json"
 MEDIA = ROOT / "data" / "media.json"
 ASSETS = ROOT / "assets" / "items"
 
-UA = "JayPictorial/0.1 (kids space encyclopedia; personal use)"
+UA = "JayPictorial/0.1 (https://github.com/syshin85/JayPictorial; kids space encyclopedia)"
 API = "https://en.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 IMAGES_PER_ITEM = 5
@@ -89,14 +89,17 @@ def commons_files(query):
 
 def image_infos(files, width):
     infos = {}
-    for i in range(0, len(files), 40):
-        chunk = files[i:i + 40]
-        data = api(COMMONS_API, action="query", titles="|".join(chunk), prop="imageinfo",
-                   iiprop="url|size|extmetadata", iiurlwidth=width)
-        for p in data["query"]["pages"]:
-            ii = (p.get("imageinfo") or [None])[0]
-            if ii:
-                infos[p["title"]] = ii
+    # Commons first; files kept only on English Wikipedia (e.g. KITSAT-1's artwork) from there
+    for endpoint in (COMMONS_API, API):
+        missing = [f for f in files if f not in infos]
+        for i in range(0, len(missing), 40):
+            chunk = missing[i:i + 40]
+            data = api(endpoint, action="query", titles="|".join(chunk), prop="imageinfo",
+                       iiprop="url|size|extmetadata", iiurlwidth=width)
+            for p in data["query"]["pages"]:
+                ii = (p.get("imageinfo") or [None])[0]
+                if ii:
+                    infos[p["title"]] = ii
     return [(f, infos[f]) for f in files if f in infos]
 
 
