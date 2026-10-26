@@ -275,14 +275,12 @@ function playVideo(poster, videoId) {
     shield.classList.toggle("ended", symbol === "🔄");
   };
 
-  // while an ad plays the video's own clock stays at 0: open the corner where YouTube's "Skip ad" button sits
+  // an ad before the video shows as "unstarted" (-1) while its clock runs. Until the video itself plays,
+  // the corner with YouTube's "Skip ad" button stays open, and the rest stays covered.
   box.classList.add("ad");
   const adWatch = setInterval(() => {
-    if (!box.isConnected) clearInterval(adWatch);
-    else if (player && player.getCurrentTime && player.getCurrentTime() > 0.5) {
-      box.classList.remove("ad");
-      clearInterval(adWatch);
-    }
+    if (!box.isConnected || hasPlayed) clearInterval(adWatch);
+    else if (player && player.getCurrentTime && player.getCurrentTime() > 0) shield.classList.remove("starter");
   }, 300);
   const log = debugPanel(box);
 
@@ -294,7 +292,7 @@ function playVideo(poster, videoId) {
         setTimeout(() => {
           if (hasPlayed || !player || !player.getPlayerState) return;
           const now = player.getPlayerState();
-          if (now !== S.PLAYING && now !== S.BUFFERING) {
+          if (now !== S.PLAYING && now !== S.BUFFERING && !(player.getCurrentTime() > 0)) {
             shield.classList.add("starter");
             show("");
           }
@@ -314,9 +312,10 @@ function playVideo(poster, videoId) {
             log(`state ${e.data}`);
             if (e.data === S.PLAYING) {
               hasPlayed = true;
+              box.classList.remove("ad");
               shield.classList.remove("starter");
               show("");
-            } else if (!hasPlayed && (e.data === S.CUED || e.data === -1)) {
+            } else if (!hasPlayed && e.data === S.CUED) {
               // autoplay was blocked: let the child press YouTube's own play button in the middle
               shield.classList.add("starter");
               show("");
