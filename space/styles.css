@@ -304,6 +304,9 @@ h1, h2, .card-name, .big-label, .tab, .chip b, .fun-title {
 .yt-band.top { top: 0; }
 .yt-band.bottom { bottom: 0; }
 .yt-shield:not(.starter) ~ .yt-band { pointer-events: none; } /* once playing, the shield covers everything */
+/* during an ad, the bottom-right corner is left open so the "Skip ad" button can be tapped */
+.yt-box.ad .yt-shield { clip-path: polygon(0 0, 100% 0, 100% 55%, 55% 55%, 55% 100%, 0 100%); }
+.yt-box.ad .yt-band.bottom { clip-path: polygon(0 0, 55% 0, 55% 100%, 0 100%); }
 .yt-state {
   width: 120px; height: 120px; border-radius: 50%;
   background: rgba(232, 69, 60, .92); color: #fff;

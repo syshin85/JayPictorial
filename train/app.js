@@ -343,6 +343,16 @@ function playVideo(poster, videoId) {
     shield.classList.toggle("ended", symbol === "🔄");
   };
 
+  // while an ad plays the video's own clock stays at 0: open the corner where YouTube's "Skip ad" button sits
+  box.classList.add("ad");
+  const adWatch = setInterval(() => {
+    if (!box.isConnected) clearInterval(adWatch);
+    else if (player && player.getCurrentTime && player.getCurrentTime() > 0.5) {
+      box.classList.remove("ad");
+      clearInterval(adWatch);
+    }
+  }, 300);
+
   loadYouTubeApi()
     .then((YT) => {
       const S = YT.PlayerState;
