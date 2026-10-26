@@ -282,7 +282,6 @@ function playVideo(poster, videoId) {
     if (!box.isConnected || hasPlayed) clearInterval(adWatch);
     else if (player && player.getCurrentTime && player.getCurrentTime() > 0) shield.classList.remove("starter");
   }, 300);
-  const log = debugPanel(box);
 
   loadYouTubeApi()
     .then((YT) => {
@@ -309,7 +308,6 @@ function playVideo(poster, videoId) {
             openIfStuck();
           },
           onStateChange: (e) => {
-            log(`state ${e.data}`);
             if (e.data === S.PLAYING) {
               hasPlayed = true;
               box.classList.remove("ad");
@@ -337,37 +335,6 @@ function playVideo(poster, videoId) {
       });
     })
     .catch(() => show("😢"));
-}
-
-// open an item with ?debug in the address to see what the YouTube player reports (used to find out how ads look)
-function debugPanel(box) {
-  if (!/debug/.test(location.search)) return () => {};
-  const pre = document.createElement("pre");
-  pre.className = "yt-debug";
-  box.closest(".video-frame").after(pre);
-  const t0 = Date.now();
-  const events = [];
-  const tick = setInterval(() => {
-    if (!pre.isConnected) return clearInterval(tick);
-    if (!player || !player.getPlayerState) return;
-    const call = (name) => {
-      try {
-        const v = player[name]();
-        return typeof v === "number" ? Math.round(v * 100) / 100 : JSON.stringify(v);
-      } catch (err) {
-        return "error";
-      }
-    };
-    const data = player.getVideoData ? player.getVideoData() : {};
-    pre.textContent = [
-      `광고 구석 열림: ${box.classList.contains("ad") ? "예" : "아니오"}`,
-      `state ${call("getPlayerState")}  time ${call("getCurrentTime")}  duration ${call("getDuration")}  loaded ${call("getVideoLoadedFraction")}`,
-      `video ${data.video_id}  ${data.author}  ${data.title}`,
-      `videoData ${JSON.stringify(data)}`,
-      `events: ${events.join(" · ")}`,
-    ].join("\n");
-  }, 300);
-  return (s) => events.push(`${((Date.now() - t0) / 1000).toFixed(1)}s ${s}`);
 }
 
 function stopVideo() {

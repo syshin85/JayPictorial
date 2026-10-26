@@ -314,7 +314,6 @@ h1, h2, .card-name, .big-label, .tab, .chip b, .fun-title {
   box-shadow: 0 8px 24px rgba(0,0,0,.35);
 }
 .yt-state[hidden] { display: none; }
-.yt-debug { margin: 12px 0 0; padding: 12px; background: #000; color: #9f9; font-size: 13px; white-space: pre-wrap; word-break: break-all; border-radius: 12px; }
 
 /* ---------- small screens (phones in portrait) ---------- */
 /* Korean lines break between words, never in the middle of one */
