@@ -280,7 +280,10 @@ function playVideo(poster, videoId) {
   box.classList.add("ad");
   const adWatch = setInterval(() => {
     if (!box.isConnected || hasPlayed) clearInterval(adWatch);
-    else if (player && player.getCurrentTime && player.getCurrentTime() > 0) shield.classList.remove("starter");
+    else if (player && player.getCurrentTime && player.getCurrentTime() > 0 && shield.classList.contains("starter")) {
+      shield.classList.remove("starter");
+      show("");
+    }
   }, 300);
 
   loadYouTubeApi()
@@ -293,7 +296,7 @@ function playVideo(poster, videoId) {
           const now = player.getPlayerState();
           if (now !== S.PLAYING && now !== S.BUFFERING && !(player.getCurrentTime() > 0)) {
             shield.classList.add("starter");
-            show("");
+            show("▶"); // only a hint: taps go through to YouTube's own player
           }
         }, 1500);
       player = new YT.Player(box.querySelector(".yt-player"), {
@@ -316,7 +319,7 @@ function playVideo(poster, videoId) {
             } else if (!hasPlayed && e.data === S.CUED) {
               // autoplay was blocked: let the child press YouTube's own play button in the middle
               shield.classList.add("starter");
-              show("");
+              show("▶"); // only a hint: taps go through to YouTube's own player
             } else if (e.data === S.ENDED) show("🔄");
             else if (e.data === S.PAUSED) show("▶");
           },
