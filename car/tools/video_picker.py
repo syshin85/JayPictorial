@@ -34,7 +34,7 @@ UNSAFE_WORDS = ("explosion", "explode", "exploding", "explodes", "blow up", "blo
                 "horror", "nightmare", "doom", "apocalypse", "end of the world", "destroy", "destroyed", "danger",
                 "dangerous", "warning", "alien", "ufo", "hoax", "fake", "flat earth", "conspiracy", "secret",
                 "폭발", "사고", "실패", "추락", "참사", "공포", "무서운", "외계인", "음모", "종말", "위험", "경고",
-                "chase", "pursuit", "police chase", "추격", "도주", "burning", "on fire", "flames", "blaze", "화재", "불타",
+                "chase", "pursuit", "police chase", "추격", "도주", "burning", "burns", "on fire", "flames", "blaze", "화재", "불타",
                 "rollover", "roll over", "flips", "flipped", "wreck", "wrecked", "smash", "jump fail", "전복", "충격", "블랙박스",
                 "road rage", "angry", "fight", "drunk", "arrest", "체포", "음주")
 # not the thing itself (talk shows, news, games, toys, AI-made clips…)

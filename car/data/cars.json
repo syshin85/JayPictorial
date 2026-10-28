@@ -5,12 +5,6 @@
    "name": "자동차 알아보기",
    "emoji": "🚗",
    "color": "#3B82F6"
-  },
-  {
-   "id": "work",
-   "name": "일하는 자동차",
-   "emoji": "🚒",
-   "color": "#EF4444"
   }
  ],
  "sections": [
@@ -51,21 +45,21 @@
   },
   {
    "id": "emergency",
-   "book": "work",
+   "book": "cars",
    "name": "긴급 자동차",
    "emoji": "🚨",
    "color": "#EF4444"
   },
   {
    "id": "construction",
-   "book": "work",
+   "book": "cars",
    "name": "공사장 자동차",
    "emoji": "🏗️",
    "color": "#F5A300"
   },
   {
    "id": "special",
-   "book": "work",
+   "book": "cars",
    "name": "특수 자동차",
    "emoji": "🛠️",
    "color": "#10B981"
@@ -587,6 +581,601 @@
    ]
   },
   {
+   "id": "ford-model-t",
+   "section": "family",
+   "name": "포드 모델 T",
+   "subtitle": "세상을 바꾼 첫 국민 자동차",
+   "color": "#1F2937",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1908",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🏭",
+     "만든 수",
+     "1500만",
+     "대"
+    ]
+   ],
+   "story": "모델 T는 많은 사람이 처음으로 살 수 있었던 자동차예요. 공장에서 자동차가 줄지어 움직이면 사람들이 차례로 부품을 붙이는 방법으로 아주 빨리, 아주 많이 만들었어요. 그래서 값이 싸져서 누구나 자동차를 탈 수 있게 되었어요.",
+   "funFact": "한동안 모델 T는 검은색으로만 만들었어요. 검은 페인트가 가장 빨리 말라서 더 빨리 만들 수 있었기 때문이래요.",
+   "wiki": "Ford Model T",
+   "photoQuery": "Ford Model T",
+   "photoMatch": [
+    "model t",
+    "model-t",
+    "modelt"
+   ],
+   "videoQueries": [
+    "Ford Model T driving",
+    "Ford Model T on the road",
+    "1915 Ford Model T drive"
+   ],
+   "videoMatch": [
+    "model t",
+    "model-t"
+   ],
+   "photos": [
+    "File:1925 Ford Model T touring.jpg",
+    "File:1919 Ford Model T Runabout GMR995.jpg",
+    "File:Ford Model T 1909 Serial337 LFront Lake Mirror Cassic 16Oct2010 (14854254936).jpg",
+    "File:1916 Ford Model T touring car.JPG",
+    "File:Phoenix-Phoenix Police Museum-1919 Ford Model TPolice Cruiser.jpg"
+   ]
+  },
+  {
+   "id": "vw-golf",
+   "section": "family",
+   "name": "폭스바겐 골프",
+   "subtitle": "유럽에서 사랑받는 작은 해치백",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1974",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🏭",
+     "만든 수",
+     "3500만",
+     "대 넘게"
+    ]
+   ],
+   "story": "골프는 비틀의 뒤를 이어 독일 폭스바겐이 만든 자동차예요. 뒤가 짧고 뒷문이 위로 열리는 '해치백' 모양이라 작아도 짐을 많이 실을 수 있어요. 50년 넘게 모양을 바꾸며 계속 만들어지고 있어요.",
+   "funFact": "이름 '골프'는 운동 골프가 아니라, 바다에 흐르는 따뜻한 물길 '걸프 해류'에서 따왔어요.",
+   "wiki": "Volkswagen Golf",
+   "photoQuery": "Volkswagen Golf",
+   "photoMatch": [
+    "golf"
+   ],
+   "videoQueries": [
+    "Volkswagen Golf commercial",
+    "VW Golf 8 exterior driving footage",
+    "Golf GTI driving shots"
+   ],
+   "videoMatch": [
+    "golf",
+    "골프"
+   ],
+   "photos": [
+    "File:Volkswagen Golf VIII 1X7A0164.jpg",
+    "File:Volkswagen Golf II GTI 16V IMG 9644.jpg",
+    "File:Лоутра Волвис, Volkswagen Golf.jpg",
+    "File:Volkswagen Golf VIII Facelift IMG 0375.jpg",
+    "File:2020 Volkswagen Golf Style 1.5 Front.jpg"
+   ]
+  },
+  {
+   "id": "mercedes-g-class",
+   "section": "family",
+   "name": "벤츠 G클래스",
+   "subtitle": "네모반듯한 튼튼한 독일 SUV",
+   "color": "#4B5563",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1979",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🧱",
+     "모양",
+     "네모반듯",
+     ""
+    ]
+   ],
+   "story": "G클래스는 원래 군인들이 험한 길을 다니려고 만든 튼튼한 자동차예요. 상자처럼 네모반듯한 모양을 40년 넘게 거의 그대로 지키고 있어요. 돌길, 진흙, 눈길도 씩씩하게 달려요.",
+   "funFact": "교황님이 사람들에게 손을 흔들 때 타는 하얀 '교황 자동차'도 G클래스로 만든 적이 있어요.",
+   "wiki": "Mercedes-Benz G-Class",
+   "photoQuery": "Mercedes-Benz G-Class",
+   "photoMatch": [
+    "g-class",
+    "g class",
+    "g-klasse",
+    "g 500",
+    "g500",
+    "g 63",
+    "g63",
+    "g-wagen",
+    "geländewagen",
+    "gelandewagen",
+    "g 350",
+    "g350"
+   ],
+   "videoQueries": [
+    "Mercedes-Benz G-Class off-road footage",
+    "G-Class Schöckl",
+    "Mercedes G 500 driving"
+   ],
+   "videoMatch": [
+    "g-class",
+    "g class",
+    "g-wagon",
+    "g wagon",
+    "g-klasse",
+    "g63",
+    "g 63",
+    "g바겐",
+    "g클래스",
+    "g500"
+   ],
+   "photos": [
+    "File:MERCEDES-BENZ G-CLASS (W463) China (3).jpg",
+    "File:MERCEDES-BENZ G-CLASS (W463) China (4).jpg",
+    "File:1979 Mercedes-Benz G-Class.jpg",
+    "File:Mercedes-Benz G Class W463.jpg",
+    "File:Australian Army MB G Wagon, Mercedes-Benz G-Class (flickr-ID 50588621477) (cropped).jpg"
+   ]
+  },
+  {
+   "id": "fiat-500",
+   "section": "family",
+   "name": "피아트 500",
+   "subtitle": "작고 귀여운 이탈리아 자동차",
+   "color": "#EF4444",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1957",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "이탈리아",
+     ""
+    ],
+    [
+     "📏",
+     "길이",
+     "약 3",
+     "m"
+    ]
+   ],
+   "story": "피아트 500은 이탈리아의 좁은 골목길을 쏙쏙 다니는 작고 귀여운 자동차예요. 이탈리아 사람들이 처음으로 많이 탄 자동차라서 지금도 아주 사랑받아요. 2007년에는 옛날 모습을 닮은 새 피아트 500도 나왔어요.",
+   "funFact": "옛날 피아트 500은 지붕이 천으로 되어 있어서, 둘둘 말아 열면 하늘이 보였어요.",
+   "wiki": "Fiat 500",
+   "photoQuery": "Fiat 500",
+   "photoMatch": [
+    "500"
+   ],
+   "videoQueries": [
+    "Fiat 500 classic driving",
+    "Fiat 500 in Italy streets",
+    "피아트 500 주행"
+   ],
+   "videoMatch": [
+    "500",
+    "cinquecento"
+   ],
+   "photos": [
+    "File:Fiat 500 yellow.jpg",
+    "File:Fiat 500 Giardiniera, Bj. 1969 (2018-06-03 Sp).JPG",
+    "File:Fiat Nuova 500 20.JPG",
+    "File:Fiat 500 F Sachs Franken Classic 2018 P5201110.jpg",
+    "File:Fiat 500 1.4 16V Rosso Corsa – Frontansicht, 7. Mai 2011, Düsseldorf.jpg"
+   ]
+  },
+  {
+   "id": "citroen-2cv",
+   "section": "family",
+   "name": "시트로엥 2CV",
+   "subtitle": "우산 아래 바퀴 네 개를 단 자동차",
+   "color": "#60A5FA",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1948",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스",
+     ""
+    ],
+    [
+     "🏭",
+     "만든 수",
+     "약 390만",
+     "대"
+    ]
+   ],
+   "story": "2CV는 프랑스 시골 사람들을 위해 만든 작고 값싼 자동차예요. '우산 아래 바퀴 네 개'처럼 아주 간단하게 만들었어요. 차가 출렁출렁 부드럽게 움직여서 울퉁불퉁한 시골길도 잘 다녔어요.",
+   "funFact": "2CV를 만들 때 '달걀 바구니를 싣고 밭을 가로질러도 달걀이 하나도 깨지지 않아야 한다'는 숙제가 있었대요!",
+   "wiki": "Citroën 2CV",
+   "photoQuery": "Citroën 2CV",
+   "photoMatch": [
+    "2cv",
+    "2 cv"
+   ],
+   "videoQueries": [
+    "Citroen 2CV driving",
+    "Citroën 2CV on the road",
+    "2CV convoy"
+   ],
+   "videoMatch": [
+    "2cv",
+    "2 cv"
+   ],
+   "photos": [
+    "File:Red Citroën 2CV three-quarter back view.jpg",
+    "File:Citroen 2CV AZ.jpg",
+    "File:Citroën 2 CV Dolly, Bj. 1987 (Foto Sp 2016-06-05).JPG",
+    "File:Green Citroën 2CV in Zürich.jpg",
+    "File:Citroën 2 CV Charleston (2015-08-29 3174 b).jpg"
+   ]
+  },
+  {
+   "id": "land-rover-defender",
+   "section": "family",
+   "name": "랜드로버 디펜더",
+   "subtitle": "어디든 가는 영국의 탐험 자동차",
+   "color": "#15803D",
+   "facts": [
+    [
+     "🎂",
+     "첫 랜드로버",
+     "1948",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🏔️",
+     "잘하는 것",
+     "험한 길",
+     ""
+    ]
+   ],
+   "story": "디펜더는 1948년에 처음 나온 랜드로버에서 시작된 튼튼한 자동차예요. 농장, 사막, 정글처럼 길이 없는 곳도 씩씩하게 달려서 탐험가와 구조대가 많이 탔어요. 2020년에는 새 모습의 디펜더가 나왔어요.",
+   "funFact": "처음 랜드로버의 모양은 만든 사람이 바닷가 모래 위에 손가락으로 그린 그림에서 시작되었대요.",
+   "wiki": "Land Rover Defender",
+   "photoQuery": "Land Rover Defender",
+   "photoMatch": [
+    "defender",
+    "series i",
+    "series 1",
+    "land rover 90",
+    "land rover 110"
+   ],
+   "videoQueries": [
+    "Land Rover Defender off road",
+    "Land Rover Defender river crossing",
+    "랜드로버 디펜더 주행"
+   ],
+   "videoMatch": [
+    "defender",
+    "디펜더"
+   ],
+   "photos": [
+    "File:Land Rover Defender 110 Station Wagon 2016 - front.jpg",
+    "File:Bergtocht van parkeerplaats bij centrale Malga Mare naar Lago Lungo. Land Rover Defender langs het onverharde pad.jpg",
+    "File:Land Rover Defender (L663) at IAA 2019 IMG 0711.jpg",
+    "File:2017-07-22 (36) Land Rover Defender of Österreichischer Bergrettungsdienst Lunz am See at Ybbstaler Hütte at Dürrenstein (Ybbstaler Alpen).jpg",
+    "File:Land Rover Defender 90 (L663) IMG 9441.jpg"
+   ]
+  },
+  {
+   "id": "london-taxi",
+   "section": "family",
+   "name": "런던 택시",
+   "subtitle": "까만 네모 택시 '블랙캡'",
+   "color": "#111827",
+   "facts": [
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🔄",
+     "도는 크기",
+     "약 7.6",
+     "m"
+    ],
+    [
+     "🎓",
+     "기사님 공부",
+     "3~4",
+     "년"
+    ]
+   ],
+   "story": "런던 택시는 까맣고 네모난 모양이라 '블랙캡'이라고 불러요. 지붕이 높아서 키 큰 사람도 모자를 쓴 채로 탈 수 있어요. 좁은 골목에서도 한 번에 빙글 돌아 나올 수 있게 만들었어요.",
+   "funFact": "런던 택시 기사님이 되려면 런던의 길 2만 5천 개를 모두 외우는 아주 어려운 시험을 봐야 해요.",
+   "wiki": "Hackney carriage",
+   "photoQuery": "London black cab taxi",
+   "photoMatch": [
+    "taxi",
+    "cab",
+    "tx4",
+    "tx1",
+    "fx4",
+    "levc",
+    "hackney"
+   ],
+   "videoQueries": [
+    "London black cabs traffic",
+    "LEVC TX electric taxi London",
+    "London taxi Piccadilly Circus traffic"
+   ],
+   "videoMatch": [
+    "cab",
+    "taxi",
+    "택시"
+   ],
+   "photos": [
+    "File:Black London Cab.jpg",
+    "File:2016 LTI TX4 London black cab.jpg",
+    "File:Two black cabs with Big Ben in the background.jpg",
+    "File:TX4 cab and RM871 Routemaster in London (32658451213).jpg",
+    "File:Flickr - Duncan~ - Black Cabs.jpg"
+   ]
+  },
+  {
+   "id": "toyota-land-cruiser",
+   "section": "family",
+   "name": "토요타 랜드크루저",
+   "subtitle": "사막도 정글도 달리는 일본 SUV",
+   "color": "#B45309",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1951",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "🏔️",
+     "잘하는 것",
+     "험한 길",
+     ""
+    ]
+   ],
+   "story": "랜드크루저는 일본 토요타가 만든 아주 튼튼한 자동차예요. 고장이 잘 나지 않아서 사막, 정글, 눈 덮인 산처럼 먼 곳에서 많이 써요. 70년 넘게 전 세계를 달리고 있어요.",
+   "funFact": "1951년 시험 운전 때, 처음 랜드크루저는 자동차로는 처음으로 후지산 중턱까지 올라갔어요.",
+   "wiki": "Toyota Land Cruiser",
+   "photoQuery": "Toyota Land Cruiser",
+   "photoMatch": [
+    "land cruiser",
+    "landcruiser"
+   ],
+   "videoQueries": [
+    "Toyota Land Cruiser off road",
+    "Land Cruiser desert",
+    "랜드크루저 주행"
+   ],
+   "videoMatch": [
+    "land cruiser",
+    "landcruiser",
+    "랜드크루저"
+   ],
+   "photos": [
+    "File:Toyota Land Cruiser 250 ZX First Edition.jpg",
+    "File:Toyota Land Cruiser in the Desert Side-Back View 20120409 1.jpg",
+    "File:1982 Toyota Land Cruiser BJ41.jpg",
+    "File:Toyota Land Cruiser (J40) Hirschaid 2022-20220709-RM-121124.jpg",
+    "File:1980-1987 Toyota Land Cruiser STD FJ62V.jpg"
+   ]
+  },
+  {
+   "id": "honda-n-box",
+   "section": "family",
+   "name": "혼다 N-BOX",
+   "subtitle": "일본 골목을 누비는 상자 모양 경차",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2011",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "📏",
+     "길이",
+     "3.4",
+     "m"
+    ]
+   ],
+   "story": "N-BOX는 일본의 작은 자동차 '경차'예요. 일본 경차는 길이와 엔진 크기를 작게 지켜야 하는 규칙이 있어요. 그래도 상자처럼 키가 커서 안이 넓고, 뒷문은 옆으로 스르륵 열려요.",
+   "funFact": "일본 경차는 노란색 번호판을 달아요. N-BOX는 일본에서 여러 해 동안 가장 많이 팔린 자동차예요.",
+   "wiki": "Honda N-Box",
+   "photoQuery": "Honda N-BOX",
+   "photoMatch": [
+    "n-box",
+    "n box",
+    "nbox"
+   ],
+   "videoQueries": [
+    "Honda N-BOX driving",
+    "Honda N-BOX exterior",
+    "N-BOX 走行"
+   ],
+   "videoMatch": [
+    "n-box",
+    "n box",
+    "nbox"
+   ],
+   "photos": [
+    "File:Honda N-BOX Slash.jpg",
+    "File:Moscow, Honda n-Box, July 2025 03.jpg",
+    "File:Honda N-Box 2012.jpg",
+    "File:HONDA N BOX JF1 01.jpg",
+    "File:Moscow, Honda n-Box, July 2025 05.jpg"
+   ]
+  },
+  {
+   "id": "volvo-xc90",
+   "section": "family",
+   "name": "볼보 XC90",
+   "subtitle": "안전을 가장 아끼는 스웨덴 자동차",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2002",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "스웨덴",
+     ""
+    ],
+    [
+     "💺",
+     "자리",
+     "7",
+     "개"
+    ]
+   ],
+   "story": "XC90은 스웨덴 회사 볼보가 만든 커다란 가족 자동차예요. 자리가 7개라서 온 가족이 함께 탈 수 있어요. 볼보는 사고가 나도 사람이 다치지 않게 하는 '안전'으로 유명해요.",
+   "funFact": "우리가 매는 어깨까지 오는 안전벨트는 1959년 볼보가 처음 만들었어요. 볼보는 모두가 안전하도록 이 발명을 다른 회사들도 공짜로 쓰게 했어요.",
+   "wiki": "Volvo XC90",
+   "photoQuery": "Volvo XC90",
+   "photoMatch": [
+    "xc90",
+    "xc 90"
+   ],
+   "videoQueries": [
+    "Volvo XC90 driving",
+    "Volvo XC90 exterior",
+    "볼보 XC90 주행"
+   ],
+   "videoMatch": [
+    "xc90",
+    "xc 90"
+   ],
+   "photos": [
+    "File:Volvo XC90 II IMG 5738.jpg",
+    "File:2025 Volvo XC90 II DSC 7403.jpg",
+    "File:2025 Volvo XC90 II DSC 2665.jpg",
+    "File:2025 Volvo XC90 II DSC 7423.jpg",
+    "File:VOLVO XC90 II China (22).jpg"
+   ]
+  },
+  {
+   "id": "byd-atto-3",
+   "section": "family",
+   "name": "BYD 아토 3",
+   "subtitle": "중국에서 온 전기 자동차",
+   "color": "#14B8A6",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2022",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "중국",
+     ""
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ]
+   ],
+   "story": "아토 3는 중국 회사 BYD가 만든 전기 자동차예요. 기름 대신 큰 배터리에 전기를 채워서 달려요. 우리나라에서도 2025년부터 팔기 시작했어요.",
+   "funFact": "BYD는 원래 휴대폰 배터리를 만들던 회사예요. 지금은 세계에서 전기차를 가장 많이 만드는 회사 중 하나가 되었어요.",
+   "wiki": "BYD Atto 3",
+   "photoQuery": "BYD Atto 3",
+   "photoMatch": [
+    "atto 3",
+    "atto3",
+    "yuan plus",
+    "yuan+"
+   ],
+   "videoQueries": [
+    "BYD ATTO 3 official",
+    "BYD Atto 3 driving footage",
+    "BYD 아토3 광고"
+   ],
+   "videoMatch": [
+    "atto 3",
+    "atto3",
+    "아토 3",
+    "아토3",
+    "yuan plus"
+   ],
+   "photos": [
+    "File:BYD Atto 3 1X7A7106.jpg",
+    "File:BYD Atto 3 1X7A6495.jpg",
+    "File:2023 BYD Atto 3 Design 3.jpg",
+    "File:BYD Atto 3 1X7A6454.jpg",
+    "File:BYD Atto 3 1X7A6494.jpg"
+   ]
+  },
+  {
    "id": "ferrari-f40",
    "section": "sports",
    "name": "페라리 F40",
@@ -835,6 +1424,560 @@
     "File:1955 Mercedes-Benz 300SL Gullwin.jpg",
     "File:56 300SL Gullwing opened up.JPG",
     "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5007.jpg"
+   ]
+  },
+  {
+   "id": "ford-mustang",
+   "section": "sports",
+   "name": "포드 머스탱",
+   "subtitle": "달리는 야생마 미국 스포츠카",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1964",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🐎",
+     "로고",
+     "달리는 말",
+     ""
+    ]
+   ],
+   "story": "머스탱은 '야생마'라는 뜻이에요. 그래서 앞에 달리는 말 그림이 붙어 있어요. 길쭉한 앞부분과 짧은 뒷부분이 멋져서 60년 넘게 사랑받고 있어요.",
+   "funFact": "1964년 머스탱이 처음 나온 날, 하루 만에 2만 2천 명이 사겠다고 주문했대요!",
+   "wiki": "Ford Mustang",
+   "photoQuery": "Ford Mustang",
+   "photoMatch": [
+    "mustang"
+   ],
+   "videoQueries": [
+    "Ford Mustang driving",
+    "Ford Mustang GT on track",
+    "포드 머스탱 주행"
+   ],
+   "videoMatch": [
+    "mustang",
+    "머스탱"
+   ],
+   "photos": [
+    "File:Ford Mustang 5312121.jpg",
+    "File:Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg",
+    "File:Ford Mustang Sachs Franken Classic 2018 P5201303.jpg",
+    "File:Ford Mustang VI Mach 1 1X7A0304.jpg",
+    "File:Ford Mustang, Classic Days 2019, Berlin (CDB90099).jpg"
+   ]
+  },
+  {
+   "id": "chevrolet-corvette",
+   "section": "sports",
+   "name": "쉐보레 콜벳",
+   "subtitle": "미국을 대표하는 스포츠카",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1953",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진 위치",
+     "가운데",
+     ""
+    ]
+   ],
+   "story": "콜벳은 70년 넘게 만들어진 미국의 대표 스포츠카예요. 처음 콜벳은 쇠가 아니라 가볍고 튼튼한 유리섬유로 몸통을 만들었어요. 2020년부터는 엔진을 운전석 뒤쪽 가운데로 옮겨서 더 잘 달려요.",
+   "funFact": "처음 나온 1953년에는 콜벳 300대가 모두 하얀색에 빨간 의자였어요.",
+   "wiki": "Chevrolet Corvette",
+   "photoQuery": "Chevrolet Corvette",
+   "photoMatch": [
+    "corvette"
+   ],
+   "videoQueries": [
+    "Chevrolet Corvette Stingray official video",
+    "Corvette C8 driving footage",
+    "Corvette Z06 track exterior"
+   ],
+   "videoMatch": [
+    "corvette",
+    "콜벳"
+   ],
+   "photos": [
+    "File:Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg",
+    "File:1962 Chevrolet Corvette IMG 3669.jpg",
+    "File:Chevrolet Corvette Stingray, Kingsville, Ontario, 2025-06-29.jpg",
+    "File:Chevrolet Corvette, BAS 24, Brussels (P1170387-RR).jpg",
+    "File:Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg"
+   ]
+  },
+  {
+   "id": "lamborghini-countach",
+   "section": "sports",
+   "name": "람보르기니 쿤타치",
+   "subtitle": "위로 열리는 문을 가진 쐐기 모양 차",
+   "color": "#EAB308",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1974",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "이탈리아",
+     ""
+    ],
+    [
+     "🚪",
+     "문",
+     "위로 열려요",
+     ""
+    ]
+   ],
+   "story": "쿤타치는 납작하고 뾰족한 쐐기 모양의 슈퍼카예요. 문이 옆으로 열리지 않고 가위처럼 위로 번쩍 열려요. 이 문 모양은 그 뒤 람보르기니의 상징이 되었어요.",
+   "funFact": "'쿤타치'는 이탈리아 어느 지방 말로 '우와!' 하고 놀랄 때 하는 말이에요.",
+   "wiki": "Lamborghini Countach",
+   "photoQuery": "Lamborghini Countach",
+   "photoMatch": [
+    "countach"
+   ],
+   "videoQueries": [
+    "Lamborghini Countach driving",
+    "Lamborghini Countach doors",
+    "쿤타치 주행"
+   ],
+   "videoMatch": [
+    "countach",
+    "쿤타치"
+   ],
+   "photos": [
+    "File:1990 Lamborghini Countach Low.jpg",
+    "File:Lamborghini Countach LP 5000S 1983.jpg",
+    "File:1988 Lamborghini Countach 2.jpg",
+    "File:Lamborghini Countach 17.jpg",
+    "File:1987 Lamborghini Countach LP5000 QV LC23.jpg"
+   ]
+  },
+  {
+   "id": "mclaren-f1",
+   "section": "sports",
+   "name": "맥라렌 F1",
+   "subtitle": "운전석이 가운데 있는 슈퍼카",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1992",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "💺",
+     "자리",
+     "3",
+     "개"
+    ]
+   ],
+   "story": "맥라렌 F1은 경주용 자동차를 만들던 영국 회사 맥라렌이 만든 슈퍼카예요. 운전석이 한가운데 있고, 양옆 조금 뒤에 손님 자리가 하나씩 있어요. 엔진 방을 진짜 금으로 덮어서 뜨거운 열을 막았어요.",
+   "funFact": "1998년에 시속 약 386km로 달려서, 한때 세상에서 가장 빠른 자동차였어요.",
+   "wiki": "McLaren F1",
+   "photoQuery": "McLaren F1 road car",
+   "photoMatch": [
+    "mclaren f1"
+   ],
+   "videoQueries": [
+    "McLaren F1 flyby",
+    "McLaren F1 road car driving exterior",
+    "McLaren F1 GTR Le Mans 1995"
+   ],
+   "videoMatch": [
+    "mclaren f1",
+    "맥라렌 f1"
+   ],
+   "photos": [
+    "File:McLaren F1 GTR 95 P440 CPJ Ritz.jpg",
+    "File:McLaren F1 GTR 95 P440 CPJ Ritz Rear.jpg",
+    "File:British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 04.jpg",
+    "File:British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 08.jpg",
+    "File:McLaren F1 BMW road car DSC 0757 (1) (51728585078).jpg"
+   ]
+  },
+  {
+   "id": "aston-martin-db5",
+   "section": "sports",
+   "name": "애스턴 마틴 DB5",
+   "subtitle": "영화 속 비밀 요원의 자동차",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1963",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🎬",
+     "나온 영화",
+     "007",
+     ""
+    ]
+   ],
+   "story": "DB5는 영국의 멋진 스포츠카예요. 1964년 영화 '007 골드핑거'에서 비밀 요원 제임스 본드의 자동차로 나와서 세계에서 가장 유명한 영화 자동차가 되었어요.",
+   "funFact": "영화 속 DB5에는 번호판이 빙글 돌아 바뀌는 비밀 장치가 있었어요.",
+   "wiki": "Aston Martin DB5",
+   "photoQuery": "Aston Martin DB5",
+   "photoMatch": [
+    "db5"
+   ],
+   "videoQueries": [
+    "Aston Martin DB5 driving",
+    "Aston Martin DB5 on the road",
+    "애스턴 마틴 DB5"
+   ],
+   "videoMatch": [
+    "db5"
+   ],
+   "photos": [
+    "File:Aston Martin DB5 (Skyfall).jpg",
+    "File:1964 Aston Martin DB5 4.0 Front.jpg",
+    "File:1964 Aston Martin DB5 11.jpg",
+    "File:1964 Aston Martin DB5 8.jpg",
+    "File:Aston Martin DB5, James Bond 04.jpg"
+   ]
+  },
+  {
+   "id": "nissan-gt-r",
+   "section": "sports",
+   "name": "닛산 GT-R",
+   "subtitle": "'고질라'라고 불리는 일본 스포츠카",
+   "color": "#6B7280",
+   "facts": [
+    [
+     "🎂",
+     "지금 모델",
+     "2007",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "🛞",
+     "굴리는 바퀴",
+     "4",
+     "개"
+    ]
+   ],
+   "story": "GT-R은 일본 닛산의 스포츠카예요. 네 바퀴를 모두 굴려서 빗길에서도 땅을 꽉 잡고 빠르게 달려요. 동그란 뒷불 네 개가 GT-R의 상징이에요.",
+   "funFact": "경주에서 다른 차들을 모두 이겨 버려서 '고질라'라는 별명이 생겼어요.",
+   "wiki": "Nissan GT-R",
+   "photoQuery": "Nissan GT-R R35",
+   "photoMatch": [
+    "gt-r",
+    "gtr",
+    "r35"
+   ],
+   "videoQueries": [
+    "Nissan GT-R driving",
+    "Nissan GT-R R35 on track",
+    "닛산 GT-R 주행"
+   ],
+   "videoMatch": [
+    "gt-r",
+    "gtr"
+   ],
+   "photos": [
+    "File:Nissan GT-R (R35) Washington DC Metro Area, USA.jpg",
+    "File:Nissan GT-R (R35) Washington DC Metro Area, USA (2).jpg",
+    "File:NISSAN GT-R (R35) China (7).jpg",
+    "File:Tuned Nissan GT-R (DBA-R35) front.jpg",
+    "File:Nissan GT-R (R35, 2011 facelift) in Brunei 01.jpg"
+   ]
+  },
+  {
+   "id": "honda-nsx",
+   "section": "sports",
+   "name": "혼다 NSX",
+   "subtitle": "세계 챔피언이 도운 일본 슈퍼카",
+   "color": "#E11D48",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1990",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진 위치",
+     "가운데",
+     ""
+    ]
+   ],
+   "story": "NSX는 일본 혼다가 만든 슈퍼카예요. 몸통을 가벼운 알루미늄으로 만들어서 날쌔게 달려요. 슈퍼카인데도 운전하기 편하고 고장이 잘 나지 않아서 사람들을 놀라게 했어요.",
+   "funFact": "F1 세계 챔피언 아이르통 세나가 NSX를 직접 타 보고 더 좋게 고치도록 도와주었어요.",
+   "wiki": "Honda NSX",
+   "photoQuery": "Honda NSX",
+   "photoMatch": [
+    "nsx"
+   ],
+   "videoQueries": [
+    "Honda NSX driving",
+    "Honda NSX on track",
+    "혼다 NSX 주행"
+   ],
+   "videoMatch": [
+    "nsx"
+   ],
+   "photos": [
+    "File:1995 Honda NSX Type T.jpg",
+    "File:Honda NSX (Ank Kumar Infosys) 04.jpg",
+    "File:1996 Honda NSX 5.jpg",
+    "File:Honda NSX red.jpg",
+    "File:Honda NSX Mulhouse 1.jpg"
+   ]
+  },
+  {
+   "id": "audi-r8",
+   "section": "sports",
+   "name": "아우디 R8",
+   "subtitle": "아이언맨이 탄 독일 슈퍼카",
+   "color": "#64748B",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2006",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진 위치",
+     "가운데",
+     ""
+    ]
+   ],
+   "story": "R8은 독일 아우디가 경주용 자동차의 기술로 만든 슈퍼카예요. 엔진이 운전석 뒤에 있어서 옆 유리창으로 엔진이 보여요. 옆구리에 다른 색 판이 붙어 있는 것도 특징이에요.",
+   "funFact": "영화 '아이언맨'에서 토니 스타크가 탄 자동차가 바로 아우디 R8이에요.",
+   "wiki": "Audi R8",
+   "photoQuery": "Audi R8",
+   "photoMatch": [
+    "r8"
+   ],
+   "videoQueries": [
+    "Audi R8 driving",
+    "Audi R8 V10 on track",
+    "아우디 R8 주행"
+   ],
+   "videoMatch": [
+    "r8"
+   ],
+   "photos": [
+    "File:2018 Audi R8 Coupe V10 plus Front.jpg",
+    "File:White Audi R8 fl.jpg",
+    "File:Audi R8-08.jpg",
+    "File:Audi R8 19.jpg",
+    "File:Audi R8 GT Spyder MYLE Festival 2025 DSC 9590.jpg"
+   ]
+  },
+  {
+   "id": "koenigsegg-agera",
+   "section": "sports",
+   "name": "코닉세그 아제라 RS",
+   "subtitle": "전투기 기지에서 태어난 스웨덴 하이퍼카",
+   "color": "#0F172A",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2015",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "스웨덴",
+     ""
+    ],
+    [
+     "💨",
+     "가장 빨리",
+     "약 447",
+     "km/h"
+    ]
+   ],
+   "story": "코닉세그는 스웨덴의 작은 회사가 손으로 하나하나 만드는 아주 빠른 자동차예요. 아제라 RS는 2017년에 시속 약 447km로 달려서 세계 기록을 세웠어요.",
+   "funFact": "코닉세그 공장은 옛날 전투기 비행장이었어요. 그래서 그 비행 부대의 '유령' 그림을 자동차에 붙여요.",
+   "wiki": "Koenigsegg Agera",
+   "photoQuery": "Koenigsegg Agera",
+   "photoMatch": [
+    "agera",
+    "koenigsegg"
+   ],
+   "videoQueries": [
+    "Koenigsegg Agera RS driving",
+    "Koenigsegg Agera on track",
+    "코닉세그 아제라"
+   ],
+   "videoMatch": [
+    "agera",
+    "koenigsegg"
+   ],
+   "photos": [
+    "File:Koenigsegg Agera N 5.jpg",
+    "File:Koenigsegg Agera N 2.jpg",
+    "File:Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg",
+    "File:Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 02.jpg",
+    "File:Koenigsegg Agera RST 2.jpg"
+   ]
+  },
+  {
+   "id": "rimac-nevera",
+   "section": "sports",
+   "name": "리막 네베라",
+   "subtitle": "번개처럼 빠른 전기 하이퍼카",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2021",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "크로아티아",
+     ""
+    ],
+    [
+     "💨",
+     "가장 빨리",
+     "약 412",
+     "km/h"
+    ]
+   ],
+   "story": "네베라는 크로아티아 회사 리막이 만든 전기 자동차예요. 바퀴마다 모터가 하나씩, 모두 네 개가 있어서 출발하자마자 번개처럼 튀어 나가요. 전기 자동차 중에서 가장 빠른 기록을 많이 가지고 있어요.",
+   "funFact": "'네베라'는 크로아티아 바다에 갑자기 몰아치는 세찬 폭풍의 이름이에요.",
+   "wiki": "Rimac Nevera",
+   "photoQuery": "Rimac Nevera",
+   "photoMatch": [
+    "nevera",
+    "rimac"
+   ],
+   "videoQueries": [
+    "Rimac Nevera driving",
+    "Rimac Nevera acceleration",
+    "리막 네베라"
+   ],
+   "videoMatch": [
+    "nevera",
+    "rimac",
+    "네베라"
+   ],
+   "photos": [
+    "File:Rimac Nevera (61051).jpg",
+    "File:Rimac - Nevera 10.jpg",
+    "File:Rimac Nevera Time Attack at Quail 2023.jpg",
+    "File:2021 Rimac Nevera.jpg",
+    "File:Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg"
+   ]
+  },
+  {
+   "id": "hyundai-n-vision-74",
+   "section": "sports",
+   "name": "현대 N 비전 74",
+   "subtitle": "포니를 닮은 우리나라 수소 스포츠카",
+   "color": "#9CA3AF",
+   "facts": [
+    [
+     "🎂",
+     "처음 보인 해",
+     "2022",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "💧",
+     "힘",
+     "수소 전기",
+     ""
+    ]
+   ],
+   "story": "N 비전 74는 현대자동차가 미래의 스포츠카를 보여 주려고 만든 '콘셉트카'예요. 1974년에 만들었던 '포니 쿠페' 디자인을 닮았어요. 수소로 전기를 만들어 모터를 돌려요.",
+   "funFact": "이름의 '74'는 포니 쿠페가 처음 세상에 나온 1974년에서 따왔어요.",
+   "wiki": "Hyundai N Vision 74",
+   "photoQuery": "Hyundai N Vision 74",
+   "photoMatch": [
+    "vision 74",
+    "n vision"
+   ],
+   "videoQueries": [
+    "Hyundai N Vision 74 driving",
+    "N Vision 74 on track",
+    "N 비전 74 주행"
+   ],
+   "videoMatch": [
+    "vision 74",
+    "비전 74",
+    "비전74"
+   ],
+   "photos": [
+    "File:Hyundai N Vision 74 Concept (104).jpg",
+    "File:Hyundai N Vision 74 Concept (14).jpg",
+    "File:Hyundai N Vision 74 Concept (53).jpg",
+    "File:Hyundai N Vision 74 Concept (76).jpg",
+    "File:Hyundai N Vision 74 Concept Auto Zuerich 2023 1X7A1289.jpg"
    ]
   },
   {

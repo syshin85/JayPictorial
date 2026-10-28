@@ -3,7 +3,7 @@
 for picking photos by eye in tools/candidates.html. Then pin the chosen files with
 "photos": [...] in data/cars.json and run fetch_media.py <id>.
 
-Usage: python3 tools/candidates.py [ids…]
+Usage: python3 tools/candidates.py [--commons] [ids…]   (--commons: skip Wikipedia, e.g. while its API is down)
 """
 import json
 import sys
@@ -16,14 +16,15 @@ OUT = Path(__file__).parent / "candidates.json"
 
 
 def main():
-    ids = sys.argv[1:]
+    commons_only = "--commons" in sys.argv
+    ids = [a for a in sys.argv[1:] if not a.startswith("--")]
     items = json.loads(fm.DATA.read_text())["items"]
     out = json.loads(OUT.read_text()) if OUT.exists() else {}
     for item in items:
         if ids and item["id"] not in ids:
             continue
         try:
-            files = [f for f in fm.candidate_files(item["wiki"]) if fm.matches(item, f)]
+            files = [] if commons_only else [f for f in fm.candidate_files(item["wiki"]) if fm.matches(item, f)]
         except RuntimeError as e:  # no such Wikipedia page: Commons search only
             print(f"   ! {e}")
             files = []
