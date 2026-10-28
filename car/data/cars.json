@@ -11,8 +11,8 @@
   {
    "id": "family",
    "book": "cars",
-   "name": "우리 집 자동차",
-   "emoji": "🚙",
+   "name": "승용차",
+   "emoji": "🚗",
    "color": "#22A06B"
   },
   {
@@ -32,30 +32,9 @@
   {
    "id": "buses",
    "book": "cars",
-   "name": "버스",
+   "name": "버스와 트럭",
    "emoji": "🚌",
    "color": "#F59E0B"
-  },
-  {
-   "id": "trucks",
-   "book": "cars",
-   "name": "트럭",
-   "emoji": "🚚",
-   "color": "#0EA5E9"
-  },
-  {
-   "id": "emergency",
-   "book": "cars",
-   "name": "긴급 자동차",
-   "emoji": "🚨",
-   "color": "#EF4444"
-  },
-  {
-   "id": "construction",
-   "book": "cars",
-   "name": "공사장 자동차",
-   "emoji": "🏗️",
-   "color": "#F5A300"
   },
   {
    "id": "special",
@@ -528,59 +507,6 @@
    ]
   },
   {
-   "id": "taxi",
-   "section": "family",
-   "name": "택시",
-   "subtitle": "손을 들면 태워 주는 자동차",
-   "color": "#F59E0B",
-   "facts": [
-    [
-     "🎂",
-     "처음 생긴 해",
-     "1897",
-     "년"
-    ],
-    [
-     "💡",
-     "지붕",
-     "택시 표시등",
-     ""
-    ],
-    [
-     "🧾",
-     "요금",
-     "미터기",
-     ""
-    ]
-   ],
-   "story": "택시는 손님이 가고 싶은 곳까지 태워 주고 돈을 받는 자동차예요. 지붕에 있는 표시등과 미터기로 택시인 것을 알 수 있어요. 나라마다 택시 색깔이 달라서 뉴욕은 노란색, 런던은 까만색이 유명해요.",
-   "funFact": "런던의 까만 택시는 키 큰 신사가 모자를 쓴 채로 탈 수 있도록 천장을 높게 만들었어요.",
-   "wiki": "Taxi",
-   "photoQuery": "taxi cab street",
-   "photoMatch": [
-    "taxi",
-    "cab"
-   ],
-   "videoQueries": [
-    "New York yellow cabs traffic Times Square",
-    "NYC taxi cabs street footage",
-    "London black cab driving street"
-   ],
-   "videoMatch": [
-    "taxi",
-    "cab",
-    "cabs",
-    "택시"
-   ],
-   "photos": [
-    "File:2007 Ford Crown Victoria New York Taxi 1.jpg",
-    "File:London taxi with deployed wheelchair ramp.jpg",
-    "File:(USA-New York) NYC Medallion Cab Toyota RAV4 NY-Taxi-Y202490C 2024-06-15.jpg",
-    "File:VZ2041(Hong Kong Urban Taxi) 18-08-2020 (cropped).jpg",
-    "File:Hyundai Grandeur Taxi GN7 Abyss Black Pearl (1).jpg"
-   ]
-  },
-  {
    "id": "ford-model-t",
    "section": "family",
    "name": "포드 모델 T",
@@ -907,63 +833,6 @@
    ]
   },
   {
-   "id": "london-taxi",
-   "section": "family",
-   "name": "런던 택시",
-   "subtitle": "까만 네모 택시 '블랙캡'",
-   "color": "#111827",
-   "facts": [
-    [
-     "🌏",
-     "나라",
-     "영국",
-     ""
-    ],
-    [
-     "🔄",
-     "도는 크기",
-     "약 7.6",
-     "m"
-    ],
-    [
-     "🎓",
-     "기사님 공부",
-     "3~4",
-     "년"
-    ]
-   ],
-   "story": "런던 택시는 까맣고 네모난 모양이라 '블랙캡'이라고 불러요. 지붕이 높아서 키 큰 사람도 모자를 쓴 채로 탈 수 있어요. 좁은 골목에서도 한 번에 빙글 돌아 나올 수 있게 만들었어요.",
-   "funFact": "런던 택시 기사님이 되려면 런던의 길 2만 5천 개를 모두 외우는 아주 어려운 시험을 봐야 해요.",
-   "wiki": "Hackney carriage",
-   "photoQuery": "London black cab taxi",
-   "photoMatch": [
-    "taxi",
-    "cab",
-    "tx4",
-    "tx1",
-    "fx4",
-    "levc",
-    "hackney"
-   ],
-   "videoQueries": [
-    "London black cabs traffic",
-    "LEVC TX electric taxi London",
-    "London taxi Piccadilly Circus traffic"
-   ],
-   "videoMatch": [
-    "cab",
-    "taxi",
-    "택시"
-   ],
-   "photos": [
-    "File:Black London Cab.jpg",
-    "File:2016 LTI TX4 London black cab.jpg",
-    "File:Two black cabs with Big Ben in the background.jpg",
-    "File:TX4 cab and RM871 Routemaster in London (32658451213).jpg",
-    "File:Flickr - Duncan~ - Black Cabs.jpg"
-   ]
-  },
-  {
    "id": "toyota-land-cruiser",
    "section": "family",
    "name": "토요타 랜드크루저",
@@ -1173,6 +1042,639 @@
     "File:2023 BYD Atto 3 Design 3.jpg",
     "File:BYD Atto 3 1X7A6454.jpg",
     "File:BYD Atto 3 1X7A6494.jpg"
+   ]
+  },
+  {
+   "id": "tesla-model-y",
+   "section": "family",
+   "name": "테슬라 모델 Y",
+   "subtitle": "세계에서 가장 많이 팔린 전기 SUV",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2020",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ]
+   ],
+   "story": "모델 Y는 테슬라 모델 3를 키워서 만든 전기 SUV예요. 짐칸이 넓고 키가 커서 가족이 타기 좋아요. 계기판 대신 가운데에 커다란 화면 하나가 있어요.",
+   "funFact": "모델 Y는 2023년에 전기차뿐 아니라 모든 자동차 가운데 세계에서 가장 많이 팔린 자동차가 되었어요.",
+   "wiki": "Tesla Model Y",
+   "photoQuery": "Tesla Model Y",
+   "photoMatch": [
+    "model y"
+   ],
+   "videoQueries": [
+    "Tesla Model Y exterior b-roll",
+    "Tesla Model Y Juniper on the road",
+    "Tesla Model Y snow driving",
+    "Tesla Model Y road trip footage",
+    "새로운 모델 Y 주행 영상"
+   ],
+   "videoMatch": [
+    "model y",
+    "모델 y",
+    "모델y"
+   ],
+   "photos": [
+    "File:Tesla Model Y (Facelift) – f 05052026.jpg",
+    "File:Алматы, Tesla Model Y на Каримова.jpg",
+    "File:Tesla Model Y 1X7A6211.jpg",
+    "File:Tesla Model Y L Premium Long Range AWD Cosmic Silver 03.jpg",
+    "File:Tesla Model Y (Facelift) – h 05052026.jpg"
+   ]
+  },
+  {
+   "id": "tesla-cybertruck",
+   "section": "family",
+   "name": "테슬라 사이버트럭",
+   "subtitle": "로봇처럼 각진 스테인리스 트럭",
+   "color": "#475569",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2023",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🛡️",
+     "겉면",
+     "스테인리스",
+     ""
+    ]
+   ],
+   "story": "사이버트럭은 테슬라가 만든 전기 픽업트럭이에요. 겉이 칠하지 않은 은색 스테인리스 강철이라 반짝반짝하고, 종이접기처럼 뾰족하게 각이 져 있어요. 뒤에는 짐을 싣는 넓은 짐칸이 있어요.",
+   "funFact": "사이버트럭을 처음 소개할 때 '깨지지 않는 유리'라며 쇠공을 던졌는데, 그만 유리에 금이 가 버렸대요!",
+   "wiki": "Tesla Cybertruck",
+   "photoQuery": "Tesla Cybertruck",
+   "photoMatch": [
+    "cybertruck"
+   ],
+   "videoQueries": [
+    "Tesla Cybertruck",
+    "Cybertruck off road",
+    "Cybertruck driving footage",
+    "사이버트럭"
+   ],
+   "videoMatch": [
+    "cybertruck",
+    "사이버트럭"
+   ],
+   "photos": [
+    "File:2024 Tesla Cybertruck Foundation Series, front left (Greenwich).jpg",
+    "File:Tesla Cybertruck.jpg",
+    "File:Tesla Cybertruck unveiling.jpg",
+    "File:Foundation series Cybertruck at dusk in San Jose dllu.jpg",
+    "File:Tesla Cybertruck Washington DC Metro Area, USA.jpg"
+   ]
+  },
+  {
+   "id": "hyundai-grandeur",
+   "section": "family",
+   "name": "현대 그랜저",
+   "subtitle": "오랫동안 사랑받은 우리나라 큰 세단",
+   "color": "#1E3A8A",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1986",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🔢",
+     "지금 모델",
+     "7",
+     "번째"
+    ]
+   ],
+   "story": "그랜저는 현대자동차가 만드는 크고 편안한 세단이에요. 1986년에 처음 나와서 지금은 7번째 모습이에요. 지금 그랜저는 앞과 뒤에 길게 이어진 불빛이 특징이에요.",
+   "funFact": "그랜저는 우리나라에서 한 해 동안 가장 많이 팔린 자동차가 된 적이 여러 번 있어요.",
+   "wiki": "Hyundai Grandeur",
+   "photoQuery": "Hyundai Grandeur",
+   "photoMatch": [
+    "grandeur",
+    "azera"
+   ],
+   "videoQueries": [
+    "Hyundai Grandeur",
+    "디 올 뉴 그랜저",
+    "그랜저 GN7 필름",
+    "The all-new Grandeur film"
+   ],
+   "videoMatch": [
+    "grandeur",
+    "그랜저"
+   ],
+   "photos": [
+    "File:00 hyundai grandeur 005.jpg",
+    "File:00 hyundai grandeur 006.jpg",
+    "File:Hyundai Grandeur EV Concept Heritage Series (1).jpg",
+    "File:Hyundai Grandeur Hybrid IG HEV White Cream (front).jpg",
+    "File:Hyundai Azera (HG) (facelift).jpg"
+   ]
+  },
+  {
+   "id": "kia-sorento",
+   "section": "family",
+   "name": "기아 쏘렌토",
+   "subtitle": "가족 여행에 딱 맞는 SUV",
+   "color": "#0F766E",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2002",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "💺",
+     "자리",
+     "최대 7",
+     "명"
+    ]
+   ],
+   "story": "쏘렌토는 기아가 만든 SUV예요. 키가 크고 자리가 넉넉해서 뒤에 의자를 한 줄 더 놓으면 일곱 명까지 탈 수 있어요. 캠핑이나 가족 여행을 갈 때 짐을 가득 실을 수 있어요.",
+   "funFact": "쏘렌토는 2024년에 우리나라에서 가장 많이 팔린 자동차였어요.",
+   "wiki": "Kia Sorento",
+   "photoQuery": "Kia Sorento",
+   "photoMatch": [
+    "sorento"
+   ],
+   "videoQueries": [
+    "Kia Sorento",
+    "The new Sorento film",
+    "더 뉴 쏘렌토",
+    "Kia Sorento off road"
+   ],
+   "videoMatch": [
+    "sorento",
+    "쏘렌토"
+   ],
+   "photos": [
+    "File:2024 Kia Sorento X-Line SX Prestige (facelift), front 12.20.24.jpg",
+    "File:2024 Kia Sorento (MQ4) Ditzingen Mobil IMG 9803.jpg",
+    "File:2020 Kia Sorento 4 HEV AWD Automatic 1.6 Front (1).jpg",
+    "File:2017 Kia Sorento KX-4 4X4 Automatic 2,2 Front.jpg",
+    "File:00 kia sorento 2 2 (cropped).jpg"
+   ]
+  },
+  {
+   "id": "genesis-gv80",
+   "section": "family",
+   "name": "제네시스 GV80",
+   "subtitle": "날개 로고를 단 우리나라 고급 SUV",
+   "color": "#78350F",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2020",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "💡",
+     "불빛",
+     "두 줄",
+     ""
+    ]
+   ],
+   "story": "GV80은 현대자동차의 고급 브랜드 제네시스가 만든 첫 SUV예요. 앞과 뒤의 불빛이 두 줄로 나란히 빛나는 게 특징이에요. 날개 모양 로고를 달고 있어요.",
+   "funFact": "제네시스 차들은 방패 모양 그릴과 '두 줄 불빛'이 모두 닮아서, 멀리서도 제네시스인 걸 알 수 있어요.",
+   "wiki": "Genesis GV80",
+   "photoQuery": "Genesis GV80",
+   "photoMatch": [
+    "gv80"
+   ],
+   "videoQueries": [
+    "Genesis GV80",
+    "GV80 film",
+    "제네시스 GV80",
+    "Genesis GV80 driving footage"
+   ],
+   "videoMatch": [
+    "gv80"
+   ],
+   "photos": [
+    "File:2021 Genesis GV80 3.5T Advanced, front left, 09-09-2023.jpg",
+    "File:Genesis GV80 Coupe 3.5T AWD JX1C Mauna Red (7).jpg",
+    "File:Genesis GV80 IAA 2021 1X7A0232.jpg",
+    "File:GENESIS GV80 China (5).jpg",
+    "File:GENESIS GV80 China (6).jpg"
+   ]
+  },
+  {
+   "id": "bmw-5-series",
+   "section": "family",
+   "name": "BMW 5시리즈",
+   "subtitle": "콩팥 모양 그릴의 독일 세단",
+   "color": "#1D4ED8",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1972",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🔢",
+     "지금 모델",
+     "8",
+     "번째"
+    ]
+   ],
+   "story": "5시리즈는 독일 BMW가 만드는 세단이에요. 앞에 콩팥 두 개처럼 생긴 '키드니 그릴'이 있어서 BMW인 걸 금방 알 수 있어요. 운전하는 재미가 좋은 차로 유명해요.",
+   "funFact": "BMW 로고의 파란색과 흰색은 BMW가 태어난 독일 바이에른 지방의 깃발 색이에요.",
+   "wiki": "BMW 5 Series",
+   "photoQuery": "BMW 5 Series",
+   "photoMatch": [
+    "5 series",
+    "5er",
+    "520",
+    "530",
+    "540",
+    "i5",
+    "g60"
+   ],
+   "videoQueries": [
+    "BMW 5 Series",
+    "The new BMW 5 Series driving footage",
+    "BMW i5 driving footage",
+    "BMW 5시리즈"
+   ],
+   "videoMatch": [
+    "5 series",
+    "5시리즈",
+    "i5",
+    "5er"
+   ],
+   "photos": [
+    "File:BMW G60 520i 1X7A2443.jpg",
+    "File:BMW i5 1X7A1826.jpg",
+    "File:BMW G30 530e IMG 3862.jpg",
+    "File:BMW 5 SERIES LWB SEDAN (BMW G38) China (49).jpg",
+    "File:2015 BMW 528i (5 Series, F10) M Sport 4-door sedan (19119409664).jpg"
+   ]
+  },
+  {
+   "id": "mercedes-e-class",
+   "section": "family",
+   "name": "벤츠 E클래스",
+   "subtitle": "세 꼭지 별을 단 독일 세단",
+   "color": "#334155",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1993",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "⭐",
+     "로고",
+     "세 꼭지 별",
+     ""
+    ]
+   ],
+   "story": "E클래스는 독일 메르세데스-벤츠가 만드는 세단이에요. 조용하고 편안하고, 안전한 차를 만드는 기술이 많이 들어 있어요. 우리나라에서도 수입차 가운데 아주 많이 팔리는 차예요.",
+   "funFact": "벤츠 로고의 세 꼭지 별은 땅, 바다, 하늘에서 모두 쓰이는 엔진을 만들겠다는 뜻이래요.",
+   "wiki": "Mercedes-Benz E-Class",
+   "photoQuery": "Mercedes-Benz E-Class",
+   "photoMatch": [
+    "e-class",
+    "e class",
+    "e-klasse",
+    "e 200",
+    "e200",
+    "e 300",
+    "e300",
+    "w214",
+    "w213"
+   ],
+   "videoQueries": [
+    "Mercedes-Benz E-Class",
+    "new E-Class driving footage",
+    "Mercedes E-Class 2024 footage",
+    "벤츠 E클래스"
+   ],
+   "videoMatch": [
+    "e-class",
+    "e class",
+    "e클래스",
+    "e-klasse"
+   ],
+   "photos": [
+    "File:Mercedes-Benz W214 1X7A1841.jpg",
+    "File:Mercedes-Benz E 200 d AMG Line (W 214) – f 05072025.jpg",
+    "File:MERCEDES-BENZ E-CLASS (W213) China (3).jpg",
+    "File:MERCEDES-BENZ E CLASS LWB (V213) China (6).jpg",
+    "File:Mercedes-Benz W213 Facelift IMG 5257.jpg"
+   ]
+  },
+  {
+   "id": "toyota-corolla",
+   "section": "family",
+   "name": "토요타 코롤라",
+   "subtitle": "세계에서 가장 많이 팔린 자동차",
+   "color": "#6B7280",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1966",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "🏭",
+     "만든 수",
+     "5000만",
+     "대 넘게"
+    ]
+   ],
+   "story": "코롤라는 일본 토요타가 만드는 작은 세단이에요. 튼튼하고 고장이 잘 나지 않아서 세계 여러 나라에서 오랫동안 사랑받았어요.",
+   "funFact": "코롤라는 5000만 대 넘게 팔려서, 한 이름으로 가장 많이 팔린 자동차예요.",
+   "wiki": "Toyota Corolla",
+   "photoQuery": "Toyota Corolla",
+   "photoMatch": [
+    "corolla"
+   ],
+   "videoQueries": [
+    "Toyota Corolla",
+    "Toyota Corolla driving footage",
+    "Corolla 2024 footage",
+    "Toyota Corolla history"
+   ],
+   "videoMatch": [
+    "corolla",
+    "코롤라"
+   ],
+   "photos": [
+    "File:Toyota Corolla Hybrid (E210) IMG 4338.jpg",
+    "File:1968 Toyota Corolla 1100 Deluxe.jpg",
+    "File:1971 Toyota Corolla 1200 Deluxe.jpg",
+    "File:2007-2010 Toyota Corolla (ZRE152R) Ascent sedan (2011-04-02).jpg",
+    "File:1996-1999 Toyota Corolla (AE101R) CSi sedan (2011-06-15) 01.jpg"
+   ]
+  },
+  {
+   "id": "toyota-rav4",
+   "section": "family",
+   "name": "토요타 RAV4",
+   "subtitle": "가장 많이 팔리는 SUV 중 하나",
+   "color": "#B45309",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1994",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "⚡",
+     "힘",
+     "하이브리드",
+     ""
+    ]
+   ],
+   "story": "RAV4는 토요타가 만든 SUV예요. 승용차처럼 편하면서 SUV처럼 튼튼한 '작은 SUV'를 처음 유행시킨 차 가운데 하나예요. 기름과 전기를 함께 쓰는 하이브리드도 있어요.",
+   "funFact": "RAV4는 미국에서 트럭을 빼면 가장 많이 팔리는 자동차로 여러 해 동안 1등을 했어요.",
+   "wiki": "Toyota RAV4",
+   "photoQuery": "Toyota RAV4",
+   "photoMatch": [
+    "rav4",
+    "rav 4"
+   ],
+   "videoQueries": [
+    "Toyota RAV4",
+    "RAV4 off road",
+    "Toyota RAV4 driving footage",
+    "2026 RAV4"
+   ],
+   "videoMatch": [
+    "rav4",
+    "rav 4"
+   ],
+   "photos": [
+    "File:2024 Toyota RAV4 Prime XSE Premium in Silver Sky with Midnight Black roof, front left.jpg",
+    "File:2015 Toyota Rav4 LE in Barcelona Red Metallic, Front Left, 10-08-2022.jpg",
+    "File:2000-2003 Toyota RAV4 (ACA20R) Edge hardtop (2011-05-25).jpg",
+    "File:1996 Toyota RAV4 Max 2.0 Rear.jpg",
+    "File:2003 Toyota RAV4 01.jpg"
+   ]
+  },
+  {
+   "id": "honda-cr-v",
+   "section": "family",
+   "name": "혼다 CR-V",
+   "subtitle": "넓고 편한 일본 SUV",
+   "color": "#7C2D12",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1995",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "🔢",
+     "지금 모델",
+     "6",
+     "번째"
+    ]
+   ],
+   "story": "CR-V는 일본 혼다가 만든 SUV예요. 크기는 알맞은데 안이 넓어서 가족이 타기 편해요. 세계 여러 나라에서 많이 팔리는 SUV예요.",
+   "funFact": "처음 CR-V에는 뒷자리 바닥에서 꺼내 쓰는 접이식 피크닉 테이블이 들어 있었어요!",
+   "wiki": "Honda CR-V",
+   "photoQuery": "Honda CR-V",
+   "photoMatch": [
+    "cr-v",
+    "crv"
+   ],
+   "videoQueries": [
+    "Honda CR-V",
+    "Honda CR-V driving footage",
+    "2025 Honda CR-V",
+    "CR-V TrailSport off road"
+   ],
+   "videoMatch": [
+    "cr-v",
+    "crv"
+   ],
+   "photos": [
+    "File:Honda CR-V e-HEV Elegance AWD (VI) – f 14072024.jpg",
+    "File:Honda CR-V (6th generation) hybrid DSC 8550.jpg",
+    "File:2021 Honda CR-V EX (facelift), front 3.24.23.jpg",
+    "File:2019 Honda CR-V EX i-VTEC 1.5.jpg",
+    "File:1996 Honda CR-V (RD1), front right.jpg"
+   ]
+  },
+  {
+   "id": "range-rover",
+   "section": "family",
+   "name": "레인지로버",
+   "subtitle": "숲길도 달리는 영국의 고급 SUV",
+   "color": "#365314",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1970",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🌊",
+     "물 건너기",
+     "약 90",
+     "cm"
+    ]
+   ],
+   "story": "레인지로버는 영국 랜드로버가 만든 고급 SUV예요. 안은 거실처럼 편안하지만, 진흙길이나 얕은 강도 건널 만큼 튼튼해요. 영국 왕실에서도 많이 타요.",
+   "funFact": "처음 나온 레인지로버는 아주 멋져서 프랑스 루브르 박물관에 '예술 작품'으로 전시된 적이 있어요.",
+   "wiki": "Range Rover",
+   "photoQuery": "Range Rover",
+   "photoMatch": [
+    "range rover"
+   ],
+   "videoQueries": [
+    "Range Rover",
+    "Range Rover off road",
+    "Range Rover driving footage",
+    "New Range Rover film"
+   ],
+   "videoMatch": [
+    "range rover",
+    "레인지로버"
+   ],
+   "photos": [
+    "File:2022 Land Rover Range Rover SE P440e AWD Automatic 3.0 Front.jpg",
+    "File:Land Rover Range Rover 1979 (4911138431) (cropped).jpg",
+    "File:Range Rover 2013.jpg",
+    "File:2022 Land Rover Range Rover SE P440e AWD Automatic 3.0 Rear.jpg",
+    "File:Range Rover front 20080331.jpg"
+   ]
+  },
+  {
+   "id": "xiaomi-su7",
+   "section": "family",
+   "name": "샤오미 SU7",
+   "subtitle": "휴대폰 회사가 만든 전기 자동차",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2024",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "중국",
+     ""
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ]
+   ],
+   "story": "SU7은 휴대폰을 만들던 중국 회사 샤오미가 처음 만든 전기 자동차예요. 휴대폰과 자동차 화면이 서로 연결돼요. 날렵한 모양의 세단이에요.",
+   "funFact": "샤오미 SU7은 처음 주문을 받은 날, 하루 만에 8만 명 넘게 주문했대요.",
+   "wiki": "Xiaomi SU7",
+   "photoQuery": "Xiaomi SU7",
+   "photoMatch": [
+    "su7"
+   ],
+   "videoQueries": [
+    "Xiaomi SU7",
+    "Xiaomi SU7 driving footage",
+    "Xiaomi SU7 Ultra track",
+    "小米SU7"
+   ],
+   "videoMatch": [
+    "su7"
+   ],
+   "photos": [
+    "File:(CHN-Shanghai) Private Xiaomi SU7 沪A7WE106 2024-11-24.jpg",
+    "File:Xiaomi SU7 MY2026 IMG01.jpg",
+    "File:Xiaomi SU7 Ultra 0001 China 2025-03-28.jpg",
+    "File:Xiaomi SU7 004.jpg",
+    "File:Xiaomi SU7 Max 002.jpg"
    ]
   },
   {
@@ -2772,7 +3274,7 @@
   },
   {
    "id": "porter",
-   "section": "trucks",
+   "section": "buses",
    "name": "현대 포터",
    "subtitle": "골목골목 짐을 나르는 작은 트럭",
    "color": "#3B82F6",
@@ -2825,7 +3327,7 @@
   },
   {
    "id": "semi-truck",
-   "section": "trucks",
+   "section": "buses",
    "name": "트레일러 트럭",
    "subtitle": "커다란 짐칸을 끄는 힘센 트럭",
    "color": "#0EA5E9",
@@ -2886,7 +3388,7 @@
   },
   {
    "id": "car-carrier",
-   "section": "trucks",
+   "section": "buses",
    "name": "자동차 운반차",
    "subtitle": "자동차를 업고 가는 트럭",
    "color": "#6366F1",
@@ -2941,7 +3443,7 @@
   },
   {
    "id": "tanker",
-   "section": "trucks",
+   "section": "buses",
    "name": "탱크로리",
    "subtitle": "커다란 통을 싣고 다니는 트럭",
    "color": "#94A3B8",
@@ -2994,7 +3496,7 @@
   },
   {
    "id": "pickup",
-   "section": "trucks",
+   "section": "buses",
    "name": "픽업트럭",
    "subtitle": "뒤에 짐칸이 열린 자동차",
    "color": "#1E3A8A",
@@ -3048,7 +3550,7 @@
   },
   {
    "id": "monster-truck",
-   "section": "trucks",
+   "section": "buses",
    "name": "몬스터 트럭",
    "subtitle": "어마어마하게 큰 바퀴를 단 트럭",
    "color": "#16A34A",
@@ -3102,7 +3604,7 @@
   },
   {
    "id": "road-train",
-   "section": "trucks",
+   "section": "buses",
    "name": "로드 트레인",
    "subtitle": "기차처럼 긴 트럭",
    "color": "#B45309",
@@ -3154,7 +3656,7 @@
   },
   {
    "id": "fire-engine",
-   "section": "emergency",
+   "section": "special",
    "name": "소방차",
    "subtitle": "불을 끄러 달려가는 빨간 차",
    "color": "#DC2626",
@@ -3209,7 +3711,7 @@
   },
   {
    "id": "ladder-truck",
-   "section": "emergency",
+   "section": "special",
    "name": "사다리 소방차",
    "subtitle": "높은 곳까지 사다리를 뻗는 차",
    "color": "#B91C1C",
@@ -3263,7 +3765,7 @@
   },
   {
    "id": "airport-fire",
-   "section": "emergency",
+   "section": "special",
    "name": "공항 소방차",
    "subtitle": "비행장을 지키는 거대한 소방차",
    "color": "#F97316",
@@ -3319,7 +3821,7 @@
   },
   {
    "id": "ambulance",
-   "section": "emergency",
+   "section": "special",
    "name": "구급차",
    "subtitle": "아픈 사람을 병원으로 데려가는 차",
    "color": "#F8FAFC",
@@ -3371,7 +3873,7 @@
   },
   {
    "id": "police-car",
-   "section": "emergency",
+   "section": "special",
    "name": "경찰차",
    "subtitle": "우리 동네를 지키는 차",
    "color": "#1D4ED8",
@@ -3424,7 +3926,7 @@
   },
   {
    "id": "tow-truck",
-   "section": "emergency",
+   "section": "special",
    "name": "견인차",
    "subtitle": "고장 난 차를 끌고 가는 차",
    "color": "#F59E0B",
@@ -3479,7 +3981,7 @@
   },
   {
    "id": "excavator",
-   "section": "construction",
+   "section": "special",
    "name": "굴착기",
    "subtitle": "땅을 파는 힘센 팔",
    "color": "#F5A300",
@@ -3534,7 +4036,7 @@
   },
   {
    "id": "mobile-crane",
-   "section": "construction",
+   "section": "special",
    "name": "크레인차",
    "subtitle": "무거운 것을 번쩍 드는 차",
    "color": "#EAB308",
@@ -3588,7 +4090,7 @@
   },
   {
    "id": "dump-truck",
-   "section": "construction",
+   "section": "special",
    "name": "덤프트럭",
    "subtitle": "짐칸을 들어 흙을 쏟는 트럭",
    "color": "#F97316",
@@ -3641,7 +4143,7 @@
   },
   {
    "id": "mining-truck",
-   "section": "construction",
+   "section": "special",
    "name": "거대 덤프트럭",
    "subtitle": "세상에서 가장 큰 덤프트럭",
    "color": "#FBBF24",
@@ -3695,7 +4197,7 @@
   },
   {
    "id": "mixer",
-   "section": "construction",
+   "section": "special",
    "name": "레미콘",
    "subtitle": "빙글빙글 도는 통을 실은 트럭",
    "color": "#F59E0B",
@@ -3747,7 +4249,7 @@
   },
   {
    "id": "concrete-pump",
-   "section": "construction",
+   "section": "special",
    "name": "콘크리트 펌프카",
    "subtitle": "콘크리트를 높이 보내는 긴 팔",
    "color": "#0EA5E9",
@@ -3802,7 +4304,7 @@
   },
   {
    "id": "bulldozer",
-   "section": "construction",
+   "section": "special",
    "name": "불도저",
    "subtitle": "흙을 밀어서 평평하게 만드는 기계",
    "color": "#EAB308",
@@ -3858,7 +4360,7 @@
   },
   {
    "id": "wheel-loader",
-   "section": "construction",
+   "section": "special",
    "name": "휠로더",
    "subtitle": "커다란 바가지로 흙을 퍼 담는 차",
    "color": "#F59E0B",
@@ -3909,7 +4411,7 @@
   },
   {
    "id": "road-roller",
-   "section": "construction",
+   "section": "special",
    "name": "롤러",
    "subtitle": "길을 꾹꾹 눌러 다지는 차",
    "color": "#22C55E",
@@ -3962,7 +4464,7 @@
   },
   {
    "id": "forklift",
-   "section": "construction",
+   "section": "special",
    "name": "지게차",
    "subtitle": "짐을 포크로 번쩍 드는 차",
    "color": "#F97316",

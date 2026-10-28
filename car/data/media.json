@@ -404,51 +404,6 @@
       "channel": "CarlockToyotaTupelo"
     }
   },
-  "taxi": {
-    "images": [
-      {
-        "src": "assets/items/taxi/1.jpg",
-        "credit": "Calreyn88",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:2007_Ford_Crown_Victoria_New_York_Taxi_1.jpg",
-        "file": "File:2007 Ford Crown Victoria New York Taxi 1.jpg"
-      },
-      {
-        "src": "assets/items/taxi/2.jpg",
-        "credit": "Turini2",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:London_taxi_with_deployed_wheelchair_ramp.jpg",
-        "file": "File:London taxi with deployed wheelchair ramp.jpg"
-      },
-      {
-        "src": "assets/items/taxi/3.jpg",
-        "credit": "S5A-0043",
-        "license": "CC BY 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:(USA-New_York)_NYC_Medallion_Cab_Toyota_RAV4_NY-Taxi-Y202490C_2024-06-15.jpg",
-        "file": "File:(USA-New York) NYC Medallion Cab Toyota RAV4 NY-Taxi-Y202490C 2024-06-15.jpg"
-      },
-      {
-        "src": "assets/items/taxi/4.jpg",
-        "credit": "LN9267",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:VZ2041(Hong_Kong_Urban_Taxi)_18-08-2020_(cropped).jpg",
-        "file": "File:VZ2041(Hong Kong Urban Taxi) 18-08-2020 (cropped).jpg"
-      },
-      {
-        "src": "assets/items/taxi/5.jpg",
-        "credit": "Damian B Oh",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Grandeur_Taxi_GN7_Abyss_Black_Pearl_(1).jpg",
-        "file": "File:Hyundai Grandeur Taxi GN7 Abyss Black Pearl (1).jpg"
-      }
-    ],
-    "video": {
-      "youtube": "EK20KJO7Tuc",
-      "title": "NY Taxi Cab Driving around in NYC streets of New York",
-      "seconds": 104,
-      "channel": "KENFL74"
-    }
-  },
   "ferrari-f40": {
     "images": [
       {
@@ -3554,51 +3509,6 @@
       }
     ]
   },
-  "london-taxi": {
-    "video": {
-      "youtube": "QQlrZX5wEFQ",
-      "title": "The TX electric taxi now fully certified to carry fare-paying passengers in London",
-      "seconds": 74,
-      "channel": "LEVC"
-    },
-    "images": [
-      {
-        "src": "assets/items/london-taxi/1.jpg",
-        "credit": "Jimmy Barrett",
-        "license": "CC BY-SA 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Black_London_Cab.jpg",
-        "file": "File:Black London Cab.jpg"
-      },
-      {
-        "src": "assets/items/london-taxi/2.jpg",
-        "credit": "Oleg Yunakov",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:2016_LTI_TX4_London_black_cab.jpg",
-        "file": "File:2016 LTI TX4 London black cab.jpg"
-      },
-      {
-        "src": "assets/items/london-taxi/3.jpg",
-        "credit": "Pedro Lastra",
-        "license": "CC0",
-        "source": "https://commons.wikimedia.org/wiki/File:Two_black_cabs_with_Big_Ben_in_the_background.jpg",
-        "file": "File:Two black cabs with Big Ben in the background.jpg"
-      },
-      {
-        "src": "assets/items/london-taxi/4.jpg",
-        "credit": "Sarahhoa",
-        "license": "CC BY-SA 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:TX4_cab_and_RM871_Routemaster_in_London_(32658451213).jpg",
-        "file": "File:TX4 cab and RM871 Routemaster in London (32658451213).jpg"
-      },
-      {
-        "src": "assets/items/london-taxi/5.jpg",
-        "credit": "Duncan Harris from Nottingham, UK",
-        "license": "CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Duncan~_-_Black_Cabs.jpg",
-        "file": "File:Flickr - Duncan~ - Black Cabs.jpg"
-      }
-    ]
-  },
   "byd-atto-3": {
     "video": {
       "youtube": "-ingY0nViWY",
@@ -3733,5 +3643,545 @@
         "file": "File:McLaren F1 BMW road car DSC 0757 (1) (51728585078).jpg"
       }
     ]
+  },
+  "tesla-model-y": {
+    "images": [
+      {
+        "src": "assets/items/tesla-model-y/1.jpg",
+        "credit": "© M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(Facelift)_%E2%80%93_f_05052026.jpg",
+        "file": "File:Tesla Model Y (Facelift) – f 05052026.jpg"
+      },
+      {
+        "src": "assets/items/tesla-model-y/2.jpg",
+        "credit": "Nikolai Bulykin",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_Tesla_Model_Y_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0.jpg",
+        "file": "File:Алматы, Tesla Model Y на Каримова.jpg"
+      },
+      {
+        "src": "assets/items/tesla-model-y/3.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_1X7A6211.jpg",
+        "file": "File:Tesla Model Y 1X7A6211.jpg"
+      },
+      {
+        "src": "assets/items/tesla-model-y/4.jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_L_Premium_Long_Range_AWD_Cosmic_Silver_03.jpg",
+        "file": "File:Tesla Model Y L Premium Long Range AWD Cosmic Silver 03.jpg"
+      },
+      {
+        "src": "assets/items/tesla-model-y/5.jpg",
+        "credit": "© M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(Facelift)_%E2%80%93_h_05052026.jpg",
+        "file": "File:Tesla Model Y (Facelift) – h 05052026.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "Jt7DqX2AlNo",
+      "title": "The New Model Y | Tesla",
+      "seconds": 62,
+      "channel": "Tesla"
+    }
+  },
+  "tesla-cybertruck": {
+    "images": [
+      {
+        "src": "assets/items/tesla-cybertruck/1.jpg",
+        "credit": "Mr.choppers",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Tesla_Cybertruck_Foundation_Series,_front_left_(Greenwich).jpg",
+        "file": "File:2024 Tesla Cybertruck Foundation Series, front left (Greenwich).jpg"
+      },
+      {
+        "src": "assets/items/tesla-cybertruck/2.jpg",
+        "credit": "Mliu92",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck.jpg",
+        "file": "File:Tesla Cybertruck.jpg"
+      },
+      {
+        "src": "assets/items/tesla-cybertruck/3.jpg",
+        "credit": "u/Kruzat, modified by Smnt",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck_unveiling.jpg",
+        "file": "File:Tesla Cybertruck unveiling.jpg"
+      },
+      {
+        "src": "assets/items/tesla-cybertruck/4.jpg",
+        "credit": "Dllu",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Foundation_series_Cybertruck_at_dusk_in_San_Jose_dllu.jpg",
+        "file": "File:Foundation series Cybertruck at dusk in San Jose dllu.jpg"
+      },
+      {
+        "src": "assets/items/tesla-cybertruck/5.jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck_Washington_DC_Metro_Area,_USA.jpg",
+        "file": "File:Tesla Cybertruck Washington DC Metro Area, USA.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "MIe38gTutPs",
+      "title": "Tesla Cybertruck Unleashed: Extreme Off-Roading with UP INVINCIBLE!",
+      "seconds": 129,
+      "channel": "Unplugged Performance"
+    }
+  },
+  "hyundai-grandeur": {
+    "images": [
+      {
+        "src": "assets/items/hyundai-grandeur/1.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:00_hyundai_grandeur_005.jpg",
+        "file": "File:00 hyundai grandeur 005.jpg"
+      },
+      {
+        "src": "assets/items/hyundai-grandeur/2.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:00_hyundai_grandeur_006.jpg",
+        "file": "File:00 hyundai grandeur 006.jpg"
+      },
+      {
+        "src": "assets/items/hyundai-grandeur/3.jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Grandeur_EV_Concept_Heritage_Series_(1).jpg",
+        "file": "File:Hyundai Grandeur EV Concept Heritage Series (1).jpg"
+      },
+      {
+        "src": "assets/items/hyundai-grandeur/4.jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Grandeur_Hybrid_IG_HEV_White_Cream_(front).jpg",
+        "file": "File:Hyundai Grandeur Hybrid IG HEV White Cream (front).jpg"
+      },
+      {
+        "src": "assets/items/hyundai-grandeur/5.jpg",
+        "credit": "Jason Lawrence from New York",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Azera_(HG)_(facelift).jpg",
+        "file": "File:Hyundai Azera (HG) (facelift).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "LwUoIRILb-g",
+      "title": "디 올 뉴 그랜저 | The all-new GRANDEUR 디자인 필름 | 현대자동차",
+      "seconds": 67,
+      "channel": "현대자동차 (hyundai korea)"
+    }
+  },
+  "kia-sorento": {
+    "images": [
+      {
+        "src": "assets/items/kia-sorento/1.jpg",
+        "credit": "Kevauto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Kia_Sorento_X-Line_SX_Prestige_(facelift),_front_12.20.24.jpg",
+        "file": "File:2024 Kia Sorento X-Line SX Prestige (facelift), front 12.20.24.jpg"
+      },
+      {
+        "src": "assets/items/kia-sorento/2.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Kia_Sorento_(MQ4)_Ditzingen_Mobil_IMG_9803.jpg",
+        "file": "File:2024 Kia Sorento (MQ4) Ditzingen Mobil IMG 9803.jpg"
+      },
+      {
+        "src": "assets/items/kia-sorento/3.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2020_Kia_Sorento_4_HEV_AWD_Automatic_1.6_Front_(1).jpg",
+        "file": "File:2020 Kia Sorento 4 HEV AWD Automatic 1.6 Front (1).jpg"
+      },
+      {
+        "src": "assets/items/kia-sorento/4.jpg",
+        "credit": "Makizox",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2017_Kia_Sorento_KX-4_4X4_Automatic_2,2_Front.jpg",
+        "file": "File:2017 Kia Sorento KX-4 4X4 Automatic 2,2 Front.jpg"
+      },
+      {
+        "src": "assets/items/kia-sorento/5.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:00_kia_sorento_2_2_(cropped).jpg",
+        "file": "File:00 kia sorento 2 2 (cropped).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "CC-hPFa7ok8",
+      "title": "The new Kia Sorento Turbo Hybrid | Power That Inspires",
+      "seconds": 31,
+      "channel": "Kia Philippines"
+    }
+  },
+  "genesis-gv80": {
+    "images": [
+      {
+        "src": "assets/items/genesis-gv80/1.jpg",
+        "credit": "MercurySable99",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Genesis_GV80_3.5T_Advanced,_front_left,_09-09-2023.jpg",
+        "file": "File:2021 Genesis GV80 3.5T Advanced, front left, 09-09-2023.jpg"
+      },
+      {
+        "src": "assets/items/genesis-gv80/2.jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Genesis_GV80_Coupe_3.5T_AWD_JX1C_Mauna_Red_(7).jpg",
+        "file": "File:Genesis GV80 Coupe 3.5T AWD JX1C Mauna Red (7).jpg"
+      },
+      {
+        "src": "assets/items/genesis-gv80/3.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Genesis_GV80_IAA_2021_1X7A0232.jpg",
+        "file": "File:Genesis GV80 IAA 2021 1X7A0232.jpg"
+      },
+      {
+        "src": "assets/items/genesis-gv80/4.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GENESIS_GV80_China_(5).jpg",
+        "file": "File:GENESIS GV80 China (5).jpg"
+      },
+      {
+        "src": "assets/items/genesis-gv80/5.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GENESIS_GV80_China_(6).jpg",
+        "file": "File:GENESIS GV80 China (6).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "tx3_VyaeBlQ",
+      "title": "GV80 | 가장 감성적인 하이브리드의 시작 | 제네시스",
+      "seconds": 31,
+      "channel": "Genesis_worldwide"
+    }
+  },
+  "bmw-5-series": {
+    "images": [
+      {
+        "src": "assets/items/bmw-5-series/1.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G60_520i_1X7A2443.jpg",
+        "file": "File:BMW G60 520i 1X7A2443.jpg"
+      },
+      {
+        "src": "assets/items/bmw-5-series/2.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_i5_1X7A1826.jpg",
+        "file": "File:BMW i5 1X7A1826.jpg"
+      },
+      {
+        "src": "assets/items/bmw-5-series/3.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G30_530e_IMG_3862.jpg",
+        "file": "File:BMW G30 530e IMG 3862.jpg"
+      },
+      {
+        "src": "assets/items/bmw-5-series/4.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_5_SERIES_LWB_SEDAN_(BMW_G38)_China_(49).jpg",
+        "file": "File:BMW 5 SERIES LWB SEDAN (BMW G38) China (49).jpg"
+      },
+      {
+        "src": "assets/items/bmw-5-series/5.jpg",
+        "credit": "Manoj Prasad from Kuala Lumpur, Malaysia",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2015_BMW_528i_(5_Series,_F10)_M_Sport_4-door_sedan_(19119409664).jpg",
+        "file": "File:2015 BMW 528i (5 Series, F10) M Sport 4-door sedan (19119409664).jpg"
+      }
+    ],
+    "video": {
+      "youtube": "jQ8bMksKI84",
+      "title": "The all new BMW 5 Series  Official Launchfilm",
+      "seconds": 172,
+      "channel": "BMW Sverige"
+    }
+  },
+  "mercedes-e-class": {
+    "images": [
+      {
+        "src": "assets/items/mercedes-e-class/1.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W214_1X7A1841.jpg",
+        "file": "File:Mercedes-Benz W214 1X7A1841.jpg"
+      },
+      {
+        "src": "assets/items/mercedes-e-class/2.jpg",
+        "credit": "© M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E_200_d_AMG_Line_(W_214)_%E2%80%93_f_05072025.jpg",
+        "file": "File:Mercedes-Benz E 200 d AMG Line (W 214) – f 05072025.jpg"
+      },
+      {
+        "src": "assets/items/mercedes-e-class/3.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_E-CLASS_(W213)_China_(3).jpg",
+        "file": "File:MERCEDES-BENZ E-CLASS (W213) China (3).jpg"
+      },
+      {
+        "src": "assets/items/mercedes-e-class/4.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_E_CLASS_LWB_(V213)_China_(6).jpg",
+        "file": "File:MERCEDES-BENZ E CLASS LWB (V213) China (6).jpg"
+      },
+      {
+        "src": "assets/items/mercedes-e-class/5.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W213_Facelift_IMG_5257.jpg",
+        "file": "File:Mercedes-Benz W213 Facelift IMG 5257.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "TGZzm9SBRQw",
+      "title": "Mercedes-Benz E-Class",
+      "seconds": 49,
+      "channel": "Mercedes-Benz Middle East"
+    }
+  },
+  "toyota-corolla": {
+    "images": [
+      {
+        "src": "assets/items/toyota-corolla/1.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_Hybrid_(E210)_IMG_4338.jpg",
+        "file": "File:Toyota Corolla Hybrid (E210) IMG 4338.jpg"
+      },
+      {
+        "src": "assets/items/toyota-corolla/2.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:1968_Toyota_Corolla_1100_Deluxe.jpg",
+        "file": "File:1968 Toyota Corolla 1100 Deluxe.jpg"
+      },
+      {
+        "src": "assets/items/toyota-corolla/3.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:1971_Toyota_Corolla_1200_Deluxe.jpg",
+        "file": "File:1971 Toyota Corolla 1200 Deluxe.jpg"
+      },
+      {
+        "src": "assets/items/toyota-corolla/4.jpg",
+        "credit": "OSX",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:2007-2010_Toyota_Corolla_(ZRE152R)_Ascent_sedan_(2011-04-02).jpg",
+        "file": "File:2007-2010 Toyota Corolla (ZRE152R) Ascent sedan (2011-04-02).jpg"
+      },
+      {
+        "src": "assets/items/toyota-corolla/5.jpg",
+        "credit": "OSX",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:1996-1999_Toyota_Corolla_(AE101R)_CSi_sedan_(2011-06-15)_01.jpg",
+        "file": "File:1996-1999 Toyota Corolla (AE101R) CSi sedan (2011-06-15) 01.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "sPfZBfpWST4",
+      "title": "2026 Toyota Corolla Touring Sport 60th Anniversary Special Edition - Driving Video",
+      "seconds": 173,
+      "channel": "AutoMotoTV"
+    }
+  },
+  "toyota-rav4": {
+    "images": [
+      {
+        "src": "assets/items/toyota-rav4/1.jpg",
+        "credit": "Mr.choppers",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Toyota_RAV4_Prime_XSE_Premium_in_Silver_Sky_with_Midnight_Black_roof,_front_left.jpg",
+        "file": "File:2024 Toyota RAV4 Prime XSE Premium in Silver Sky with Midnight Black roof, front left.jpg"
+      },
+      {
+        "src": "assets/items/toyota-rav4/2.jpg",
+        "credit": "Elise240SX",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2015_Toyota_Rav4_LE_in_Barcelona_Red_Metallic,_Front_Left,_10-08-2022.jpg",
+        "file": "File:2015 Toyota Rav4 LE in Barcelona Red Metallic, Front Left, 10-08-2022.jpg"
+      },
+      {
+        "src": "assets/items/toyota-rav4/3.jpg",
+        "credit": "OSX",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:2000-2003_Toyota_RAV4_(ACA20R)_Edge_hardtop_(2011-05-25).jpg",
+        "file": "File:2000-2003 Toyota RAV4 (ACA20R) Edge hardtop (2011-05-25).jpg"
+      },
+      {
+        "src": "assets/items/toyota-rav4/4.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1996_Toyota_RAV4_Max_2.0_Rear.jpg",
+        "file": "File:1996 Toyota RAV4 Max 2.0 Rear.jpg"
+      },
+      {
+        "src": "assets/items/toyota-rav4/5.jpg",
+        "credit": "Mytho88",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2003_Toyota_RAV4_01.jpg",
+        "file": "File:2003 Toyota RAV4 01.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "fdAHKcVi0Rs",
+      "title": "toyota rav4 2020 hybrid 2,5 4/4 off road",
+      "seconds": 47,
+      "channel": "SERZILLO"
+    }
+  },
+  "honda-cr-v": {
+    "images": [
+      {
+        "src": "assets/items/honda-cr-v/1.jpg",
+        "credit": "© M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_e-HEV_Elegance_AWD_(VI)_%E2%80%93_f_14072024.jpg",
+        "file": "File:Honda CR-V e-HEV Elegance AWD (VI) – f 14072024.jpg"
+      },
+      {
+        "src": "assets/items/honda-cr-v/2.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_hybrid_DSC_8550.jpg",
+        "file": "File:Honda CR-V (6th generation) hybrid DSC 8550.jpg"
+      },
+      {
+        "src": "assets/items/honda-cr-v/3.jpg",
+        "credit": "Kevauto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Honda_CR-V_EX_(facelift),_front_3.24.23.jpg",
+        "file": "File:2021 Honda CR-V EX (facelift), front 3.24.23.jpg"
+      },
+      {
+        "src": "assets/items/honda-cr-v/4.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+        "file": "File:2019 Honda CR-V EX i-VTEC 1.5.jpg"
+      },
+      {
+        "src": "assets/items/honda-cr-v/5.jpg",
+        "credit": "Guyon from Richmond, VA, United States of America",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1996_Honda_CR-V_(RD1),_front_right.jpg",
+        "file": "File:1996 Honda CR-V (RD1), front right.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "7dTtoXCWNfk",
+      "title": "A Honda First is Revealed: 2026 Honda CR-V TrailSport Hybrid",
+      "seconds": 40,
+      "channel": "Honda"
+    }
+  },
+  "range-rover": {
+    "images": [
+      {
+        "src": "assets/items/range-rover/1.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg",
+        "file": "File:2022 Land Rover Range Rover SE P440e AWD Automatic 3.0 Front.jpg"
+      },
+      {
+        "src": "assets/items/range-rover/2.jpg",
+        "credit": "order_242 from Chile",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_1979_(4911138431)_(cropped).jpg",
+        "file": "File:Land Rover Range Rover 1979 (4911138431) (cropped).jpg"
+      },
+      {
+        "src": "assets/items/range-rover/3.jpg",
+        "credit": "Kārlis Dambrāns from Latvia",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_2013.jpg",
+        "file": "File:Range Rover 2013.jpg"
+      },
+      {
+        "src": "assets/items/range-rover/4.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Rear.jpg",
+        "file": "File:2022 Land Rover Range Rover SE P440e AWD Automatic 3.0 Rear.jpg"
+      },
+      {
+        "src": "assets/items/range-rover/5.jpg",
+        "credit": "Rudolf Stricker",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_front_20080331.jpg",
+        "file": "File:Range Rover front 20080331.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "4yJuOW_D354",
+      "title": "Range Rover | First Look.",
+      "seconds": 97,
+      "channel": "Range Rover"
+    }
+  },
+  "xiaomi-su7": {
+    "images": [
+      {
+        "src": "assets/items/xiaomi-su7/1.jpg",
+        "credit": "S5A-0043",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:(CHN-Shanghai)_Private_Xiaomi_SU7_%E6%B2%AAA7WE106_2024-11-24.jpg",
+        "file": "File:(CHN-Shanghai) Private Xiaomi SU7 沪A7WE106 2024-11-24.jpg"
+      },
+      {
+        "src": "assets/items/xiaomi-su7/2.jpg",
+        "credit": "Poprace",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_MY2026_IMG01.jpg",
+        "file": "File:Xiaomi SU7 MY2026 IMG01.jpg"
+      },
+      {
+        "src": "assets/items/xiaomi-su7/3.jpg",
+        "credit": "Navigator84",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg",
+        "file": "File:Xiaomi SU7 Ultra 0001 China 2025-03-28.jpg"
+      },
+      {
+        "src": "assets/items/xiaomi-su7/4.jpg",
+        "credit": "JustAnotherCarDesigner",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_004.jpg",
+        "file": "File:Xiaomi SU7 004.jpg"
+      },
+      {
+        "src": "assets/items/xiaomi-su7/5.jpg",
+        "credit": "JustAnotherCarDesigner",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Max_002.jpg",
+        "file": "File:Xiaomi SU7 Max 002.jpg"
+      }
+    ],
+    "video": {
+      "youtube": "ueEtzLhdePg",
+      "title": "Meet Xiaomi SU7",
+      "seconds": 89,
+      "channel": "Xiaomi"
+    }
   }
 }
