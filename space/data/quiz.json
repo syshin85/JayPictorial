@@ -1,1024 +1,12 @@
 [
  {
   "id": "q001",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/sun/thumb.jpg",
-  "choices": [
-   {
-    "text": "금성",
-    "image": null
-   },
-   {
-    "text": "태양",
-    "image": null
-   },
-   {
-    "text": "토성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "태양 — 우리에게 빛을 주는 별!",
-  "item": "sun"
- },
- {
-  "id": "q002",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/mercury/thumb.jpg",
-  "choices": [
-   {
-    "text": "금성",
-    "image": null
-   },
-   {
-    "text": "수성",
-    "image": null
-   },
-   {
-    "text": "천왕성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "수성 — 태양에서 가장 가까운 행성!",
-  "item": "mercury"
- },
- {
-  "id": "q003",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/venus/thumb.jpg",
-  "choices": [
-   {
-    "text": "토성",
-    "image": null
-   },
-   {
-    "text": "목성",
-    "image": null
-   },
-   {
-    "text": "금성",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "금성 — 가장 밝고 가장 뜨거운 행성!",
-  "item": "venus"
- },
- {
-  "id": "q004",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/earth/thumb.jpg",
-  "choices": [
-   {
-    "text": "지구",
-    "image": null
-   },
-   {
-    "text": "해왕성",
-    "image": null
-   },
-   {
-    "text": "태양",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "지구 — 우리가 사는 파란 행성!",
-  "item": "earth"
- },
- {
-  "id": "q005",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/mars/thumb.jpg",
-  "choices": [
-   {
-    "text": "해왕성",
-    "image": null
-   },
-   {
-    "text": "수성",
-    "image": null
-   },
-   {
-    "text": "화성",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "화성 — 붉은 모래의 행성!",
-  "item": "mars"
- },
- {
-  "id": "q006",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/jupiter/thumb.jpg",
-  "choices": [
-   {
-    "text": "태양",
-    "image": null
-   },
-   {
-    "text": "목성",
-    "image": null
-   },
-   {
-    "text": "천왕성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "목성 — 태양계에서 가장 큰 행성!",
-  "item": "jupiter"
- },
- {
-  "id": "q007",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/saturn/thumb.jpg",
-  "choices": [
-   {
-    "text": "지구",
-    "image": null
-   },
-   {
-    "text": "토성",
-    "image": null
-   },
-   {
-    "text": "목성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "토성 — 멋진 고리를 가진 행성!",
-  "item": "saturn"
- },
- {
-  "id": "q008",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/uranus/thumb.jpg",
-  "choices": [
-   {
-    "text": "토성",
-    "image": null
-   },
-   {
-    "text": "천왕성",
-    "image": null
-   },
-   {
-    "text": "화성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "천왕성 — 옆으로 누워서 도는 행성!",
-  "item": "uranus"
- },
- {
-  "id": "q009",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/neptune/thumb.jpg",
-  "choices": [
-   {
-    "text": "수성",
-    "image": null
-   },
-   {
-    "text": "해왕성",
-    "image": null
-   },
-   {
-    "text": "태양",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "해왕성 — 태양에서 가장 먼 행성!",
-  "item": "neptune"
- },
- {
-  "id": "q010",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/moon/thumb.jpg",
-  "choices": [
-   {
-    "text": "소행성",
-    "image": null
-   },
-   {
-    "text": "별똥별",
-    "image": null
-   },
-   {
-    "text": "달",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "달 — 지구의 하나뿐인 친구!",
-  "item": "moon"
- },
- {
-  "id": "q011",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/pluto/thumb.jpg",
-  "choices": [
-   {
-    "text": "유로파",
-    "image": null
-   },
-   {
-    "text": "명왕성",
-    "image": null
-   },
-   {
-    "text": "소행성",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "명왕성 — 하트 무늬가 있는 왜소행성!",
-  "item": "pluto"
- },
- {
-  "id": "q012",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/comet/thumb.jpg",
-  "choices": [
-   {
-    "text": "달",
-    "image": null
-   },
-   {
-    "text": "혜성",
-    "image": null
-   },
-   {
-    "text": "유로파",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "혜성 — 긴 꼬리를 가진 얼음 덩어리!",
-  "item": "comet"
- },
- {
-  "id": "q013",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/asteroid/thumb.jpg",
-  "choices": [
-   {
-    "text": "혜성",
-    "image": null
-   },
-   {
-    "text": "소행성",
-    "image": null
-   },
-   {
-    "text": "달",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "소행성 — 우주를 떠도는 바위!",
-  "item": "asteroid"
- },
- {
-  "id": "q014",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/meteor/thumb.jpg",
-  "choices": [
-   {
-    "text": "유로파",
-    "image": null
-   },
-   {
-    "text": "별똥별",
-    "image": null
-   },
-   {
-    "text": "달",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "별똥별 — 하늘을 휙 지나가는 빛!",
-  "item": "meteor"
- },
- {
-  "id": "q015",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/europa/thumb.jpg",
-  "choices": [
-   {
-    "text": "유로파",
-    "image": null
-   },
-   {
-    "text": "별똥별",
-    "image": null
-   },
-   {
-    "text": "소행성",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "유로파 — 얼음 아래 바다가 있는 목성의 달!",
-  "item": "europa"
- },
- {
-  "id": "q016",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/titan/thumb.jpg",
-  "choices": [
-   {
-    "text": "타이탄",
-    "image": null
-   },
-   {
-    "text": "별똥별",
-    "image": null
-   },
-   {
-    "text": "소행성",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "타이탄 — 구름이 덮인 토성의 달!",
-  "item": "titan"
- },
- {
-  "id": "q017",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/milky-way/thumb.jpg",
-  "choices": [
-   {
-    "text": "시리우스",
-    "image": null
-   },
-   {
-    "text": "블랙홀",
-    "image": null
-   },
-   {
-    "text": "우리은하",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "우리은하 — 우리 태양계가 사는 은하!",
-  "item": "milky-way"
- },
- {
-  "id": "q018",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/andromeda/thumb.jpg",
-  "choices": [
-   {
-    "text": "안드로메다 은하",
-    "image": null
-   },
-   {
-    "text": "시리우스",
-    "image": null
-   },
-   {
-    "text": "블랙홀",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "안드로메다 은하 — 우리은하의 가장 큰 이웃!",
-  "item": "andromeda"
- },
- {
-  "id": "q019",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/black-hole/thumb.jpg",
-  "choices": [
-   {
-    "text": "시리우스",
-    "image": null
-   },
-   {
-    "text": "블랙홀",
-    "image": null
-   },
-   {
-    "text": "오리온 성운",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "블랙홀 — 빛도 빠져나올 수 없는 곳!",
-  "item": "black-hole"
- },
- {
-  "id": "q020",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/orion-nebula/thumb.jpg",
-  "choices": [
-   {
-    "text": "시리우스",
-    "image": null
-   },
-   {
-    "text": "우리은하",
-    "image": null
-   },
-   {
-    "text": "오리온 성운",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "오리온 성운 — 아기 별이 태어나는 곳!",
-  "item": "orion-nebula"
- },
- {
-  "id": "q021",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/pleiades/thumb.jpg",
-  "choices": [
-   {
-    "text": "오리온 성운",
-    "image": null
-   },
-   {
-    "text": "플레이아데스 성단",
-    "image": null
-   },
-   {
-    "text": "안드로메다 은하",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "플레이아데스 성단 — 옹기종기 모인 별 가족!",
-  "item": "pleiades"
- },
- {
-  "id": "q022",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/saturn-v/thumb.jpg",
-  "choices": [
-   {
-    "text": "새턴 V",
-    "image": null
-   },
-   {
-    "text": "일렉트론",
-    "image": null
-   },
-   {
-    "text": "스타십",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "새턴 V — 사람을 달에 보낸 로켓!",
-  "item": "saturn-v"
- },
- {
-  "id": "q023",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/falcon-9/thumb.jpg",
-  "choices": [
-   {
-    "text": "팰컨 9",
-    "image": null
-   },
-   {
-    "text": "나로호",
-    "image": null
-   },
-   {
-    "text": "일렉트론",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "팰컨 9 — 다시 돌아와 착륙하는 로켓!",
-  "item": "falcon-9"
- },
- {
-  "id": "q024",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/starship/thumb.jpg",
-  "choices": [
-   {
-    "text": "뉴 글렌",
-    "image": null
-   },
-   {
-    "text": "창정 5호",
-    "image": null
-   },
-   {
-    "text": "스타십",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "스타십 — 세상에서 가장 큰 로켓!",
-  "item": "starship"
- },
- {
-  "id": "q025",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/nuri/thumb.jpg",
-  "choices": [
-   {
-    "text": "아리안 5",
-    "image": null
-   },
-   {
-    "text": "누리호",
-    "image": null
-   },
-   {
-    "text": "창정 5호",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "누리호 — 우리나라가 만든 로켓!",
-  "item": "nuri"
- },
- {
-  "id": "q026",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/sls/thumb.jpg",
-  "choices": [
-   {
-    "text": "SLS",
-    "image": null
-   },
-   {
-    "text": "새턴 V",
-    "image": null
-   },
-   {
-    "text": "아리안 5",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "SLS — 아르테미스 달 탐사 로켓!",
-  "item": "sls"
- },
- {
-  "id": "q027",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/soyuz-rocket/thumb.jpg",
-  "choices": [
-   {
-    "text": "소유즈 로켓",
-    "image": null
-   },
-   {
-    "text": "SLS",
-    "image": null
-   },
-   {
-    "text": "나로호",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "소유즈 로켓 — 가장 많이 날아간 로켓!",
-  "item": "soyuz-rocket"
- },
- {
-  "id": "q028",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/apollo-11/thumb.jpg",
-  "choices": [
-   {
-    "text": "선저우",
-    "image": null
-   },
-   {
-    "text": "아폴로 11호",
-    "image": null
-   },
-   {
-    "text": "보스토크 1호",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "아폴로 11호 — 처음으로 달에 내린 우주선!",
-  "item": "apollo-11"
- },
- {
-  "id": "q029",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/space-shuttle/thumb.jpg",
-  "choices": [
-   {
-    "text": "아폴로 11호",
-    "image": null
-   },
-   {
-    "text": "선저우",
-    "image": null
-   },
-   {
-    "text": "우주왕복선",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "우주왕복선 — 비행기처럼 착륙하는 우주선!",
-  "item": "space-shuttle"
- },
- {
-  "id": "q030",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/iss/thumb.jpg",
-  "choices": [
-   {
-    "text": "오리온",
-    "image": null
-   },
-   {
-    "text": "국제우주정거장",
-    "image": null
-   },
-   {
-    "text": "우주왕복선",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "국제우주정거장 — 우주인들이 사는 우주의 집!",
-  "item": "iss"
- },
- {
-  "id": "q031",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/crew-dragon/thumb.jpg",
-  "choices": [
-   {
-    "text": "부란",
-    "image": null
-   },
-   {
-    "text": "크루 드래건",
-    "image": null
-   },
-   {
-    "text": "선저우",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "크루 드래건 — 터치스크린으로 조종하는 우주선!",
-  "item": "crew-dragon"
- },
- {
-  "id": "q032",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/soyuz-spacecraft/thumb.jpg",
-  "choices": [
-   {
-    "text": "소유즈 우주선",
-    "image": null
-   },
-   {
-    "text": "선저우",
-    "image": null
-   },
-   {
-    "text": "우주왕복선",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "소유즈 우주선 — 50년 넘게 우주인을 태운 우주선!",
-  "item": "soyuz-spacecraft"
- },
- {
-  "id": "q033",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/tiangong/thumb.jpg",
-  "choices": [
-   {
-    "text": "톈궁",
-    "image": null
-   },
-   {
-    "text": "우주왕복선",
-    "image": null
-   },
-   {
-    "text": "머큐리",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "톈궁 — 중국의 우주정거장!",
-  "item": "tiangong"
- },
- {
-  "id": "q034",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/lrv/thumb.jpg",
-  "choices": [
-   {
-    "text": "월면차",
-    "image": null
-   },
-   {
-    "text": "카시니",
-    "image": null
-   },
-   {
-    "text": "하야부사2",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "월면차 — 우주인이 운전한 달 자동차!",
-  "item": "lrv"
- },
- {
-  "id": "q035",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/sputnik-1/thumb.jpg",
-  "choices": [
-   {
-    "text": "다누리",
-    "image": null
-   },
-   {
-    "text": "GPS 위성",
-    "image": null
-   },
-   {
-    "text": "스푸트니크 1호",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "스푸트니크 1호 — 세계 최초의 인공위성!",
-  "item": "sputnik-1"
- },
- {
-  "id": "q036",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/hubble/thumb.jpg",
-  "choices": [
-   {
-    "text": "GPS 위성",
-    "image": null
-   },
-   {
-    "text": "허블 우주망원경",
-    "image": null
-   },
-   {
-    "text": "다누리",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "허블 우주망원경 — 우주에 떠 있는 커다란 눈!",
-  "item": "hubble"
- },
- {
-  "id": "q037",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/jwst/thumb.jpg",
-  "choices": [
-   {
-    "text": "스푸트니크 1호",
-    "image": null
-   },
-   {
-    "text": "제임스 웹 우주망원경",
-    "image": null
-   },
-   {
-    "text": "찬드라 X선 망원경",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "제임스 웹 우주망원경 — 금빛 거울을 가진 우주망원경!",
-  "item": "jwst"
- },
- {
-  "id": "q038",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/starlink/thumb.jpg",
-  "choices": [
-   {
-    "text": "다누리",
-    "image": null
-   },
-   {
-    "text": "케플러 우주망원경",
-    "image": null
-   },
-   {
-    "text": "스타링크",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "스타링크 — 줄지어 나는 인터넷 위성!",
-  "item": "starlink"
- },
- {
-  "id": "q039",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/curiosity/thumb.jpg",
-  "choices": [
-   {
-    "text": "큐리오시티",
-    "image": null
-   },
-   {
-    "text": "위투 2호",
-    "image": null
-   },
-   {
-    "text": "월면차",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "큐리오시티 — 자동차만 한 화성 탐사 로봇!",
-  "item": "curiosity"
- },
- {
-  "id": "q040",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/ingenuity/thumb.jpg",
-  "choices": [
-   {
-    "text": "퍼서비어런스",
-    "image": null
-   },
-   {
-    "text": "인저뉴어티",
-    "image": null
-   },
-   {
-    "text": "하야부사2",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "인저뉴어티 — 화성 하늘을 난 헬리콥터!",
-  "item": "ingenuity"
- },
- {
-  "id": "q041",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/voyager-1/thumb.jpg",
-  "choices": [
-   {
-    "text": "보이저 1호",
-    "image": null
-   },
-   {
-    "text": "월면차",
-    "image": null
-   },
-   {
-    "text": "로제타와 필레",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "보이저 1호 — 가장 멀리 날아간 탐사선!",
-  "item": "voyager-1"
- },
- {
-  "id": "q042",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/lunokhod-1/thumb.jpg",
-  "choices": [
-   {
-    "text": "찬드라얀 3호",
-    "image": null
-   },
-   {
-    "text": "루노호트 1호",
-    "image": null
-   },
-   {
-    "text": "카시니",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "루노호트 1호 — 달을 달린 첫 로봇 자동차!",
-  "item": "lunokhod-1"
- },
- {
-  "id": "q043",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/juno/thumb.jpg",
-  "choices": [
-   {
-    "text": "위투 2호",
-    "image": null
-   },
-   {
-    "text": "주노",
-    "image": null
-   },
-   {
-    "text": "루노호트 1호",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "주노 — 목성을 도는 탐사선!",
-  "item": "juno"
- },
- {
-  "id": "q044",
-  "kind": "name",
-  "question": "이것의 이름은 무엇일까요?",
-  "image": "assets/items/cassini/thumb.jpg",
-  "choices": [
-   {
-    "text": "큐리오시티",
-    "image": null
-   },
-   {
-    "text": "인저뉴어티",
-    "image": null
-   },
-   {
-    "text": "카시니",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "카시니 — 토성을 13년 동안 돈 탐사선!",
-  "item": "cassini"
- },
- {
-  "id": "q045",
   "kind": "country",
   "question": "누리호는 어느 나라 로켓일까요?",
   "image": "assets/items/nuri/thumb.jpg",
   "choices": [
    {
-    "text": "🇺🇸 미국",
+    "text": "🇨🇳 중국",
     "image": null
    },
    {
@@ -1026,7 +14,7 @@
     "image": null
    },
    {
-    "text": "🇨🇳 중국",
+    "text": "🇯🇵 일본",
     "image": null
    }
   ],
@@ -1035,13 +23,13 @@
   "item": "nuri"
  },
  {
-  "id": "q046",
+  "id": "q002",
   "kind": "country",
   "question": "나로호는 어느 나라 로켓일까요?",
   "image": "assets/items/naro/thumb.jpg",
   "choices": [
    {
-    "text": "🇺🇸 미국",
+    "text": "🇪🇺 유럽",
     "image": null
    },
    {
@@ -1049,7 +37,7 @@
     "image": null
    },
    {
-    "text": "🇪🇺 유럽",
+    "text": "🇺🇸 미국",
     "image": null
    }
   ],
@@ -1058,36 +46,82 @@
   "item": "naro"
  },
  {
-  "id": "q047",
+  "id": "q003",
   "kind": "country",
   "question": "우리별 1호는 어느 나라 위성일까요?",
   "image": "assets/items/kitsat-1/thumb.jpg",
   "choices": [
    {
-    "text": "🇺🇸 미국",
+    "text": "🇪🇺 유럽",
+    "image": null
+   },
+   {
+    "text": "🇨🇳 중국",
     "image": null
    },
    {
     "text": "🇰🇷 한국",
     "image": null
-   },
-   {
-    "text": "🇪🇺 유럽",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "우리별 1호는 한국에서 만들었어요. 🇰🇷",
   "item": "kitsat-1"
  },
  {
-  "id": "q048",
+  "id": "q004",
   "kind": "country",
   "question": "다누리는 어느 나라 탐사선일까요?",
   "image": "assets/items/danuri/thumb.jpg",
   "choices": [
    {
+    "text": "🇷🇺 러시아",
+    "image": null
+   },
+   {
+    "text": "🇪🇺 유럽",
+    "image": null
+   },
+   {
     "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "다누리는 한국에서 만들었어요. 🇰🇷",
+  "item": "danuri"
+ },
+ {
+  "id": "q005",
+  "kind": "country",
+  "question": "천리안 2A호는 어느 나라 위성일까요?",
+  "image": "assets/items/chollian-2a/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "천리안 2A호는 한국에서 만들었어요. 🇰🇷",
+  "item": "chollian-2a"
+ },
+ {
+  "id": "q006",
+  "kind": "country",
+  "question": "창정 5호는 어느 나라 로켓일까요?",
+  "image": "assets/items/long-march-5/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇨🇳 중국",
     "image": null
    },
    {
@@ -1095,49 +129,26 @@
     "image": null
    },
    {
-    "text": "🇨🇳 중국",
+    "text": "🇰🇷 한국",
     "image": null
    }
   ],
   "answer": 0,
-  "explain": "다누리는 한국에서 만들었어요. 🇰🇷",
-  "item": "danuri"
+  "explain": "창정 5호는 중국에서 만들었어요. 🇨🇳",
+  "item": "long-march-5"
  },
  {
-  "id": "q049",
+  "id": "q007",
   "kind": "country",
-  "question": "천리안 2A호는 어느 나라 위성일까요?",
-  "image": "assets/items/chollian-2a/thumb.jpg",
+  "question": "선저우는 어느 나라 우주선일까요?",
+  "image": "assets/items/shenzhou/thumb.jpg",
   "choices": [
    {
     "text": "🇰🇷 한국",
     "image": null
    },
    {
-    "text": "🇯🇵 일본",
-    "image": null
-   },
-   {
-    "text": "🇨🇳 중국",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "천리안 2A호는 한국에서 만들었어요. 🇰🇷",
-  "item": "chollian-2a"
- },
- {
-  "id": "q050",
-  "kind": "country",
-  "question": "창정 5호는 어느 나라 로켓일까요?",
-  "image": "assets/items/long-march-5/thumb.jpg",
-  "choices": [
-   {
-    "text": "🇰🇷 한국",
-    "image": null
-   },
-   {
-    "text": "🇷🇺 러시아",
+    "text": "🇺🇸 미국",
     "image": null
    },
    {
@@ -1146,44 +157,21 @@
    }
   ],
   "answer": 2,
-  "explain": "창정 5호는 중국에서 만들었어요. 🇨🇳",
-  "item": "long-march-5"
- },
- {
-  "id": "q051",
-  "kind": "country",
-  "question": "선저우는 어느 나라 우주선일까요?",
-  "image": "assets/items/shenzhou/thumb.jpg",
-  "choices": [
-   {
-    "text": "🇨🇳 중국",
-    "image": null
-   },
-   {
-    "text": "🇪🇺 유럽",
-    "image": null
-   },
-   {
-    "text": "🇷🇺 러시아",
-    "image": null
-   }
-  ],
-  "answer": 0,
   "explain": "선저우는 중국에서 만들었어요. 🇨🇳",
   "item": "shenzhou"
  },
  {
-  "id": "q052",
+  "id": "q008",
   "kind": "country",
   "question": "위투 2호는 어느 나라 로봇일까요?",
   "image": "assets/items/yutu-2/thumb.jpg",
   "choices": [
    {
-    "text": "🇺🇸 미국",
+    "text": "🇯🇵 일본",
     "image": null
    },
    {
-    "text": "🇰🇷 한국",
+    "text": "🇷🇺 러시아",
     "image": null
    },
    {
@@ -1196,13 +184,13 @@
   "item": "yutu-2"
  },
  {
-  "id": "q053",
+  "id": "q009",
   "kind": "country",
   "question": "H-IIA는 어느 나라 로켓일까요?",
   "image": "assets/items/h-2a/thumb.jpg",
   "choices": [
    {
-    "text": "🇨🇳 중국",
+    "text": "🇪🇺 유럽",
     "image": null
    },
    {
@@ -1210,7 +198,7 @@
     "image": null
    },
    {
-    "text": "🇷🇺 러시아",
+    "text": "🇨🇳 중국",
     "image": null
    }
   ],
@@ -1219,40 +207,40 @@
   "item": "h-2a"
  },
  {
-  "id": "q054",
+  "id": "q010",
   "kind": "country",
   "question": "하야부사2는 어느 나라 탐사선일까요?",
   "image": "assets/items/hayabusa2/thumb.jpg",
   "choices": [
    {
-    "text": "🇰🇷 한국",
-    "image": null
-   },
-   {
-    "text": "🇪🇺 유럽",
+    "text": "🇺🇸 미국",
     "image": null
    },
    {
     "text": "🇯🇵 일본",
     "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "하야부사2는 일본에서 만들었어요. 🇯🇵",
   "item": "hayabusa2"
  },
  {
-  "id": "q055",
+  "id": "q011",
   "kind": "country",
   "question": "아리안 5는 어느 나라 로켓일까요?",
   "image": "assets/items/ariane-5/thumb.jpg",
   "choices": [
    {
-    "text": "🇪🇺 유럽",
+    "text": "🇷🇺 러시아",
     "image": null
    },
    {
-    "text": "🇺🇸 미국",
+    "text": "🇪🇺 유럽",
     "image": null
    },
    {
@@ -1260,12 +248,12 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "아리안 5는 유럽에서 만들었어요. 🇪🇺",
   "item": "ariane-5"
  },
  {
-  "id": "q056",
+  "id": "q012",
   "kind": "country",
   "question": "로제타와 필레는 어느 나라 탐사선일까요?",
   "image": "assets/items/rosetta/thumb.jpg",
@@ -1275,11 +263,11 @@
     "image": null
    },
    {
-    "text": "🇰🇷 한국",
+    "text": "🇺🇸 미국",
     "image": null
    },
    {
-    "text": "🇨🇳 중국",
+    "text": "🇷🇺 러시아",
     "image": null
    }
   ],
@@ -1288,34 +276,38 @@
   "item": "rosetta"
  },
  {
-  "id": "q057",
+  "id": "q013",
   "kind": "country",
   "question": "찬드라얀 3호는 어느 나라 탐사선일까요?",
   "image": "assets/items/chandrayaan-3/thumb.jpg",
   "choices": [
    {
+    "text": "🇮🇳 인도",
+    "image": null
+   },
+   {
     "text": "🇨🇳 중국",
     "image": null
    },
    {
-    "text": "🇺🇸 미국",
-    "image": null
-   },
-   {
-    "text": "🇮🇳 인도",
+    "text": "🇯🇵 일본",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "찬드라얀 3호는 인도에서 만들었어요. 🇮🇳",
   "item": "chandrayaan-3"
  },
  {
-  "id": "q058",
+  "id": "q014",
   "kind": "country",
   "question": "일렉트론은 어느 나라 로켓일까요?",
   "image": "assets/items/electron/thumb.jpg",
   "choices": [
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
    {
     "text": "🇪🇺 유럽",
     "image": null
@@ -1323,74 +315,24 @@
    {
     "text": "🇳🇿 뉴질랜드",
     "image": null
-   },
-   {
-    "text": "🇺🇸 미국",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "일렉트론은 뉴질랜드에서 만들었어요. 🇳🇿",
   "item": "electron"
  },
  {
-  "id": "q059",
+  "id": "q015",
   "kind": "country",
   "question": "소유즈 로켓은 어느 나라 로켓일까요?",
   "image": "assets/items/soyuz-rocket/thumb.jpg",
   "choices": [
    {
-    "text": "🇺🇸 미국",
-    "image": null
-   },
-   {
-    "text": "🇷🇺 러시아",
-    "image": null
-   },
-   {
-    "text": "🇯🇵 일본",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "소유즈 로켓은 러시아에서 만들었어요. 🇷🇺",
-  "item": "soyuz-rocket"
- },
- {
-  "id": "q060",
-  "kind": "country",
-  "question": "새턴 V는 어느 나라 로켓일까요?",
-  "image": "assets/items/saturn-v/thumb.jpg",
-  "choices": [
-   {
     "text": "🇷🇺 러시아",
     "image": null
    },
    {
     "text": "🇺🇸 미국",
-    "image": null
-   },
-   {
-    "text": "🇨🇳 중국",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "새턴 V는 미국에서 만들었어요. 🇺🇸",
-  "item": "saturn-v"
- },
- {
-  "id": "q061",
-  "kind": "country",
-  "question": "아폴로 11호는 어느 나라 우주선일까요?",
-  "image": "assets/items/apollo-11/thumb.jpg",
-  "choices": [
-   {
-    "text": "🇺🇸 미국",
-    "image": null
-   },
-   {
-    "text": "🇯🇵 일본",
     "image": null
    },
    {
@@ -1399,17 +341,40 @@
    }
   ],
   "answer": 0,
-  "explain": "아폴로 11호는 미국에서 만들었어요. 🇺🇸",
-  "item": "apollo-11"
+  "explain": "소유즈 로켓은 러시아에서 만들었어요. 🇷🇺",
+  "item": "soyuz-rocket"
  },
  {
-  "id": "q062",
+  "id": "q016",
   "kind": "country",
-  "question": "큐리오시티는 어느 나라 로봇일까요?",
-  "image": "assets/items/curiosity/thumb.jpg",
+  "question": "새턴 V는 어느 나라 로켓일까요?",
+  "image": "assets/items/saturn-v/thumb.jpg",
   "choices": [
    {
     "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇷🇺 러시아",
+    "image": null
+   },
+   {
+    "text": "🇪🇺 유럽",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "새턴 V는 미국에서 만들었어요. 🇺🇸",
+  "item": "saturn-v"
+ },
+ {
+  "id": "q017",
+  "kind": "country",
+  "question": "아폴로 11호는 어느 나라 우주선일까요?",
+  "image": "assets/items/apollo-11/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇰🇷 한국",
     "image": null
    },
    {
@@ -1417,27 +382,50 @@
     "image": null
    },
    {
-    "text": "🇨🇳 중국",
+    "text": "🇺🇸 미국",
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
+  "explain": "아폴로 11호는 미국에서 만들었어요. 🇺🇸",
+  "item": "apollo-11"
+ },
+ {
+  "id": "q018",
+  "kind": "country",
+  "question": "큐리오시티는 어느 나라 로봇일까요?",
+  "image": "assets/items/curiosity/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 2,
   "explain": "큐리오시티는 미국에서 만들었어요. 🇺🇸",
   "item": "curiosity"
  },
  {
-  "id": "q063",
+  "id": "q019",
   "kind": "compare",
   "question": "이 중에서 누가 가장 클까요?",
   "image": null,
   "choices": [
    {
-    "text": "화성",
-    "image": "assets/items/mars/thumb.jpg"
-   },
-   {
     "text": "천왕성",
     "image": "assets/items/uranus/thumb.jpg"
+   },
+   {
+    "text": "수성",
+    "image": "assets/items/mercury/thumb.jpg"
    },
    {
     "text": "목성",
@@ -1449,7 +437,7 @@
   "item": "jupiter"
  },
  {
-  "id": "q064",
+  "id": "q020",
   "kind": "compare",
   "question": "이 중에서 누가 가장 클까요?",
   "image": null,
@@ -1472,14 +460,14 @@
   "item": "jupiter"
  },
  {
-  "id": "q065",
+  "id": "q021",
   "kind": "compare",
   "question": "이 중에서 누가 가장 클까요?",
   "image": null,
   "choices": [
    {
-    "text": "토성",
-    "image": "assets/items/saturn/thumb.jpg"
+    "text": "목성",
+    "image": "assets/items/jupiter/thumb.jpg"
    },
    {
     "text": "천왕성",
@@ -1491,15 +479,19 @@
    }
   ],
   "answer": 0,
-  "explain": "토성은 지구보다 9배 커요. 셋 중에 가장 커요! 🌟",
-  "item": "saturn"
+  "explain": "목성은 지구보다 11배 커요. 셋 중에 가장 커요! 🌟",
+  "item": "jupiter"
  },
  {
-  "id": "q066",
+  "id": "q022",
   "kind": "compare",
   "question": "이 중에서 누가 가장 클까요?",
   "image": null,
   "choices": [
+   {
+    "text": "지구",
+    "image": "assets/items/earth/thumb.jpg"
+   },
    {
     "text": "토성",
     "image": "assets/items/saturn/thumb.jpg"
@@ -1507,29 +499,25 @@
    {
     "text": "천왕성",
     "image": "assets/items/uranus/thumb.jpg"
-   },
-   {
-    "text": "지구",
-    "image": "assets/items/earth/thumb.jpg"
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "토성은 지구보다 9배 커요. 셋 중에 가장 커요! 🌟",
   "item": "saturn"
  },
  {
-  "id": "q067",
+  "id": "q023",
   "kind": "compare",
   "question": "이 중에서 누가 가장 클까요?",
   "image": null,
   "choices": [
    {
-    "text": "수성",
-    "image": "assets/items/mercury/thumb.jpg"
-   },
-   {
     "text": "천왕성",
     "image": "assets/items/uranus/thumb.jpg"
+   },
+   {
+    "text": "화성",
+    "image": "assets/items/mars/thumb.jpg"
    },
    {
     "text": "토성",
@@ -1541,83 +529,60 @@
   "item": "saturn"
  },
  {
-  "id": "q068",
+  "id": "q024",
   "kind": "compare",
   "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
   "image": null,
   "choices": [
-   {
-    "text": "목성",
-    "image": "assets/items/jupiter/thumb.jpg"
-   },
    {
     "text": "수성",
     "image": "assets/items/mercury/thumb.jpg"
-   },
-   {
-    "text": "천왕성",
-    "image": "assets/items/uranus/thumb.jpg"
-   }
-  ],
-  "answer": 1,
-  "explain": "수성은 태양에서 1번째 행성이에요. ☀️",
-  "item": "mercury"
- },
- {
-  "id": "q069",
-  "kind": "compare",
-  "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
-  "image": null,
-  "choices": [
-   {
-    "text": "지구",
-    "image": "assets/items/earth/thumb.jpg"
-   },
-   {
-    "text": "해왕성",
-    "image": "assets/items/neptune/thumb.jpg"
-   },
-   {
-    "text": "목성",
-    "image": "assets/items/jupiter/thumb.jpg"
-   }
-  ],
-  "answer": 0,
-  "explain": "지구는 태양에서 3번째 행성이에요. ☀️",
-  "item": "earth"
- },
- {
-  "id": "q070",
-  "kind": "compare",
-  "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
-  "image": null,
-  "choices": [
-   {
-    "text": "해왕성",
-    "image": "assets/items/neptune/thumb.jpg"
-   },
-   {
-    "text": "목성",
-    "image": "assets/items/jupiter/thumb.jpg"
    },
    {
     "text": "금성",
     "image": "assets/items/venus/thumb.jpg"
+   },
+   {
+    "text": "화성",
+    "image": "assets/items/mars/thumb.jpg"
    }
   ],
-  "answer": 2,
-  "explain": "금성은 태양에서 2번째 행성이에요. ☀️",
-  "item": "venus"
+  "answer": 0,
+  "explain": "수성은 태양에서 1번째 행성이에요. ☀️",
+  "item": "mercury"
  },
  {
-  "id": "q071",
+  "id": "q025",
   "kind": "compare",
   "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "지구",
-    "image": "assets/items/earth/thumb.jpg"
+    "text": "금성",
+    "image": "assets/items/venus/thumb.jpg"
+   },
+   {
+    "text": "토성",
+    "image": "assets/items/saturn/thumb.jpg"
+   },
+   {
+    "text": "해왕성",
+    "image": "assets/items/neptune/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "금성은 태양에서 2번째 행성이에요. ☀️",
+  "item": "venus"
+ },
+ {
+  "id": "q026",
+  "kind": "compare",
+  "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "천왕성",
+    "image": "assets/items/uranus/thumb.jpg"
    },
    {
     "text": "수성",
@@ -1633,53 +598,30 @@
   "item": "mercury"
  },
  {
-  "id": "q072",
+  "id": "q027",
   "kind": "compare",
-  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
+  "question": "이 중에서 태양에 가장 가까운 행성은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "SLS",
-    "image": "assets/items/sls/thumb.jpg"
+    "text": "금성",
+    "image": "assets/items/venus/thumb.jpg"
    },
    {
-    "text": "팰컨 9",
-    "image": "assets/items/falcon-9/thumb.jpg"
+    "text": "해왕성",
+    "image": "assets/items/neptune/thumb.jpg"
    },
    {
-    "text": "일렉트론",
-    "image": "assets/items/electron/thumb.jpg"
+    "text": "화성",
+    "image": "assets/items/mars/thumb.jpg"
    }
   ],
   "answer": 0,
-  "explain": "SLS의 높이는 약 98m예요. 셋 중에 가장 커요! 🚀",
-  "item": "sls"
+  "explain": "금성은 태양에서 2번째 행성이에요. ☀️",
+  "item": "venus"
  },
  {
-  "id": "q073",
-  "kind": "compare",
-  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
-  "image": null,
-  "choices": [
-   {
-    "text": "일렉트론",
-    "image": "assets/items/electron/thumb.jpg"
-   },
-   {
-    "text": "새턴 V",
-    "image": "assets/items/saturn-v/thumb.jpg"
-   },
-   {
-    "text": "아리안 5",
-    "image": "assets/items/ariane-5/thumb.jpg"
-   }
-  ],
-  "answer": 1,
-  "explain": "새턴 V의 높이는 약 111m예요. 셋 중에 가장 커요! 🚀",
-  "item": "saturn-v"
- },
- {
-  "id": "q074",
+  "id": "q028",
   "kind": "compare",
   "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
   "image": null,
@@ -1702,53 +644,53 @@
   "item": "soyuz-rocket"
  },
  {
-  "id": "q075",
+  "id": "q029",
   "kind": "compare",
   "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
   "image": null,
   "choices": [
    {
+    "text": "나로호",
+    "image": "assets/items/naro/thumb.jpg"
+   },
+   {
+    "text": "아리안 5",
+    "image": "assets/items/ariane-5/thumb.jpg"
+   },
+   {
     "text": "팰컨 9",
     "image": "assets/items/falcon-9/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "팰컨 9의 높이는 약 70m예요. 셋 중에 가장 커요! 🚀",
+  "item": "falcon-9"
+ },
+ {
+  "id": "q030",
+  "kind": "compare",
+  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "일렉트론",
+    "image": "assets/items/electron/thumb.jpg"
    },
    {
     "text": "나로호",
     "image": "assets/items/naro/thumb.jpg"
    },
    {
-    "text": "새턴 V",
-    "image": "assets/items/saturn-v/thumb.jpg"
+    "text": "아리안 5",
+    "image": "assets/items/ariane-5/thumb.jpg"
    }
   ],
   "answer": 2,
-  "explain": "새턴 V의 높이는 약 111m예요. 셋 중에 가장 커요! 🚀",
-  "item": "saturn-v"
+  "explain": "아리안 5의 높이는 약 52m예요. 셋 중에 가장 커요! 🚀",
+  "item": "ariane-5"
  },
  {
-  "id": "q076",
-  "kind": "compare",
-  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
-  "image": null,
-  "choices": [
-   {
-    "text": "창정 5호",
-    "image": "assets/items/long-march-5/thumb.jpg"
-   },
-   {
-    "text": "새턴 V",
-    "image": "assets/items/saturn-v/thumb.jpg"
-   },
-   {
-    "text": "일렉트론",
-    "image": "assets/items/electron/thumb.jpg"
-   }
-  ],
-  "answer": 1,
-  "explain": "새턴 V의 높이는 약 111m예요. 셋 중에 가장 커요! 🚀",
-  "item": "saturn-v"
- },
- {
-  "id": "q077",
+  "id": "q031",
   "kind": "compare",
   "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
   "image": null,
@@ -1758,12 +700,12 @@
     "image": "assets/items/starship/thumb.jpg"
    },
    {
-    "text": "나로호",
-    "image": "assets/items/naro/thumb.jpg"
+    "text": "창정 5호",
+    "image": "assets/items/long-march-5/thumb.jpg"
    },
    {
-    "text": "팰컨 9",
-    "image": "assets/items/falcon-9/thumb.jpg"
+    "text": "일렉트론",
+    "image": "assets/items/electron/thumb.jpg"
    }
   ],
   "answer": 0,
@@ -1771,7 +713,53 @@
   "item": "starship"
  },
  {
-  "id": "q078",
+  "id": "q032",
+  "kind": "compare",
+  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "일렉트론",
+    "image": "assets/items/electron/thumb.jpg"
+   },
+   {
+    "text": "새턴 V",
+    "image": "assets/items/saturn-v/thumb.jpg"
+   },
+   {
+    "text": "아리안 5",
+    "image": "assets/items/ariane-5/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "새턴 V의 높이는 약 111m예요. 셋 중에 가장 커요! 🚀",
+  "item": "saturn-v"
+ },
+ {
+  "id": "q033",
+  "kind": "compare",
+  "question": "이 중에서 가장 키가 큰 로켓은 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "일렉트론",
+    "image": "assets/items/electron/thumb.jpg"
+   },
+   {
+    "text": "팰컨 9",
+    "image": "assets/items/falcon-9/thumb.jpg"
+   },
+   {
+    "text": "소유즈 로켓",
+    "image": "assets/items/soyuz-rocket/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "팰컨 9의 높이는 약 70m예요. 셋 중에 가장 커요! 🚀",
+  "item": "falcon-9"
+ },
+ {
+  "id": "q034",
   "kind": "fact",
   "question": "태양은 무엇일까요?",
   "image": "assets/items/sun/thumb.jpg",
@@ -1781,24 +769,28 @@
     "image": null
    },
    {
-    "text": "행성",
+    "text": "스스로 빛을 내는 별",
     "image": null
    },
    {
-    "text": "스스로 빛을 내는 별",
+    "text": "행성",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "태양은 스스로 빛을 내는 별이에요. ☀️",
   "item": "sun"
  },
  {
-  "id": "q079",
+  "id": "q035",
   "kind": "fact",
   "question": "태양에서 가장 가까운 행성은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "수성",
+    "image": null
+   },
    {
     "text": "토성",
     "image": null
@@ -1806,28 +798,24 @@
    {
     "text": "화성",
     "image": null
-   },
-   {
-    "text": "수성",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "수성은 태양에서 1번째 행성이에요.",
   "item": "mercury"
  },
  {
-  "id": "q080",
+  "id": "q036",
   "kind": "fact",
   "question": "'샛별'이라고도 부르는 아주 밝은 행성은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "금성",
+    "text": "목성",
     "image": null
    },
    {
-    "text": "목성",
+    "text": "금성",
     "image": null
    },
    {
@@ -1835,22 +823,22 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "금성은 새벽과 저녁 하늘에서 아주 밝게 빛나요. ✨",
   "item": "venus"
  },
  {
-  "id": "q081",
+  "id": "q037",
   "kind": "fact",
   "question": "지구가 우주에서 파랗게 보이는 까닭은 무엇일까요?",
   "image": "assets/items/earth/thumb.jpg",
   "choices": [
    {
-    "text": "바다가 많아서",
+    "text": "파란 페인트를 칠해서",
     "image": null
    },
    {
-    "text": "파란 페인트를 칠해서",
+    "text": "바다가 많아서",
     "image": null
    },
    {
@@ -1858,16 +846,20 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "지구 표면의 약 70%가 바다예요. 🌊",
   "item": "earth"
  },
  {
-  "id": "q082",
+  "id": "q038",
   "kind": "fact",
   "question": "'붉은 행성'이라고 부르는 행성은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "천왕성",
+    "image": null
+   },
    {
     "text": "화성",
     "image": null
@@ -1875,24 +867,20 @@
    {
     "text": "금성",
     "image": null
-   },
-   {
-    "text": "천왕성",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "화성의 땅은 녹슨 쇠처럼 붉어요.",
   "item": "mars"
  },
  {
-  "id": "q083",
+  "id": "q039",
   "kind": "fact",
   "question": "목성의 빨간 점 '대적점'은 무엇일까요?",
   "image": "assets/items/jupiter/thumb.jpg",
   "choices": [
    {
-    "text": "커다란 화산",
+    "text": "빨간 바다",
     "image": null
    },
    {
@@ -1900,7 +888,7 @@
     "image": null
    },
    {
-    "text": "빨간 바다",
+    "text": "커다란 화산",
     "image": null
    }
   ],
@@ -1909,11 +897,15 @@
   "item": "jupiter"
  },
  {
-  "id": "q084",
+  "id": "q040",
   "kind": "fact",
   "question": "커다란 고리로 유명한 행성은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "토성",
+    "image": null
+   },
    {
     "text": "수성",
     "image": null
@@ -1921,28 +913,24 @@
    {
     "text": "화성",
     "image": null
-   },
-   {
-    "text": "토성",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "토성의 고리는 얼음과 돌 조각들로 되어 있어요. 🪐",
   "item": "saturn"
  },
  {
-  "id": "q085",
+  "id": "q041",
   "kind": "fact",
   "question": "옆으로 누운 채로 태양 주위를 도는 행성은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "지구",
+    "text": "목성",
     "image": null
    },
    {
-    "text": "목성",
+    "text": "지구",
     "image": null
    },
    {
@@ -1955,7 +943,7 @@
   "item": "uranus"
  },
  {
-  "id": "q086",
+  "id": "q042",
   "kind": "fact",
   "question": "태양에서 가장 먼 행성은 무엇일까요?",
   "image": null,
@@ -1978,7 +966,7 @@
   "item": "neptune"
  },
  {
-  "id": "q087",
+  "id": "q043",
   "kind": "fact",
   "question": "달에 가면 몸무게는 어떻게 될까요?",
   "image": "assets/items/moon/thumb.jpg",
@@ -1988,20 +976,20 @@
     "image": null
    },
    {
-    "text": "똑같아요",
+    "text": "가벼워져요",
     "image": null
    },
    {
-    "text": "가벼워져요",
+    "text": "똑같아요",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "달에서는 몸무게가 지구의 6분의 1이 돼요. 깡충깡충! 🌙",
   "item": "moon"
  },
  {
-  "id": "q088",
+  "id": "q044",
   "kind": "fact",
   "question": "달은 어떻게 빛날까요?",
   "image": "assets/items/moon/thumb.jpg",
@@ -2011,28 +999,24 @@
     "image": null
    },
    {
-    "text": "전기를 켜서",
+    "text": "햇빛을 받아서",
     "image": null
    },
    {
-    "text": "햇빛을 받아서",
+    "text": "전기를 켜서",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "달은 스스로 빛을 내지 않고 햇빛을 받아서 빛나요.",
   "item": "moon"
  },
  {
-  "id": "q089",
+  "id": "q045",
   "kind": "fact",
   "question": "명왕성에서 발견한 커다란 무늬는 무슨 모양일까요?",
   "image": "assets/items/pluto/thumb.jpg",
   "choices": [
-   {
-    "text": "하트 모양",
-    "image": null
-   },
    {
     "text": "별 모양",
     "image": null
@@ -2040,18 +1024,26 @@
    {
     "text": "네모 모양",
     "image": null
+   },
+   {
+    "text": "하트 모양",
+    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "뉴호라이즌스가 명왕성의 하트 무늬를 찍었어요. 💗",
   "item": "pluto"
  },
  {
-  "id": "q090",
+  "id": "q046",
   "kind": "fact",
   "question": "혜성의 꼬리는 어느 쪽을 향할까요?",
   "image": "assets/items/comet/thumb.jpg",
   "choices": [
+   {
+    "text": "태양 쪽",
+    "image": null
+   },
    {
     "text": "언제나 아래쪽",
     "image": null
@@ -2059,22 +1051,22 @@
    {
     "text": "태양의 반대쪽",
     "image": null
-   },
-   {
-    "text": "태양 쪽",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "태양에서 나오는 바람이 꼬리를 밀어내요. ☄️",
   "item": "comet"
  },
  {
-  "id": "q091",
+  "id": "q047",
   "kind": "fact",
   "question": "소행성이 많이 모여 있는 곳은 어디일까요?",
   "image": "assets/items/asteroid/thumb.jpg",
   "choices": [
+   {
+    "text": "화성과 목성 사이",
+    "image": null
+   },
    {
     "text": "지구와 달 사이",
     "image": null
@@ -2082,28 +1074,24 @@
    {
     "text": "태양 안",
     "image": null
-   },
-   {
-    "text": "화성과 목성 사이",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "그곳을 '소행성대'라고 해요.",
   "item": "asteroid"
  },
  {
-  "id": "q092",
+  "id": "q048",
   "kind": "fact",
   "question": "별똥별은 무엇일까요?",
   "image": "assets/items/meteor/thumb.jpg",
   "choices": [
    {
-    "text": "작은 돌이 타는 빛",
+    "text": "떨어지는 진짜 별",
     "image": null
    },
    {
-    "text": "떨어지는 진짜 별",
+    "text": "작은 돌이 타는 빛",
     "image": null
    },
    {
@@ -2111,12 +1099,12 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "우주의 작은 돌 부스러기가 공기 속에서 타는 빛이에요. 🌠",
   "item": "meteor"
  },
  {
-  "id": "q093",
+  "id": "q049",
   "kind": "fact",
   "question": "유로파의 얼음 아래에는 무엇이 있을까요?",
   "image": "assets/items/europa/thumb.jpg",
@@ -2139,17 +1127,17 @@
   "item": "europa"
  },
  {
-  "id": "q094",
+  "id": "q050",
   "kind": "fact",
   "question": "우리 태양계가 사는 은하의 이름은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "안드로메다 은하",
+    "text": "우리은하",
     "image": null
    },
    {
-    "text": "우리은하",
+    "text": "안드로메다 은하",
     "image": null
    },
    {
@@ -2157,20 +1145,16 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "깜깜한 밤하늘의 은하수가 우리은하예요. 🌌",
   "item": "milky-way"
  },
  {
-  "id": "q095",
+  "id": "q051",
   "kind": "fact",
   "question": "빛도 빠져나올 수 없는 곳은 어디일까요?",
   "image": null,
   "choices": [
-   {
-    "text": "블랙홀",
-    "image": null
-   },
    {
     "text": "태양",
     "image": null
@@ -2178,24 +1162,28 @@
    {
     "text": "달",
     "image": null
+   },
+   {
+    "text": "블랙홀",
+    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "블랙홀은 끌어당기는 힘이 너무 세요.",
   "item": "black-hole"
  },
  {
-  "id": "q096",
+  "id": "q052",
   "kind": "fact",
   "question": "오리온 성운에서는 무슨 일이 일어날까요?",
   "image": "assets/items/orion-nebula/thumb.jpg",
   "choices": [
    {
-    "text": "비가 내려요",
+    "text": "로켓이 발사돼요",
     "image": null
    },
    {
-    "text": "로켓이 발사돼요",
+    "text": "비가 내려요",
     "image": null
    },
    {
@@ -2208,7 +1196,7 @@
   "item": "orion-nebula"
  },
  {
-  "id": "q097",
+  "id": "q053",
   "kind": "fact",
   "question": "밤하늘에서 가장 밝은 별은 무엇일까요?",
   "image": null,
@@ -2218,24 +1206,28 @@
     "image": null
    },
    {
-    "text": "안드로메다 은하",
+    "text": "시리우스",
     "image": null
    },
    {
-    "text": "시리우스",
+    "text": "안드로메다 은하",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "시리우스는 큰개자리에 있는 가장 밝은 별이에요.",
   "item": "sirius"
  },
  {
-  "id": "q098",
+  "id": "q054",
   "kind": "fact",
   "question": "사람을 달에 보낸 로켓은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "누리호",
+    "image": null
+   },
    {
     "text": "새턴 V",
     "image": null
@@ -2243,18 +1235,14 @@
    {
     "text": "일렉트론",
     "image": null
-   },
-   {
-    "text": "누리호",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "새턴 V가 아폴로 우주인들을 달까지 보냈어요. 🌕",
   "item": "saturn-v"
  },
  {
-  "id": "q099",
+  "id": "q055",
   "kind": "fact",
   "question": "다시 돌아와 똑바로 서서 착륙하는 로켓은 무엇일까요?",
   "image": null,
@@ -2264,26 +1252,26 @@
     "image": null
    },
    {
-    "text": "나로호",
+    "text": "팰컨 9",
     "image": null
    },
    {
-    "text": "팰컨 9",
+    "text": "나로호",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "팰컨 9은 돌아와서 또 날아가요!",
   "item": "falcon-9"
  },
  {
-  "id": "q100",
+  "id": "q056",
   "kind": "fact",
   "question": "우리나라 기술로 만든 첫 우주 로켓은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "누리호",
+    "text": "새턴 V",
     "image": null
    },
    {
@@ -2291,20 +1279,24 @@
     "image": null
    },
    {
-    "text": "새턴 V",
+    "text": "누리호",
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "누리호는 고흥 나로우주센터에서 발사해요. 🇰🇷",
   "item": "nuri"
  },
  {
-  "id": "q101",
+  "id": "q057",
   "kind": "fact",
   "question": "발사탑의 '젓가락 팔'이 공중에서 붙잡은 로켓은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "나로호",
+    "image": null
+   },
    {
     "text": "스타십",
     "image": null
@@ -2312,26 +1304,18 @@
    {
     "text": "소유즈 로켓",
     "image": null
-   },
-   {
-    "text": "나로호",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "2024년에 젓가락 팔이 스타십 로켓을 붙잡았어요!",
   "item": "starship"
  },
  {
-  "id": "q102",
+  "id": "q058",
   "kind": "fact",
   "question": "제임스 웹 우주망원경을 쏘아 올린 로켓은 무엇일까요?",
   "image": null,
   "choices": [
-   {
-    "text": "누리호",
-    "image": null
-   },
    {
     "text": "일렉트론",
     "image": null
@@ -2339,47 +1323,51 @@
    {
     "text": "아리안 5",
     "image": null
+   },
+   {
+    "text": "누리호",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "2021년 크리스마스에 쏘아 올렸어요. 🎄",
   "item": "ariane-5"
  },
  {
-  "id": "q103",
+  "id": "q059",
   "kind": "fact",
   "question": "처음으로 우주에 간 사람은 누구일까요?",
   "image": "assets/items/vostok-1/thumb.jpg",
   "choices": [
    {
-    "text": "이소연",
-    "image": null
-   },
-   {
     "text": "유리 가가린",
     "image": null
    },
    {
     "text": "닐 암스트롱",
     "image": null
+   },
+   {
+    "text": "이소연",
+    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "가가린은 1961년 보스토크 1호를 타고 우주에 갔어요.",
   "item": "vostok-1"
  },
  {
-  "id": "q104",
+  "id": "q060",
   "kind": "fact",
   "question": "처음으로 달 위를 걸은 사람은 누구일까요?",
   "image": "assets/items/apollo-11/thumb.jpg",
   "choices": [
    {
-    "text": "존 글렌",
+    "text": "닐 암스트롱",
     "image": null
    },
    {
-    "text": "닐 암스트롱",
+    "text": "존 글렌",
     "image": null
    },
    {
@@ -2387,22 +1375,22 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "1969년 아폴로 11호 때 달 위를 걸었어요. 👣",
   "item": "apollo-11"
  },
  {
-  "id": "q105",
+  "id": "q061",
   "kind": "fact",
   "question": "돌아올 때 비행기처럼 활주로에 내려앉은 우주선은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "크루 드래건",
+    "text": "보스토크 1호",
     "image": null
    },
    {
-    "text": "보스토크 1호",
+    "text": "크루 드래건",
     "image": null
    },
    {
@@ -2415,15 +1403,11 @@
   "item": "space-shuttle"
  },
  {
-  "id": "q106",
+  "id": "q062",
   "kind": "fact",
   "question": "우주정거장의 우주인은 잠잘 때 어떻게 할까요?",
   "image": "assets/items/iss/thumb.jpg",
   "choices": [
-   {
-    "text": "의자에 앉아 자요",
-    "image": null
-   },
    {
     "text": "침낭을 벽에 묶고 자요",
     "image": null
@@ -2431,14 +1415,18 @@
    {
     "text": "침대에 누워 자요",
     "image": null
+   },
+   {
+    "text": "의자에 앉아 자요",
+    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "몸이 둥둥 떠다녀서 침낭을 묶어 놓아요. 😴",
   "item": "iss"
  },
  {
-  "id": "q107",
+  "id": "q063",
   "kind": "fact",
   "question": "크루 드래건 안에는 버튼 대신 무엇이 있을까요?",
   "image": "assets/items/crew-dragon/thumb.jpg",
@@ -2461,7 +1449,7 @@
   "item": "crew-dragon"
  },
  {
-  "id": "q108",
+  "id": "q064",
   "kind": "fact",
   "question": "우리나라 첫 우주인 이소연이 탄 우주선은 무엇일까요?",
   "image": null,
@@ -2484,7 +1472,7 @@
   "item": "soyuz-spacecraft"
  },
  {
-  "id": "q109",
+  "id": "q065",
   "kind": "fact",
   "question": "'하늘의 궁전'이라는 뜻의 우주정거장은 무엇일까요?",
   "image": null,
@@ -2494,28 +1482,24 @@
     "image": null
    },
    {
-    "text": "부란",
+    "text": "톈궁",
     "image": null
    },
    {
-    "text": "톈궁",
+    "text": "부란",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "톈궁은 중국의 우주정거장이에요.",
   "item": "tiangong"
  },
  {
-  "id": "q110",
+  "id": "q066",
   "kind": "fact",
   "question": "사람 없이 컴퓨터가 혼자 조종해서 착륙한 우주왕복선은 무엇일까요?",
   "image": null,
   "choices": [
-   {
-    "text": "아폴로 11호",
-    "image": null
-   },
    {
     "text": "크루 드래건",
     "image": null
@@ -2523,22 +1507,22 @@
    {
     "text": "부란",
     "image": null
+   },
+   {
+    "text": "아폴로 11호",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "부란은 1988년에 딱 한 번 우주에 다녀왔어요.",
   "item": "buran"
  },
  {
-  "id": "q111",
+  "id": "q067",
   "kind": "fact",
   "question": "세계 최초의 인공위성은 무엇일까요?",
   "image": null,
   "choices": [
-   {
-    "text": "허블 우주망원경",
-    "image": null
-   },
    {
     "text": "스타링크",
     "image": null
@@ -2546,20 +1530,24 @@
    {
     "text": "스푸트니크 1호",
     "image": null
+   },
+   {
+    "text": "허블 우주망원경",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "비치볼만 한 이 위성으로 우주 시대가 시작됐어요.",
   "item": "sputnik-1"
  },
  {
-  "id": "q112",
+  "id": "q068",
   "kind": "fact",
   "question": "허블 우주망원경이 고장 났을 때 어떻게 했을까요?",
   "image": "assets/items/hubble/thumb.jpg",
   "choices": [
    {
-    "text": "그냥 두었어요",
+    "text": "새로 다시 만들었어요",
     "image": null
    },
    {
@@ -2567,7 +1555,7 @@
     "image": null
    },
    {
-    "text": "새로 다시 만들었어요",
+    "text": "그냥 두었어요",
     "image": null
    }
   ],
@@ -2576,11 +1564,15 @@
   "item": "hubble"
  },
  {
-  "id": "q113",
+  "id": "q069",
   "kind": "fact",
   "question": "제임스 웹 우주망원경의 거울은 무슨 색일까요?",
   "image": "assets/items/jwst/thumb.jpg",
   "choices": [
+   {
+    "text": "까만색",
+    "image": null
+   },
    {
     "text": "빨간색",
     "image": null
@@ -2588,26 +1580,18 @@
    {
     "text": "금색",
     "image": null
-   },
-   {
-    "text": "까만색",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "금으로 얇게 덮은 거울 18개가 벌집처럼 모여 있어요. ✨",
   "item": "jwst"
  },
  {
-  "id": "q114",
+  "id": "q070",
   "kind": "fact",
   "question": "GPS 위성은 무슨 일을 할까요?",
   "image": "assets/items/gps/thumb.jpg",
   "choices": [
-   {
-    "text": "길을 알려 줘요",
-    "image": null
-   },
    {
     "text": "별을 만들어요",
     "image": null
@@ -2615,14 +1599,18 @@
    {
     "text": "비를 내려 줘요",
     "image": null
+   },
+   {
+    "text": "길을 알려 줘요",
+    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "내비게이션과 휴대폰 지도가 GPS 신호를 써요. 🗺️",
   "item": "gps"
  },
  {
-  "id": "q115",
+  "id": "q071",
   "kind": "fact",
   "question": "우리나라가 처음으로 달에 보낸 탐사선은 무엇일까요?",
   "image": null,
@@ -2645,7 +1633,7 @@
   "item": "danuri"
  },
  {
-  "id": "q116",
+  "id": "q072",
   "kind": "fact",
   "question": "천리안 2A호는 무슨 일을 할까요?",
   "image": "assets/items/chollian-2a/thumb.jpg",
@@ -2655,20 +1643,20 @@
     "image": null
    },
    {
-    "text": "달에 착륙해요",
+    "text": "날씨를 알려 줘요",
     "image": null
    },
    {
-    "text": "날씨를 알려 줘요",
+    "text": "달에 착륙해요",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "일기예보의 구름 사진을 천리안이 찍어요. ⛅",
   "item": "chollian-2a"
  },
  {
-  "id": "q117",
+  "id": "q073",
   "kind": "fact",
   "question": "줄지어 날아가서 '우주 기차'처럼 보이는 위성은 무엇일까요?",
   "image": null,
@@ -2678,11 +1666,11 @@
     "image": null
    },
    {
-    "text": "허블 우주망원경",
+    "text": "다누리",
     "image": null
    },
    {
-    "text": "다누리",
+    "text": "허블 우주망원경",
     "image": null
    }
   ],
@@ -2691,13 +1679,13 @@
   "item": "starlink"
  },
  {
-  "id": "q118",
+  "id": "q074",
   "kind": "fact",
   "question": "우리나라 첫 번째 인공위성은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "우리별 1호",
+    "text": "스푸트니크 1호",
     "image": null
    },
    {
@@ -2705,26 +1693,26 @@
     "image": null
    },
    {
-    "text": "스푸트니크 1호",
+    "text": "우리별 1호",
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "1992년에 발사했어요. 🇰🇷",
   "item": "kitsat-1"
  },
  {
-  "id": "q119",
+  "id": "q075",
   "kind": "fact",
   "question": "큐리오시티는 돌을 조사할 때 무엇을 쏠까요?",
   "image": "assets/items/curiosity/thumb.jpg",
   "choices": [
    {
-    "text": "화살",
+    "text": "물총",
     "image": null
    },
    {
-    "text": "물총",
+    "text": "화살",
     "image": null
    },
    {
@@ -2737,13 +1725,13 @@
   "item": "curiosity"
  },
  {
-  "id": "q120",
+  "id": "q076",
   "kind": "fact",
   "question": "화성의 바람 소리를 처음 녹음한 로봇은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "소저너",
+    "text": "루노호트 1호",
     "image": null
    },
    {
@@ -2751,7 +1739,7 @@
     "image": null
    },
    {
-    "text": "루노호트 1호",
+    "text": "소저너",
     "image": null
    }
   ],
@@ -2760,7 +1748,7 @@
   "item": "perseverance"
  },
  {
-  "id": "q121",
+  "id": "q077",
   "kind": "fact",
   "question": "화성 하늘을 난 헬리콥터는 무엇일까요?",
   "image": null,
@@ -2783,7 +1771,7 @@
   "item": "ingenuity"
  },
  {
-  "id": "q122",
+  "id": "q078",
   "kind": "fact",
   "question": "사람이 만든 물건 중에 가장 멀리 간 것은 무엇일까요?",
   "image": null,
@@ -2806,11 +1794,15 @@
   "item": "voyager-1"
  },
  {
-  "id": "q123",
+  "id": "q079",
   "kind": "fact",
   "question": "명왕성을 처음 가까이에서 본 탐사선은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "주노",
+    "image": null
+   },
    {
     "text": "보이저 1호",
     "image": null
@@ -2818,24 +1810,20 @@
    {
     "text": "뉴호라이즌스",
     "image": null
-   },
-   {
-    "text": "주노",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "2015년에 명왕성 옆을 지나가며 사진을 찍었어요.",
   "item": "new-horizons"
  },
  {
-  "id": "q124",
+  "id": "q080",
   "kind": "fact",
   "question": "아폴로 우주인들이 달에서 운전한 자동차는 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "큐리오시티",
+    "text": "위투 2호",
     "image": null
    },
    {
@@ -2843,7 +1831,7 @@
     "image": null
    },
    {
-    "text": "위투 2호",
+    "text": "큐리오시티",
     "image": null
    }
   ],
@@ -2852,11 +1840,15 @@
   "item": "lrv"
  },
  {
-  "id": "q125",
+  "id": "q081",
   "kind": "fact",
   "question": "'옥토끼'라는 이름을 가진 달 로봇은 무엇일까요?",
   "image": null,
   "choices": [
+   {
+    "text": "위투 2호",
+    "image": null
+   },
    {
     "text": "루노호트 1호",
     "image": null
@@ -2864,24 +1856,20 @@
    {
     "text": "소저너",
     "image": null
-   },
-   {
-    "text": "위투 2호",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "위투 2호는 달의 뒷면을 달렸어요. 🐰",
   "item": "yutu-2"
  },
  {
-  "id": "q126",
+  "id": "q082",
   "kind": "fact",
   "question": "소행성의 흙을 지구로 가져온 탐사선은 무엇일까요?",
   "image": null,
   "choices": [
    {
-    "text": "카시니",
+    "text": "하야부사2",
     "image": null
    },
    {
@@ -2889,26 +1877,26 @@
     "image": null
    },
    {
-    "text": "하야부사2",
+    "text": "카시니",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "흙이 든 캡슐이 낙하산을 타고 돌아왔어요.",
   "item": "hayabusa2"
  },
  {
-  "id": "q127",
+  "id": "q083",
   "kind": "fact",
   "question": "처음으로 혜성 위에 내려앉은 착륙선은 무엇일까요?",
   "image": "assets/items/rosetta/thumb.jpg",
   "choices": [
    {
-    "text": "필레",
+    "text": "위투 2호",
     "image": null
    },
    {
-    "text": "위투 2호",
+    "text": "필레",
     "image": null
    },
    {
@@ -2916,18 +1904,18 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "로제타가 데려간 필레가 통통 튀다가 내려앉았어요. ☄️",
   "item": "rosetta"
  },
  {
-  "id": "q128",
+  "id": "q084",
   "kind": "fact",
   "question": "카시니는 어느 행성을 13년 동안 돌았을까요?",
   "image": "assets/items/cassini/thumb.jpg",
   "choices": [
    {
-    "text": "지구",
+    "text": "토성",
     "image": null
    },
    {
@@ -2935,22 +1923,22 @@
     "image": null
    },
    {
-    "text": "토성",
+    "text": "지구",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "카시니는 토성 사진을 45만 장 넘게 보냈어요. 🪐",
   "item": "cassini"
  },
  {
-  "id": "q129",
+  "id": "q085",
   "kind": "fact",
   "question": "주노는 어느 행성을 조사하는 탐사선일까요?",
   "image": "assets/items/juno/thumb.jpg",
   "choices": [
    {
-    "text": "해왕성",
+    "text": "수성",
     "image": null
    },
    {
@@ -2958,7 +1946,7 @@
     "image": null
    },
    {
-    "text": "수성",
+    "text": "해왕성",
     "image": null
    }
   ],

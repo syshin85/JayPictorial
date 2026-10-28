@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Writes data/quiz.json for 우주 퀴즈 (same shape as train/data/quiz.json).
 
-Photo questions (name, country, compare) come from data/space.json; the fact questions are
+Photo questions (country, compare) come from data/space.json; the fact questions are
 hand-written below from each item's story and fun fact. The random seed is fixed, so running it
-again gives the same quiz unless the lists here change.
+again gives the same quiz unless the lists here change. There are no "what is this photo?"
+questions: the user found them dull.
 
 Usage: python3 tools/make_quiz.py
 """
@@ -31,27 +32,7 @@ def text_choices(right, wrongs):
     rng.shuffle(c)
     return [{"text": x, "image": None} for x in c], c.index(right)
 
-# ---------- 1. name: photo → name, wrong answers from the same section ----------
-NAME = ["sun", "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune",
-        "moon", "pluto", "comet", "asteroid", "meteor", "europa", "titan",
-        "milky-way", "andromeda", "black-hole", "orion-nebula", "pleiades",
-        "saturn-v", "falcon-9", "starship", "nuri", "sls", "soyuz-rocket",
-        "apollo-11", "space-shuttle", "iss", "crew-dragon", "soyuz-spacecraft", "tiangong", "lrv",
-        "sputnik-1", "hubble", "jwst", "starlink",
-        "curiosity", "ingenuity", "voyager-1", "lunokhod-1", "juno", "cassini"]
-# pairs that look too much alike in a small photo are never offered together
-LOOKALIKE = [{"uranus", "neptune"}, {"milky-way", "andromeda"}, {"curiosity", "perseverance"},
-             {"space-shuttle", "buran"}, {"sls", "new-glenn"}, {"soyuz-rocket", "soyuz-spacecraft"},
-             {"falcon-9", "new-glenn"}, {"crew-dragon", "orion"}]
-for i in NAME:
-    t = items[i]
-    pool = [x for x in data["items"] if x["section"] == t["section"] and x["id"] != i
-            and {i, x["id"]} not in LOOKALIKE]
-    wrongs = [x["name"] for x in rng.sample(pool, 2)]
-    choices, ans = text_choices(t["name"], wrongs)
-    add("name", "이것의 이름은 무엇일까요?", thumb(i), choices, ans, f"{t['name']} — {t['subtitle']}!", i)
-
-# ---------- 2. country: which country made it ----------
+# ---------- 1. country: which country made it ----------
 FLAGS = {"대한민국": "🇰🇷 한국", "미국": "🇺🇸 미국", "중국": "🇨🇳 중국", "일본": "🇯🇵 일본",
          "러시아": "🇷🇺 러시아", "유럽": "🇪🇺 유럽", "인도": "🇮🇳 인도", "뉴질랜드": "🇳🇿 뉴질랜드"}
 KIND = {"rockets": "로켓", "spacecraft": "우주선", "satellites": "위성", "rovers": "탐사선"}
@@ -72,7 +53,7 @@ for i, c in COUNTRY.items():
     add("country", f"{name}{josa} 어느 나라 {kind}일까요?", thumb(i), choices, ans,
         f"{name}{josa} {FLAGS[c].split(' ', 1)[1]}에서 만들었어요. {FLAGS[c].split(' ')[0]}", i)
 
-# ---------- 3. compare: three pictures, pick the biggest / tallest / closest ----------
+# ---------- 2. compare: three pictures, pick the biggest / tallest / closest ----------
 def compare(question, values, pick_max, unit_text, n):
     ids = list(values)
     made = 0
@@ -104,7 +85,7 @@ HEIGHT = {"starship": 120, "saturn-v": 111, "sls": 98, "falcon-9": 70, "long-mar
 compare("이 중에서 가장 키가 큰 로켓은 무엇일까요?", HEIGHT, True,
         lambda b: f"{items[b]['name']}의 높이는 약 {HEIGHT[b]}m예요. 셋 중에 가장 커요! 🚀", 6)
 
-# ---------- 4. fact: hand-written from the stories and fun facts ----------
+# ---------- 3. fact: hand-written from the stories and fun facts ----------
 FACTS = [
     ("sun", "태양은 무엇일까요?", "스스로 빛을 내는 별", ["행성", "지구의 달"], "태양은 스스로 빛을 내는 별이에요. ☀️"),
     ("mercury", "태양에서 가장 가까운 행성은 무엇일까요?", "수성", ["화성", "토성"], "수성은 태양에서 1번째 행성이에요."),
