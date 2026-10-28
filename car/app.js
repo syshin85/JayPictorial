@@ -301,7 +301,7 @@ function playVideo(poster, videoId) {
         }, 1500);
       player = new YT.Player(box.querySelector(".yt-player"), {
         videoId,
-        host: "https://www.youtube-nocookie.com",
+        host: "https://www.youtube.com", // not nocookie: so a signed-in Premium account skips ads
         width: "100%",
         height: "100%",
         playerVars: { autoplay: 1, controls: 0, rel: 0, playsinline: 1, modestbranding: 1, disablekb: 1, fs: 0, iv_load_policy: 3 },
