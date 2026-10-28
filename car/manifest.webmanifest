@@ -1,0 +1,10 @@
+{
+  "name": "자동차 도감",
+  "short_name": "자동차 도감",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF6E5",
+  "theme_color": "#FFF6E5",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

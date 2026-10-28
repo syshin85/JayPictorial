@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>자동차 도감 사진 검토</title>
+<style>
+  body { margin: 0; padding: 12px; background: #111; color: #eee; font: 14px system-ui; }
+  .row { display: flex; gap: 4px; align-items: center; margin-bottom: 6px; }
+  .row b { width: 78px; flex: none; font-size: 11px; overflow: hidden; }
+  .row img { height: 78px; width: 104px; object-fit: contain; background: #000; }
+  .row span { font-size: 9px; width: 104px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; display: block; }
+  figure { margin: 0; }
+</style>
+</head>
+<body>
+<div id="out"></div>
+<script>
+  // Every item's photos in one row, so wrong pictures stand out. ?s=<section> shows one tab only.
+  const q = new URLSearchParams(location.search);
+  Promise.all([fetch("../data/cars.json").then((r) => r.json()), fetch("../data/media.json").then((r) => r.json())]).then(([data, media]) => {
+    document.getElementById("out").innerHTML = data.items
+      .filter((t) => !q.get("s") || t.section === q.get("s"))
+      .map((t) => `<div class="row"><b>${t.id}</b>${((media[t.id] || {}).images || [])
+        .map((img, i) => `<figure><img src="../${img.src}"><span>${i + 1} ${img.file || ""}</span></figure>`).join("")}</div>`)
+      .join("");
+  });
+</script>
+</body>
+</html>

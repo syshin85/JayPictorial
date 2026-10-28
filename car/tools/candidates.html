@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>자동차 도감 사진 후보</title>
+<style>
+  body { margin: 0; padding: 8px; background: #111; color: #eee; font: 12px system-ui; }
+  h3 { margin: 10px 0 4px; }
+  .row { display: flex; flex-wrap: wrap; gap: 4px; }
+  figure { margin: 0; width: 112px; }
+  img { width: 112px; height: 84px; object-fit: contain; background: #000; }
+  figcaption { font-size: 10px; }
+</style>
+</head>
+<body>
+<div id="out"></div>
+<script>
+  // Candidates from tools/candidates.py, numbered; ?id=a,b shows only those items.
+  const ids = (new URLSearchParams(location.search).get("id") || "").split(",").filter(Boolean);
+  fetch("candidates.json").then((r) => r.json()).then((c) => {
+    document.getElementById("out").innerHTML = Object.entries(c)
+      .filter(([id]) => !ids.length || ids.includes(id))
+      .map(([id, list]) => `<h3>${id}</h3><div class="row">${list
+        .map((x, i) => `<figure><img src="${x.thumb}"><figcaption>${i}</figcaption></figure>`).join("")}</div>`)
+      .join("");
+  });
+</script>
+</body>
+</html>

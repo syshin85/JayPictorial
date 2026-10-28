@@ -7,3 +7,6 @@ space/dist/
 train/tools/candidates/
 space/tools/candidates.json
 space/tools/videos.json
+car/dist/
+car/tools/candidates.json
+car/tools/videos.json

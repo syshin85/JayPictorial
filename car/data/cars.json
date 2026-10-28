@@ -1,0 +1,3309 @@
+{
+ "books": [
+  {
+   "id": "cars",
+   "name": "자동차 알아보기",
+   "emoji": "🚗",
+   "color": "#3B82F6"
+  },
+  {
+   "id": "work",
+   "name": "일하는 자동차",
+   "emoji": "🚒",
+   "color": "#EF4444"
+  }
+ ],
+ "sections": [
+  {
+   "id": "family",
+   "book": "cars",
+   "name": "우리 집 자동차",
+   "emoji": "🚙",
+   "color": "#22A06B"
+  },
+  {
+   "id": "sports",
+   "book": "cars",
+   "name": "스포츠카",
+   "emoji": "🏎️",
+   "color": "#E8453C"
+  },
+  {
+   "id": "race",
+   "book": "cars",
+   "name": "경주용 자동차",
+   "emoji": "🏁",
+   "color": "#7C3AED"
+  },
+  {
+   "id": "buses",
+   "book": "cars",
+   "name": "버스",
+   "emoji": "🚌",
+   "color": "#F59E0B"
+  },
+  {
+   "id": "trucks",
+   "book": "cars",
+   "name": "트럭",
+   "emoji": "🚚",
+   "color": "#0EA5E9"
+  },
+  {
+   "id": "emergency",
+   "book": "work",
+   "name": "긴급 자동차",
+   "emoji": "🚨",
+   "color": "#EF4444"
+  },
+  {
+   "id": "construction",
+   "book": "work",
+   "name": "공사장 자동차",
+   "emoji": "🏗️",
+   "color": "#F5A300"
+  },
+  {
+   "id": "special",
+   "book": "work",
+   "name": "특수 자동차",
+   "emoji": "🛠️",
+   "color": "#10B981"
+  }
+ ],
+ "items": [
+  {
+   "id": "pony",
+   "section": "family",
+   "name": "현대 포니",
+   "subtitle": "우리나라가 처음 만든 자동차",
+   "color": "#E8453C",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1975",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🚗",
+     "종류",
+     "승용차",
+     ""
+    ]
+   ],
+   "story": "포니는 우리나라가 처음으로 스스로 설계해서 만든 자동차예요. 작고 귀여운 모양으로 많은 가족을 태우고 달렸어요. 포니 덕분에 우리나라 자동차가 외국으로도 팔려 나가기 시작했어요.",
+   "funFact": "포니라는 이름은 '작은 말(조랑말)'이라는 뜻이에요.",
+   "wiki": "Hyundai Pony",
+   "photoQuery": "Hyundai Pony",
+   "photoMatch": [
+    "pony"
+   ],
+   "videoQueries": [
+    "Hyundai Pony driving",
+    "현대 포니 주행",
+    "Hyundai Pony classic car"
+   ],
+   "videoMatch": [
+    "pony",
+    "포니"
+   ],
+   "photos": [
+    "File:Hyundai Pony 110 Blue (1).jpg",
+    "File:Hyundai Pony 110 Blue (85).jpg",
+    "File:Hyundai Pony II 1400 GLS Automatic 110 Burgundy (5).jpg",
+    "File:Hyundai Pony II CX 1400 GLS 110 Beige (1).jpg",
+    "File:Hyundai Pony II Pickup 110 White (3).jpg"
+   ]
+  },
+  {
+   "id": "sonata",
+   "section": "family",
+   "name": "현대 쏘나타",
+   "subtitle": "오랫동안 사랑받은 가족 자동차",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1985",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🚗",
+     "종류",
+     "세단",
+     ""
+    ]
+   ],
+   "story": "쏘나타는 네 명이나 다섯 명의 가족이 편하게 타는 세단이에요. 40년 가까이 새 모습으로 계속 바뀌며 만들어졌어요. 길에서 택시로도 자주 볼 수 있어요.",
+   "funFact": "쏘나타는 음악에서 쓰는 말 '소나타'에서 이름을 따왔어요.",
+   "wiki": "Hyundai Sonata",
+   "photoQuery": "Hyundai Sonata",
+   "photoMatch": [
+    "sonata"
+   ],
+   "videoQueries": [
+    "Hyundai Sonata commercial",
+    "쏘나타 광고 영상",
+    "Hyundai Sonata driving footage",
+    "Hyundai Sonata b-roll"
+   ],
+   "videoMatch": [
+    "sonata",
+    "쏘나타"
+   ],
+   "photos": [
+    "File:2024 Hyundai Sonata SEL, front right.jpg",
+    "File:2024 Hyundai Sonata (facelift), front.jpg",
+    "File:2021 Hyundai Sonata 1.6T Luxury, Front Right, 05-24-2021.jpg",
+    "File:2018 Hyundai Sonata GL in Phantom Black, front left, 2024-06-07.jpg",
+    "File:1993-1996 Hyundai Sonata (Y3) GLE sedan (23352225464).jpg"
+   ]
+  },
+  {
+   "id": "carnival",
+   "section": "family",
+   "name": "기아 카니발",
+   "subtitle": "온 가족이 다 타는 큰 차",
+   "color": "#475569",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1998",
+     "년"
+    ],
+    [
+     "💺",
+     "자리",
+     "최대 11",
+     "석"
+    ],
+    [
+     "🚪",
+     "옆문",
+     "미닫이",
+     ""
+    ]
+   ],
+   "story": "카니발은 자리가 많아서 할머니, 할아버지까지 함께 탈 수 있는 미니밴이에요. 옆문이 옆으로 스르륵 미끄러지며 열려서 타고 내리기 쉬워요. 캠핑이나 여행 갈 때 짐도 많이 실을 수 있어요.",
+   "funFact": "카니발의 옆문은 버튼만 누르면 혼자서 열리고 닫혀요.",
+   "wiki": "Kia Carnival",
+   "photoQuery": "Kia Carnival",
+   "photoMatch": [
+    "carnival"
+   ],
+   "videoQueries": [
+    "Kia Carnival commercial",
+    "기아 카니발 광고",
+    "Kia Carnival film",
+    "Kia Carnival exterior driving footage"
+   ],
+   "videoMatch": [
+    "carnival",
+    "카니발"
+   ],
+   "photos": [
+    "File:2025 Kia Carnival Hybrid EX, front right, 10-12-2025.jpg",
+    "File:Kia Carnival Hybrid KA4 PE HEV Snow White Pearl (5) (cropped).jpg",
+    "File:2022 Kia Carnival LX in Silky Silver, front left.jpg",
+    "File:2017 Kia Carnival (YP MY17) SLi van (2018-11-22) 01.jpg",
+    "File:2001 Kia Carnival (KV II) Classic van (2015-07-03).jpg"
+   ]
+  },
+  {
+   "id": "ioniq-5",
+   "section": "family",
+   "name": "현대 아이오닉 5",
+   "subtitle": "전기로 달리는 네모난 자동차",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2021",
+     "년"
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ],
+    [
+     "⚡",
+     "빠른 충전",
+     "약 18",
+     "분"
+    ]
+   ],
+   "story": "아이오닉 5는 휘발유 대신 배터리에 담은 전기로 달리는 전기차예요. 그래서 달릴 때 아주 조용하고 매연이 나오지 않아요. 네모난 불빛과 반듯한 모양이 옛날 포니를 닮았어요.",
+   "funFact": "아이오닉 5는 차에 있는 전기로 캠핑장에서 전기 주전자나 전등을 켤 수도 있어요.",
+   "wiki": "Hyundai Ioniq 5",
+   "photoQuery": "Hyundai Ioniq 5",
+   "photoMatch": [
+    "ioniq"
+   ],
+   "videoQueries": [
+    "Hyundai Ioniq 5 driving exterior",
+    "아이오닉5 주행",
+    "Hyundai IONIQ 5 film"
+   ],
+   "videoMatch": [
+    "ioniq",
+    "아이오닉"
+   ],
+   "photos": [
+    "File:Hyundai Ioniq 5 AWD Techniq-Paket – f 31122024.jpg",
+    "File:25 Hyundai Ioniq 5 XRT.jpg",
+    "File:Hyundai Ioniq 5 AWD Techniq-Paket – h 31122024.jpg",
+    "File:Hyundai Ioniq 5 IAA 2021 1X7A0189.jpg",
+    "File:Hyundai IONIQ 5 Long Range Prestige NE1 PE Atlas White Matte (17).jpg"
+   ]
+  },
+  {
+   "id": "tesla-model-3",
+   "section": "family",
+   "name": "테슬라 모델 3",
+   "subtitle": "세계에서 많이 팔린 전기차",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2017",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ]
+   ],
+   "story": "테슬라 모델 3는 미국의 테슬라가 만든 전기 자동차예요. 안에 큰 화면이 하나 있어서 거의 모든 것을 화면으로 조작해요. 전기차를 많은 사람이 타게 만든 자동차예요.",
+   "funFact": "테슬라 자동차는 밤사이 인터넷으로 프로그램을 새로 받아서 기능이 늘어나기도 해요.",
+   "wiki": "Tesla Model 3",
+   "photoQuery": "Tesla Model 3",
+   "photoMatch": [
+    "model 3"
+   ],
+   "videoQueries": [
+    "Tesla Model 3 commercial",
+    "Tesla Model 3 driving footage",
+    "Tesla Model 3 Highland driving",
+    "Tesla Model 3 b-roll"
+   ],
+   "videoMatch": [
+    "model 3",
+    "모델3",
+    "모델 3"
+   ],
+   "photos": [
+    "File:Tesla Model 3 (2023) Autofrühling Ulm IMG 9282.jpg",
+    "File:2021 Tesla Model 3, front 11.10.21.jpg",
+    "File:Tesla Model 3 DCA 08 2018 0159.jpg",
+    "File:Tesla Model 3 1X7A6940.jpg",
+    "File:2019 Tesla Model 3 Performance AWD Front.jpg"
+   ]
+  },
+  {
+   "id": "beetle",
+   "section": "family",
+   "name": "폭스바겐 비틀",
+   "subtitle": "딱정벌레를 닮은 동글동글 자동차",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1938",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🏭",
+     "만든 수",
+     "2100만",
+     "대"
+    ]
+   ],
+   "story": "비틀은 동그란 모양이 딱정벌레를 닮아서 '비틀(딱정벌레)'이라고 불려요. 튼튼하고 값이 싸서 전 세계 사람들이 아주 오랫동안 탔어요. 엔진이 앞이 아니라 뒤에 있는 것도 특징이에요.",
+   "funFact": "한 가지 모양으로 2100만 대 넘게 만들어져서, 오래도록 가장 많이 만든 자동차였어요.",
+   "wiki": "Volkswagen Beetle",
+   "photoQuery": "Volkswagen Beetle",
+   "photoMatch": [
+    "beetle",
+    "käfer",
+    "kafer"
+   ],
+   "videoQueries": [
+    "Volkswagen Beetle vintage commercial",
+    "VW Käfer Werbung",
+    "classic VW Beetle driving exterior",
+    "VW Beetle convoy"
+   ],
+   "videoMatch": [
+    "beetle",
+    "비틀",
+    "käfer",
+    "kafer",
+    "bug"
+   ],
+   "photos": [
+    "File:Volkswagen Beetle .jpg",
+    "File:VW Käfer Baujahr 1966.jpg",
+    "File:Volkswagen Beetle (ca 1961) rear three quarters.JPG",
+    "File:Red Volkswagen Beetle three-quarter front view.jpg",
+    "File:2009 Volkswagen New Beetle в Санкт-Петербурге 01.jpg"
+   ]
+  },
+  {
+   "id": "mini",
+   "section": "family",
+   "name": "미니",
+   "subtitle": "작아도 씩씩한 영국 자동차",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1959",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "📏",
+     "길이",
+     "약 3",
+     "m"
+    ]
+   ],
+   "story": "미니는 이름처럼 아주 작은 자동차예요. 작은 차 안에 네 사람이 탈 수 있도록 바퀴를 네 귀퉁이 끝에 달았어요. 작고 날쌔서 자동차 경주에서 큰 차들을 이기기도 했어요.",
+   "funFact": "옛날 미니는 몬테카를로 랠리라는 유명한 자동차 경주에서 우승했어요.",
+   "wiki": "Mini",
+   "photoQuery": "Austin Mini Cooper classic",
+   "photoMatch": [
+    "mini"
+   ],
+   "videoQueries": [
+    "classic Mini Cooper driving",
+    "Austin Mini driving",
+    "classic Mini Cooper on the road"
+   ],
+   "videoMatch": [
+    "mini"
+   ],
+   "photos": [
+    "File:1968 Austin Mini Cooper.jpg",
+    "File:Morris Mini-Minor 1959 (621 AOK).jpg",
+    "File:2000 Mini Cooper (X411 JOP) 1.3.jpg",
+    "File:1970 Mini by Keld Gydum.jpg",
+    "File:1995 Rover Mini Cooper.jpg"
+   ]
+  },
+  {
+   "id": "jeep-wrangler",
+   "section": "family",
+   "name": "지프 랭글러",
+   "subtitle": "산길도 씩씩하게 오르는 차",
+   "color": "#CA8A04",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1986",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⚙️",
+     "바퀴 힘",
+     "4륜 구동",
+     ""
+    ]
+   ],
+   "story": "랭글러는 울퉁불퉁한 산길과 진흙길, 바위 위도 오를 수 있는 자동차예요. 네 바퀴 모두에 힘을 보내서 미끄러운 곳에서도 잘 빠져나와요. 지붕과 문을 떼어 내고 바람을 맞으며 달릴 수도 있어요.",
+   "funFact": "랭글러의 앞 얼굴에 있는 세로 구멍 7개는 옛날 군인용 지프 때부터 이어진 모양이에요.",
+   "wiki": "Jeep Wrangler",
+   "photoQuery": "Jeep Wrangler",
+   "photoMatch": [
+    "wrangler"
+   ],
+   "videoQueries": [
+    "Jeep Wrangler off road rock crawling",
+    "Jeep Wrangler off-road trail",
+    "지프 랭글러 오프로드"
+   ],
+   "videoMatch": [
+    "wrangler",
+    "랭글러",
+    "jeep"
+   ],
+   "photos": [
+    "File:JEEP WRANGLER SAHARA (JL) China (3).jpg",
+    "File:2018 Jeep Wrangler Sahara Unlimited Multijet 2.1 Front.jpg",
+    "File:JEEP WRANGLER (JL) China (7).jpg",
+    "File:94 JEEP Wrangler (8235592322).jpg",
+    "File:Jeep Wrangler with off-road tuning.jpg"
+   ]
+  },
+  {
+   "id": "prius",
+   "section": "family",
+   "name": "토요타 프리우스",
+   "subtitle": "휘발유와 전기를 함께 쓰는 차",
+   "color": "#64748B",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1997",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "일본",
+     ""
+    ],
+    [
+     "🔋",
+     "힘",
+     "휘발유+전기",
+     ""
+    ]
+   ],
+   "story": "프리우스는 엔진과 전기 모터를 함께 쓰는 하이브리드 자동차예요. 천천히 달릴 때는 전기로, 힘이 필요할 때는 엔진으로 달려서 기름을 아껴요. 세계에서 처음으로 많이 팔린 하이브리드 자동차예요.",
+   "funFact": "프리우스는 브레이크를 밟을 때 생기는 힘으로 배터리를 다시 채워요.",
+   "wiki": "Toyota Prius",
+   "photoQuery": "Toyota Prius",
+   "photoMatch": [
+    "prius"
+   ],
+   "videoQueries": [
+    "Toyota Prius commercial",
+    "2023 Toyota Prius driving footage",
+    "Toyota Prius b-roll",
+    "프리우스 광고"
+   ],
+   "videoMatch": [
+    "prius",
+    "프리우스"
+   ],
+   "photos": [
+    "File:2016 Toyota Prius Excel VVT-I CVT 1.8.jpg",
+    "File:Toyota Prius (XW60) Plug-in Hybrid IMG 9905.jpg",
+    "File:Toyota Prius S (ZVW51) in Thermo-Tech Lime Green, front left.jpg",
+    "File:1st-Toyota-Prius.jpg",
+    "File:2023 Toyota Prius Z PHEV.jpg"
+   ]
+  },
+  {
+   "id": "taxi",
+   "section": "family",
+   "name": "택시",
+   "subtitle": "손을 들면 태워 주는 자동차",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🎂",
+     "처음 생긴 해",
+     "1897",
+     "년"
+    ],
+    [
+     "💡",
+     "지붕",
+     "택시 표시등",
+     ""
+    ],
+    [
+     "🧾",
+     "요금",
+     "미터기",
+     ""
+    ]
+   ],
+   "story": "택시는 손님이 가고 싶은 곳까지 태워 주고 돈을 받는 자동차예요. 지붕에 있는 표시등과 미터기로 택시인 것을 알 수 있어요. 나라마다 택시 색깔이 달라서 뉴욕은 노란색, 런던은 까만색이 유명해요.",
+   "funFact": "런던의 까만 택시는 키 큰 신사가 모자를 쓴 채로 탈 수 있도록 천장을 높게 만들었어요.",
+   "wiki": "Taxi",
+   "photoQuery": "taxi cab street",
+   "photoMatch": [
+    "taxi",
+    "cab"
+   ],
+   "videoQueries": [
+    "New York yellow cabs traffic Times Square",
+    "NYC taxi cabs street footage",
+    "London black cab driving street"
+   ],
+   "videoMatch": [
+    "taxi",
+    "cab",
+    "cabs",
+    "택시"
+   ],
+   "photos": [
+    "File:2007 Ford Crown Victoria New York Taxi 1.jpg",
+    "File:London taxi with deployed wheelchair ramp.jpg",
+    "File:(USA-New York) NYC Medallion Cab Toyota RAV4 NY-Taxi-Y202490C 2024-06-15.jpg",
+    "File:VZ2041(Hong Kong Urban Taxi) 18-08-2020 (cropped).jpg",
+    "File:Hyundai Grandeur Taxi GN7 Abyss Black Pearl (1).jpg"
+   ]
+  },
+  {
+   "id": "ferrari-f40",
+   "section": "sports",
+   "name": "페라리 F40",
+   "subtitle": "빨간색이 멋진 이탈리아 스포츠카",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1987",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "이탈리아",
+     ""
+    ],
+    [
+     "💨",
+     "최고 속도",
+     "324",
+     "km/h"
+    ]
+   ],
+   "story": "F40은 페라리가 40번째 생일을 맞아 만든 스포츠카예요. 무게를 줄이려고 꼭 필요한 것만 달고 아주 빠르게 달리도록 만들었어요. 뒤에 달린 큰 날개가 차를 땅에 꾹 눌러 줘요.",
+   "funFact": "F40은 나왔을 때 세계에서 가장 빠른 자동차였어요.",
+   "wiki": "Ferrari F40",
+   "photoQuery": "Ferrari F40",
+   "photoMatch": [
+    "f40"
+   ],
+   "videoQueries": [
+    "Ferrari F40 driving",
+    "Ferrari F40 on track",
+    "페라리 F40 주행"
+   ],
+   "videoMatch": [
+    "f40"
+   ],
+   "photos": [
+    "File:F40 Ferrari 20090509.jpg",
+    "File:Ferrari F40 (8716133845) (cropped).jpg",
+    "File:1991 Ferrari F40 rear, concours 6.1.19.jpg",
+    "File:Ferrari F40 monaco 2.jpg",
+    "File:Ferrari F40 GIMS 2024 1X7A2271.jpg"
+   ]
+  },
+  {
+   "id": "lamborghini-aventador",
+   "section": "sports",
+   "name": "람보르기니 아벤타도르",
+   "subtitle": "문이 위로 열리는 스포츠카",
+   "color": "#84CC16",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2011",
+     "년"
+    ],
+    [
+     "🚪",
+     "문",
+     "위로 열림",
+     ""
+    ],
+    [
+     "💨",
+     "최고 속도",
+     "350",
+     "km/h"
+    ]
+   ],
+   "story": "아벤타도르는 이탈리아의 람보르기니가 만든 스포츠카예요. 문이 옆으로 열리지 않고 가위처럼 위로 번쩍 들려요. 납작하고 뾰족한 모양 덕분에 바람을 가르며 빠르게 달려요.",
+   "funFact": "람보르기니 자동차 이름은 대부분 유명한 투우 소의 이름에서 따왔어요.",
+   "wiki": "Lamborghini Aventador",
+   "photoQuery": "Lamborghini Aventador",
+   "photoMatch": [
+    "aventador"
+   ],
+   "videoQueries": [
+    "Lamborghini Aventador driving",
+    "Lamborghini Aventador on road",
+    "람보르기니 아벤타도르 주행"
+   ],
+   "videoMatch": [
+    "aventador",
+    "아벤타도르"
+   ],
+   "photos": [
+    "File:Lamborghini Aventador S (44554).jpg",
+    "File:Lamborghini 2017 Aventador S Roadster.jpg",
+    "File:2016 Lamborghini Aventador LP 750-4 SV S-A 6.5 Front.jpg",
+    "File:Lamborghini Aventador SVJ, Paris Motor Show 2018, IMG 0656.jpg",
+    "File:Lamborghini Aventador S coupe IMG 2926.jpg"
+   ]
+  },
+  {
+   "id": "porsche-911",
+   "section": "sports",
+   "name": "포르쉐 911",
+   "subtitle": "개구리 눈을 닮은 독일 스포츠카",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1964",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진 위치",
+     "뒤쪽",
+     ""
+    ]
+   ],
+   "story": "포르쉐 911은 60년 넘게 모양을 조금씩 바꾸며 만들어진 스포츠카예요. 동그란 앞 불빛 두 개가 개구리 눈처럼 보여요. 엔진이 차의 뒤쪽에 있어서 출발할 때 뒷바퀴가 땅을 꽉 잡아요.",
+   "funFact": "포르쉐 911은 처음에 '901'이라는 이름이었는데, 다른 회사가 가운데 0이 들어간 이름을 쓰고 있어서 911로 바꿨어요.",
+   "wiki": "Porsche 911",
+   "photoQuery": "Porsche 911",
+   "photoMatch": [
+    "911"
+   ],
+   "videoQueries": [
+    "Porsche 911 driving",
+    "Porsche 911 GT3 on track",
+    "포르쉐 911 주행"
+   ],
+   "videoMatch": [
+    "911"
+   ],
+   "photos": [
+    "File:1967 Porsche 911R - Flickr - exfordy.jpg",
+    "File:2015 Porsche 911 Carrera 4S Coupe.jpg",
+    "File:1973 Porsche 911 RS Carrera (35097626702).jpg",
+    "File:Festival automobile international 2015 - Porsche 911 Targa - 003 (cropped).jpg",
+    "File:Porsche 911 2.0 Coupe IMG 0819.jpg"
+   ]
+  },
+  {
+   "id": "bugatti-chiron",
+   "section": "sports",
+   "name": "부가티 시론",
+   "subtitle": "세상에서 손꼽히게 빠른 자동차",
+   "color": "#1D4ED8",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "2016",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스",
+     ""
+    ],
+    [
+     "💨",
+     "최고 속도",
+     "420",
+     "km/h"
+    ]
+   ],
+   "story": "부가티 시론은 아주 커다란 엔진을 단 하이퍼카예요. 고속도로 위의 자동차보다 네 배나 빠르게 달릴 수 있어요. 너무 빨라서 특별한 열쇠를 꽂아야 최고 속도로 달릴 수 있어요.",
+   "funFact": "시론의 특별한 버전은 시속 490킬로미터를 넘게 달린 적이 있어요.",
+   "wiki": "Bugatti Chiron",
+   "photoQuery": "Bugatti Chiron",
+   "photoMatch": [
+    "chiron"
+   ],
+   "videoQueries": [
+    "Bugatti Chiron driving",
+    "Bugatti Chiron on track",
+    "부가티 시론 주행"
+   ],
+   "videoMatch": [
+    "chiron",
+    "시론"
+   ],
+   "photos": [
+    "File:Bugatti Chiron 1.jpg",
+    "File:2020 Bugatti Chiron Super Sport 300+ Prototype.jpg",
+    "File:Bugatti Chiron Pur Sport.jpg",
+    "File:2021 Bugatti Chiron Super Sport 8.0 Front.jpg",
+    "File:Paris - RM Sotheby’s 2018 - Bugatti Chiron - 2017 - 011.jpg"
+   ]
+  },
+  {
+   "id": "mercedes-300sl",
+   "section": "sports",
+   "name": "메르세데스-벤츠 300 SL",
+   "subtitle": "갈매기 날개처럼 문이 열리는 차",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1954",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🚪",
+     "문",
+     "갈매기 날개",
+     ""
+    ]
+   ],
+   "story": "300 SL은 문이 위로 활짝 열리는 모습이 갈매기가 날개를 편 것 같아서 '걸윙'이라고 불려요. 원래 자동차 경주를 위해 만든 차를 사람들이 탈 수 있게 바꿨어요. 지금도 세계에서 가장 아름다운 자동차 가운데 하나로 꼽혀요.",
+   "funFact": "차체 옆이 높아서 보통 문을 달 수 없었기 때문에 문을 위로 열리게 만들었어요.",
+   "wiki": "Mercedes-Benz 300 SL",
+   "photoQuery": "Mercedes-Benz 300 SL Gullwing",
+   "photoMatch": [
+    "300 sl",
+    "300sl",
+    "gullwing"
+   ],
+   "videoQueries": [
+    "Mercedes 300 SL Gullwing driving",
+    "Mercedes-Benz 300 SL Gullwing",
+    "300SL gullwing drive"
+   ],
+   "videoMatch": [
+    "300 sl",
+    "300sl",
+    "gullwing"
+   ],
+   "photos": [
+    "File:Mercedes-Benz W198 300 SL Gullwing 1X7A0196.jpg",
+    "File:Mercedes-Benz 300 SL Transaxle.jpg",
+    "File:1955 Mercedes-Benz 300SL Gullwin.jpg",
+    "File:56 300SL Gullwing opened up.JPG",
+    "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5007.jpg"
+   ]
+  },
+  {
+   "id": "f1",
+   "section": "race",
+   "name": "F1 경주차",
+   "subtitle": "세계에서 가장 유명한 자동차 경주",
+   "color": "#E10600",
+   "facts": [
+    [
+     "💨",
+     "최고 속도",
+     "약 350",
+     "km/h"
+    ],
+    [
+     "🔧",
+     "타이어 교체",
+     "약 2",
+     "초"
+    ],
+    [
+     "🌍",
+     "경주",
+     "1년 20번 넘게",
+     ""
+    ]
+   ],
+   "story": "F1 경주차는 바퀴가 밖으로 드러나 있고 앞뒤에 날개가 달린 경주용 자동차예요. 날개가 바람의 힘으로 차를 땅에 눌러서 굽은 길도 아주 빠르게 돌아요. 세계 여러 나라를 돌며 1년 내내 경주를 해요.",
+   "funFact": "경주 중에 정비하는 사람들이 바퀴 네 개를 2초 만에 모두 바꿔 끼워요.",
+   "wiki": "Formula One car",
+   "photoQuery": "Formula One car race",
+   "photoMatch": [
+    "formula",
+    "f1",
+    "grand prix"
+   ],
+   "videoQueries": [
+    "F1 car onboard race highlights cars on track",
+    "Formula 1 cars racing",
+    "F1 pit stop"
+   ],
+   "videoMatch": [
+    "f1",
+    "formula 1",
+    "formula one",
+    "포뮬러"
+   ],
+   "photos": [
+    "File:FIA F1 Austria 2022 Nr. 55 Sainz (2) (edited).jpg",
+    "File:Formula 1, GP San Marino 1989, Imola, Prost e Senna.jpg",
+    "File:Mercedes F1 car 09.jpg",
+    "File:2012 Bahrain Grand Prix 2.jpg",
+    "File:Watkin old F1 car (475541594).jpg"
+   ]
+  },
+  {
+   "id": "indycar",
+   "section": "race",
+   "name": "인디카",
+   "subtitle": "미국의 빠른 경주차",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "💨",
+     "최고 속도",
+     "약 380",
+     "km/h"
+    ],
+    [
+     "🏁",
+     "유명한 경주",
+     "인디 500",
+     ""
+    ]
+   ],
+   "story": "인디카는 미국에서 열리는 경주에 나오는 자동차예요. F1 경주차와 비슷하게 생겼지만, 둥근 경주장을 아주 빠르게 빙글빙글 돌아요. 가장 유명한 경주는 800킬로미터를 달리는 '인디애나폴리스 500'이에요.",
+   "funFact": "인디 500에서 이긴 선수는 축하로 우유를 마셔요.",
+   "wiki": "IndyCar Series",
+   "photoQuery": "IndyCar Indianapolis 500 race car",
+   "photoMatch": [
+    "indy"
+   ],
+   "videoQueries": [
+    "IndyCar racing Indianapolis 500 cars",
+    "IndyCar race highlights",
+    "Indy 500 start"
+   ],
+   "videoMatch": [
+    "indy",
+    "인디"
+   ],
+   "photos": [
+    "File:Indy500winningcar2000.JPG",
+    "File:JLazierIndy07.jpg",
+    "File:US Navy 110116-N-6499D-230 Jeff Sinden, driver and co-owner of the modified Dallara IZOD IndyCar Series two-seat race car, takes a military member.jpg",
+    "File:2015 Indy Car (26196255011).jpg",
+    "File:2015 Indy Car (26236524996).jpg"
+   ]
+  },
+  {
+   "id": "le-mans",
+   "section": "race",
+   "name": "르망 경주차",
+   "subtitle": "24시간 동안 달리는 경주차",
+   "color": "#0F766E",
+   "facts": [
+    [
+     "⏰",
+     "경주 시간",
+     "24",
+     "시간"
+    ],
+    [
+     "🌏",
+     "열리는 곳",
+     "프랑스 르망",
+     ""
+    ],
+    [
+     "👨‍✈️",
+     "선수",
+     "3명이 번갈아",
+     ""
+    ]
+   ],
+   "story": "르망 경주차는 프랑스 르망에서 열리는 24시간 경주에 나가는 자동차예요. 낮에도 밤에도 쉬지 않고 하루 내내 달려요. 운전 선수 세 명이 번갈아 가며 운전해요.",
+   "funFact": "르망 24시간 경주에서 자동차는 하루 동안 5000킬로미터 넘게 달려요. 서울에서 부산까지 열두 번쯤 가는 거리예요.",
+   "wiki": "24 Hours of Le Mans",
+   "photoQuery": "Le Mans 24 Hours prototype",
+   "photoMatch": [
+    "le mans",
+    "lemans"
+   ],
+   "videoQueries": [
+    "Le Mans 24 hours race cars",
+    "24 Hours of Le Mans highlights",
+    "Le Mans hypercar"
+   ],
+   "videoMatch": [
+    "le mans",
+    "르망"
+   ],
+   "photos": [
+    "File:2024 24 Hours of Le Mans (54094762510).jpg",
+    "File:24 Hours of Le Mans 2010 - Audi Sport Team Joest 8.jpg",
+    "File:Porsche 962 1988 Le Mans at Silverstone 2007.JPG",
+    "File:Peugeot 908 24 Hours Le Mans 2009.jpg",
+    "File:Lemans-20100613-final.jpg"
+   ]
+  },
+  {
+   "id": "rally-car",
+   "section": "race",
+   "name": "랠리카",
+   "subtitle": "흙길과 눈길을 달리는 경주차",
+   "color": "#EA580C",
+   "facts": [
+    [
+     "🛣️",
+     "달리는 길",
+     "흙·눈·자갈",
+     ""
+    ],
+    [
+     "👥",
+     "타는 사람",
+     "2",
+     "명"
+    ],
+    [
+     "🌍",
+     "경주",
+     "세계 랠리",
+     ""
+    ]
+   ],
+   "story": "랠리카는 경주장이 아니라 산길, 숲길, 눈 덮인 길을 달리는 경주차예요. 옆자리의 길 안내 선수가 '다음은 왼쪽으로 크게 꺾어!' 하고 알려 줘요. 흙먼지를 날리며 미끄러지듯 코너를 돌아요.",
+   "funFact": "랠리카는 점프하듯 언덕을 넘어 하늘을 나는 것처럼 보일 때가 있어요.",
+   "wiki": "World Rally Championship",
+   "photoQuery": "World Rally Car",
+   "photoMatch": [
+    "rally",
+    "wrc"
+   ],
+   "videoQueries": [
+    "WRC rally car jump highlights",
+    "World Rally Championship gravel",
+    "rally car snow"
+   ],
+   "videoMatch": [
+    "rally",
+    "wrc",
+    "랠리"
+   ],
+   "photos": [
+    "File:Jari-Matti Latvala - 2007 Rallye Deutschland.jpg",
+    "File:Peugeot 206 WRC.jpg",
+    "File:OliverSolbergRallySweden2020(3).jpg",
+    "File:WORLD RALLY CAR - LOEB (6269568370).jpg",
+    "File:Loeb 2011 WRC Portugal.jpg"
+   ]
+  },
+  {
+   "id": "nascar",
+   "section": "race",
+   "name": "나스카",
+   "subtitle": "둥근 경주장을 도는 미국 경주차",
+   "color": "#FACC15",
+   "facts": [
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🏟️",
+     "경주장",
+     "타원형",
+     ""
+    ],
+    [
+     "💨",
+     "최고 속도",
+     "약 320",
+     "km/h"
+    ]
+   ],
+   "story": "나스카는 미국에서 아주 인기 있는 자동차 경주예요. 보통 자동차처럼 지붕이 있는 경주차 40대가 타원형 경주장을 줄지어 달려요. 차마다 큰 번호와 화려한 그림이 그려져 있어요.",
+   "funFact": "나스카 경주차는 무게를 줄이려고 문이 열리지 않아서, 선수는 창문으로 들어가고 나와요.",
+   "wiki": "NASCAR Cup Series",
+   "photoQuery": "NASCAR Cup Series car racing",
+   "photoMatch": [
+    "nascar"
+   ],
+   "videoQueries": [
+    "NASCAR race cars Daytona",
+    "NASCAR Cup Series racing",
+    "NASCAR start"
+   ],
+   "videoMatch": [
+    "nascar",
+    "나스카"
+   ],
+   "photoSkip": [
+    "governor",
+    "youngkin",
+    "announce"
+   ],
+   "photos": [
+    "File:Reserve Races in the NASCAR Sprint Cup Series Emory Healthcare 500-Closing Laps 315908.jpg",
+    "File:2012 NASCAR Sprint Cup Series FedEx 400 at Dover International Speedway.jpg",
+    "File:2011 Nascar Sprint Cup Series (6031184354).jpg",
+    "File:Paul Menard NASCAR Cup car shown at Road America 2012.jpg",
+    "File:Reserve Races in the NASCAR Sprint Cup Series Emory Healthcare 500-Closing Laps 315901.jpg"
+   ]
+  },
+  {
+   "id": "dragster",
+   "section": "race",
+   "name": "드래그스터",
+   "subtitle": "곧은길을 눈 깜짝할 새 달리는 차",
+   "color": "#7C3AED",
+   "facts": [
+    [
+     "📏",
+     "달리는 거리",
+     "305",
+     "m"
+    ],
+    [
+     "⏱️",
+     "걸리는 시간",
+     "약 4",
+     "초"
+    ],
+    [
+     "🪂",
+     "멈출 때",
+     "낙하산",
+     ""
+    ]
+   ],
+   "story": "드래그스터는 곧은길을 누가 더 빨리 달리나 겨루는 경주차예요. 몸이 아주 길고 뒷바퀴가 엄청 커요. 너무 빨라서 결승선을 지나면 낙하산을 펴서 멈춰요.",
+   "funFact": "가장 빠른 드래그스터는 출발하고 4초도 안 되어 시속 500킬로미터 넘게 달려요.",
+   "wiki": "Top Fuel",
+   "photoQuery": "Top Fuel dragster",
+   "photoMatch": [
+    "dragster",
+    "top fuel"
+   ],
+   "videoQueries": [
+    "Top Fuel dragster launch",
+    "NHRA top fuel dragster",
+    "dragster parachute"
+   ],
+   "videoMatch": [
+    "dragster",
+    "top fuel",
+    "드래그"
+   ],
+   "photos": [
+    "File:Top Fuel Dragster Dennis Nilsson (53084471226).jpg",
+    "File:Top Fuel Dragster - Santa Pod 2010 (4656543039).jpg",
+    "File:NHRA Top Fuel Dragster Finals Sonoma 2023.jpg",
+    "File:Top Fuel Dragster Susanne Callin.jpg",
+    "File:2001 Hadman Chassis, Top Fuel Dragster 'Victor' pic1.JPG"
+   ]
+  },
+  {
+   "id": "formula-e",
+   "section": "race",
+   "name": "포뮬러 E",
+   "subtitle": "전기로 달리는 경주차",
+   "color": "#06B6D4",
+   "facts": [
+    [
+     "🎂",
+     "처음 경주",
+     "2014",
+     "년"
+    ],
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ],
+    [
+     "🏙️",
+     "경주장",
+     "도시 거리",
+     ""
+    ]
+   ],
+   "story": "포뮬러 E는 전기로만 달리는 경주차들의 경주예요. 엔진 소리 대신 '위잉' 하는 소리를 내며 달려요. 서울을 비롯한 세계의 큰 도시 거리를 막아서 경주장으로 만들어요.",
+   "funFact": "2022년에는 서울에서도 포뮬러 E 경주가 열렸어요.",
+   "wiki": "Formula E",
+   "photoQuery": "Formula E car race",
+   "photoMatch": [
+    "formula e",
+    "formula-e"
+   ],
+   "videoQueries": [
+    "Formula E race highlights",
+    "Formula E cars racing",
+    "포뮬러E 서울"
+   ],
+   "videoMatch": [
+    "formula e",
+    "포뮬러e",
+    "포뮬러 e"
+   ],
+   "photos": [
+    "File:2023-04-22 Motorsport, ABB FIA Formula E World Championship, Berlin E-Prix 2023 1DX 1080 by Stepro.jpg",
+    "File:2023-04-23 Motorsport, ABB FIA Formula E World Championship, Berlin E-Prix 2023 1DX 1468 by Stepro.jpg",
+    "File:2023-04-21 Motorsport, ABB FIA Formula E World Championship, Berlin E-Prix 2023 1DX 0648 by Stepro.jpg",
+    "File:Formula E - Berlin 2015 - Daniel Abt.jpg",
+    "File:2024-05-12 Motorsport, ABB FIA Formula E World Championship, Berlin E-Prix 2024 STP 3211 by Stepro.jpg"
+   ]
+  },
+  {
+   "id": "kart",
+   "section": "race",
+   "name": "카트",
+   "subtitle": "작고 낮은 꼬마 경주차",
+   "color": "#22C55E",
+   "facts": [
+    [
+     "📐",
+     "높이",
+     "무릎 정도",
+     ""
+    ],
+    [
+     "🧒",
+     "타는 사람",
+     "어린이도",
+     ""
+    ],
+    [
+     "💨",
+     "빠르기",
+     "약 100",
+     "km/h"
+    ]
+   ],
+   "story": "카트는 땅에 바짝 붙은 아주 작은 경주차예요. 지붕도 문도 없이 의자와 운전대, 엔진만 있어요. 유명한 F1 선수들도 어릴 때 카트를 타며 운전을 배웠어요.",
+   "funFact": "카트는 땅에서 아주 가까워서 실제보다 훨씬 빠르게 달리는 것처럼 느껴져요.",
+   "wiki": "Kart racing",
+   "photoQuery": "kart racing",
+   "photoMatch": [
+    "kart"
+   ],
+   "videoQueries": [
+    "karting race",
+    "kart racing championship",
+    "카트 레이싱"
+   ],
+   "videoMatch": [
+    "kart",
+    "카트"
+   ],
+   "photos": [
+    "File:Go kart racing (6238710513).jpg",
+    "File:Go kart racing (6238712909).jpg",
+    "File:Kart Start.JPG",
+    "File:Kart racing (13274644675).jpg",
+    "File:G.P. Racing Kart (8555392928).jpg"
+   ]
+  },
+  {
+   "id": "city-bus",
+   "section": "buses",
+   "name": "시내버스",
+   "subtitle": "동네 곳곳을 다니는 파란 버스",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🚏",
+     "타는 곳",
+     "버스 정류장",
+     ""
+    ],
+    [
+     "🎨",
+     "서울 색깔",
+     "파랑·초록·빨강",
+     ""
+    ],
+    [
+     "🚪",
+     "문",
+     "2",
+     "개"
+    ]
+   ],
+   "story": "시내버스는 정해진 길을 따라 정류장마다 멈추며 사람들을 태워요. 서울에서는 먼 곳을 잇는 버스는 파란색, 동네를 도는 버스는 초록색이에요. 내릴 때는 '하차' 벨을 눌러 기사님께 알려요.",
+   "funFact": "요즘 시내버스는 바닥이 낮아서 휠체어나 유모차도 쉽게 탈 수 있어요.",
+   "wiki": "Seoul Metropolitan Bus",
+   "photoQuery": "Seoul bus",
+   "photoMatch": [
+    "seoul",
+    "bus"
+   ],
+   "videoQueries": [
+    "서울 버스 주행 외부",
+    "서울 시내버스 정류장 출발",
+    "Seoul city bus driving street",
+    "서울 간선버스 운행"
+   ],
+   "videoMatch": [
+    "bus",
+    "버스"
+   ],
+   "photos": [
+    "File:Seoul Bus 402 (2).jpg",
+    "File:Seoul Bus 7017.jpg",
+    "File:Seoul Bus 774.jpg",
+    "File:Seoul Bus 7720.jpg",
+    "File:Seoul bus 703 CRRC.jpg"
+   ]
+  },
+  {
+   "id": "double-decker",
+   "section": "buses",
+   "name": "2층 버스",
+   "subtitle": "위층에도 자리가 있는 버스",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🏢",
+     "층",
+     "2",
+     "층"
+    ],
+    [
+     "🌏",
+     "유명한 곳",
+     "영국 런던",
+     ""
+    ],
+    [
+     "📏",
+     "높이",
+     "약 4.4",
+     "m"
+    ]
+   ],
+   "story": "2층 버스는 버스 위에 한 층이 더 있어서 사람을 아주 많이 태워요. 영국 런던의 빨간 2층 버스가 가장 유명해요. 위층 맨 앞자리에 앉으면 도시가 한눈에 보여요.",
+   "funFact": "우리나라에도 수도권에서 서울로 오가는 2층 버스가 다녀요.",
+   "wiki": "Double-decker bus",
+   "photoQuery": "London double decker bus",
+   "photoMatch": [
+    "double",
+    "routemaster",
+    "decker"
+   ],
+   "videoQueries": [
+    "London double decker bus street",
+    "Routemaster bus London",
+    "2층버스 주행"
+   ],
+   "videoMatch": [
+    "double decker",
+    "double-decker",
+    "routemaster",
+    "2층"
+   ],
+   "photos": [
+    "File:AEC Routemaster double-decker bus displaying route T15 (NOT IN SERVICE) in central London traffic, June 6 2024.jpg",
+    "File:Metroline double-decker bus on route 274 to Lancaster Gate in London.jpg",
+    "File:Colombo City Tour Routemaster bus RM731, RL3 (60-6640, ex-60-6639, ex-WLT 731), Sri Lanka, 12 June 2011.jpg",
+    "File:Modern London double decker bus at night.jpg",
+    "File:Spokane Transit Authority double decker bus 22 April 2025.jpg"
+   ]
+  },
+  {
+   "id": "articulated-bus",
+   "section": "buses",
+   "name": "굴절 버스",
+   "subtitle": "가운데가 꺾이는 긴 버스",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "📏",
+     "길이",
+     "약 18",
+     "m"
+    ],
+    [
+     "🔗",
+     "가운데",
+     "접히는 관절",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "약 100",
+     "명"
+    ]
+   ],
+   "story": "굴절 버스는 버스 두 대를 이어 붙인 것처럼 긴 버스예요. 가운데에 아코디언 같은 관절이 있어서 길모퉁이를 돌 때 구부러져요. 사람이 많은 길에서 한 번에 많은 손님을 태워요.",
+   "funFact": "굴절 버스가 길을 돌 때 가운데 관절 부분의 바닥이 빙글 돌아가요.",
+   "wiki": "Articulated bus",
+   "photoQuery": "articulated bus",
+   "photoMatch": [
+    "articulated",
+    "bendy",
+    "gelenkbus"
+   ],
+   "videoQueries": [
+    "articulated bus turning",
+    "bendy bus driving",
+    "굴절버스 주행"
+   ],
+   "videoMatch": [
+    "articulated",
+    "bendy",
+    "굴절"
+   ],
+   "photos": [
+    "File:Bendy bus at the university of bath arp.jpg",
+    "File:Yutong articulated service bus.jpg",
+    "File:Bi-articulated bus TransMilenio BOG 03 2018 8544.jpg",
+    "File:An Articulated Nova Bus of Niagara Region Transit.jpg",
+    "File:MTA New York City Bus Nova Bus LFS articulated 5439 on the Bx1 (blue yellow livery).jpg"
+   ]
+  },
+  {
+   "id": "express-bus",
+   "section": "buses",
+   "name": "고속버스",
+   "subtitle": "먼 도시까지 데려다주는 버스",
+   "color": "#7C3AED",
+   "facts": [
+    [
+     "🛣️",
+     "달리는 길",
+     "고속도로",
+     ""
+    ],
+    [
+     "💺",
+     "자리",
+     "약 28~45",
+     "석"
+    ],
+    [
+     "🧳",
+     "짐칸",
+     "버스 아래",
+     ""
+    ]
+   ],
+   "story": "고속버스는 고속도로를 달려 먼 도시까지 사람들을 데려다주는 버스예요. 의자가 푹신하고 뒤로 많이 젖혀져서 편하게 갈 수 있어요. 여행 가방은 버스 옆구리에 있는 큰 짐칸에 실어요.",
+   "funFact": "우등 고속버스는 한 줄에 의자가 세 개뿐이라 자리가 아주 넓어요.",
+   "wiki": "Coach (bus)",
+   "photoQuery": "coach bus highway",
+   "photoMatch": [
+    "coach",
+    "express",
+    "bus"
+   ],
+   "videoQueries": [
+    "고속버스 주행",
+    "coach bus driving highway",
+    "intercity coach bus"
+   ],
+   "videoMatch": [
+    "고속버스",
+    "coach",
+    "express bus"
+   ],
+   "photos": [
+    "File:Ausden Clark Executive Coach in Black and Pink Livery.jpg",
+    "File:Flixbus (Belle Vue Manchester) YG25FEP (2).jpg",
+    "File:Alinsabus(6507-HLF) - Flickr - antoniovera1.jpg",
+    "File:Jrbuskanto-chitaseagull-20070907.jpg",
+    "File:Kintetsu-highway-bus-8063.jpg"
+   ]
+  },
+  {
+   "id": "school-bus",
+   "section": "buses",
+   "name": "스쿨버스",
+   "subtitle": "어린이를 태우는 노란 버스",
+   "color": "#FACC15",
+   "facts": [
+    [
+     "🎨",
+     "색깔",
+     "노랑",
+     ""
+    ],
+    [
+     "🌏",
+     "유명한 곳",
+     "미국",
+     ""
+    ],
+    [
+     "🛑",
+     "멈춤 표지판",
+     "옆에 달림",
+     ""
+    ]
+   ],
+   "story": "스쿨버스는 학교에 가는 어린이들을 태우는 버스예요. 미국의 스쿨버스는 멀리서도 잘 보이도록 모두 노란색이에요. 버스가 멈추면 옆에서 '멈춤' 표지판이 펼쳐져서 다른 차들이 꼭 서야 해요.",
+   "funFact": "미국에는 노란 스쿨버스가 약 50만 대 있어요.",
+   "wiki": "School bus",
+   "photoQuery": "yellow school bus",
+   "photoMatch": [
+    "school bus",
+    "schoolbus"
+   ],
+   "videoQueries": [
+    "yellow school bus driving down road",
+    "school bus stop arm deploy",
+    "Blue Bird school bus driving",
+    "Thomas Built school bus driving"
+   ],
+   "videoMatch": [
+    "school bus",
+    "스쿨버스",
+    "blue bird",
+    "thomas built"
+   ],
+   "photos": [
+    "File:IC CE school bus (shortened chassis).jpg",
+    "File:Maine School bus stop.jpg",
+    "File:School bus parked outside McDonald's, Windsor, Ontario, 2025-06-03.jpg",
+    "File:2016-10 Yellow school bus Quebec.jpg",
+    "File:2016-11 Yellow School bus Quebec.jpg"
+   ]
+  },
+  {
+   "id": "electric-bus",
+   "section": "buses",
+   "name": "전기 버스",
+   "subtitle": "조용히 달리는 친환경 버스",
+   "color": "#10B981",
+   "facts": [
+    [
+     "🔋",
+     "힘",
+     "전기",
+     ""
+    ],
+    [
+     "🔇",
+     "소리",
+     "아주 조용",
+     ""
+    ],
+    [
+     "💨",
+     "매연",
+     "없음",
+     ""
+    ]
+   ],
+   "story": "전기 버스는 큰 배터리에 담은 전기로 달리는 버스예요. 매연이 나오지 않아서 공기를 깨끗하게 지켜 줘요. 밤에 차고에서 충전하거나 정류장에서 잠깐씩 충전하기도 해요.",
+   "funFact": "어떤 전기 버스는 정류장에 설 때마다 지붕 위로 충전기가 내려와서 몇 분 만에 전기를 채워요.",
+   "wiki": "Electric bus",
+   "photoQuery": "electric bus",
+   "photoMatch": [
+    "electric",
+    "e-bus"
+   ],
+   "videoQueries": [
+    "electric bus pantograph charging at bus stop",
+    "electric bus driving city",
+    "Hyundai Elec City bus",
+    "전기버스 운행"
+   ],
+   "videoMatch": [
+    "electric bus",
+    "전기버스",
+    "e-bus",
+    "electric",
+    "elec city",
+    "일렉시티"
+   ],
+   "photos": [
+    "File:Electric buses in New York (9418).jpg",
+    "File:VDL Citea Electric charging at West-Terschelling bus station.jpg",
+    "File:St. Albert Transit BYD Electric Bus.jpg",
+    "File:VDL Citea SLF-120 Electric in Nes (Ameland).jpg",
+    "File:Olectra - BYD Electric Bus Hyderabad 4.jpg"
+   ]
+  },
+  {
+   "id": "trolleybus",
+   "section": "buses",
+   "name": "트롤리버스",
+   "subtitle": "전깃줄에 매달려 달리는 버스",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "⚡",
+     "힘",
+     "위쪽 전깃줄",
+     ""
+    ],
+    [
+     "📡",
+     "지붕",
+     "긴 막대 2개",
+     ""
+    ],
+    [
+     "🌏",
+     "많은 곳",
+     "유럽",
+     ""
+    ]
+   ],
+   "story": "트롤리버스는 길 위에 걸린 전깃줄에서 전기를 받아 달리는 버스예요. 지붕에 달린 긴 막대 두 개가 전깃줄에 닿아 있어요. 버스지만 전철처럼 전기로 조용하게 달려요.",
+   "funFact": "막대가 전깃줄에서 빠지면 기사님이 내려서 다시 걸어 줘야 해요.",
+   "wiki": "Trolleybus",
+   "photoQuery": "trolleybus",
+   "photoMatch": [
+    "trolleybus",
+    "trolley"
+   ],
+   "videoQueries": [
+    "trolleybus driving street",
+    "trolleybus poles",
+    "trolleybus city"
+   ],
+   "videoMatch": [
+    "trolleybus",
+    "trolley bus",
+    "트롤리"
+   ],
+   "photos": [
+    "File:Castellón Solaris Trollino MetroStyle trolleybus arriving at UJI terminus (2024).jpg",
+    "File:Malatya trolleybus 4403 at Bugday Pazari in 2017.jpg",
+    "File:Trolleybus BKM-321 on Nevsky Avenue (img1).jpg",
+    "File:Kaluga 2013 trolleybus 01.jpg",
+    "File:Trolleybus ZiU-682G in SPB.jpg"
+   ]
+  },
+  {
+   "id": "porter",
+   "section": "trucks",
+   "name": "현대 포터",
+   "subtitle": "골목골목 짐을 나르는 작은 트럭",
+   "color": "#3B82F6",
+   "facts": [
+    [
+     "🎂",
+     "처음 나온 해",
+     "1977",
+     "년"
+    ],
+    [
+     "📦",
+     "실을 수 있는 무게",
+     "1",
+     "톤"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ]
+   ],
+   "story": "포터는 우리나라 골목에서 가장 많이 볼 수 있는 작은 트럭이에요. 과일 장사, 이삿짐, 택배 같은 온갖 짐을 실어 날라요. 앞이 납작해서 좁은 골목에서도 잘 돌아다녀요.",
+   "funFact": "포터는 몇 해 동안 우리나라에서 가장 많이 팔린 자동차였어요.",
+   "wiki": "Hyundai Porter",
+   "photoQuery": "Hyundai Porter truck",
+   "photoMatch": [
+    "porter"
+   ],
+   "videoQueries": [
+    "현대 포터 광고",
+    "Hyundai Porter commercial",
+    "포터 일렉트릭 광고",
+    "Hyundai H100 truck commercial"
+   ],
+   "videoMatch": [
+    "porter",
+    "포터",
+    "h100",
+    "h-100"
+   ],
+   "photos": [
+    "File:00 hyundai porter 3.jpg",
+    "File:20120109 hyundai porter2 1.jpg",
+    "File:Hyundai Porter fourth gen Double Cab.jpg",
+    "File:Hyundai Porter (3rd gen).jpg",
+    "File:20120109 hyundai porter2 2.jpg"
+   ]
+  },
+  {
+   "id": "semi-truck",
+   "section": "trucks",
+   "name": "트레일러 트럭",
+   "subtitle": "커다란 짐칸을 끄는 힘센 트럭",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🛞",
+     "바퀴",
+     "18",
+     "개"
+    ],
+    [
+     "📏",
+     "길이",
+     "약 16",
+     "m"
+    ],
+    [
+     "🔗",
+     "짐칸",
+     "떼었다 붙임",
+     ""
+    ]
+   ],
+   "story": "트레일러 트럭은 앞의 트랙터가 뒤에 붙은 큰 짐칸을 끌고 달려요. 짐칸을 떼어 놓고 다른 짐칸에 바꿔 붙일 수 있어요. 공장에서 만든 물건을 먼 곳까지 한꺼번에 많이 날라요.",
+   "funFact": "미국에서는 바퀴가 18개라서 '18 휠러'라고도 불러요.",
+   "wiki": "Semi-trailer truck",
+   "photoQuery": "semi-trailer truck",
+   "photoMatch": [
+    "semi",
+    "truck",
+    "tractor unit"
+   ],
+   "videoQueries": [
+    "Peterbilt 389 driving highway",
+    "Kenworth W900 driving",
+    "big rig trucks highway footage",
+    "Volvo Trucks commercial",
+    "Scania commercial truck"
+   ],
+   "videoMatch": [
+    "truck",
+    "trucks",
+    "scania",
+    "volvo",
+    "actros",
+    "peterbilt",
+    "kenworth",
+    "트럭",
+    "트레일러"
+   ],
+   "photos": [
+    "File:Mercedes-Benz Actros truck.jpg",
+    "File:Bakersfield, (CA) Truck Peterbilt at Flying J Travel Plaza (en2016) (4).JPG",
+    "File:Bakersfield, (CA) Truck Kenworth at Flying J Travel (5).jpg",
+    "File:PRIME Inc - Peterbilt Refrigerated Semi-trailer truck - I-90 Spokane, WA.jpg",
+    "File:Red B-double truck.jpg"
+   ]
+  },
+  {
+   "id": "car-carrier",
+   "section": "trucks",
+   "name": "자동차 운반차",
+   "subtitle": "자동차를 업고 가는 트럭",
+   "color": "#6366F1",
+   "facts": [
+    [
+     "🚗",
+     "싣는 차",
+     "약 8~10",
+     "대"
+    ],
+    [
+     "🏢",
+     "층",
+     "2",
+     "층"
+    ],
+    [
+     "🛗",
+     "싣는 방법",
+     "직접 운전해 올림",
+     ""
+    ]
+   ],
+   "story": "자동차 운반차는 새로 만든 자동차들을 2층으로 싣고 가는 트럭이에요. 위층 받침대가 오르락내리락해서 차를 차곡차곡 실어요. 공장에서 만든 새 차가 이 트럭을 타고 가게까지 가요.",
+   "funFact": "자동차를 실을 때는 운전하는 사람이 차를 한 대씩 직접 운전해서 받침대 위로 올려요.",
+   "wiki": "Car carrier trailer",
+   "photoQuery": "car carrier truck",
+   "photoMatch": [
+    "car carrier",
+    "car transporter",
+    "autotransporter",
+    "auto transport"
+   ],
+   "videoQueries": [
+    "car carrier truck loading cars",
+    "car transporter loading",
+    "카캐리어 상차"
+   ],
+   "videoMatch": [
+    "car carrier",
+    "car transporter",
+    "카캐리어",
+    "auto transport"
+   ],
+   "photos": [
+    "File:Renault 380 car carrier (17688579282).jpg",
+    "File:Scania S-series car carrier in Tokyo.jpg",
+    "File:Loaded car carrier.jpg",
+    "File:Lohr car carrier (2).jpg",
+    "File:Grindrod Logistics Mercedes Benz Actros car carrier (17169749115).jpg"
+   ]
+  },
+  {
+   "id": "tanker",
+   "section": "trucks",
+   "name": "탱크로리",
+   "subtitle": "커다란 통을 싣고 다니는 트럭",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🛢️",
+     "싣는 것",
+     "기름·우유·물",
+     ""
+    ],
+    [
+     "🫙",
+     "통 모양",
+     "긴 원통",
+     ""
+    ],
+    [
+     "💧",
+     "담는 양",
+     "약 2만",
+     "리터"
+    ]
+   ],
+   "story": "탱크로리는 뒤에 커다란 원통을 싣고 다니는 트럭이에요. 주유소에 기름을 가져다주거나, 목장에서 우유를 실어 공장으로 날라요. 안에서 액체가 출렁이지 않도록 통 안이 여러 칸으로 나뉘어 있어요.",
+   "funFact": "주유소 땅속 큰 기름 탱크는 탱크로리가 와서 채워 줘요.",
+   "wiki": "Tank truck",
+   "photoQuery": "tank truck",
+   "photoMatch": [
+    "tank truck",
+    "tanker",
+    "tankwagen"
+   ],
+   "videoQueries": [
+    "tanker truck driving",
+    "tank truck delivering fuel",
+    "탱크로리 주행"
+   ],
+   "videoMatch": [
+    "tanker",
+    "tank truck",
+    "탱크로리"
+   ],
+   "photos": [
+    "File:Loves Freightliner tanker truck, southern Oklahoma.jpg",
+    "File:Shell tank truck in Zurich International Airport-5311.jpg",
+    "File:Shell Fuel Tanker Truck at Capioví Service Station, Misiones, Argentina.jpg",
+    "File:KAMAZ-65207-based fuel tank truck in Tomsk.jpg",
+    "File:Chemical tank truck Dresden.jpg"
+   ]
+  },
+  {
+   "id": "pickup",
+   "section": "trucks",
+   "name": "픽업트럭",
+   "subtitle": "뒤에 짐칸이 열린 자동차",
+   "color": "#1E3A8A",
+   "facts": [
+    [
+     "🌏",
+     "많은 곳",
+     "미국",
+     ""
+    ],
+    [
+     "📦",
+     "짐칸",
+     "뚜껑 없음",
+     ""
+    ],
+    [
+     "🏆",
+     "유명한 차",
+     "포드 F-150",
+     ""
+    ]
+   ],
+   "story": "픽업트럭은 앞은 승용차처럼 사람이 타고, 뒤에는 뚜껑 없는 짐칸이 있어요. 나무, 자전거, 캠핑 짐 같은 커다란 물건을 툭 던져 실을 수 있어요. 미국에서는 가족 자동차로도 아주 많이 타요.",
+   "funFact": "포드 F-시리즈 픽업트럭은 40년 넘게 미국에서 가장 많이 팔린 자동차예요.",
+   "wiki": "Ford F-Series",
+   "photoQuery": "Ford F-150 pickup truck",
+   "photoMatch": [
+    "f-150",
+    "f150",
+    "pickup"
+   ],
+   "videoQueries": [
+    "Ford F-150 driving off road",
+    "Ford F-150 towing",
+    "pickup truck driving"
+   ],
+   "videoMatch": [
+    "f-150",
+    "f150",
+    "pickup",
+    "픽업"
+   ],
+   "photos": [
+    "File:2018 Ford F-150 XLT Crew Cab, front 11.10.19.jpg",
+    "File:2010 Ford F-150 SVT Raptor SuperCab, front left, 04-04-2023.jpg",
+    "File:Ford F-150 (thirteenth generation) 1X7A1775.jpg",
+    "File:1993 F-150 with dual gas tanks.jpg",
+    "File:2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg"
+   ]
+  },
+  {
+   "id": "monster-truck",
+   "section": "trucks",
+   "name": "몬스터 트럭",
+   "subtitle": "어마어마하게 큰 바퀴를 단 트럭",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "🛞",
+     "바퀴 높이",
+     "약 1.7",
+     "m"
+    ],
+    [
+     "⚖️",
+     "무게",
+     "약 5",
+     "톤"
+    ],
+    [
+     "🎪",
+     "하는 일",
+     "묘기 쇼",
+     ""
+    ]
+   ],
+   "story": "몬스터 트럭은 어른 키만 한 거대한 바퀴를 단 트럭이에요. 경기장에서 흙 언덕을 뛰어넘고 바퀴 하나로 서는 묘기를 부려요. 차마다 공룡이나 괴물처럼 멋진 모양과 이름이 있어요.",
+   "funFact": "첫 몬스터 트럭의 이름은 '빅풋(큰 발)'이었어요.",
+   "wiki": "Monster truck",
+   "photoQuery": "monster truck",
+   "photoMatch": [
+    "monster",
+    "bigfoot",
+    "grave digger"
+   ],
+   "videoQueries": [
+    "monster truck freestyle wheelie",
+    "monster jam freestyle",
+    "Bigfoot monster truck"
+   ],
+   "videoMatch": [
+    "monster truck",
+    "monster jam",
+    "몬스터",
+    "bigfoot"
+   ],
+   "photos": [
+    "File:Grave digger.JPG",
+    "File:USAF Afterburner Monster Jam.jpg",
+    "File:Superman monster truck.jpg",
+    "File:Batman Monster Truck 2014.jpg",
+    "File:Red Dragon Monster Truck, Snetterton, September 2018 (43702465145).jpg"
+   ]
+  },
+  {
+   "id": "road-train",
+   "section": "trucks",
+   "name": "로드 트레인",
+   "subtitle": "기차처럼 긴 트럭",
+   "color": "#B45309",
+   "facts": [
+    [
+     "🌏",
+     "나라",
+     "오스트레일리아",
+     ""
+    ],
+    [
+     "📏",
+     "길이",
+     "50 넘게",
+     "m"
+    ],
+    [
+     "🔗",
+     "짐칸",
+     "3~4",
+     "개"
+    ]
+   ],
+   "story": "로드 트레인은 트럭 한 대가 짐칸을 서너 개나 줄줄이 끌고 다녀요. 기차처럼 길어서 '길 위의 기차'라는 이름이 붙었어요. 사람이 드문 오스트레일리아의 넓은 땅을 오가며 짐을 날라요.",
+   "funFact": "가장 긴 로드 트레인은 시내버스 다섯 대를 이은 것보다 더 길어요.",
+   "wiki": "Road train",
+   "photoQuery": "road train Australia",
+   "photoMatch": [
+    "road train",
+    "roadtrain"
+   ],
+   "videoQueries": [
+    "road train Australia driving",
+    "Australian road train outback",
+    "road train truck"
+   ],
+   "videoMatch": [
+    "road train",
+    "로드트레인",
+    "로드 트레인"
+   ],
+   "photos": [
+    "File:Road train (25).jpg",
+    "File:Road Train Australia.jpg",
+    "File:00 4591 Road train - Great Northern Highway (Western Australia).jpg",
+    "File:A-Triple road trains in Queensland, Australia, 2024, 02.jpg",
+    "File:Another Bloody Road Train - panoramio.jpg"
+   ]
+  },
+  {
+   "id": "fire-engine",
+   "section": "emergency",
+   "name": "소방차",
+   "subtitle": "불을 끄러 달려가는 빨간 차",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎨",
+     "색깔",
+     "빨강",
+     ""
+    ],
+    [
+     "💧",
+     "싣는 물",
+     "약 3000",
+     "리터"
+    ],
+    [
+     "🚨",
+     "소리",
+     "사이렌",
+     ""
+    ]
+   ],
+   "story": "소방차는 불이 난 곳으로 소방관을 태우고 달려가는 자동차예요. 물탱크와 펌프, 긴 호스를 싣고 다니며 물을 힘차게 뿜어요. 사이렌을 울리면 다른 차들이 길을 비켜 줘요.",
+   "funFact": "소방차가 지나갈 때 길을 비켜 주는 것을 '모세의 기적'이라고 불러요.",
+   "wiki": "Fire engine",
+   "photoQuery": "fire engine",
+   "photoMatch": [
+    "fire engine",
+    "fire truck",
+    "feuerwehr",
+    "소방"
+   ],
+   "videoQueries": [
+    "fire engine responding siren",
+    "fire truck responding lights",
+    "소방차 출동"
+   ],
+   "videoMatch": [
+    "fire engine",
+    "fire truck",
+    "소방차",
+    "fire"
+   ],
+   "photos": [
+    "File:Fire Engine 33 (6225707251).jpg",
+    "File:20230306 HOWO T5G 340 fire engine in Kaifeng.jpg",
+    "File:Fire engine at Aiskew.jpg",
+    "File:Ural Next-based fire engine in Tomsk 01.jpg",
+    "File:MAN TGM 18.330 fire engine, Tom Mboya Fire Station, 2025 (01).jpg"
+   ]
+  },
+  {
+   "id": "ladder-truck",
+   "section": "emergency",
+   "name": "사다리 소방차",
+   "subtitle": "높은 곳까지 사다리를 뻗는 차",
+   "color": "#B91C1C",
+   "facts": [
+    [
+     "🪜",
+     "사다리 길이",
+     "약 50",
+     "m"
+    ],
+    [
+     "🏢",
+     "닿는 높이",
+     "약 17",
+     "층"
+    ],
+    [
+     "🔄",
+     "사다리",
+     "빙글 돎",
+     ""
+    ]
+   ],
+   "story": "사다리 소방차는 쭉쭉 늘어나는 긴 사다리를 싣고 다녀요. 높은 건물에 갇힌 사람을 구하거나 높은 곳에 물을 뿌려요. 사다리가 빙글 돌아서 원하는 방향으로 뻗을 수 있어요.",
+   "funFact": "사다리를 뻗기 전에 차 옆에서 다리 네 개가 나와 땅을 단단히 짚어요. 그래야 넘어지지 않아요.",
+   "wiki": "Turntable ladder",
+   "photoQuery": "turntable ladder fire",
+   "photoMatch": [
+    "ladder",
+    "drehleiter",
+    "aerial"
+   ],
+   "videoQueries": [
+    "fire truck aerial ladder extending",
+    "turntable ladder fire brigade demonstration",
+    "사다리차 소방 훈련"
+   ],
+   "videoMatch": [
+    "ladder",
+    "aerial",
+    "사다리",
+    "drehleiter"
+   ],
+   "photos": [
+    "File:Iveco Eurocargo - Magirus turntable ladder - rear view.jpg",
+    "File:Iveco Eurocargo - Magirus turntable ladder - front view.jpg",
+    "File:London Fire Brigade Reserve Aerial Ladder Platform Old Kent Road E353.jpg",
+    "File:Historic Magirus-Deutz turntable ladder at the fire station - Lagos - 2015-08-10.jpg",
+    "File:Turntable ladder Iveco Magirus (Koryazhma) (07).jpg"
+   ]
+  },
+  {
+   "id": "airport-fire",
+   "section": "emergency",
+   "name": "공항 소방차",
+   "subtitle": "비행장을 지키는 거대한 소방차",
+   "color": "#F97316",
+   "facts": [
+    [
+     "💧",
+     "싣는 물",
+     "약 1만 2천",
+     "리터"
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "6~8",
+     "개"
+    ],
+    [
+     "🔫",
+     "물대포",
+     "지붕 위",
+     ""
+    ]
+   ],
+   "story": "공항 소방차는 비행장에서 비행기를 지키는 아주 크고 힘센 소방차예요. 지붕 위의 물대포로 멀리까지 물과 거품을 쏘아요. 큰 덩치인데도 30초쯤이면 시속 80킬로미터까지 빨라져요.",
+   "funFact": "비행기가 처음 공항에 오거나 기장이 은퇴하는 날, 공항 소방차들이 물대포로 물 아치를 만들어 축하해 줘요.",
+   "wiki": "Airport crash tender",
+   "photoQuery": "Rosenbauer Panther airport fire",
+   "photoMatch": [
+    "panther",
+    "airport",
+    "arff",
+    "flughafen"
+   ],
+   "videoQueries": [
+    "Rosenbauer Panther water cannon",
+    "airport fire truck water salute",
+    "airport fire truck demonstration"
+   ],
+   "videoMatch": [
+    "panther",
+    "airport fire",
+    "arff",
+    "water salute",
+    "공항 소방"
+   ],
+   "photos": [
+    "File:MAN Ziegler FLF 60-1 airport crash tender stuttgart airport 2.jpg",
+    "File:Rosenbauer Panther Airport Innsbruck Juni 2008.jpg",
+    "File:Rosenbauer Panther MIAA.jpg",
+    "File:Airport Ljubljana Rosenbauer Panther IMG 8832.jpg",
+    "File:Rosenbauer Pula Airport.JPG"
+   ]
+  },
+  {
+   "id": "ambulance",
+   "section": "emergency",
+   "name": "구급차",
+   "subtitle": "아픈 사람을 병원으로 데려가는 차",
+   "color": "#F8FAFC",
+   "facts": [
+    [
+     "📞",
+     "부르는 번호",
+     "119",
+     ""
+    ],
+    [
+     "🛏️",
+     "안에",
+     "침대·의료 장비",
+     ""
+    ],
+    [
+     "🚨",
+     "소리",
+     "사이렌",
+     ""
+    ]
+   ],
+   "story": "구급차는 다치거나 아픈 사람을 빠르게 병원으로 데려가는 자동차예요. 안에 침대와 산소통, 여러 의료 기구가 있어서 가는 동안에도 치료를 해요. 119에 전화하면 구급대원이 구급차를 타고 와요.",
+   "funFact": "구급차 앞에는 'AMBULANCE' 글자가 거꾸로 쓰여 있어서, 앞차의 거울로 보면 바르게 읽혀요.",
+   "wiki": "Ambulance",
+   "photoQuery": "ambulance",
+   "photoMatch": [
+    "ambulance",
+    "rettungswagen",
+    "구급"
+   ],
+   "videoQueries": [
+    "ambulance responding siren",
+    "ambulance driving lights",
+    "구급차 출동"
+   ],
+   "videoMatch": [
+    "ambulance",
+    "구급차"
+   ],
+   "photos": [
+    "File:Albania ambulance 03.jpg",
+    "File:DNK ambulance A6 b.jpg",
+    "File:Oklahoma City Fire Department Ambulance.jpg",
+    "File:Nilsson XC90 Ambulance.jpg",
+    "File:SA Ambulance Bariatric Ambulance.jpg"
+   ]
+  },
+  {
+   "id": "police-car",
+   "section": "emergency",
+   "name": "경찰차",
+   "subtitle": "우리 동네를 지키는 차",
+   "color": "#1D4ED8",
+   "facts": [
+    [
+     "🚨",
+     "지붕",
+     "경광등",
+     ""
+    ],
+    [
+     "📞",
+     "부르는 번호",
+     "112",
+     ""
+    ],
+    [
+     "🚓",
+     "하는 일",
+     "순찰",
+     ""
+    ]
+   ],
+   "story": "경찰차는 경찰관이 타고 동네를 돌며 우리를 지켜 주는 자동차예요. 지붕에 빨갛고 파란 불빛이 반짝이는 경광등이 있어요. 길을 잃거나 도움이 필요하면 112에 전화하면 돼요.",
+   "funFact": "어떤 나라에는 아주 빠른 스포츠카 경찰차도 있어요. 이탈리아 경찰은 람보르기니를 타요.",
+   "wiki": "Police car",
+   "photoQuery": "police car",
+   "photoMatch": [
+    "police",
+    "polizei",
+    "경찰"
+   ],
+   "videoQueries": [
+    "police car lights siren driving",
+    "police cars responding",
+    "경찰차 출동"
+   ],
+   "videoMatch": [
+    "police car",
+    "police",
+    "경찰차"
+   ],
+   "photos": [
+    "File:현대 쏘나타 DN8 페이스리프트 경찰차.jpg",
+    "File:Washington DC Metropolitan Police Department Dodge Charger No. 1605.jpg",
+    "File:NSW Police BMW Highway Patrol car with Code 3 Pursuit lightbar.jpg",
+    "File:Swedish police car with lights on.jpg",
+    "File:Grand Ducal Police car (Ford) in Luxembourg City.jpg"
+   ]
+  },
+  {
+   "id": "tow-truck",
+   "section": "emergency",
+   "name": "견인차",
+   "subtitle": "고장 난 차를 끌고 가는 차",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🪝",
+     "장비",
+     "고리·받침대",
+     ""
+    ],
+    [
+     "🚗",
+     "하는 일",
+     "고장 난 차 옮기기",
+     ""
+    ],
+    [
+     "🌙",
+     "일하는 때",
+     "밤낮 없이",
+     ""
+    ]
+   ],
+   "story": "견인차는 고장 나거나 멈춰 선 자동차를 끌고 가는 자동차예요. 뒤에 달린 고리나 받침대로 차 바퀴를 들어 올려서 옮겨요. 어떤 견인차는 차를 통째로 등에 실어서 날라요.",
+   "funFact": "아주 큰 견인차는 버스나 트럭처럼 무거운 차도 끌 수 있어요.",
+   "wiki": "Tow truck",
+   "photoQuery": "tow truck",
+   "photoMatch": [
+    "tow truck",
+    "wrecker",
+    "abschlepp"
+   ],
+   "videoQueries": [
+    "tow truck towing car",
+    "flatbed tow truck loading car",
+    "견인차 작업"
+   ],
+   "videoMatch": [
+    "tow truck",
+    "towing",
+    "견인",
+    "flatbed",
+    "wrecker"
+   ],
+   "photos": [
+    "File:Flat Bed Tow Truck.jpg",
+    "File:JAF tow truck on Ebisu-minami Bridge.jpg",
+    "File:Tow truck in Moscow 01.jpg",
+    "File:Bus Tow truck.jpg",
+    "File:Tow truck in Moscow 04.jpg"
+   ]
+  },
+  {
+   "id": "excavator",
+   "section": "construction",
+   "name": "굴착기",
+   "subtitle": "땅을 파는 힘센 팔",
+   "color": "#F5A300",
+   "facts": [
+    [
+     "🦾",
+     "팔",
+     "붐·암·버킷",
+     ""
+    ],
+    [
+     "🔄",
+     "윗몸",
+     "360도 회전",
+     ""
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "무한궤도",
+     ""
+    ]
+   ],
+   "story": "굴착기는 긴 팔 끝의 버킷(바가지)으로 땅을 파고 흙을 퍼 올리는 기계예요. 우리나라에서는 '포클레인'이라고도 많이 불러요. 윗몸이 빙글빙글 돌아서 판 흙을 옆의 트럭에 실어요.",
+   "funFact": "버킷 대신 망치, 집게, 가위 같은 다른 도구로 바꿔 끼우면 바위를 깨거나 건물을 부술 수도 있어요.",
+   "wiki": "Excavator",
+   "photoQuery": "excavator digging",
+   "photoMatch": [
+    "excavator",
+    "bagger",
+    "digger"
+   ],
+   "videoQueries": [
+    "excavator digging loading dump truck",
+    "excavator working",
+    "굴착기 작업"
+   ],
+   "videoMatch": [
+    "excavator",
+    "굴착기",
+    "포크레인",
+    "포클레인",
+    "digger"
+   ],
+   "photos": [
+    "File:Excavator Postiguet Beach 2.jpg",
+    "File:Caterpillar 350L excavator with pincher claw Louisville Kentucky USA March 2001 file a1c018.jpg",
+    "File:LinkBelt290X2Excavator.jpg",
+    "File:Liebherr 314 excavator.JPG",
+    "File:Daewoo digger.jpg"
+   ]
+  },
+  {
+   "id": "mobile-crane",
+   "section": "construction",
+   "name": "크레인차",
+   "subtitle": "무거운 것을 번쩍 드는 차",
+   "color": "#EAB308",
+   "facts": [
+    [
+     "🏋️",
+     "드는 무게",
+     "수백",
+     "톤"
+    ],
+    [
+     "📏",
+     "팔 길이",
+     "약 100",
+     "m"
+    ],
+    [
+     "🦵",
+     "받침다리",
+     "4",
+     "개"
+    ]
+   ],
+   "story": "크레인차는 길게 늘어나는 팔로 아주 무거운 것을 들어 올리는 자동차예요. 일하기 전에 받침다리를 쭉 펴서 넘어지지 않게 버텨요. 다리를 놓거나 높은 건물을 지을 때 큰 몫을 해요.",
+   "funFact": "가장 큰 크레인차는 바퀴가 18개나 되고, 비행기만큼 무거운 것도 들어 올려요.",
+   "wiki": "Mobile crane",
+   "photoQuery": "Liebherr mobile crane",
+   "photoMatch": [
+    "crane",
+    "kran",
+    "ltm"
+   ],
+   "videoQueries": [
+    "Liebherr mobile crane lifting",
+    "mobile crane setup boom",
+    "크레인 작업"
+   ],
+   "videoMatch": [
+    "crane",
+    "크레인",
+    "kran",
+    "liebherr ltm"
+   ],
+   "photos": [
+    "File:20100225-Liebherr LTM 1200-5.jpg",
+    "File:Liebherr mobile crane 450T, Brisbane.jpg",
+    "File:Liebherr mobile crane in Munich.jpg",
+    "File:H.N.-Krane-LTM-1500-8.1 (1).jpg",
+    "File:Liebherr - Kran LTM 1500-8.1 (b).JPG"
+   ]
+  },
+  {
+   "id": "dump-truck",
+   "section": "construction",
+   "name": "덤프트럭",
+   "subtitle": "짐칸을 들어 흙을 쏟는 트럭",
+   "color": "#F97316",
+   "facts": [
+    [
+     "📦",
+     "싣는 것",
+     "흙·모래·돌",
+     ""
+    ],
+    [
+     "⬆️",
+     "짐칸",
+     "기울어짐",
+     ""
+    ],
+    [
+     "⚖️",
+     "싣는 무게",
+     "약 25",
+     "톤"
+    ]
+   ],
+   "story": "덤프트럭은 흙이나 모래, 돌을 싣고 다니는 트럭이에요. 도착하면 짐칸 앞쪽이 위로 쑥 들려서 짐을 한꺼번에 와르르 쏟아요. 굴착기가 흙을 담아 주면 덤프트럭이 날라요.",
+   "funFact": "짐칸을 들어 올리는 힘은 기름의 힘을 이용한 유압 장치에서 나와요.",
+   "wiki": "Dump truck",
+   "photoQuery": "dump truck",
+   "photoMatch": [
+    "dump truck",
+    "kipper",
+    "tipper"
+   ],
+   "videoQueries": [
+    "dump truck unloading dumping",
+    "dump truck tipping",
+    "덤프트럭 작업"
+   ],
+   "videoMatch": [
+    "dump truck",
+    "덤프",
+    "tipper"
+   ],
+   "photos": [
+    "File:LKW Kipper DSCF6469 (crop).jpg",
+    "File:Mercedes-Benz Arocs - dump truck version (1).JPG",
+    "File:Kenworth T800 dump truck, Loveland CO.jpg",
+    "File:Dump truck in St. Louis, Missouri.JPEG",
+    "File:Ashok Leyland Tipper Truck 726.jpg"
+   ]
+  },
+  {
+   "id": "mining-truck",
+   "section": "construction",
+   "name": "거대 덤프트럭",
+   "subtitle": "세상에서 가장 큰 덤프트럭",
+   "color": "#FBBF24",
+   "facts": [
+    [
+     "⚖️",
+     "싣는 무게",
+     "450",
+     "톤"
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "8",
+     "개"
+    ],
+    [
+     "📏",
+     "높이",
+     "약 8",
+     "m"
+    ]
+   ],
+   "story": "벨라즈 75710은 광산에서 쓰는 세상에서 가장 큰 덤프트럭이에요. 2층 집보다 높고, 바퀴 하나가 어른 키보다 훨씬 커요. 한 번에 코끼리 70마리만큼 무거운 돌을 실어 날라요.",
+   "funFact": "운전석에 올라가려면 트럭에 달린 계단을 한참 올라가야 해요.",
+   "wiki": "BelAZ 75710",
+   "photoQuery": "BelAZ dump truck",
+   "photoMatch": [
+    "belaz",
+    "белаз",
+    "75710"
+   ],
+   "videoQueries": [
+    "BelAZ 75710 driving",
+    "largest dump truck BelAZ",
+    "mining haul truck dumping"
+   ],
+   "videoMatch": [
+    "belaz",
+    "벨라즈",
+    "haul truck",
+    "mining truck"
+   ],
+   "photos": [
+    "File:BelAZ-75710 - UMMC Museum Complex.jpg",
+    "File:Belaz.-75581.jpg",
+    "File:BelAZ damp tracks.jpg",
+    "File:RIAN archive 479950 BelAZ dump truck presented at the 2-nd Russian International Motor Show.jpg",
+    "File:2025.12.25 Christmas Exhibition Minsk Belarus BELAZ BelExpo 02.jpg"
+   ]
+  },
+  {
+   "id": "mixer",
+   "section": "construction",
+   "name": "레미콘",
+   "subtitle": "빙글빙글 도는 통을 실은 트럭",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🔄",
+     "통",
+     "계속 돎",
+     ""
+    ],
+    [
+     "🪨",
+     "싣는 것",
+     "콘크리트",
+     ""
+    ],
+    [
+     "📏",
+     "통 크기",
+     "약 6",
+     "m³"
+    ]
+   ],
+   "story": "레미콘 트럭은 등에 커다란 통을 싣고 다니며 콘크리트를 날라요. 가는 동안 통이 빙글빙글 돌아서 콘크리트가 굳지 않아요. 공사장에 도착하면 통을 거꾸로 돌려 콘크리트를 쏟아 내요.",
+   "funFact": "콘크리트는 오래 두면 돌처럼 굳어 버려서, 레미콘은 쉬지 않고 통을 돌리며 서둘러 달려가요.",
+   "wiki": "Concrete mixer",
+   "photoQuery": "concrete mixer truck",
+   "photoMatch": [
+    "mixer",
+    "fahrmischer"
+   ],
+   "videoQueries": [
+    "concrete mixer truck pouring",
+    "cement mixer truck driving",
+    "레미콘 타설"
+   ],
+   "videoMatch": [
+    "mixer",
+    "레미콘",
+    "믹서"
+   ],
+   "photos": [
+    "File:Mercedes-Benz Axor based cement mixer truck.JPG",
+    "File:Silvi concrete mixer truck.jpg",
+    "File:2013 SANY SY306C Concrete Mixer Truck.JPG",
+    "File:Concrete mixer.JPG",
+    "File:Concrete mixer.jpg"
+   ]
+  },
+  {
+   "id": "concrete-pump",
+   "section": "construction",
+   "name": "콘크리트 펌프카",
+   "subtitle": "콘크리트를 높이 보내는 긴 팔",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "📏",
+     "팔 길이",
+     "약 60",
+     "m"
+    ],
+    [
+     "🦾",
+     "팔",
+     "여러 번 접힘",
+     ""
+    ],
+    [
+     "🏢",
+     "하는 일",
+     "높은 곳에 붓기",
+     ""
+    ]
+   ],
+   "story": "콘크리트 펌프카는 여러 번 접힌 긴 팔을 펼쳐서 콘크리트를 높은 곳까지 보내요. 레미콘 트럭이 콘크리트를 부어 주면 관을 따라 쭉 밀어 올려요. 높은 아파트를 지을 때 꼭 필요한 차예요.",
+   "funFact": "팔을 다 펴면 20층 건물 높이까지 닿기도 해요.",
+   "wiki": "Concrete pump",
+   "photoQuery": "concrete pump truck boom",
+   "photoMatch": [
+    "pump",
+    "betonpumpe",
+    "putzmeister",
+    "schwing"
+   ],
+   "videoQueries": [
+    "concrete pump truck boom unfolding",
+    "concrete pump truck pouring",
+    "펌프카 타설"
+   ],
+   "videoMatch": [
+    "concrete pump",
+    "pump truck",
+    "펌프카",
+    "boom pump"
+   ],
+   "photos": [
+    "File:Concrete-pump-20120210-001.jpg",
+    "File:Concrete mixer with pump and boom truck.jpg",
+    "File:Betonpumpe2.jpg",
+    "File:Construction site with concrete pump truck.JPG",
+    "File:Schwing Boom Pump.JPG"
+   ]
+  },
+  {
+   "id": "bulldozer",
+   "section": "construction",
+   "name": "불도저",
+   "subtitle": "흙을 밀어서 평평하게 만드는 기계",
+   "color": "#EAB308",
+   "facts": [
+    [
+     "🪚",
+     "앞쪽",
+     "큰 날(블레이드)",
+     ""
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "무한궤도",
+     ""
+    ],
+    [
+     "🪝",
+     "뒤쪽",
+     "땅 긁는 발톱",
+     ""
+    ]
+   ],
+   "story": "불도저는 앞에 달린 커다란 철판으로 흙과 돌을 밀어내는 기계예요. 울퉁불퉁한 땅을 평평하게 다듬어서 길이나 집을 지을 준비를 해요. 바퀴 대신 무한궤도가 있어서 진흙에서도 빠지지 않아요.",
+   "funFact": "불도저 뒤에 달린 뾰족한 발톱은 단단한 땅을 긁어서 부숴요.",
+   "wiki": "Bulldozer",
+   "photoQuery": "bulldozer",
+   "photoMatch": [
+    "bulldozer",
+    "dozer",
+    "planierraupe"
+   ],
+   "videoQueries": [
+    "Caterpillar D11 dozer pushing",
+    "bulldozer pushing dirt",
+    "Komatsu bulldozer working",
+    "불도저 작업"
+   ],
+   "videoMatch": [
+    "bulldozer",
+    "dozer",
+    "d11",
+    "d10",
+    "불도저"
+   ],
+   "photos": [
+    "File:Fiat Allis 41B Dozer.jpg",
+    "File:Liebherr bulldozer-20240815-RM-171958.jpg",
+    "File:Bulldozer 2.jpg",
+    "File:Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017).jpg",
+    "File:Narva mine bulldozer 2.jpg"
+   ]
+  },
+  {
+   "id": "wheel-loader",
+   "section": "construction",
+   "name": "휠로더",
+   "subtitle": "커다란 바가지로 흙을 퍼 담는 차",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🪣",
+     "앞쪽",
+     "큰 바가지",
+     ""
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "커다란 고무바퀴",
+     ""
+    ],
+    [
+     "↪️",
+     "몸",
+     "가운데가 꺾임",
+     ""
+    ]
+   ],
+   "story": "휠로더는 앞에 달린 커다란 바가지로 흙이나 모래를 한가득 떠서 트럭에 실어요. 몸 가운데가 꺾여서 좁은 곳에서도 잘 돌아요. 겨울에는 바가지 대신 큰 삽을 달고 눈을 치우기도 해요.",
+   "funFact": "가장 큰 휠로더는 바가지 하나에 승용차 여러 대를 담을 수 있어요.",
+   "wiki": "Loader (equipment)",
+   "photoQuery": "wheel loader",
+   "photoMatch": [
+    "loader",
+    "radlader"
+   ],
+   "videoQueries": [
+    "wheel loader loading truck",
+    "wheel loader working",
+    "휠로더 작업"
+   ],
+   "videoMatch": [
+    "loader",
+    "로더"
+   ],
+   "photos": [
+    "File:Knick-Radlader VOLVO L60H.jpg",
+    "File:Loader dumping salt into salt spreader.jpg",
+    "File:Kramer-Wheel Loader (Front loader)-Model 345-88kW-01ASD.jpg",
+    "File:Bauma 2007 Loader Liebherr 1.jpg",
+    "File:CASE 321F Compact Wheel Loader, Windsor, Ontario, 2025-06-23.jpg"
+   ]
+  },
+  {
+   "id": "road-roller",
+   "section": "construction",
+   "name": "롤러",
+   "subtitle": "길을 꾹꾹 눌러 다지는 차",
+   "color": "#22C55E",
+   "facts": [
+    [
+     "🛞",
+     "바퀴",
+     "커다란 쇠 원통",
+     ""
+    ],
+    [
+     "🛣️",
+     "하는 일",
+     "길 다지기",
+     ""
+    ],
+    [
+     "🐢",
+     "빠르기",
+     "아주 느림",
+     ""
+    ]
+   ],
+   "story": "롤러는 바퀴 대신 무겁고 커다란 쇠 원통으로 땅을 꾹꾹 눌러요. 새 아스팔트 길을 만들 때 위를 왔다 갔다 하며 매끈하고 단단하게 다져요. 아주 천천히 움직이며 꼼꼼하게 일해요.",
+   "funFact": "어떤 롤러는 원통이 부르르 떨면서 땅을 더 단단하게 다져요.",
+   "wiki": "Road roller",
+   "photoQuery": "road roller asphalt",
+   "photoMatch": [
+    "roller",
+    "walze"
+   ],
+   "videoQueries": [
+    "road roller asphalt paving",
+    "asphalt paving roller",
+    "롤러 아스팔트 포장"
+   ],
+   "videoMatch": [
+    "roller",
+    "롤러",
+    "paving",
+    "paver"
+   ],
+   "photos": [
+    "File:Ride-on roller compactor, an equipment for asphalt pavement, Canada.jpg",
+    "File:Road roller ride-on articulating-swivel large 02.jpg",
+    "File:Pneumatic road roller Hamm AG GRW 18 01.jpg",
+    "File:Asphalt Roller for Road Asphalt Paving Odos Afstralias Rhodes 4 August 2025.jpg",
+    "File:Caterpillar CB54B roller on dirt lot in Campbell.jpg"
+   ]
+  },
+  {
+   "id": "forklift",
+   "section": "construction",
+   "name": "지게차",
+   "subtitle": "짐을 포크로 번쩍 드는 차",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🍴",
+     "앞쪽",
+     "포크 2개",
+     ""
+    ],
+    [
+     "⬆️",
+     "드는 높이",
+     "수 미터",
+     ""
+    ],
+    [
+     "🔄",
+     "운전",
+     "뒷바퀴로 방향",
+     ""
+    ]
+   ],
+   "story": "지게차는 앞에 달린 포크 두 개를 짐받이 밑에 쏙 넣어 짐을 들어 올려요. 창고에서 높은 선반 위에 짐을 올리고 내려요. 뒷바퀴로 방향을 바꿔서 좁은 곳에서도 제자리에서 돌듯이 움직여요.",
+   "funFact": "지게차 뒤에는 무거운 쇳덩어리가 달려 있어요. 무거운 짐을 들어도 앞으로 넘어지지 않게 해 줘요.",
+   "wiki": "Forklift",
+   "photoQuery": "forklift",
+   "photoMatch": [
+    "forklift",
+    "gabelstapler"
+   ],
+   "videoQueries": [
+    "forklift loading truck pallets",
+    "forklift warehouse working",
+    "지게차 작업"
+   ],
+   "videoMatch": [
+    "forklift",
+    "지게차"
+   ],
+   "photos": [
+    "File:Yale forklift Our Community Place Harrisonburg VA May 2008.jpg",
+    "File:Forklift on a sidewalk in Foggy Bottom.jpg",
+    "File:Toyota forklift 25 RSA 2003.jpg",
+    "File:Jungheinrich forklift in a builders hardware store in Girona.jpg",
+    "File:Manitou forklift, Frankfurt (20260823-P1270831).jpg"
+   ]
+  },
+  {
+   "id": "garbage-truck",
+   "section": "special",
+   "name": "쓰레기 수거차",
+   "subtitle": "동네를 깨끗하게 해 주는 차",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "🗑️",
+     "하는 일",
+     "쓰레기 모으기",
+     ""
+    ],
+    [
+     "🗜️",
+     "안에서",
+     "꾹꾹 누름",
+     ""
+    ],
+    [
+     "🌙",
+     "일하는 때",
+     "새벽",
+     ""
+    ]
+   ],
+   "story": "쓰레기 수거차는 동네의 쓰레기를 모아 가는 자동차예요. 쓰레기를 넣으면 안에서 판이 꾹꾹 눌러서 많이 담을 수 있어요. 어떤 차는 로봇 팔로 쓰레기통을 번쩍 들어 비워요.",
+   "funFact": "쓰레기 수거차는 우리가 자는 새벽에 일해서, 아침에 일어나면 길이 깨끗해져 있어요.",
+   "wiki": "Garbage truck",
+   "photoQuery": "garbage truck",
+   "photoMatch": [
+    "garbage",
+    "refuse",
+    "müllwagen",
+    "rubbish",
+    "bin lorry"
+   ],
+   "videoQueries": [
+    "garbage truck automated arm",
+    "garbage truck picking up bins",
+    "쓰레기 수거차 작업"
+   ],
+   "videoMatch": [
+    "garbage truck",
+    "garbage",
+    "refuse",
+    "쓰레기",
+    "bin lorry"
+   ],
+   "photos": [
+    "File:Garbage truck KAMAZ on the streets of Ulan-Ude.jpg",
+    "File:Refuse truck collecting refuse in Aardenburg April 2009.jpg",
+    "File:Garbage truck in Tbilisi.jpg",
+    "File:Garbage truck in Geneva.jpg",
+    "File:2026-05-14 Bacoor City Garbage Truck.jpg"
+   ]
+  },
+  {
+   "id": "street-sweeper",
+   "section": "special",
+   "name": "도로 청소차",
+   "subtitle": "솔로 길을 쓸어 주는 차",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🧹",
+     "장비",
+     "빙글 도는 솔",
+     ""
+    ],
+    [
+     "💧",
+     "물",
+     "먼지 날림 막기",
+     ""
+    ],
+    [
+     "🛣️",
+     "하는 일",
+     "길 청소",
+     ""
+    ]
+   ],
+   "story": "도로 청소차는 아래에 달린 빙글빙글 도는 솔로 길을 쓸어요. 쓸어 모은 먼지와 쓰레기는 커다란 진공청소기처럼 빨아들여요. 물을 뿌리면서 다녀서 먼지가 날리지 않아요.",
+   "funFact": "도로 청소차는 커다란 진공청소기를 싣고 다니는 셈이에요.",
+   "wiki": "Street sweeper",
+   "photoQuery": "street sweeper",
+   "photoMatch": [
+    "sweeper",
+    "kehrmaschine"
+   ],
+   "videoQueries": [
+    "street sweeper truck cleaning road",
+    "road sweeper working",
+    "노면 청소차"
+   ],
+   "videoMatch": [
+    "sweeper",
+    "청소차"
+   ],
+   "photos": [
+    "File:ELW Compact Street Sweeper Parked.jpg",
+    "File:Moscow, Zism VKM-2024 street sweeper, Sept 2025 03.jpg",
+    "File:Moscow, Durova Street, Bucher-Schörling sweeper, Sept 2025 01.jpg",
+    "File:Bucher CityCat 5006.Street sweeper in Modiin 2024.jpg",
+    "File:Street sweeper truck, Airport Cologne Bonn-7179.jpg"
+   ]
+  },
+  {
+   "id": "snowplow",
+   "section": "special",
+   "name": "제설차",
+   "subtitle": "눈을 밀어 길을 여는 차",
+   "color": "#F97316",
+   "facts": [
+    [
+     "❄️",
+     "하는 일",
+     "눈 치우기",
+     ""
+    ],
+    [
+     "🪚",
+     "앞쪽",
+     "큰 눈삽",
+     ""
+    ],
+    [
+     "🧂",
+     "뒤쪽",
+     "염화칼슘 뿌림",
+     ""
+    ]
+   ],
+   "story": "제설차는 앞에 달린 커다란 삽으로 쌓인 눈을 옆으로 밀어내요. 뒤에서는 길이 얼지 않도록 염화칼슘을 뿌려요. 눈이 펑펑 오는 밤에도 사람들이 다닐 수 있게 길을 열어 줘요.",
+   "funFact": "눈이 아주 많이 오는 곳에는 눈을 빨아들여 멀리 뿜어내는 회전식 제설차도 있어요.",
+   "wiki": "Snowplow",
+   "photoQuery": "snowplow truck",
+   "photoMatch": [
+    "snowplow",
+    "snow plow",
+    "schneepflug",
+    "snowplough"
+   ],
+   "videoQueries": [
+    "snowplow truck clearing road",
+    "snow blower truck rotary",
+    "제설차 작업"
+   ],
+   "videoMatch": [
+    "snowplow",
+    "snow plow",
+    "plow",
+    "제설",
+    "snow blower",
+    "rotary"
+   ],
+   "photos": [
+    "File:Driver to snowplow to smile.jpg",
+    "File:Snowplow truck in Dnipro.jpg",
+    "File:DSC06084 MAN TGS 28.420 Snowplow, Kahlbacher, Front, 2023-10.jpg",
+    "File:Snowplow in the morning.jpg",
+    "File:Snowplow, Wiesbaden (P1200968).jpg"
+   ]
+  },
+  {
+   "id": "ladder-lift",
+   "section": "special",
+   "name": "사다리차",
+   "subtitle": "이삿짐을 창문으로 옮겨 주는 차",
+   "color": "#E11D48",
+   "facts": [
+    [
+     "🪜",
+     "장비",
+     "긴 사다리",
+     ""
+    ],
+    [
+     "📦",
+     "하는 일",
+     "이삿짐 나르기",
+     ""
+    ],
+    [
+     "🛗",
+     "짐판",
+     "오르락내리락",
+     ""
+    ]
+   ],
+   "story": "사다리차는 긴 사다리를 아파트 창문까지 뻗어서 이삿짐을 옮겨요. 사다리 위의 짐판이 엘리베이터처럼 오르락내리락해요. 큰 냉장고나 소파도 계단 없이 쉽게 옮길 수 있어요.",
+   "funFact": "우리나라처럼 높은 아파트가 많은 곳에서 사다리차가 특히 많이 쓰여요.",
+   "wiki": "Aerial work platform",
+   "photoQuery": "Möbellift",
+   "photoMatch": [
+    "möbellift",
+    "moebellift",
+    "furniture lift",
+    "ladder lift",
+    "lift"
+   ],
+   "videoQueries": [
+    "사다리차 이사",
+    "사다리차 작업",
+    "furniture lift truck moving"
+   ],
+   "videoMatch": [
+    "사다리차",
+    "furniture lift",
+    "ladder lift"
+   ],
+   "photos": [
+    "File:Moving lift in Kiryat Ono Israel.jpg",
+    "File:Ansan moving company crane 02.JPG",
+    "File:MobileLift IMG 2364.jpg",
+    "File:Rize Evden Eve,.jpg",
+    "File:Möbellift.jpg"
+   ]
+  },
+  {
+   "id": "tractor",
+   "section": "special",
+   "name": "트랙터",
+   "subtitle": "논밭에서 일하는 힘센 차",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "🌾",
+     "일하는 곳",
+     "논과 밭",
+     ""
+    ],
+    [
+     "🛞",
+     "뒷바퀴",
+     "아주 큼",
+     ""
+    ],
+    [
+     "🔧",
+     "뒤쪽",
+     "여러 농기구 연결",
+     ""
+    ]
+   ],
+   "story": "트랙터는 논과 밭에서 일하는 힘센 자동차예요. 뒤에 쟁기를 달면 땅을 갈고, 다른 기계를 달면 씨를 뿌리거나 풀을 베요. 커다란 뒷바퀴가 진흙땅을 꽉 잡고 나아가요.",
+   "funFact": "요즘 트랙터는 위성 신호로 길을 찾아서, 운전대를 잡지 않아도 밭을 반듯하게 갈아요.",
+   "wiki": "Tractor",
+   "photoQuery": "tractor plowing field",
+   "photoMatch": [
+    "tractor",
+    "traktor"
+   ],
+   "videoQueries": [
+    "tractor plowing field",
+    "John Deere tractor working field",
+    "트랙터 밭갈이"
+   ],
+   "videoMatch": [
+    "tractor",
+    "트랙터"
+   ],
+   "photos": [
+    "File:Modern-tractor.jpg",
+    "File:Tractor plowing the field.jpg",
+    "File:JDTractor chisel-plough.jpg",
+    "File:Traktor na oranju.JPG",
+    "File:Tractors.jpg"
+   ]
+  },
+  {
+   "id": "combine",
+   "section": "special",
+   "name": "콤바인",
+   "subtitle": "곡식을 한 번에 거두는 차",
+   "color": "#CA8A04",
+   "facts": [
+    [
+     "🌾",
+     "하는 일",
+     "벼·밀 거두기",
+     ""
+    ],
+    [
+     "✂️",
+     "앞쪽",
+     "베는 칼날",
+     ""
+    ],
+    [
+     "🌀",
+     "안에서",
+     "낟알 털기",
+     ""
+    ]
+   ],
+   "story": "콤바인은 벼나 밀을 베고, 낟알을 털고, 모으는 일을 한 번에 해요. 그래서 여러 기계를 하나로 '합쳤다'는 뜻의 이름이 붙었어요. 낟알이 가득 차면 옆의 트럭으로 쏟아 넣어요.",
+   "funFact": "콤바인 한 대가 옛날에 수백 명이 하던 추수를 하루 만에 해내요.",
+   "wiki": "Combine harvester",
+   "photoQuery": "combine harvester",
+   "photoMatch": [
+    "combine",
+    "mähdrescher",
+    "harvester"
+   ],
+   "videoQueries": [
+    "combine harvester harvesting wheat",
+    "combine harvester unloading",
+    "콤바인 벼 수확"
+   ],
+   "videoMatch": [
+    "combine",
+    "harvester",
+    "콤바인"
+   ],
+   "photos": [
+    "File:John Deere Combine Harvester Ebing 1828.jpg",
+    "File:Bamberg Mähdrescher beim Abladen 1260044.jpg",
+    "File:Corn combine harvest with grain cart-4.jpg",
+    "File:John Deere 9560 combine MD1.jpg",
+    "File:The combine Claas Lexion 584 in the wheat harvest.jpg"
+   ]
+  },
+  {
+   "id": "camper",
+   "section": "special",
+   "name": "캠핑카",
+   "subtitle": "집이 통째로 달리는 차",
+   "color": "#0D9488",
+   "facts": [
+    [
+     "🛏️",
+     "안에",
+     "침대·부엌",
+     ""
+    ],
+    [
+     "🚿",
+     "있는 것",
+     "화장실",
+     ""
+    ],
+    [
+     "🏕️",
+     "하는 일",
+     "여행",
+     ""
+    ]
+   ],
+   "story": "캠핑카는 자동차 안에 작은 집이 들어 있는 차예요. 침대와 부엌, 식탁이 있어서 여행하며 먹고 잘 수 있어요. 멋진 경치 앞에 차를 세우면 그곳이 바로 우리 집이 돼요.",
+   "funFact": "어떤 캠핑카는 멈추면 옆벽이 쭉 밀려 나와서 방이 더 넓어져요.",
+   "wiki": "Motorhome",
+   "photoQuery": "motorhome camper",
+   "photoMatch": [
+    "motorhome",
+    "camper",
+    "wohnmobil",
+    "rv"
+   ],
+   "videoQueries": [
+    "Hymer motorhome commercial",
+    "Winnebago motorhome driving",
+    "motorhome driving footage",
+    "캠핑카 광고"
+   ],
+   "videoMatch": [
+    "motorhome",
+    "camper",
+    "campervan",
+    "rv",
+    "캠핑카",
+    "hymer",
+    "winnebago"
+   ],
+   "photos": [
+    "File:Motorhome-RV-Class-C-Sprinter-Ford-Chassis.jpg",
+    "File:1996 Fiat 146L motorhome camper van (15038760770).jpg",
+    "File:1982 Apollo 3300 IB motorhome during 2019 Vintage Camper Trailer Rally at Cam-Plex in Gillette, Wyoming (1).jpg",
+    "File:2026-02-22 Mercedes-Benz Atego 1024 BlueTec 5 camper at sea cliffs, Óbidos.jpg",
+    "File:00 3144 Citroën-Wohnmobil.jpg"
+   ]
+  },
+  {
+   "id": "food-truck",
+   "section": "special",
+   "name": "푸드 트럭",
+   "subtitle": "음식을 만들어 파는 트럭",
+   "color": "#F43F5E",
+   "facts": [
+    [
+     "🍔",
+     "안에",
+     "작은 부엌",
+     ""
+    ],
+    [
+     "🪟",
+     "옆쪽",
+     "열리는 창",
+     ""
+    ],
+    [
+     "📍",
+     "가는 곳",
+     "축제·공원",
+     ""
+    ]
+   ],
+   "story": "푸드 트럭은 트럭 안에 작은 부엌이 있어서 그 자리에서 음식을 만들어 팔아요. 옆면이 활짝 열리면 가게로 변신해요. 축제나 공원처럼 사람이 많이 모이는 곳을 찾아다녀요.",
+   "funFact": "푸드 트럭마다 파는 음식이 달라서, 여러 대가 모이면 맛있는 식당 거리가 생겨요.",
+   "wiki": "Food truck",
+   "photoQuery": "food truck",
+   "photoMatch": [
+    "food truck",
+    "foodtruck"
+   ],
+   "videoQueries": [
+    "food truck opening time lapse",
+    "푸드트럭 오픈 준비",
+    "food truck setting up open window",
+    "푸드트럭 장사 준비"
+   ],
+   "videoMatch": [
+    "food truck",
+    "푸드트럭",
+    "푸드 트럭",
+    "foodtruck"
+   ],
+   "photos": [
+    "File:BeaverTails Food Truck – Canada Aviation and Space Museum.jpg",
+    "File:Maxus V90 food truck 001.jpg",
+    "File:Food truck in London.jpg",
+    "File:Auntie Anne's food truck in Rehoboth Beach, Delaware.jpg",
+    "File:Austin Texas food truck.jpg"
+   ]
+  }
+ ]
+}
