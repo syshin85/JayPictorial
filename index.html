@@ -70,13 +70,6 @@
     .book.car { background: #2F7DE1; box-shadow: 0 10px 0 #1E5AAE; }
     .book.car:active { box-shadow: 0 2px 0 #1E5AAE; }
 
-    .book.soon {
-      background: transparent; color: var(--ink-soft); box-shadow: none;
-      border: 5px dashed var(--line); pointer-events: none;
-    }
-    .book.soon .book-emoji { opacity: .6; }
-    .book.soon .book-name { font-size: 30px; }
-
     @media (max-width: 600px) {
       .pick { gap: 28px; padding: 24px 16px 40px; }
       .hero-book { font-size: 72px; }
@@ -85,7 +78,6 @@
       .book { min-height: 190px; border-radius: 26px; }
       .book-emoji { font-size: 72px; }
       .book-name { font-size: 32px; }
-      .book.soon .book-name { font-size: 24px; }
     }
   </style>
 </head>
@@ -107,12 +99,11 @@
         <span class="book-name">우주 도감</span>
         <span class="book-sub">행성, 별, 로켓과 우주선</span>
       </a>
-      <!-- ready at car/, not opened from here yet: becomes <a class="book car" href="car/"> on release -->
-      <div class="book soon" aria-hidden="true">
-        <span class="book-emoji">🚗</span>
+      <a class="book car" href="car/">
+        <span class="book-emoji" aria-hidden="true">🚗</span>
         <span class="book-name">자동차 도감</span>
-        <span class="book-sub">곧 출시 예정!</span>
-      </div>
+        <span class="book-sub">승용차, 스포츠카, 버스와 트럭</span>
+      </a>
     </nav>
   </main>
   <script>
