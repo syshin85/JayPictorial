@@ -76,6 +76,10 @@ function renderHome() {
         <button class="big-btn" style="--c:#2FA65A" data-go="#/quiz">
           <span class="big-emoji">❓</span>
           <span class="big-label">자동차 퀴즈</span>
+        </button>
+        <button class="big-btn" style="--c:#7C5CFF" data-go="#/memory">
+          <span class="big-emoji">🃏</span>
+          <span class="big-label">카드 뒤집기</span>
         </button>`;
   app.replaceChildren(
     h(`
@@ -376,6 +380,10 @@ function renderQuiz() {
   unmountGame = window.QuizGame.mount(app, { quiz: state.quiz });
 }
 
+function renderMemory() {
+  unmountGame = window.MemoryGame.mount(app, { items: state.items, media: state.media });
+}
+
 function route() {
   stopVideo();
   if (unmountGame) {
@@ -384,6 +392,7 @@ function route() {
   }
   const [, page, arg] = location.hash.split("/");
   if (page === "quiz") renderQuiz();
+  else if (page === "memory") renderMemory();
   else if (page === "book") renderBook(arg);
   else if (page === "item") renderItem(arg);
   else renderHome();
