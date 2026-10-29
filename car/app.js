@@ -1,18 +1,20 @@
 "use strict";
 
 // ---------- data ----------
-const state = { books: [], sections: [], items: [], media: {}, lastBook: "" };
+const state = { books: [], sections: [], items: [], media: {}, quiz: [], lastBook: "" };
 
 async function loadData() {
-  const [carsRes, mediaRes] = await Promise.all([
+  const [carsRes, mediaRes, quizRes] = await Promise.all([
     fetch("data/cars.json"),
     fetch("data/media.json").catch(() => null),
+    fetch("data/quiz.json").catch(() => null),
   ]);
   const data = await carsRes.json();
   state.books = data.books;
   state.sections = data.sections;
   state.items = data.items;
   state.media = mediaRes && mediaRes.ok ? await mediaRes.json() : {};
+  state.quiz = quizRes && quizRes.ok ? await quizRes.json() : [];
 }
 
 const itemById = (id) => state.items.find((t) => t.id === id);
@@ -70,7 +72,11 @@ function renderHome() {
           <span class="big-label">${esc(b.name)}</span>
         </button>`
     )
-    .join("");
+    .join("") + `
+        <button class="big-btn" style="--c:#2FA65A" data-go="#/quiz">
+          <span class="big-emoji">❓</span>
+          <span class="big-label">자동차 퀴즈</span>
+        </button>`;
   app.replaceChildren(
     h(`
     <section class="home">
@@ -364,10 +370,21 @@ app.addEventListener("click", (e) => {
   }
 });
 
+let unmountGame = null;
+
+function renderQuiz() {
+  unmountGame = window.QuizGame.mount(app, { quiz: state.quiz });
+}
+
 function route() {
   stopVideo();
+  if (unmountGame) {
+    unmountGame();
+    unmountGame = null;
+  }
   const [, page, arg] = location.hash.split("/");
-  if (page === "book") renderBook(arg);
+  if (page === "quiz") renderQuiz();
+  else if (page === "book") renderBook(arg);
   else if (page === "item") renderItem(arg);
   else renderHome();
 }

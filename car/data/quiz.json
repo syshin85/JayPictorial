@@ -1,0 +1,2233 @@
+[
+ {
+  "id": "q001",
+  "kind": "country",
+  "question": "현대 포니는 어느 나라 자동차일까요?",
+  "image": "assets/items/pony/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "현대 포니는 한국에서 만들었어요. 🇰🇷",
+  "item": "pony"
+ },
+ {
+  "id": "q002",
+  "kind": "country",
+  "question": "현대 아이오닉 5는 어느 나라 자동차일까요?",
+  "image": "assets/items/ioniq-5/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "현대 아이오닉 5는 한국에서 만들었어요. 🇰🇷",
+  "item": "ioniq-5"
+ },
+ {
+  "id": "q003",
+  "kind": "country",
+  "question": "현대 그랜저는 어느 나라 자동차일까요?",
+  "image": "assets/items/hyundai-grandeur/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "현대 그랜저는 한국에서 만들었어요. 🇰🇷",
+  "item": "hyundai-grandeur"
+ },
+ {
+  "id": "q004",
+  "kind": "country",
+  "question": "기아 쏘렌토는 어느 나라 자동차일까요?",
+  "image": "assets/items/kia-sorento/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "기아 쏘렌토는 한국에서 만들었어요. 🇰🇷",
+  "item": "kia-sorento"
+ },
+ {
+  "id": "q005",
+  "kind": "country",
+  "question": "테슬라 모델 3은 어느 나라 자동차일까요?",
+  "image": "assets/items/tesla-model-3/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "테슬라 모델 3은 미국에서 만들었어요. 🇺🇸",
+  "item": "tesla-model-3"
+ },
+ {
+  "id": "q006",
+  "kind": "country",
+  "question": "지프 랭글러는 어느 나라 자동차일까요?",
+  "image": "assets/items/jeep-wrangler/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "지프 랭글러는 미국에서 만들었어요. 🇺🇸",
+  "item": "jeep-wrangler"
+ },
+ {
+  "id": "q007",
+  "kind": "country",
+  "question": "포드 머스탱은 어느 나라 자동차일까요?",
+  "image": "assets/items/ford-mustang/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "포드 머스탱은 미국에서 만들었어요. 🇺🇸",
+  "item": "ford-mustang"
+ },
+ {
+  "id": "q008",
+  "kind": "country",
+  "question": "테슬라 사이버트럭은 어느 나라 자동차일까요?",
+  "image": "assets/items/tesla-cybertruck/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "테슬라 사이버트럭은 미국에서 만들었어요. 🇺🇸",
+  "item": "tesla-cybertruck"
+ },
+ {
+  "id": "q009",
+  "kind": "country",
+  "question": "폭스바겐 비틀은 어느 나라 자동차일까요?",
+  "image": "assets/items/beetle/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "폭스바겐 비틀은 독일에서 만들었어요. 🇩🇪",
+  "item": "beetle"
+ },
+ {
+  "id": "q010",
+  "kind": "country",
+  "question": "포르쉐 911은 어느 나라 자동차일까요?",
+  "image": "assets/items/porsche-911/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "포르쉐 911은 독일에서 만들었어요. 🇩🇪",
+  "item": "porsche-911"
+ },
+ {
+  "id": "q011",
+  "kind": "country",
+  "question": "벤츠 G클래스는 어느 나라 자동차일까요?",
+  "image": "assets/items/mercedes-g-class/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "벤츠 G클래스는 독일에서 만들었어요. 🇩🇪",
+  "item": "mercedes-g-class"
+ },
+ {
+  "id": "q012",
+  "kind": "country",
+  "question": "BMW 5시리즈는 어느 나라 자동차일까요?",
+  "image": "assets/items/bmw-5-series/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "BMW 5시리즈는 독일에서 만들었어요. 🇩🇪",
+  "item": "bmw-5-series"
+ },
+ {
+  "id": "q013",
+  "kind": "country",
+  "question": "토요타 프리우스는 어느 나라 자동차일까요?",
+  "image": "assets/items/prius/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "토요타 프리우스는 일본에서 만들었어요. 🇯🇵",
+  "item": "prius"
+ },
+ {
+  "id": "q014",
+  "kind": "country",
+  "question": "토요타 코롤라는 어느 나라 자동차일까요?",
+  "image": "assets/items/toyota-corolla/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "토요타 코롤라는 일본에서 만들었어요. 🇯🇵",
+  "item": "toyota-corolla"
+ },
+ {
+  "id": "q015",
+  "kind": "country",
+  "question": "닛산 GT-R은 어느 나라 자동차일까요?",
+  "image": "assets/items/nissan-gt-r/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "닛산 GT-R은 일본에서 만들었어요. 🇯🇵",
+  "item": "nissan-gt-r"
+ },
+ {
+  "id": "q016",
+  "kind": "country",
+  "question": "미니는 어느 나라 자동차일까요?",
+  "image": "assets/items/mini/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "미니는 영국에서 만들었어요. 🇬🇧",
+  "item": "mini"
+ },
+ {
+  "id": "q017",
+  "kind": "country",
+  "question": "레인지로버는 어느 나라 자동차일까요?",
+  "image": "assets/items/range-rover/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "레인지로버는 영국에서 만들었어요. 🇬🇧",
+  "item": "range-rover"
+ },
+ {
+  "id": "q018",
+  "kind": "country",
+  "question": "애스턴 마틴 DB5는 어느 나라 자동차일까요?",
+  "image": "assets/items/aston-martin-db5/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇺🇸 미국",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "애스턴 마틴 DB5는 영국에서 만들었어요. 🇬🇧",
+  "item": "aston-martin-db5"
+ },
+ {
+  "id": "q019",
+  "kind": "country",
+  "question": "피아트 500은 어느 나라 자동차일까요?",
+  "image": "assets/items/fiat-500/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "피아트 500은 이탈리아에서 만들었어요. 🇮🇹",
+  "item": "fiat-500"
+ },
+ {
+  "id": "q020",
+  "kind": "country",
+  "question": "페라리 F40은 어느 나라 자동차일까요?",
+  "image": "assets/items/ferrari-f40/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "페라리 F40은 이탈리아에서 만들었어요. 🇮🇹",
+  "item": "ferrari-f40"
+ },
+ {
+  "id": "q021",
+  "kind": "country",
+  "question": "람보르기니 아벤타도르는 어느 나라 자동차일까요?",
+  "image": "assets/items/lamborghini-aventador/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "람보르기니 아벤타도르는 이탈리아에서 만들었어요. 🇮🇹",
+  "item": "lamborghini-aventador"
+ },
+ {
+  "id": "q022",
+  "kind": "country",
+  "question": "시트로엥 2CV는 어느 나라 자동차일까요?",
+  "image": "assets/items/citroen-2cv/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "시트로엥 2CV는 프랑스에서 만들었어요. 🇫🇷",
+  "item": "citroen-2cv"
+ },
+ {
+  "id": "q023",
+  "kind": "country",
+  "question": "부가티 시론은 어느 나라 자동차일까요?",
+  "image": "assets/items/bugatti-chiron/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇫🇷 프랑스",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "부가티 시론은 프랑스에서 만들었어요. 🇫🇷",
+  "item": "bugatti-chiron"
+ },
+ {
+  "id": "q024",
+  "kind": "country",
+  "question": "볼보 XC90은 어느 나라 자동차일까요?",
+  "image": "assets/items/volvo-xc90/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇸🇪 스웨덴",
+    "image": null
+   },
+   {
+    "text": "🇮🇹 이탈리아",
+    "image": null
+   },
+   {
+    "text": "🇬🇧 영국",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "볼보 XC90은 스웨덴에서 만들었어요. 🇸🇪",
+  "item": "volvo-xc90"
+ },
+ {
+  "id": "q025",
+  "kind": "country",
+  "question": "BYD 아토 3은 어느 나라 자동차일까요?",
+  "image": "assets/items/byd-atto-3/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇩🇪 독일",
+    "image": null
+   },
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "BYD 아토 3은 중국에서 만들었어요. 🇨🇳",
+  "item": "byd-atto-3"
+ },
+ {
+  "id": "q026",
+  "kind": "country",
+  "question": "샤오미 SU7은 어느 나라 자동차일까요?",
+  "image": "assets/items/xiaomi-su7/thumb.jpg",
+  "choices": [
+   {
+    "text": "🇯🇵 일본",
+    "image": null
+   },
+   {
+    "text": "🇨🇳 중국",
+    "image": null
+   },
+   {
+    "text": "🇰🇷 한국",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "샤오미 SU7은 중국에서 만들었어요. 🇨🇳",
+  "item": "xiaomi-su7"
+ },
+ {
+  "id": "q027",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "폭스바겐 비틀",
+    "image": "assets/items/beetle/thumb.jpg"
+   },
+   {
+    "text": "현대 포니",
+    "image": "assets/items/pony/thumb.jpg"
+   },
+   {
+    "text": "테슬라 모델 3",
+    "image": "assets/items/tesla-model-3/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "폭스바겐 비틀은 1938년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "beetle"
+ },
+ {
+  "id": "q028",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "테슬라 사이버트럭",
+    "image": "assets/items/tesla-cybertruck/thumb.jpg"
+   },
+   {
+    "text": "시트로엥 2CV",
+    "image": "assets/items/citroen-2cv/thumb.jpg"
+   },
+   {
+    "text": "토요타 프리우스",
+    "image": "assets/items/prius/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "시트로엥 2CV는 1948년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "citroen-2cv"
+ },
+ {
+  "id": "q029",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "현대 포니",
+    "image": "assets/items/pony/thumb.jpg"
+   },
+   {
+    "text": "토요타 프리우스",
+    "image": "assets/items/prius/thumb.jpg"
+   },
+   {
+    "text": "현대 아이오닉 5",
+    "image": "assets/items/ioniq-5/thumb.jpg"
+   }
+  ],
+  "answer": 0,
+  "explain": "현대 포니는 1975년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "pony"
+ },
+ {
+  "id": "q030",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "폭스바겐 골프",
+    "image": "assets/items/vw-golf/thumb.jpg"
+   },
+   {
+    "text": "폭스바겐 비틀",
+    "image": "assets/items/beetle/thumb.jpg"
+   },
+   {
+    "text": "샤오미 SU7",
+    "image": "assets/items/xiaomi-su7/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "폭스바겐 비틀은 1938년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "beetle"
+ },
+ {
+  "id": "q031",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "포르쉐 911",
+    "image": "assets/items/porsche-911/thumb.jpg"
+   },
+   {
+    "text": "테슬라 모델 3",
+    "image": "assets/items/tesla-model-3/thumb.jpg"
+   },
+   {
+    "text": "폭스바겐 비틀",
+    "image": "assets/items/beetle/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "폭스바겐 비틀은 1938년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "beetle"
+ },
+ {
+  "id": "q032",
+  "kind": "compare",
+  "question": "이 중에서 가장 먼저 나온 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "테슬라 모델 3",
+    "image": "assets/items/tesla-model-3/thumb.jpg"
+   },
+   {
+    "text": "포드 모델 T",
+    "image": "assets/items/ford-model-t/thumb.jpg"
+   },
+   {
+    "text": "시트로엥 2CV",
+    "image": "assets/items/citroen-2cv/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "포드 모델 T는 1908년에 처음 나왔어요. 셋 중에 가장 먼저예요! 🎂",
+  "item": "ford-model-t"
+ },
+ {
+  "id": "q033",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "시내버스",
+    "image": "assets/items/city-bus/thumb.jpg"
+   },
+   {
+    "text": "카트",
+    "image": "assets/items/kart/thumb.jpg"
+   },
+   {
+    "text": "트레일러 트럭",
+    "image": "assets/items/semi-truck/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "트레일러 트럭의 길이는 약 16m예요. 셋 중에 가장 길어요! 📏",
+  "item": "semi-truck"
+ },
+ {
+  "id": "q034",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "기아 카니발",
+    "image": "assets/items/carnival/thumb.jpg"
+   },
+   {
+    "text": "트레일러 트럭",
+    "image": "assets/items/semi-truck/thumb.jpg"
+   },
+   {
+    "text": "시내버스",
+    "image": "assets/items/city-bus/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "트레일러 트럭의 길이는 약 16m예요. 셋 중에 가장 길어요! 📏",
+  "item": "semi-truck"
+ },
+ {
+  "id": "q035",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "시내버스",
+    "image": "assets/items/city-bus/thumb.jpg"
+   },
+   {
+    "text": "트레일러 트럭",
+    "image": "assets/items/semi-truck/thumb.jpg"
+   },
+   {
+    "text": "현대 쏘나타",
+    "image": "assets/items/sonata/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "트레일러 트럭의 길이는 약 16m예요. 셋 중에 가장 길어요! 📏",
+  "item": "semi-truck"
+ },
+ {
+  "id": "q036",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "기아 카니발",
+    "image": "assets/items/carnival/thumb.jpg"
+   },
+   {
+    "text": "시내버스",
+    "image": "assets/items/city-bus/thumb.jpg"
+   },
+   {
+    "text": "굴절 버스",
+    "image": "assets/items/articulated-bus/thumb.jpg"
+   }
+  ],
+  "answer": 2,
+  "explain": "굴절 버스의 길이는 약 18m예요. 셋 중에 가장 길어요! 📏",
+  "item": "articulated-bus"
+ },
+ {
+  "id": "q037",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "트레일러 트럭",
+    "image": "assets/items/semi-truck/thumb.jpg"
+   },
+   {
+    "text": "로드 트레인",
+    "image": "assets/items/road-train/thumb.jpg"
+   },
+   {
+    "text": "카트",
+    "image": "assets/items/kart/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "로드 트레인의 길이는 약 53m예요. 셋 중에 가장 길어요! 📏",
+  "item": "road-train"
+ },
+ {
+  "id": "q038",
+  "kind": "compare",
+  "question": "이 중에서 가장 긴 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "현대 쏘나타",
+    "image": "assets/items/sonata/thumb.jpg"
+   },
+   {
+    "text": "굴절 버스",
+    "image": "assets/items/articulated-bus/thumb.jpg"
+   },
+   {
+    "text": "시내버스",
+    "image": "assets/items/city-bus/thumb.jpg"
+   }
+  ],
+  "answer": 1,
+  "explain": "굴절 버스의 길이는 약 18m예요. 셋 중에 가장 길어요! 📏",
+  "item": "articulated-bus"
+ },
+ {
+  "id": "q039",
+  "kind": "fact",
+  "question": "우리나라가 처음으로 만든 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "기아 카니발",
+    "image": null
+   },
+   {
+    "text": "현대 그랜저",
+    "image": null
+   },
+   {
+    "text": "현대 포니",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "포니는 1975년에 나왔어요. 이름은 '조랑말'이라는 뜻이에요. 🐴",
+  "item": "pony"
+ },
+ {
+  "id": "q040",
+  "kind": "fact",
+  "question": "카니발의 옆문은 어떻게 열릴까요?",
+  "image": "assets/items/carnival/thumb.jpg",
+  "choices": [
+   {
+    "text": "위로 열려요",
+    "image": null
+   },
+   {
+    "text": "뒤로 떨어져요",
+    "image": null
+   },
+   {
+    "text": "옆으로 미끄러지듯 열려요",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "미닫이문이라서 버튼만 누르면 혼자서 열리고 닫혀요.",
+  "item": "carnival"
+ },
+ {
+  "id": "q041",
+  "kind": "fact",
+  "question": "아이오닉 5는 무엇으로 달릴까요?",
+  "image": "assets/items/ioniq-5/thumb.jpg",
+  "choices": [
+   {
+    "text": "휘발유",
+    "image": null
+   },
+   {
+    "text": "전기",
+    "image": null
+   },
+   {
+    "text": "수소",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "아이오닉 5는 전기 자동차예요. 캠핑장에서 전등을 켤 수도 있어요. 🔋",
+  "item": "ioniq-5"
+ },
+ {
+  "id": "q042",
+  "kind": "fact",
+  "question": "프리우스는 브레이크를 밟을 때 무슨 일을 할까요?",
+  "image": "assets/items/prius/thumb.jpg",
+  "choices": [
+   {
+    "text": "불꽃이 튀어요",
+    "image": null
+   },
+   {
+    "text": "배터리를 다시 채워요",
+    "image": null
+   },
+   {
+    "text": "음악이 나와요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "멈추는 힘으로 전기를 만들어 배터리를 채워요.",
+  "item": "prius"
+ },
+ {
+  "id": "q043",
+  "kind": "fact",
+  "question": "폭스바겐 비틀은 어떤 곤충을 닮았을까요?",
+  "image": "assets/items/beetle/thumb.jpg",
+  "choices": [
+   {
+    "text": "개미",
+    "image": null
+   },
+   {
+    "text": "딱정벌레",
+    "image": null
+   },
+   {
+    "text": "나비",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "'비틀'은 영어로 딱정벌레라는 뜻이에요. 🐞",
+  "item": "beetle"
+ },
+ {
+  "id": "q044",
+  "kind": "fact",
+  "question": "포드 모델 T는 한동안 무슨 색으로만 만들었을까요?",
+  "image": "assets/items/ford-model-t/thumb.jpg",
+  "choices": [
+   {
+    "text": "빨간색",
+    "image": null
+   },
+   {
+    "text": "하얀색",
+    "image": null
+   },
+   {
+    "text": "검은색",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "검은 페인트가 가장 빨리 말라서 더 빨리 만들 수 있었대요.",
+  "item": "ford-model-t"
+ },
+ {
+  "id": "q045",
+  "kind": "fact",
+  "question": "시트로엥 2CV를 만들 때 깨지면 안 됐던 것은 무엇일까요?",
+  "image": "assets/items/citroen-2cv/thumb.jpg",
+  "choices": [
+   {
+    "text": "자동차 열쇠",
+    "image": null
+   },
+   {
+    "text": "바구니 속 달걀",
+    "image": null
+   },
+   {
+    "text": "유리창",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "달걀 바구니를 싣고 밭을 가로질러도 안 깨져야 했대요! 🥚",
+  "item": "citroen-2cv"
+ },
+ {
+  "id": "q046",
+  "kind": "fact",
+  "question": "옛날 피아트 500의 지붕은 무엇으로 되어 있었을까요?",
+  "image": "assets/items/fiat-500/thumb.jpg",
+  "choices": [
+   {
+    "text": "나무",
+    "image": null
+   },
+   {
+    "text": "천",
+    "image": null
+   },
+   {
+    "text": "유리",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "천 지붕을 둘둘 말아 열면 하늘이 보였어요.",
+  "item": "fiat-500"
+ },
+ {
+  "id": "q047",
+  "kind": "fact",
+  "question": "어깨까지 오는 안전벨트를 처음 만든 회사는 어디일까요?",
+  "image": "assets/items/volvo-xc90/thumb.jpg",
+  "choices": [
+   {
+    "text": "볼보",
+    "image": null
+   },
+   {
+    "text": "페라리",
+    "image": null
+   },
+   {
+    "text": "테슬라",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "볼보는 다른 회사들도 공짜로 쓰게 했어요. 모두의 안전을 위해서요!",
+  "item": "volvo-xc90"
+ },
+ {
+  "id": "q048",
+  "kind": "fact",
+  "question": "일본의 작은 경차는 무슨 색 번호판을 달까요?",
+  "image": "assets/items/honda-n-box/thumb.jpg",
+  "choices": [
+   {
+    "text": "노란색",
+    "image": null
+   },
+   {
+    "text": "보라색",
+    "image": null
+   },
+   {
+    "text": "빨간색",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "혼다 N-BOX 같은 경차는 노란 번호판을 달아요.",
+  "item": "honda-n-box"
+ },
+ {
+  "id": "q049",
+  "kind": "fact",
+  "question": "2023년에 세계에서 가장 많이 팔린 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "포드 모델 T",
+    "image": null
+   },
+   {
+    "text": "피아트 500",
+    "image": null
+   },
+   {
+    "text": "테슬라 모델 Y",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "전기차인 모델 Y가 모든 자동차 가운데 1등을 했어요.",
+  "item": "tesla-model-y"
+ },
+ {
+  "id": "q050",
+  "kind": "fact",
+  "question": "사이버트럭의 겉면은 무엇으로 되어 있을까요?",
+  "image": "assets/items/tesla-cybertruck/thumb.jpg",
+  "choices": [
+   {
+    "text": "은색 스테인리스 강철",
+    "image": null
+   },
+   {
+    "text": "나무",
+    "image": null
+   },
+   {
+    "text": "플라스틱",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "칠하지 않아서 반짝반짝 은색이에요. ✨",
+  "item": "tesla-cybertruck"
+ },
+ {
+  "id": "q051",
+  "kind": "fact",
+  "question": "제네시스 자동차의 불빛은 어떤 모양일까요?",
+  "image": "assets/items/genesis-gv80/thumb.jpg",
+  "choices": [
+   {
+    "text": "두 줄",
+    "image": null
+   },
+   {
+    "text": "별 모양",
+    "image": null
+   },
+   {
+    "text": "동그라미 하나",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "앞과 뒤의 불빛이 두 줄로 나란히 빛나요.",
+  "item": "genesis-gv80"
+ },
+ {
+  "id": "q052",
+  "kind": "fact",
+  "question": "BMW 앞 그릴은 무엇을 닮았을까요?",
+  "image": "assets/items/bmw-5-series/thumb.jpg",
+  "choices": [
+   {
+    "text": "하트 두 개",
+    "image": null
+   },
+   {
+    "text": "콩팥 두 개",
+    "image": null
+   },
+   {
+    "text": "별 다섯 개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "그래서 '키드니(콩팥) 그릴'이라고 불러요.",
+  "item": "bmw-5-series"
+ },
+ {
+  "id": "q053",
+  "kind": "fact",
+  "question": "벤츠 로고는 무슨 모양일까요?",
+  "image": "assets/items/mercedes-e-class/thumb.jpg",
+  "choices": [
+   {
+    "text": "달리는 말",
+    "image": null
+   },
+   {
+    "text": "세 꼭지 별",
+    "image": null
+   },
+   {
+    "text": "황소",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "땅, 바다, 하늘에서 쓰는 엔진을 만들겠다는 뜻이래요. ⭐",
+  "item": "mercedes-e-class"
+ },
+ {
+  "id": "q054",
+  "kind": "fact",
+  "question": "한 이름으로 세계에서 가장 많이 팔린 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "부가티 시론",
+    "image": null
+   },
+   {
+    "text": "토요타 코롤라",
+    "image": null
+   },
+   {
+    "text": "레인지로버",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "코롤라는 5000만 대 넘게 팔렸어요.",
+  "item": "toyota-corolla"
+ },
+ {
+  "id": "q055",
+  "kind": "fact",
+  "question": "처음 혼다 CR-V 뒷자리 바닥에는 무엇이 들어 있었을까요?",
+  "image": "assets/items/honda-cr-v/thumb.jpg",
+  "choices": [
+   {
+    "text": "피아노",
+    "image": null
+   },
+   {
+    "text": "피크닉 테이블",
+    "image": null
+   },
+   {
+    "text": "작은 수영장",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "꺼내서 펼치면 소풍 식탁이 됐어요! 🧺",
+  "item": "honda-cr-v"
+ },
+ {
+  "id": "q056",
+  "kind": "fact",
+  "question": "처음 나온 레인지로버가 전시된 박물관은 어디일까요?",
+  "image": "assets/items/range-rover/thumb.jpg",
+  "choices": [
+   {
+    "text": "공룡 박물관",
+    "image": null
+   },
+   {
+    "text": "루브르 박물관",
+    "image": null
+   },
+   {
+    "text": "기차 박물관",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "아주 멋져서 '예술 작품'처럼 전시됐어요. 🖼️",
+  "item": "range-rover"
+ },
+ {
+  "id": "q057",
+  "kind": "fact",
+  "question": "샤오미는 원래 무엇을 만들던 회사일까요?",
+  "image": "assets/items/xiaomi-su7/thumb.jpg",
+  "choices": [
+   {
+    "text": "비행기",
+    "image": null
+   },
+   {
+    "text": "장난감 블록",
+    "image": null
+   },
+   {
+    "text": "휴대폰",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "휴대폰 회사가 처음 만든 전기 자동차가 SU7이에요. 📱",
+  "item": "xiaomi-su7"
+ },
+ {
+  "id": "q058",
+  "kind": "fact",
+  "question": "BYD는 원래 무엇을 만들던 회사일까요?",
+  "image": "assets/items/byd-atto-3/thumb.jpg",
+  "choices": [
+   {
+    "text": "운동화",
+    "image": null
+   },
+   {
+    "text": "자전거",
+    "image": null
+   },
+   {
+    "text": "휴대폰 배터리",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "지금은 세계에서 전기차를 가장 많이 만드는 회사 중 하나예요.",
+  "item": "byd-atto-3"
+ },
+ {
+  "id": "q059",
+  "kind": "fact",
+  "question": "1987년에 나왔을 때 세계에서 가장 빨랐던 빨간 차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "피아트 500",
+    "image": null
+   },
+   {
+    "text": "페라리 F40",
+    "image": null
+   },
+   {
+    "text": "미니",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "F40은 시속 324km까지 달려요. 🏎️",
+  "item": "ferrari-f40"
+ },
+ {
+  "id": "q060",
+  "kind": "fact",
+  "question": "람보르기니 자동차 이름은 대부분 무엇에서 따왔을까요?",
+  "image": "assets/items/lamborghini-aventador/thumb.jpg",
+  "choices": [
+   {
+    "text": "유명한 산",
+    "image": null
+   },
+   {
+    "text": "유명한 투우 소",
+    "image": null
+   },
+   {
+    "text": "유명한 노래",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "그래서 람보르기니 로고에도 황소가 있어요. 🐂",
+  "item": "lamborghini-aventador"
+ },
+ {
+  "id": "q061",
+  "kind": "fact",
+  "question": "'쿤타치'는 무슨 뜻의 말일까요?",
+  "image": "assets/items/lamborghini-countach/thumb.jpg",
+  "choices": [
+   {
+    "text": "'우와!' 하고 놀랄 때 하는 말",
+    "image": null
+   },
+   {
+    "text": "'잘 자!' 하는 말",
+    "image": null
+   },
+   {
+    "text": "'안녕!' 하는 인사",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "이탈리아 어느 지방 말로 놀랄 때 하는 말이에요. 😲",
+  "item": "lamborghini-countach"
+ },
+ {
+  "id": "q062",
+  "kind": "fact",
+  "question": "300 SL의 문은 무엇처럼 열릴까요?",
+  "image": "assets/items/mercedes-300sl/thumb.jpg",
+  "choices": [
+   {
+    "text": "미닫이 창문",
+    "image": null
+   },
+   {
+    "text": "서랍",
+    "image": null
+   },
+   {
+    "text": "갈매기 날개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "문이 위로 열려서 '걸윙(갈매기 날개)'이라고 불러요. 🕊️",
+  "item": "mercedes-300sl"
+ },
+ {
+  "id": "q063",
+  "kind": "fact",
+  "question": "머스탱의 로고는 무엇일까요?",
+  "image": "assets/items/ford-mustang/thumb.jpg",
+  "choices": [
+   {
+    "text": "세 꼭지 별",
+    "image": null
+   },
+   {
+    "text": "황소",
+    "image": null
+   },
+   {
+    "text": "달리는 말",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "머스탱은 미국의 야생마예요. 🐎",
+  "item": "ford-mustang"
+ },
+ {
+  "id": "q064",
+  "kind": "fact",
+  "question": "맥라렌 F1의 운전석은 어디에 있을까요?",
+  "image": "assets/items/mclaren-f1/thumb.jpg",
+  "choices": [
+   {
+    "text": "지붕 위",
+    "image": null
+   },
+   {
+    "text": "가운데",
+    "image": null
+   },
+   {
+    "text": "왼쪽 뒤",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "운전석이 가운데에 있고, 양옆에 자리가 하나씩 있어요.",
+  "item": "mclaren-f1"
+ },
+ {
+  "id": "q065",
+  "kind": "fact",
+  "question": "애스턴 마틴 DB5는 어느 영화에 나왔을까요?",
+  "image": "assets/items/aston-martin-db5/thumb.jpg",
+  "choices": [
+   {
+    "text": "토이 스토리",
+    "image": null
+   },
+   {
+    "text": "아이언맨",
+    "image": null
+   },
+   {
+    "text": "007",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "비밀 요원 007의 자동차예요. 번호판이 빙글 돌아 바뀌어요! 🕵️",
+  "item": "aston-martin-db5"
+ },
+ {
+  "id": "q066",
+  "kind": "fact",
+  "question": "닛산 GT-R의 별명은 무엇일까요?",
+  "image": "assets/items/nissan-gt-r/thumb.jpg",
+  "choices": [
+   {
+    "text": "거북이",
+    "image": null
+   },
+   {
+    "text": "고질라",
+    "image": null
+   },
+   {
+    "text": "나비",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "경주에서 다른 차들을 모두 이겨서 '고질라'가 되었어요. 🦖",
+  "item": "nissan-gt-r"
+ },
+ {
+  "id": "q067",
+  "kind": "fact",
+  "question": "영화 '아이언맨'에서 토니 스타크가 탄 자동차는 무엇일까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "미니",
+    "image": null
+   },
+   {
+    "text": "현대 포터",
+    "image": null
+   },
+   {
+    "text": "아우디 R8",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "엔진이 운전석 뒤에 있는 슈퍼카예요.",
+  "item": "audi-r8"
+ },
+ {
+  "id": "q068",
+  "kind": "fact",
+  "question": "코닉세그 공장은 옛날에 무엇이었을까요?",
+  "image": "assets/items/koenigsegg-agera/thumb.jpg",
+  "choices": [
+   {
+    "text": "기차역",
+    "image": null
+   },
+   {
+    "text": "전투기 비행장",
+    "image": null
+   },
+   {
+    "text": "초콜릿 공장",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "그래서 비행 부대의 '유령' 그림을 자동차에 붙여요. 👻",
+  "item": "koenigsegg-agera"
+ },
+ {
+  "id": "q069",
+  "kind": "fact",
+  "question": "리막 네베라는 무엇으로 달릴까요?",
+  "image": "assets/items/rimac-nevera/thumb.jpg",
+  "choices": [
+   {
+    "text": "전기",
+    "image": null
+   },
+   {
+    "text": "휘발유",
+    "image": null
+   },
+   {
+    "text": "장작",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "바퀴마다 모터가 하나씩, 모두 네 개 있어요. ⚡",
+  "item": "rimac-nevera"
+ },
+ {
+  "id": "q070",
+  "kind": "fact",
+  "question": "N 비전 74는 어떤 자동차를 닮았을까요?",
+  "image": "assets/items/hyundai-n-vision-74/thumb.jpg",
+  "choices": [
+   {
+    "text": "포니 쿠페",
+    "image": null
+   },
+   {
+    "text": "트랙터",
+    "image": null
+   },
+   {
+    "text": "버스",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "1974년 포니 쿠페 디자인을 닮았어요.",
+  "item": "hyundai-n-vision-74"
+ },
+ {
+  "id": "q071",
+  "kind": "fact",
+  "question": "F1 경주 중에 바퀴 네 개를 바꾸는 데 얼마나 걸릴까요?",
+  "image": "assets/items/f1/thumb.jpg",
+  "choices": [
+   {
+    "text": "약 1시간",
+    "image": null
+   },
+   {
+    "text": "약 2초",
+    "image": null
+   },
+   {
+    "text": "하루",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "정비하는 사람들이 눈 깜짝할 새 바꿔 끼워요! ⏱️",
+  "item": "f1"
+ },
+ {
+  "id": "q072",
+  "kind": "fact",
+  "question": "인디 500에서 이긴 선수는 무엇을 마실까요?",
+  "image": "assets/items/indycar/thumb.jpg",
+  "choices": [
+   {
+    "text": "우유",
+    "image": null
+   },
+   {
+    "text": "콜라",
+    "image": null
+   },
+   {
+    "text": "주스",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "우유를 마시며 축하하는 게 전통이에요. 🥛",
+  "item": "indycar"
+ },
+ {
+  "id": "q073",
+  "kind": "fact",
+  "question": "르망 경주는 몇 시간 동안 달릴까요?",
+  "image": "assets/items/le-mans/thumb.jpg",
+  "choices": [
+   {
+    "text": "1시간",
+    "image": null
+   },
+   {
+    "text": "24시간",
+    "image": null
+   },
+   {
+    "text": "10분",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "선수 3명이 번갈아 하루 종일 달려요. 🌙",
+  "item": "le-mans"
+ },
+ {
+  "id": "q074",
+  "kind": "fact",
+  "question": "나스카 선수는 어디로 차에 타고 내릴까요?",
+  "image": "assets/items/nascar/thumb.jpg",
+  "choices": [
+   {
+    "text": "트렁크",
+    "image": null
+   },
+   {
+    "text": "창문",
+    "image": null
+   },
+   {
+    "text": "지붕 문",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "무게를 줄이려고 문이 열리지 않아요.",
+  "item": "nascar"
+ },
+ {
+  "id": "q075",
+  "kind": "fact",
+  "question": "드래그스터는 멈출 때 무엇을 펼칠까요?",
+  "image": "assets/items/dragster/thumb.jpg",
+  "choices": [
+   {
+    "text": "날개",
+    "image": null
+   },
+   {
+    "text": "낙하산",
+    "image": null
+   },
+   {
+    "text": "우산",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "너무 빨라서 낙하산으로 속도를 줄여요. 🪂",
+  "item": "dragster"
+ },
+ {
+  "id": "q076",
+  "kind": "fact",
+  "question": "포뮬러 E 경주차는 무엇으로 달릴까요?",
+  "image": "assets/items/formula-e/thumb.jpg",
+  "choices": [
+   {
+    "text": "전기",
+    "image": null
+   },
+   {
+    "text": "수소",
+    "image": null
+   },
+   {
+    "text": "휘발유",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "2022년에는 서울에서도 경주가 열렸어요.",
+  "item": "formula-e"
+ },
+ {
+  "id": "q077",
+  "kind": "fact",
+  "question": "2층 버스로 유명한 도시는 어디일까요?",
+  "image": "assets/items/double-decker/thumb.jpg",
+  "choices": [
+   {
+    "text": "도쿄",
+    "image": null
+   },
+   {
+    "text": "런던",
+    "image": null
+   },
+   {
+    "text": "파리",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "런던의 빨간 2층 버스가 유명해요. 🚌",
+  "item": "double-decker"
+ },
+ {
+  "id": "q078",
+  "kind": "fact",
+  "question": "굴절 버스는 어디가 꺾일까요?",
+  "image": "assets/items/articulated-bus/thumb.jpg",
+  "choices": [
+   {
+    "text": "지붕",
+    "image": null
+   },
+   {
+    "text": "가운데",
+    "image": null
+   },
+   {
+    "text": "바퀴",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "가운데 관절이 있어서 긴 버스도 길을 잘 돌아요.",
+  "item": "articulated-bus"
+ },
+ {
+  "id": "q079",
+  "kind": "fact",
+  "question": "미국 스쿨버스는 무슨 색일까요?",
+  "image": "assets/items/school-bus/thumb.jpg",
+  "choices": [
+   {
+    "text": "검은색",
+    "image": null
+   },
+   {
+    "text": "노란색",
+    "image": null
+   },
+   {
+    "text": "빨간색",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "멀리서도 잘 보이게 노랗게 칠해요. 💛",
+  "item": "school-bus"
+ },
+ {
+  "id": "q080",
+  "kind": "fact",
+  "question": "트롤리버스는 어디에서 전기를 받을까요?",
+  "image": "assets/items/trolleybus/thumb.jpg",
+  "choices": [
+   {
+    "text": "햇빛",
+    "image": null
+   },
+   {
+    "text": "바퀴 밑 땅",
+    "image": null
+   },
+   {
+    "text": "위쪽 전깃줄",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "지붕 위 막대 두 개가 전깃줄에 닿아 있어요.",
+  "item": "trolleybus"
+ },
+ {
+  "id": "q081",
+  "kind": "fact",
+  "question": "미국에서 트레일러 트럭을 바퀴 수로 부르는 이름은 무엇일까요?",
+  "image": "assets/items/semi-truck/thumb.jpg",
+  "choices": [
+   {
+    "text": "4 휠러",
+    "image": null
+   },
+   {
+    "text": "100 휠러",
+    "image": null
+   },
+   {
+    "text": "18 휠러",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "바퀴가 18개라서 '18 휠러'예요.",
+  "item": "semi-truck"
+ },
+ {
+  "id": "q082",
+  "kind": "fact",
+  "question": "첫 몬스터 트럭의 이름은 무엇일까요?",
+  "image": "assets/items/monster-truck/thumb.jpg",
+  "choices": [
+   {
+    "text": "빅풋",
+    "image": null
+   },
+   {
+    "text": "작은 발",
+    "image": null
+   },
+   {
+    "text": "고질라",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "'빅풋'은 큰 발이라는 뜻이에요. 🦶",
+  "item": "monster-truck"
+ },
+ {
+  "id": "q083",
+  "kind": "fact",
+  "question": "로드 트레인은 어느 나라에서 달릴까요?",
+  "image": "assets/items/road-train/thumb.jpg",
+  "choices": [
+   {
+    "text": "영국",
+    "image": null
+   },
+   {
+    "text": "일본",
+    "image": null
+   },
+   {
+    "text": "오스트레일리아",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "넓은 사막길에서 짐칸 여러 개를 끌고 달려요. 🦘",
+  "item": "road-train"
+ },
+ {
+  "id": "q084",
+  "kind": "fact",
+  "question": "불이 났을 때 부르는 번호는 무엇일까요?",
+  "image": "assets/items/fire-engine/thumb.jpg",
+  "choices": [
+   {
+    "text": "114",
+    "image": null
+   },
+   {
+    "text": "112",
+    "image": null
+   },
+   {
+    "text": "119",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "119에 전화하면 소방차가 달려와요. 🚒",
+  "item": "fire-engine"
+ },
+ {
+  "id": "q085",
+  "kind": "fact",
+  "question": "경찰을 부르는 번호는 무엇일까요?",
+  "image": "assets/items/police-car/thumb.jpg",
+  "choices": [
+   {
+    "text": "119",
+    "image": null
+   },
+   {
+    "text": "365",
+    "image": null
+   },
+   {
+    "text": "112",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "112에 전화하면 경찰이 도와줘요. 🚓",
+  "item": "police-car"
+ },
+ {
+  "id": "q086",
+  "kind": "fact",
+  "question": "구급차 앞에 'AMBULANCE' 글자를 거꾸로 쓴 까닭은 무엇일까요?",
+  "image": "assets/items/ambulance/thumb.jpg",
+  "choices": [
+   {
+    "text": "앞차 거울로 보면 바르게 보여서",
+    "image": null
+   },
+   {
+    "text": "실수로",
+    "image": null
+   },
+   {
+    "text": "멋있어 보이려고",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "거울에 비치면 글자가 바르게 읽혀요. 🪞",
+  "item": "ambulance"
+ },
+ {
+  "id": "q087",
+  "kind": "fact",
+  "question": "사다리 소방차는 사다리를 뻗기 전에 무엇을 할까요?",
+  "image": "assets/items/ladder-truck/thumb.jpg",
+  "choices": [
+   {
+    "text": "바퀴를 빼요",
+    "image": null
+   },
+   {
+    "text": "노래를 틀어요",
+    "image": null
+   },
+   {
+    "text": "다리를 내려 땅을 짚어요",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "그래야 넘어지지 않아요.",
+  "item": "ladder-truck"
+ },
+ {
+  "id": "q088",
+  "kind": "fact",
+  "question": "굴착기의 윗몸은 몇 도까지 돌 수 있을까요?",
+  "image": "assets/items/excavator/thumb.jpg",
+  "choices": [
+   {
+    "text": "반 바퀴만",
+    "image": null
+   },
+   {
+    "text": "조금도 못 돌아요",
+    "image": null
+   },
+   {
+    "text": "360도 빙글",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "윗몸이 한 바퀴 빙글 돌아요.",
+  "item": "excavator"
+ },
+ {
+  "id": "q089",
+  "kind": "fact",
+  "question": "레미콘이 통을 쉬지 않고 돌리는 까닭은 무엇일까요?",
+  "image": "assets/items/mixer/thumb.jpg",
+  "choices": [
+   {
+    "text": "콘크리트가 굳지 않게",
+    "image": null
+   },
+   {
+    "text": "재미있어서",
+    "image": null
+   },
+   {
+    "text": "소리를 내려고",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "가만두면 돌처럼 굳어 버려요.",
+  "item": "mixer"
+ },
+ {
+  "id": "q090",
+  "kind": "fact",
+  "question": "거대 덤프트럭 운전석에는 어떻게 올라갈까요?",
+  "image": "assets/items/mining-truck/thumb.jpg",
+  "choices": [
+   {
+    "text": "계단으로",
+    "image": null
+   },
+   {
+    "text": "점프해서",
+    "image": null
+   },
+   {
+    "text": "사다리차로",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "트럭에 달린 계단을 한참 올라가야 해요.",
+  "item": "mining-truck"
+ },
+ {
+  "id": "q091",
+  "kind": "fact",
+  "question": "지게차 뒤에 무거운 쇳덩어리가 달린 까닭은 무엇일까요?",
+  "image": "assets/items/forklift/thumb.jpg",
+  "choices": [
+   {
+    "text": "장식이라서",
+    "image": null
+   },
+   {
+    "text": "더 빨리 달리려고",
+    "image": null
+   },
+   {
+    "text": "앞으로 넘어지지 않게",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "무거운 짐을 들어도 균형을 잡아 줘요. ⚖️",
+  "item": "forklift"
+ },
+ {
+  "id": "q092",
+  "kind": "fact",
+  "question": "불도저 앞에 달린 커다란 날은 무엇을 할까요?",
+  "image": "assets/items/bulldozer/thumb.jpg",
+  "choices": [
+   {
+    "text": "노래를 불러요",
+    "image": null
+   },
+   {
+    "text": "흙을 밀어요",
+    "image": null
+   },
+   {
+    "text": "물을 뿌려요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "흙을 밀어서 땅을 평평하게 만들어요.",
+  "item": "bulldozer"
+ },
+ {
+  "id": "q093",
+  "kind": "fact",
+  "question": "쓰레기 수거차는 주로 언제 일할까요?",
+  "image": "assets/items/garbage-truck/thumb.jpg",
+  "choices": [
+   {
+    "text": "새벽",
+    "image": null
+   },
+   {
+    "text": "점심때",
+    "image": null
+   },
+   {
+    "text": "저녁 먹을 때",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "우리가 자는 동안 동네를 깨끗하게 해 줘요. 🌅",
+  "item": "garbage-truck"
+ },
+ {
+  "id": "q094",
+  "kind": "fact",
+  "question": "제설차가 뒤에서 뿌리는 것은 무엇일까요?",
+  "image": "assets/items/snowplow/thumb.jpg",
+  "choices": [
+   {
+    "text": "설탕",
+    "image": null
+   },
+   {
+    "text": "꽃씨",
+    "image": null
+   },
+   {
+    "text": "염화칼슘",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "눈과 얼음을 녹여 줘요. ❄️",
+  "item": "snowplow"
+ },
+ {
+  "id": "q095",
+  "kind": "fact",
+  "question": "요즘 트랙터는 무엇으로 길을 찾을까요?",
+  "image": "assets/items/tractor/thumb.jpg",
+  "choices": [
+   {
+    "text": "위성 신호",
+    "image": null
+   },
+   {
+    "text": "별자리",
+    "image": null
+   },
+   {
+    "text": "냄새",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "운전대를 잡지 않아도 밭을 반듯하게 갈아요. 🛰️",
+  "item": "tractor"
+ },
+ {
+  "id": "q096",
+  "kind": "fact",
+  "question": "콤바인은 무슨 일을 할까요?",
+  "image": "assets/items/combine/thumb.jpg",
+  "choices": [
+   {
+    "text": "불을 꺼요",
+    "image": null
+   },
+   {
+    "text": "곡식을 거둬요",
+    "image": null
+   },
+   {
+    "text": "눈을 치워요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "벼와 밀을 베고 낟알까지 털어 줘요. 🌾",
+  "item": "combine"
+ },
+ {
+  "id": "q097",
+  "kind": "fact",
+  "question": "사다리차는 이삿짐을 어디로 옮길까요?",
+  "image": "assets/items/ladder-lift/thumb.jpg",
+  "choices": [
+   {
+    "text": "창문으로",
+    "image": null
+   },
+   {
+    "text": "지하로",
+    "image": null
+   },
+   {
+    "text": "굴뚝으로",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "높은 아파트 창문까지 짐판이 오르락내리락해요.",
+  "item": "ladder-lift"
+ }
+]

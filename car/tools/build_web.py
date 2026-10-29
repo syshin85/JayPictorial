@@ -15,7 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
 
-FILES = ["index.html", "app.js", "styles.css", "sw.js", "manifest.webmanifest", "_headers"]
+FILES = ["index.html", "app.js", "quiz.js", "quiz.css", "styles.css", "sw.js", "manifest.webmanifest", "_headers"]
 DIRS = ["data", "assets"]
 SKIP_NAMES = {".DS_Store", ".gitkeep"}
 
