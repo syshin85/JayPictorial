@@ -1,0 +1,3560 @@
+{
+ "books": [
+  {
+   "id": "planes",
+   "name": "비행기 알아보기",
+   "emoji": "✈️",
+   "color": "#1E6FD9"
+  }
+ ],
+ "sections": [
+  {
+   "id": "airliners",
+   "book": "planes",
+   "name": "여객기",
+   "emoji": "✈️",
+   "color": "#1E6FD9"
+  },
+  {
+   "id": "fighters",
+   "book": "planes",
+   "name": "전투기",
+   "emoji": "🦅",
+   "color": "#475569"
+  },
+  {
+   "id": "helicopters",
+   "book": "planes",
+   "name": "헬리콥터",
+   "emoji": "🚁",
+   "color": "#E8453C"
+  },
+  {
+   "id": "old",
+   "book": "planes",
+   "name": "옛날 비행기",
+   "emoji": "🛩️",
+   "color": "#B7791F"
+  },
+  {
+   "id": "special",
+   "book": "planes",
+   "name": "특수 비행기",
+   "emoji": "🌟",
+   "color": "#7C3AED"
+  }
+ ],
+ "items": [
+  {
+   "id": "boeing-747",
+   "section": "airliners",
+   "name": "보잉 747",
+   "subtitle": "하늘의 여왕",
+   "color": "#1E6FD9",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1969",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "416",
+     "명"
+    ]
+   ],
+   "story": "머리 부분이 2층으로 볼록 솟은 커다란 여객기예요. 엔진 4개로 힘차게 날아요. 1970년부터 50년 넘게 많은 사람을 태우고 먼 나라까지 데려다주었어요.",
+   "funFact": "별명이 '점보 제트'예요. 꼬리 날개 높이가 6층 건물만큼 높아요.",
+   "wiki": "Boeing 747",
+   "photoQuery": "Boeing 747",
+   "photoMatch": [
+    "747"
+   ],
+   "videoQueries": [
+    "Boeing 747 takeoff",
+    "Boeing 747 landing",
+    "Boeing 747 flying"
+   ],
+   "videoMatch": [
+    "747"
+   ],
+   "photos": [
+    "File:Boeing 747-8 Lufthansa D-ABYI at LAX.jpg",
+    "File:B-747 Iberia.jpg",
+    "File:747.JPG",
+    "File:Thai Airways International Boeing 747-4D7 HS-TGP MUC 2015 03.jpg",
+    "File:Lufthansa Boeing 747-8 D-ABYI IAD VA1.jpg"
+   ]
+  },
+  {
+   "id": "airbus-a380",
+   "section": "airliners",
+   "name": "에어버스 A380",
+   "subtitle": "세계에서 가장 큰 여객기",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2005",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "853",
+     "명"
+    ]
+   ],
+   "story": "위층과 아래층이 모두 손님 자리인 2층 여객기예요. 세상에서 가장 큰 여객기라서 사람을 아주 많이 태울 수 있어요. 대한항공과 아시아나항공도 A380을 날려요.",
+   "funFact": "날개 넓이가 농구장 2개를 합친 것보다 넓어요.",
+   "wiki": "Airbus A380",
+   "photoQuery": "Airbus A380",
+   "photoMatch": [
+    "a380"
+   ],
+   "videoQueries": [
+    "Airbus A380 takeoff",
+    "Airbus A380 landing",
+    "Airbus A380 flying"
+   ],
+   "videoMatch": [
+    "a380"
+   ],
+   "photos": [
+    "File:A6-EDY A380 Emirates 31 jan 2013 jfk (8442269364) (cropped).jpg",
+    "File:All Nippon Airways A380 (JA381A) @ NRT, April 2019.jpg",
+    "File:Airbus A380 on MAKS 2011.jpg",
+    "File:Singapore Airlines Airbus A380 woah!.jpg",
+    "File:Airbus A380-841, Lufthansa AN1891305.jpg"
+   ]
+  },
+  {
+   "id": "boeing-787",
+   "section": "airliners",
+   "name": "보잉 787 드림라이너",
+   "subtitle": "가볍고 조용한 꿈의 비행기",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2009",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "330",
+     "명"
+    ]
+   ],
+   "story": "몸통을 가볍고 튼튼한 탄소 섬유로 만든 여객기예요. 몸이 가벼워서 기름을 아끼면서 아주 먼 곳까지 날 수 있어요. 날개가 새처럼 위로 휘어져요.",
+   "funFact": "창문 가리개가 없어요. 버튼을 누르면 창문 유리 색이 스르르 어두워져요.",
+   "wiki": "Boeing 787 Dreamliner",
+   "photoQuery": "Boeing 787 Dreamliner",
+   "photoMatch": [
+    "787"
+   ],
+   "videoQueries": [
+    "Boeing 787 Dreamliner takeoff",
+    "Boeing 787 Dreamliner landing",
+    "Boeing 787 Dreamliner flying"
+   ],
+   "videoMatch": [
+    "787",
+    "dreamliner",
+    "드림라이너"
+   ],
+   "photos": [
+    "File:All Nippon Airways, Boeing 787-8, JA823A (14305502433).jpg",
+    "File:Air New Zealand Boeing 787-9 Dreamliner landing at Perth Airport.jpg",
+    "File:Vietnam Airlines 787-10 VN-A879 F2F.jpg",
+    "File:Singapore Airlines Boeing 787 9V-SCI Perth 2024 (01).jpg",
+    "File:Boeing 787 first flight.jpg"
+   ]
+  },
+  {
+   "id": "boeing-777",
+   "section": "airliners",
+   "name": "보잉 777",
+   "subtitle": "엔진이 아주 큰 쌍둥이 엔진 여객기",
+   "color": "#1D4ED8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1994",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "396",
+     "명"
+    ]
+   ],
+   "story": "엔진 2개로 먼 나라까지 나는 커다란 여객기예요. 우리나라 항공사들도 많이 써요. 바퀴가 한쪽에 6개씩 모여 있어서 무거운 몸을 튼튼하게 받쳐 줘요.",
+   "funFact": "엔진이 아주 커서 엔진 둘레가 작은 여객기 몸통만큼 굵어요.",
+   "wiki": "Boeing 777",
+   "photoQuery": "Boeing 777-300ER",
+   "photoMatch": [
+    "777"
+   ],
+   "videoQueries": [
+    "Boeing 777 takeoff",
+    "Boeing 777 landing",
+    "Boeing 777 flying"
+   ],
+   "videoMatch": [
+    "777"
+   ],
+   "photos": [
+    "File:Cathay Pacific Boeing 777-200; B-HNL@HKG.jpg",
+    "File:A6-ECF B777-300 Emirates front (4134226438).jpg",
+    "File:Engine of Jet Airways Boeing 777-300ER.jpg",
+    "File:Boeing 777-367, Cathay Pacific Airways JP6823635.jpg",
+    "File:Boeing 777-200ER ecoDemonstrator N861BC.jpg"
+   ]
+  },
+  {
+   "id": "boeing-777x",
+   "section": "airliners",
+   "name": "보잉 777X",
+   "subtitle": "날개 끝을 접는 여객기",
+   "color": "#3B82F6",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2020",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "426",
+     "명"
+    ]
+   ],
+   "story": "보잉 777을 더 크게 새로 만든 여객기예요. 날개가 아주 길어서 연료를 아끼며 먼 곳까지 날아요.",
+   "funFact": "날개가 너무 길어서 공항에서는 날개 끝을 위로 접어요. 땅에 내리면 접고, 날기 전에 다시 펴요.",
+   "wiki": "Boeing 777X",
+   "photoQuery": "Boeing 777X",
+   "photoMatch": [
+    "777x",
+    "777-9"
+   ],
+   "videoQueries": [
+    "Boeing 777X takeoff",
+    "Boeing 777X landing",
+    "Boeing 777X flying"
+   ],
+   "videoMatch": [
+    "777x",
+    "777-9"
+   ],
+   "photos": [
+    "File:Boeing 777X at Dubai Airshow 2021 3.jpg",
+    "File:Boeing 777X at Dubai Airshow 2021.jpg",
+    "File:777X Roll-Out (40407369583).jpg",
+    "File:Boeing 777X at Dubai Airshow 2021 2.jpg",
+    "File:N779XX B777-9, Boeing, Boeing Field 09-15-26.jpg"
+   ]
+  },
+  {
+   "id": "airbus-a350",
+   "section": "airliners",
+   "name": "에어버스 A350",
+   "subtitle": "선글라스를 쓴 것 같은 여객기",
+   "color": "#0284C7",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2013",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "350",
+     "명"
+    ]
+   ],
+   "story": "유럽의 에어버스가 만든 최신 여객기예요. 조종석 창문 둘레가 까맣게 칠해져 있어서 선글라스를 쓴 너구리 같아요. 아주 조용하게 날아요.",
+   "funFact": "날 때는 날개 끝이 새 날개처럼 위로 더 휘어져요.",
+   "wiki": "Airbus A350",
+   "photoQuery": "Airbus A350",
+   "photoMatch": [
+    "a350"
+   ],
+   "videoQueries": [
+    "Airbus A350 takeoff",
+    "Airbus A350 landing",
+    "Airbus A350 flying"
+   ],
+   "videoMatch": [
+    "a350"
+   ],
+   "photos": [
+    "File:A350XWB-Demo.jpg",
+    "File:EC-MXV Airbus A350-900 Iberia LHR 30.3.21.jpg",
+    "File:Singapore Airlines Airbus A350 9V-SHF Perth 2019 (01).jpg",
+    "File:Qatar Airways Airbus A350-1000 (A7-ANA).jpg",
+    "File:Airbus A350-941 ‘VN-A886’ Vietnam Airlines.jpg"
+   ]
+  },
+  {
+   "id": "boeing-737",
+   "section": "airliners",
+   "name": "보잉 737",
+   "subtitle": "세계에서 가장 많이 만든 여객기",
+   "color": "#1E40AF",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1967",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "189",
+     "명"
+    ]
+   ],
+   "story": "제주도처럼 가까운 곳을 자주 오가는 여객기예요. 60년 가까이 계속 새 모습으로 만들어져서 세계에서 가장 많이 만든 여객기가 되었어요.",
+   "funFact": "지금 이 순간에도 하늘에는 737이 아주 많이 날고 있어요.",
+   "wiki": "Boeing 737",
+   "photoQuery": "Boeing 737-800",
+   "photoMatch": [
+    "737"
+   ],
+   "videoQueries": [
+    "Boeing 737 takeoff",
+    "Boeing 737 landing",
+    "Boeing 737 flying"
+   ],
+   "videoMatch": [
+    "737"
+   ],
+   "photos": [
+    "File:Boeing 737-130, Lufthansa AN2056613.jpg",
+    "File:Boeing 737-500 (Southwest Airlines) (2389306174).jpg",
+    "File:D-ATUF B737-8K5W TUIfly-Hapag retro PMI 26SEP10 (6341092368).jpg",
+    "File:South African Airlink Boeing 737-200 Advanced Smith.jpg",
+    "File:Boeing Company, N7201S, Boeing 737-7 MAX (30416417438).jpg"
+   ]
+  },
+  {
+   "id": "airbus-a320",
+   "section": "airliners",
+   "name": "에어버스 A320",
+   "subtitle": "막대 하나로 조종하는 여객기",
+   "color": "#06B6D4",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1987",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "180",
+     "명"
+    ]
+   ],
+   "story": "가까운 나라를 오가는 데 많이 쓰는 여객기예요. 컴퓨터가 조종을 도와주는 방식을 여객기에서 처음 널리 썼어요.",
+   "funFact": "조종사가 커다란 운전대 대신 게임기 같은 작은 막대로 조종해요.",
+   "wiki": "Airbus A320 family",
+   "photoQuery": "Airbus A320",
+   "photoMatch": [
+    "a320",
+    "a321"
+   ],
+   "videoQueries": [
+    "Airbus A320 family takeoff",
+    "Airbus A320 family landing",
+    "Airbus A320 family flying"
+   ],
+   "videoMatch": [
+    "a320",
+    "a321"
+   ],
+   "photos": [
+    "File:F-WWAI A320-131 Airbus Industrie(prototype) FAB SEP88 (13753510323).jpg",
+    "File:Spirit Airbus A320 N652NK BWI MD1.jpg",
+    "File:Berlin Brandenburg Airport easyJet Europe Airbus A320-214 OE-IDO (DSC07809).jpg",
+    "File:Airbus A320-100 Air France (AFR) F-GFKQ - MSN 002 (10655931213).jpg",
+    "File:Airbus A320neo landing 07.jpg"
+   ]
+  },
+  {
+   "id": "airbus-a220",
+   "section": "airliners",
+   "name": "에어버스 A220",
+   "subtitle": "캐나다에서 태어난 작은 여객기",
+   "color": "#38BDF8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2013",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "캐나다",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "130",
+     "명"
+    ]
+   ],
+   "story": "캐나다 회사가 처음 만들고 나중에 에어버스가 이어서 만든 작은 여객기예요. 대한항공도 이 비행기로 가까운 도시를 오가요.",
+   "funFact": "창문이 커서 밖을 보기에 아주 좋아요.",
+   "wiki": "Airbus A220",
+   "photoQuery": "Airbus A220",
+   "photoMatch": [
+    "a220",
+    "cs100",
+    "cs300"
+   ],
+   "videoQueries": [
+    "Airbus A220 takeoff",
+    "Airbus A220 landing",
+    "Airbus A220 flying"
+   ],
+   "videoMatch": [
+    "a220"
+   ],
+   "photos": [
+    "File:Airbus A220-300.jpg",
+    "File:YL-CSD Bombardier BD-500-1A100 CS300 BCS3 Airbus A220-300 A223 c n 55006 - BTI (31100301167).jpg",
+    "File:Air Canada Airbus A220-300 C-GJXN on final approach to Boston June 2026 1.jpg",
+    "File:CS100-FTV1-TO.jpg",
+    "File:HB-JBC Bombardier BD-500-1A10 CS100 BCS1 - SWR (33142509796).jpg"
+   ]
+  },
+  {
+   "id": "embraer-e190",
+   "section": "airliners",
+   "name": "엠브라에르 E190",
+   "subtitle": "브라질에서 온 비행기",
+   "color": "#0D9488",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2004",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "브라질",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "100",
+     "명"
+    ]
+   ],
+   "story": "브라질의 엠브라에르라는 회사가 만든 중간 크기의 여객기예요. 날개 아래에 엔진 2개가 달려 있어요. 작은 공항에도 잘 내려앉아요.",
+   "funFact": "엠브라에르는 큰 여객기 회사 중에서 남쪽 나라에 있는 회사예요.",
+   "wiki": "Embraer E-Jet family",
+   "photoQuery": "Embraer 190",
+   "photoMatch": [
+    "e190",
+    "e-190",
+    "erj-190",
+    "erj 190",
+    "e195",
+    "e2"
+   ],
+   "videoQueries": [
+    "Embraer E190 takeoff",
+    "Embraer E195-E2 takeoff",
+    "Embraer E190 landing"
+   ],
+   "videoMatch": [
+    "e190",
+    "e195",
+    "e2",
+    "embraer",
+    "e-jet"
+   ],
+   "photos": [
+    "File:TAP E-190 CS-TPZ 10mar26 LFBO.jpg",
+    "File:Widerøe, LN-WEA, Embraer E190-E2 @ HEL.jpg",
+    "File:Hannover Airport German Airways Embraer ERJ-190AR D-AGMP (DSC07473).jpg",
+    "File:YV2911 Conviasa Embraer ERJ-190 in Maiquetia Airport.jpg"
+   ]
+  },
+  {
+   "id": "atr-72",
+   "section": "airliners",
+   "name": "ATR 72",
+   "subtitle": "프로펠러가 달린 여객기",
+   "color": "#F59E0B",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1988",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스·이탈리아",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "72",
+     "명"
+    ]
+   ],
+   "story": "엔진이 프로펠러를 빙글빙글 돌려서 나는 여객기예요. 활주로가 짧은 섬 공항에도 잘 뜨고 내려요. 기름을 적게 써서 가까운 곳을 오가기 좋아요.",
+   "funFact": "이름의 72는 탈 수 있는 손님 수를 뜻해요.",
+   "wiki": "ATR 72",
+   "photoQuery": "ATR 72",
+   "photoMatch": [
+    "atr 72",
+    "atr72",
+    "atr-72"
+   ],
+   "videoQueries": [
+    "ATR 72 takeoff",
+    "ATR 72 landing",
+    "ATR 72 flying"
+   ],
+   "videoMatch": [
+    "atr 72",
+    "atr72",
+    "atr-72"
+   ],
+   "photos": [
+    "File:ATR 72-212A(500), Air Dolomiti JP7588385.jpg",
+    "File:ATR 72-600 - 50505204912.jpg",
+    "File:Cebgo (Cebu Pacific) ATR 72-600.jpg",
+    "File:Aurigny.atr72-200.g-bwda.arp.jpg",
+    "File:Finnair ATR-72 OH-KRL at EFHK 20030803.jpg"
+   ]
+  },
+  {
+   "id": "comac-c919",
+   "section": "airliners",
+   "name": "코맥 C919",
+   "subtitle": "중국이 만든 여객기",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2017",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "중국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "190",
+     "명"
+    ]
+   ],
+   "story": "중국의 코맥이라는 회사가 만든 여객기예요. 크기는 보잉 737이나 에어버스 A320과 비슷해요. 2023년부터 손님을 태우고 날기 시작했어요.",
+   "funFact": "C919의 C는 중국(China)과 회사 이름 코맥(COMAC)의 첫 글자예요.",
+   "wiki": "Comac C919",
+   "photoQuery": "Comac C919",
+   "photoMatch": [
+    "c919"
+   ],
+   "videoQueries": [
+    "Comac C919 takeoff",
+    "Comac C919 landing",
+    "Comac C919 flying"
+   ],
+   "videoMatch": [
+    "c919"
+   ],
+   "photos": [
+    "File:COMAC C919 - Commercial Aircraft Corporation Of China AN4748979.jpg",
+    "File:China Eastern Airlines COMAC C919 Airplane B-919A.jpg",
+    "File:20250731 COMAC C919-100STD of China Southern Airlines (B-919J) taking-off from CGO 01.jpg",
+    "File:Comac C919 first vr test at Shanghai Pudong.jpg",
+    "File:China Eastern Airlines Comac C919 B-919H on final approach to Shanghai Hongqiao June 2025.jpg"
+   ]
+  },
+  {
+   "id": "kf-21",
+   "section": "fighters",
+   "name": "KF-21 보라매",
+   "subtitle": "우리나라가 만든 전투기",
+   "color": "#64748B",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2022",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,200",
+     "km/h"
+    ]
+   ],
+   "story": "우리나라가 직접 만든 최신 전투기예요. 2022년에 처음 하늘을 날았어요. 엔진 2개로 소리보다 빠르게 날 수 있어요.",
+   "funFact": "보라매는 '사냥을 배운 어린 매'라는 뜻이에요.",
+   "wiki": "KAI KF-21 Boramae",
+   "photoQuery": "KAI KF-21 Boramae",
+   "photoMatch": [
+    "kf-21",
+    "kf21",
+    "boramae"
+   ],
+   "videoQueries": [
+    "KF-21 보라매 비행",
+    "KF-21 Boramae flight",
+    "KF-21 이륙"
+   ],
+   "videoMatch": [
+    "kf-21",
+    "kf21",
+    "보라매",
+    "boramae"
+   ],
+   "photos": [
+    "File:KF-21 Boramae First Production.jpg",
+    "File:KF-21 prototype 003 and 004 during flight testing.jpg",
+    "File:KF21ADEX-20.10.2023 1.jpg",
+    "File:KF21ADEX-20.10.2023 2.jpg",
+    "File:KF21-4.jpg"
+   ]
+  },
+  {
+   "id": "t-50",
+   "section": "fighters",
+   "name": "T-50 골든이글",
+   "subtitle": "블랙이글스의 곡예 비행기",
+   "color": "#1F2937",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2002",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,640",
+     "km/h"
+    ]
+   ],
+   "story": "조종사들이 전투기 조종을 연습하는 훈련기예요. 우리 공군 곡예비행팀 '블랙이글스'가 이 비행기로 하늘에 멋진 모양을 그려요.",
+   "funFact": "블랙이글스는 여러 대가 함께 날며 하늘에 커다란 하트와 태극 모양을 그려요.",
+   "wiki": "KAI T-50 Golden Eagle",
+   "photoQuery": "KAI T-50 Golden Eagle",
+   "photoMatch": [
+    "t-50",
+    "t50",
+    "black eagles",
+    "fa-50"
+   ],
+   "videoQueries": [
+    "블랙이글스 에어쇼",
+    "Black Eagles T-50 airshow",
+    "T-50 골든이글 비행"
+   ],
+   "videoMatch": [
+    "t-50",
+    "t50",
+    "블랙이글스",
+    "black eagles"
+   ],
+   "photos": [
+    "File:KAI T-50 Golden Eagle, South Korea - Air Force JP7410654.jpg",
+    "File:KAI T-50 Golden Eagle, South Korea - Air Force JP7410660.jpg",
+    "File:Philippine Air Force FA-50PH.jpg",
+    "File:KAI T-50 Golden Eagle, South Korea - Air Force JP6772728.jpg",
+    "File:KAI T-50 Golden Eagle - 54275964947.jpg"
+   ]
+  },
+  {
+   "id": "f-35",
+   "section": "fighters",
+   "name": "F-35 라이트닝 II",
+   "subtitle": "레이더에 잘 안 보이는 전투기",
+   "color": "#6B7280",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2006",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,930",
+     "km/h"
+    ]
+   ],
+   "story": "레이더에 잘 잡히지 않는 '스텔스' 전투기예요. 각진 모양과 특별한 페인트 덕분에 숨바꼭질을 아주 잘해요. 우리 공군도 F-35를 써요.",
+   "funFact": "F-35B는 헬리콥터처럼 공중에 멈춰 있다가 똑바로 내려앉을 수 있어요.",
+   "wiki": "Lockheed Martin F-35 Lightning II",
+   "photoQuery": "Lockheed Martin F-35 Lightning II",
+   "photoMatch": [
+    "f-35",
+    "f35"
+   ],
+   "videoQueries": [
+    "F-35 airshow demo",
+    "F-35B vertical landing",
+    "F-35 takeoff"
+   ],
+   "videoMatch": [
+    "f-35",
+    "f35"
+   ],
+   "photos": [
+    "File:F-35A flight (cropped).jpg",
+    "File:F-35B Lightning II lands aboard HMS Queen Elizabeth (R08) on 17 October 2019 (191017-N-QI061-1159).jpg",
+    "File:F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow.jpg",
+    "File:Navy launches first local F-35C sortie (cropped).jpg",
+    "File:AGM-158C flight testing begins on F-35C.jpg"
+   ]
+  },
+  {
+   "id": "f-22",
+   "section": "fighters",
+   "name": "F-22 랩터",
+   "subtitle": "하늘의 맹금류",
+   "color": "#475569",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1997",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,410",
+     "km/h"
+    ]
+   ],
+   "story": "아주 날쌘 스텔스 전투기예요. 엔진 뒤쪽 바람 나오는 곳이 위아래로 움직여서 공중에서 빙글빙글 묘기를 부릴 수 있어요.",
+   "funFact": "랩터는 독수리나 매처럼 사냥하는 새를 부르는 말이에요.",
+   "wiki": "Lockheed Martin F-22 Raptor",
+   "photoQuery": "Lockheed Martin F-22 Raptor",
+   "photoMatch": [
+    "f-22",
+    "f22",
+    "raptor"
+   ],
+   "videoQueries": [
+    "F-22 Raptor airshow demo",
+    "F-22 Raptor takeoff",
+    "F-22 Raptor flyby"
+   ],
+   "videoMatch": [
+    "f-22",
+    "f22",
+    "raptor"
+   ],
+   "photos": [
+    "File:F-22 Raptor edit1 (cropped).jpg",
+    "File:Lockheed Martin F-22A Raptor JSOH.jpg",
+    "File:Holloman AFB F-22.jpg",
+    "File:F-22 Raptor edit1.jpg",
+    "File:Two F-22 Raptor in flying.jpg"
+   ]
+  },
+  {
+   "id": "f-16",
+   "section": "fighters",
+   "name": "F-16 파이팅 팰컨",
+   "subtitle": "세계 여러 나라가 쓰는 전투기",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1974",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,120",
+     "km/h"
+    ]
+   ],
+   "story": "작고 가벼우면서 빠른 전투기예요. 세계 여러 나라에서 아주 많이 써요. 우리 공군도 KF-16이라는 이름으로 써요.",
+   "funFact": "조종석 덮개가 커다란 거품 한 장으로 되어 있어서 앞, 옆, 위가 다 잘 보여요.",
+   "wiki": "General Dynamics F-16 Fighting Falcon",
+   "photoQuery": "General Dynamics F-16 Fighting Falcon",
+   "photoMatch": [
+    "f-16",
+    "f16"
+   ],
+   "videoQueries": [
+    "F-16 airshow demo",
+    "F-16 Viper demo team",
+    "F-16 takeoff"
+   ],
+   "videoMatch": [
+    "f-16",
+    "f16"
+   ],
+   "photos": [
+    "File:F-16C block 52+ fighter jet, Hellenic Air Force (November 2010).jpg",
+    "File:84606 General Dynamics F-16BM 11(MR) 39W Pakistan Air Force Konya AFB 30.6.22 (52233200683).jpg",
+    "File:Lockheed F-16C USAF 92-3894 PACAF F-16 Demo Team RJNK.jpg",
+    "File:F16 - RIAT 2014 (34306872320).jpg",
+    "File:RDAF General Dynamics F-16AM Fighting Falcon E-006 Royal International Air Tattoo 2025 02.jpg"
+   ]
+  },
+  {
+   "id": "f-15",
+   "section": "fighters",
+   "name": "F-15 이글",
+   "subtitle": "힘이 아주 센 전투기",
+   "color": "#9CA3AF",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1972",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,650",
+     "km/h"
+    ]
+   ],
+   "story": "엔진 2개를 단 크고 힘센 전투기예요. 우리 공군의 F-15K '슬램 이글'은 이 비행기를 우리나라에 맞게 만든 거예요.",
+   "funFact": "힘이 아주 세서 하늘로 똑바로 올라가면서도 더 빨라질 수 있어요.",
+   "wiki": "McDonnell Douglas F-15 Eagle",
+   "photoQuery": "McDonnell Douglas F-15 Eagle",
+   "photoMatch": [
+    "f-15",
+    "f15"
+   ],
+   "videoQueries": [
+    "F-15 Eagle takeoff",
+    "F-15K Slam Eagle",
+    "F-15 airshow"
+   ],
+   "videoMatch": [
+    "f-15",
+    "f15"
+   ],
+   "photos": [
+    "File:F-15, 71st Fighter Squadron, in flight.JPG",
+    "File:F-15C Florida (17149377921).jpg",
+    "File:McDonnell Douglas F-15 arrives RIAT Fairford 10thJuly2014 arp.jpg",
+    "File:Two Japan Air Self Defense Force F-15 jets.jpg",
+    "File:144th FW F-15 Eagle.JPG"
+   ]
+  },
+  {
+   "id": "fa-18",
+   "section": "fighters",
+   "name": "F/A-18 슈퍼 호넷",
+   "subtitle": "항공모함에서 뜨는 전투기",
+   "color": "#52525B",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1995",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,915",
+     "km/h"
+    ]
+   ],
+   "story": "바다 위 커다란 배, 항공모함에서 뜨고 내리는 전투기예요. 배가 좁기 때문에 날개를 접어서 자리를 아껴요.",
+   "funFact": "항공모함에서는 커다란 새총 같은 장치가 밀어 줘서 2초 만에 하늘로 날아올라요.",
+   "wiki": "Boeing F/A-18E/F Super Hornet",
+   "photoQuery": "Boeing F/A-18E/F Super Hornet",
+   "photoMatch": [
+    "super hornet",
+    "f-18",
+    "f/a-18",
+    "fa-18"
+   ],
+   "videoQueries": [
+    "Super Hornet carrier launch",
+    "F/A-18 Super Hornet airshow",
+    "F-18 aircraft carrier takeoff"
+   ],
+   "videoMatch": [
+    "hornet",
+    "f-18",
+    "f/a-18",
+    "fa-18",
+    "fa18"
+   ],
+   "photos": [
+    "File:US Navy 071203-N-8923M-074 An F-A-18F Super Hornet, from the Red Rippers of Strike Fighter Squadron (VFA) 11, makes a sharp turn above the flight deck aboard the Nimitz-class nuclear-powered aircraft carrier USS Harry S. Truman.jpg",
+    "File:US Navy 070204-N-7780S-106 An F-A-18F Super Hornet assigned to the.jpg",
+    "File:FA-18F vapor over wings 1.jpg",
+    "File:Blue Angel Boeing Super Hornets Conducting Pitchup Break.jpg",
+    "File:US Navy 101209-N-9693M-009 Two F-A-18E Super Hornets prepare for a catapult assisted launch as an F-A-18E Super Hornet taxis toward the aft of USS.jpg"
+   ]
+  },
+  {
+   "id": "f-14",
+   "section": "fighters",
+   "name": "F-14 톰캣",
+   "subtitle": "날개가 움직이는 전투기",
+   "color": "#A1A1AA",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1970",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,485",
+     "km/h"
+    ]
+   ],
+   "story": "빨리 날 때는 날개를 뒤로 접고, 천천히 날 때는 날개를 활짝 펴는 신기한 전투기예요. 영화 '탑건'에 나와서 아주 유명해졌어요.",
+   "funFact": "지금은 은퇴해서 박물관이나 에어쇼에서 만날 수 있어요.",
+   "wiki": "Grumman F-14 Tomcat",
+   "photoQuery": "Grumman F-14 Tomcat",
+   "photoMatch": [
+    "f-14",
+    "f14",
+    "tomcat"
+   ],
+   "videoQueries": [
+    "F-14 Tomcat carrier takeoff",
+    "F-14 Tomcat flyby",
+    "F-14 Tomcat airshow"
+   ],
+   "videoMatch": [
+    "f-14",
+    "f14",
+    "tomcat"
+   ],
+   "photos": [
+    "File:F-14-vf-84.jpg",
+    "File:US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg",
+    "File:F-14 final catapult July 2006.jpg",
+    "File:F-14 Tomcat prototypes in flight c1972.jpg",
+    "File:F-14 Tomcat with landing gear down.jpg"
+   ]
+  },
+  {
+   "id": "eurofighter",
+   "section": "fighters",
+   "name": "유로파이터 타이푼",
+   "subtitle": "유럽 네 나라가 함께 만든 전투기",
+   "color": "#57534E",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1994",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,495",
+     "km/h"
+    ]
+   ],
+   "story": "영국, 독일, 이탈리아, 스페인이 힘을 모아 만든 전투기예요. 아주 빠르게 하늘로 솟아오를 수 있어요.",
+   "funFact": "조종석 앞에 작은 날개가 하나 더 있어서 방향을 재빠르게 바꿔요.",
+   "wiki": "Eurofighter Typhoon",
+   "photoQuery": "Eurofighter Typhoon",
+   "photoMatch": [
+    "typhoon",
+    "eurofighter"
+   ],
+   "videoQueries": [
+    "Eurofighter Typhoon airshow display",
+    "Eurofighter Typhoon takeoff",
+    "RAF Typhoon display"
+   ],
+   "videoMatch": [
+    "typhoon",
+    "eurofighter",
+    "유로파이터"
+   ],
+   "photos": [
+    "File:RAF Eurofighter EF-2000 Typhoon F2 Lofting-1.jpg",
+    "File:German eurofighter.JPG",
+    "File:30+68 German Air Force Eurofighter Typhoon EF2000 ILA Berlin 2016 06.jpg",
+    "File:Eurofighter EF-2000 Typhoon S MM7286 - 36-02 (cn IS018) Landing @ LIPI with aerobrake displaced (21467992094).jpg",
+    "File:Eurofighter Typhoon FGR4 of Royal Air Force (ZJ914), Radom Air Show, 20230826 1701 9964.jpg"
+   ]
+  },
+  {
+   "id": "rafale",
+   "section": "fighters",
+   "name": "다소 라팔",
+   "subtitle": "프랑스의 돌풍",
+   "color": "#4B5563",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1986",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,912",
+     "km/h"
+    ]
+   ],
+   "story": "프랑스가 만든 전투기예요. 땅 위 공항과 바다 위 항공모함 모두에서 뜨고 내릴 수 있어요.",
+   "funFact": "라팔은 프랑스 말로 '돌풍', 갑자기 세게 부는 바람이라는 뜻이에요.",
+   "wiki": "Dassault Rafale",
+   "photoQuery": "Dassault Rafale",
+   "photoMatch": [
+    "rafale"
+   ],
+   "videoQueries": [
+    "Rafale airshow display",
+    "Rafale takeoff",
+    "Dassault Rafale demo"
+   ],
+   "videoMatch": [
+    "rafale",
+    "라팔"
+   ],
+   "photos": [
+    "File:Rafale - RIAT 2009 (3751416421).jpg",
+    "File:Dassault Rafale on flying display at Paris Air Show 2025 (1).jpg",
+    "File:A Rafale Marine of the French navy lands during flight operations aboard USS George H.W. Bush. (41385978054).jpg",
+    "File:Rafale TNI AU (T-0303), 2026.jpg",
+    "File:Dassault Rafale of Indian Air Force squadron 101 landing in Hasimara.jpg"
+   ]
+  },
+  {
+   "id": "gripen",
+   "section": "fighters",
+   "name": "사브 그리펜",
+   "subtitle": "도로에서도 뜨고 내리는 전투기",
+   "color": "#6B7280",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1988",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "스웨덴",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,200",
+     "km/h"
+    ]
+   ],
+   "story": "스웨덴이 만든 작고 날렵한 전투기예요. 공항이 아니어도 평범한 도로에서 뜨고 내릴 수 있게 만들었어요.",
+   "funFact": "그리펜은 머리는 독수리, 몸은 사자인 전설 속 동물 '그리핀'에서 따온 이름이에요.",
+   "wiki": "Saab JAS 39 Gripen",
+   "photoQuery": "Saab JAS 39 Gripen",
+   "photoMatch": [
+    "gripen"
+   ],
+   "videoQueries": [
+    "Gripen airshow display",
+    "Gripen road landing",
+    "Saab Gripen takeoff"
+   ],
+   "videoMatch": [
+    "gripen",
+    "그리펜"
+   ],
+   "photos": [
+    "File:Saab JAS 39 Gripen at Kaivopuisto Air Show, June 2017 (altered) copy.jpg",
+    "File:3 x Saab JAS-39 Gripen of the Czech Air Force in flight (1).jpg",
+    "File:Saab JAS-39 Gripen of the Czech Air Force taking off from AFB Čáslav.jpg",
+    "File:Jas 39 Gripen C.jpg",
+    "File:Brazilian Saab Gripen E (cropped).jpg"
+   ]
+  },
+  {
+   "id": "su-27",
+   "section": "fighters",
+   "name": "수호이 Su-27",
+   "subtitle": "코브라처럼 고개를 드는 전투기",
+   "color": "#64748B",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1977",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "러시아",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,500",
+     "km/h"
+    ]
+   ],
+   "story": "러시아가 만든 크고 날쌘 전투기예요. 커다란 몸으로도 놀라운 묘기를 부려서 에어쇼에서 인기가 많아요.",
+   "funFact": "날다가 코브라처럼 머리를 번쩍 들고 섰다가 다시 날아가는 '코브라 기동'으로 유명해요.",
+   "wiki": "Sukhoi Su-27",
+   "photoQuery": "Sukhoi Su-27",
+   "photoMatch": [
+    "su-27",
+    "su27",
+    "flanker"
+   ],
+   "videoQueries": [
+    "Su-27 airshow cobra",
+    "Su-27 Flanker display",
+    "Su-27 takeoff"
+   ],
+   "videoMatch": [
+    "su-27",
+    "su27",
+    "flanker",
+    "cobra"
+   ],
+   "photos": [
+    "File:Sukhoi Su-27SKM at MAKS-2005 airshow.jpg",
+    "File:Su-27SM3 flight, Celebration of the 100th anniversary of Russian Air Force.jpg",
+    "File:Ukrainian Air Force Sukhoi Su-27P Flanker (29583343448).jpg",
+    "File:Su-27 on landing.jpg",
+    "File:Sukhoi Su-27 - B-1831M1 - Radom Air Show - 20180825 1527 5742 DxO.jpg"
+   ]
+  },
+  {
+   "id": "harrier",
+   "section": "fighters",
+   "name": "해리어",
+   "subtitle": "제자리에서 떠오르는 점프 제트",
+   "color": "#78716C",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1967",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,180",
+     "km/h"
+    ]
+   ],
+   "story": "엔진 바람이 나오는 구멍을 아래로 돌려서 헬리콥터처럼 똑바로 떠오르는 비행기예요. 그래서 활주로가 없어도 뜨고 내릴 수 있어요.",
+   "funFact": "공중에 멈춰 있을 수도 있고, 뒤로 조금 날 수도 있어요.",
+   "wiki": "Hawker Siddeley Harrier",
+   "photoQuery": "Harrier jump jet",
+   "photoMatch": [
+    "harrier",
+    "av-8"
+   ],
+   "videoQueries": [
+    "Harrier jump jet hover",
+    "Harrier vertical takeoff",
+    "AV-8B Harrier hover"
+   ],
+   "videoMatch": [
+    "harrier",
+    "해리어",
+    "av-8"
+   ],
+   "photos": [
+    "File:Spanish Hawker Siddeley AV-8S Matador in flight over the Mediterranean Sea, 1 June 1988 (6430231).jpg",
+    "File:AV-8C VMA-513 takes off from LPD in 1982.JPEG",
+    "File:AV-8As VMA-513 in flight 1974.JPEG",
+    "File:Harrier AV-8S Matador, Armada Española, May 1, 1977.jpg",
+    "File:Hawker Harrier VTOL Jump Jet (10349705285).jpg"
+   ]
+  },
+  {
+   "id": "surion",
+   "section": "helicopters",
+   "name": "수리온",
+   "subtitle": "우리나라가 만든 헬리콥터",
+   "color": "#4D7C0F",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2010",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "4",
+     "장"
+    ]
+   ],
+   "story": "우리나라가 직접 만든 헬리콥터예요. 군인을 태우고 나르는 일뿐 아니라, 경찰과 소방, 다친 사람을 병원으로 옮기는 일도 해요.",
+   "funFact": "수리온은 독수리의 '수리'와 100을 뜻하는 우리말 '온'을 합친 이름이에요.",
+   "wiki": "KAI KUH-1 Surion",
+   "photoQuery": "KAI KUH-1 Surion",
+   "photoMatch": [
+    "surion",
+    "kuh-1",
+    "수리온"
+   ],
+   "videoQueries": [
+    "수리온 헬기 비행",
+    "KUH-1 Surion flight",
+    "수리온 이륙"
+   ],
+   "videoMatch": [
+    "수리온",
+    "surion",
+    "kuh-1"
+   ],
+   "photos": [
+    "File:KUH-1M.jpg",
+    "File:KUH-1P Chamsuri Demo Flight (13614397264).jpg",
+    "File:KAI KUH-1 Surion MEDEVAC.jpg",
+    "File:KUH-1 Surion Demo flight.jpg",
+    "File:KUH-1 Surion Prototype Flight Test (13614106523).jpg"
+   ]
+  },
+  {
+   "id": "apache",
+   "section": "helicopters",
+   "name": "AH-64 아파치",
+   "subtitle": "튼튼한 공격 헬리콥터",
+   "color": "#3F6212",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1975",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "4",
+     "장"
+    ]
+   ],
+   "story": "아주 튼튼하게 만든 군대 헬리콥터예요. 조종사 두 명이 앞뒤로 앉아요. 회전 날개 위에 둥근 레이더를 단 것도 있어요.",
+   "funFact": "밤에도 앞을 볼 수 있는 특별한 눈(카메라)이 코 앞에 달려 있어요.",
+   "wiki": "Boeing AH-64 Apache",
+   "photoQuery": "Boeing AH-64 Apache",
+   "photoMatch": [
+    "apache",
+    "ah-64"
+   ],
+   "videoQueries": [
+    "AH-64 Apache takeoff",
+    "Apache helicopter flying",
+    "AH-64 Apache airshow"
+   ],
+   "videoMatch": [
+    "apache",
+    "ah-64",
+    "아파치"
+   ],
+   "photos": [
+    "File:AH-64D Apache Longbow.jpg",
+    "File:AH-64E Apache-Guardian-0006.jpg",
+    "File:AH-64 Apache 4.jpg",
+    "File:Westland apache wah-64d longbow zj206 arp.jpg",
+    "File:Boeing (Fuji) AH-64DJP Apache Longbow, Japan - Army AN2227712.jpg"
+   ]
+  },
+  {
+   "id": "chinook",
+   "section": "helicopters",
+   "name": "CH-47 치누크",
+   "subtitle": "회전 날개가 두 개인 헬리콥터",
+   "color": "#65A30D",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1961",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "6",
+     "장"
+    ]
+   ],
+   "story": "앞과 뒤에 커다란 회전 날개가 하나씩 있는 헬리콥터예요. 힘이 세서 무거운 짐이나 자동차도 줄에 매달고 날아요.",
+   "funFact": "두 날개가 서로 반대로 돌아서 꼬리 날개가 필요 없어요.",
+   "wiki": "Boeing CH-47 Chinook",
+   "photoQuery": "Boeing CH-47 Chinook",
+   "photoMatch": [
+    "chinook",
+    "ch-47"
+   ],
+   "videoQueries": [
+    "CH-47 Chinook takeoff",
+    "Chinook helicopter display",
+    "Chinook sling load"
+   ],
+   "videoMatch": [
+    "chinook",
+    "ch-47",
+    "치누크"
+   ],
+   "photos": [
+    "File:CH-47 assigned to 3rd General Support Aviation Battalion, 82nd Combat Aviation Brigade.jpg",
+    "File:CH-147F Chinook -17 (modified).jpg",
+    "File:CH-47 Chinook - RIAT 2015 (20820630144).jpg",
+    "File:A U.S. Army CH-47 Chinook helicopter, with the 159th Combat Aviation Brigade, 101st Airborne Division, delivers two Humvees during air assault training at Campbell Army Airfield on Fort Campbell, Ky., Aug. 7 120807-A-SG577-002.jpg",
+    "File:Italian Army Boeing (Elicotteri Meridionali) CH-47C Chinook (219) Bidini-1.jpg"
+   ]
+  },
+  {
+   "id": "black-hawk",
+   "section": "helicopters",
+   "name": "UH-60 블랙호크",
+   "subtitle": "어디든 가는 만능 헬리콥터",
+   "color": "#1C1917",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1974",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "4",
+     "장"
+    ]
+   ],
+   "story": "사람과 짐을 나르고, 다친 사람을 구하고, 산불도 끄는 만능 헬리콥터예요. 우리 군도 아주 많이 써요.",
+   "funFact": "회전 날개를 접으면 큰 수송기 안에 쏙 실을 수 있어요.",
+   "wiki": "Sikorsky UH-60 Black Hawk",
+   "photoQuery": "Sikorsky UH-60 Black Hawk",
+   "photoMatch": [
+    "black hawk",
+    "blackhawk",
+    "uh-60"
+   ],
+   "videoQueries": [
+    "UH-60 Black Hawk takeoff",
+    "Black Hawk helicopter landing",
+    "UH-60 Black Hawk flying"
+   ],
+   "videoMatch": [
+    "black hawk",
+    "blackhawk",
+    "uh-60",
+    "블랙호크"
+   ],
+   "photos": [
+    "File:National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg",
+    "File:892 United States - US Army Sikorsky UH-60L Black Hawk (5644290375).jpg",
+    "File:Australian Army Black Hawk Zhu-2.jpg",
+    "File:UH-60 Brazil (cropped).jpg",
+    "File:Sikorsky YUH-60A and Boeing Vertol YUH-61A flyoff.jpg"
+   ]
+  },
+  {
+   "id": "bell-206",
+   "section": "helicopters",
+   "name": "벨 206 제트레인저",
+   "subtitle": "방송국과 경찰이 쓰는 작은 헬리콥터",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1966",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "2",
+     "장"
+    ]
+   ],
+   "story": "작고 가벼워서 여러 곳에서 쓰는 헬리콥터예요. 방송국이 하늘에서 길을 찍거나, 경찰이 순찰하거나, 조종사가 연습할 때 써요.",
+   "funFact": "1982년에 이 헬리콥터 가족이 처음으로 헬리콥터 지구 한 바퀴 비행에 성공했어요.",
+   "wiki": "Bell 206",
+   "photoQuery": "Bell 206",
+   "photoMatch": [
+    "bell 206",
+    "jetranger",
+    "jet ranger",
+    "longranger",
+    "206b",
+    "206l"
+   ],
+   "videoQueries": [
+    "Bell 206 JetRanger takeoff",
+    "Bell 206 helicopter landing",
+    "Bell 206 flight"
+   ],
+   "videoMatch": [
+    "206",
+    "jetranger",
+    "jet ranger"
+   ],
+   "photos": [
+    "File:LAPD Bell 206 Jetranger.jpg",
+    "File:Bell.206b.jetranger.III.g-mfmf.arp.jpg",
+    "File:Bell 206L3 (D-HASA).jpg",
+    "File:Bell 206B JetRanger II AN1761224.jpg",
+    "File:Macedonian Air Force bell-206 jetranger rain.jpg"
+   ]
+  },
+  {
+   "id": "robinson-r44",
+   "section": "helicopters",
+   "name": "로빈슨 R44",
+   "subtitle": "네 명이 타는 꼬마 헬리콥터",
+   "color": "#0EA5E9",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1990",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "2",
+     "장"
+    ]
+   ],
+   "story": "4명이 탈 수 있는 작은 헬리콥터예요. 가볍고 다루기 쉬워서 관광 비행이나 조종 연습에 많이 써요.",
+   "funFact": "세계에서 가장 많이 팔린 작은 헬리콥터 가운데 하나예요.",
+   "wiki": "Robinson R44",
+   "photoQuery": "Robinson R44",
+   "photoMatch": [
+    "r44",
+    "r-44"
+   ],
+   "videoQueries": [
+    "Robinson R44 takeoff",
+    "Robinson R44 landing",
+    "R44 helicopter flight"
+   ],
+   "videoMatch": [
+    "r44",
+    "r-44"
+   ],
+   "photos": [
+    "File:Robinson R44 II (cropped).jpg",
+    "File:Robinson R44 filtered (5241546639).jpg",
+    "File:Helicóptero Robinson R44, Portage, Alaska, Estados Unidos, 2017-08-22, DD 43.jpg",
+    "File:Śmigłowiec, Robinson R44 Salt Aviation.jpg",
+    "File:Heli Air Robinson R44 Raven II arrives RIAT Fairford 10thJuly2014 arp.jpg"
+   ]
+  },
+  {
+   "id": "doctor-heli",
+   "section": "helicopters",
+   "name": "닥터헬기 (EC135)",
+   "subtitle": "하늘을 나는 응급실",
+   "color": "#E11D48",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1994",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "4",
+     "장"
+    ]
+   ],
+   "story": "아픈 사람을 태우고 병원으로 빨리 날아가는 헬리콥터예요. 안에 의사 선생님과 응급 치료 도구가 있어서 '날아다니는 응급실'이라고 불러요.",
+   "funFact": "꼬리 날개가 둥근 통 안에 숨어 있어서 더 조용하고 안전해요.",
+   "wiki": "Eurocopter EC135",
+   "photoQuery": "Eurocopter EC135",
+   "photoMatch": [
+    "ec135",
+    "ec-135",
+    "h135"
+   ],
+   "videoQueries": [
+    "닥터헬기 이륙",
+    "EC135 air ambulance takeoff",
+    "EC135 helicopter landing"
+   ],
+   "videoMatch": [
+    "ec135",
+    "ec-135",
+    "h135",
+    "닥터헬기",
+    "air ambulance"
+   ],
+   "photos": [
+    "File:DRF Eurocopter EC135 Christoph 44 D-HDRK Göttingen 2017 03.jpg",
+    "File:Eurocopter EC135P1 of Western Power Distribution (G-WPDD) leaves Bristol Airport, England 15Aug2016 arp.jpg",
+    "File:Helicopter EC135 taking off from Bonn university clinic helipad.JPG",
+    "File:Scottish Ambulance Service Eurocopter EC-135T-1 McKnight-1.jpg",
+    "File:Eurocopter EC135, Lotniczego Pogotowia Ratunkowego.jpg"
+   ]
+  },
+  {
+   "id": "skycrane",
+   "section": "helicopters",
+   "name": "S-64 스카이크레인",
+   "subtitle": "하늘의 기중기",
+   "color": "#EA580C",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1962",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "6",
+     "장"
+    ]
+   ],
+   "story": "몸통이 뼈대처럼 홀쭉한 헬리콥터예요. 몸 아래에 무거운 짐을 매달아 옮기고, 산불이 나면 커다란 물통에 물을 가득 담아 뿌려요.",
+   "funFact": "한 번에 물을 약 1만 리터, 욕조 50개만큼 실어 날라요.",
+   "wiki": "Sikorsky S-64 Skycrane",
+   "photoQuery": "Sikorsky S-64 Skycrane",
+   "photoMatch": [
+    "s-64",
+    "skycrane",
+    "sky crane",
+    "ch-54"
+   ],
+   "videoQueries": [
+    "Erickson S-64 Skycrane water drop",
+    "S-64 Skycrane helicopter",
+    "Skycrane helicopter lift"
+   ],
+   "videoMatch": [
+    "skycrane",
+    "sky crane",
+    "s-64",
+    "erickson"
+   ],
+   "photos": [
+    "File:Skycrane lands at Essendon.jpg",
+    "File:Sikorsky S-64 Skycrane (KSC-2013-4483).jpg",
+    "File:N7095B, Siller Helicopters, Sikorsky S-64, near Encino, during Palisades Fire.jpg",
+    "File:Sikorsky Skycrane carrying house bw.jpg",
+    "File:S-64A Skycrane, Tanker 790, used for fire fighting missions. New in 1967 for US Army. 02.jpg"
+   ]
+  },
+  {
+   "id": "mi-26",
+   "section": "helicopters",
+   "name": "밀 Mi-26",
+   "subtitle": "세계에서 가장 큰 헬리콥터",
+   "color": "#57534E",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1977",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "러시아",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "8",
+     "장"
+    ]
+   ],
+   "story": "세상에서 가장 큰 헬리콥터예요. 커다란 회전 날개 8장으로 버스나 트럭도 들어 올릴 수 있어요.",
+   "funFact": "다른 헬리콥터를 통째로 매달고 날 수 있을 만큼 힘이 세요.",
+   "wiki": "Mil Mi-26",
+   "photoQuery": "Mil Mi-26",
+   "photoMatch": [
+    "mi-26",
+    "mi26"
+   ],
+   "videoQueries": [
+    "Mi-26 takeoff",
+    "Mi-26 helicopter flying",
+    "Mi-26 heavy lift"
+   ],
+   "videoMatch": [
+    "mi-26",
+    "mi26"
+   ],
+   "photos": [
+    "File:Rostvertol Mil Mi-26T2 Naumenko.jpg",
+    "File:Cambodian Air Force Mil Mi-26T Nathalie.jpg",
+    "File:Mil Mi-26, Russia - Air Force AN1705517.jpg",
+    "File:Mi-26 take off.jpg",
+    "File:Mil Mi-26TC.jpg"
+   ]
+  },
+  {
+   "id": "osprey",
+   "section": "helicopters",
+   "name": "V-22 오스프리",
+   "subtitle": "비행기로 변신하는 헬리콥터",
+   "color": "#71717A",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1989",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "6",
+     "장"
+    ]
+   ],
+   "story": "날개 끝 프로펠러가 위를 보면 헬리콥터처럼 똑바로 뜨고, 앞으로 기울이면 비행기처럼 빠르게 날아요. 헬리콥터와 비행기를 합친 변신 비행기예요.",
+   "funFact": "오스프리는 물고기를 잡아먹는 새 '물수리'의 영어 이름이에요.",
+   "wiki": "Bell Boeing V-22 Osprey",
+   "photoQuery": "Bell Boeing V-22 Osprey",
+   "photoMatch": [
+    "v-22",
+    "mv-22",
+    "cv-22",
+    "osprey"
+   ],
+   "videoQueries": [
+    "V-22 Osprey takeoff transition",
+    "MV-22 Osprey landing",
+    "V-22 Osprey airshow"
+   ],
+   "videoMatch": [
+    "osprey",
+    "v-22",
+    "mv-22",
+    "오스프리"
+   ],
+   "photos": [
+    "File:MV-22 mcas Miramar 2014.JPG",
+    "File:CV-22 Osprey - RIAT 2015 (cropped).jpg",
+    "File:CV-22 Osprey flies over the Emerald Coast.JPG",
+    "File:CV-22 Osprey - RIAT 2015 (19988442549).jpg",
+    "File:MV-22 conducts external lift from USNS Sacagawea.JPG"
+   ]
+  },
+  {
+   "id": "ka-32",
+   "section": "helicopters",
+   "name": "카모프 Ka-32",
+   "subtitle": "산불을 끄는 쌍둥이 날개 헬리콥터",
+   "color": "#DC2626",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1980",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "러시아",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "6",
+     "장"
+    ]
+   ],
+   "story": "회전 날개가 위아래 두 층으로 달려서 서로 반대로 도는 헬리콥터예요. 우리나라 산림청이 이 헬리콥터로 산불을 꺼요.",
+   "funFact": "날개가 위아래로 겹쳐 있어서 꼬리 날개가 없어요.",
+   "wiki": "Kamov Ka-32",
+   "photoQuery": "Kamov Ka-32",
+   "photoMatch": [
+    "ka-32",
+    "ka32"
+   ],
+   "videoQueries": [
+    "Ka-32 산불 진화",
+    "Kamov Ka-32 water drop",
+    "Ka-32 helicopter takeoff"
+   ],
+   "videoMatch": [
+    "ka-32",
+    "ka32",
+    "카모프",
+    "산림청"
+   ],
+   "photos": [
+    "File:Ka32A on ZAG1.JPG",
+    "File:Kamov Ka-32A-11BC, Portugal - Fire Brigade JP6592043.jpg",
+    "File:Kamov Ka-32A11M Army-2022 2022-08-20 2631.jpg",
+    "File:Kamov Ka-32A1, MChS Rossii - Russia Ministry for Emergency Situations AN1749067.jpg",
+    "File:Kamov Ka-32T (1).jpg"
+   ]
+  },
+  {
+   "id": "as350",
+   "section": "helicopters",
+   "name": "에어버스 AS350",
+   "subtitle": "에베레스트 꼭대기에 내린 헬리콥터",
+   "color": "#FACC15",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1974",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "3",
+     "장"
+    ]
+   ],
+   "story": "산과 높은 곳에서 일을 잘하는 헬리콥터예요. 관광, 구조, 산에 짐 나르기 등 여러 일을 해요.",
+   "funFact": "2005년에 세상에서 가장 높은 산, 에베레스트 꼭대기에 내려앉았어요.",
+   "wiki": "Eurocopter AS350 Écureuil",
+   "photoQuery": "Eurocopter AS350",
+   "photoMatch": [
+    "as350",
+    "as 350",
+    "ecureuil",
+    "écureuil",
+    "h125",
+    "astar"
+   ],
+   "videoQueries": [
+    "Airbus H125 AS350 takeoff",
+    "AS350 helicopter mountain",
+    "H125 helicopter flight"
+   ],
+   "videoMatch": [
+    "as350",
+    "h125",
+    "ecureuil",
+    "astar"
+   ],
+   "photos": [
+    "File:Eurocopter AS-350B-3 Ecureuil, Heli-Linth AN1174998.jpg",
+    "File:Air Greenland Airbus AS350 on top of a mountain peak.jpg",
+    "File:AS350 Rainbow Helicopter in Hawaii, 2021.jpg",
+    "File:Aerospatiale AS-350B-2 Ecureuil, Air Zermatt AN0168591.jpg",
+    "File:Anaheim PD AS350.jpg"
+   ]
+  },
+  {
+   "id": "bell-47",
+   "section": "helicopters",
+   "name": "벨 47",
+   "subtitle": "동그란 거품 창문 헬리콥터",
+   "color": "#16A34A",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1945",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🌀",
+     "회전 날개",
+     "2",
+     "장"
+    ]
+   ],
+   "story": "아주 오래된 헬리콥터예요. 조종석이 커다란 비눗방울 같은 둥근 유리로 덮여 있어요. 사람들이 헬리콥터를 널리 쓰게 해 준 첫 헬리콥터 가운데 하나예요.",
+   "funFact": "몸통 뒤쪽이 뼈대만 있어서 속이 훤히 들여다보여요.",
+   "wiki": "Bell 47",
+   "photoQuery": "Bell 47",
+   "photoMatch": [
+    "bell 47",
+    "bell-47",
+    "h-13"
+   ],
+   "videoQueries": [
+    "Bell 47 helicopter flight",
+    "Bell 47 takeoff",
+    "Bell 47G flying"
+   ],
+   "videoMatch": [
+    "bell 47",
+    "bell-47"
+   ],
+   "photos": [
+    "File:Bell 47 (centered).jpg",
+    "File:Helicopter Bell 47.jpg",
+    "File:Bell 47 310708.jpg",
+    "File:Bell 47 (52253543908).jpg",
+    "File:Bell 47 (13622732685).jpg"
+   ]
+  },
+  {
+   "id": "wright-flyer",
+   "section": "old",
+   "name": "라이트 플라이어",
+   "subtitle": "세계 처음으로 하늘을 난 비행기",
+   "color": "#A16207",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1903",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⏱️",
+     "처음 난 시간",
+     "12",
+     "초"
+    ]
+   ],
+   "story": "라이트 형제가 만든 비행기예요. 1903년 12월 17일, 엔진을 단 비행기로는 처음으로 12초 동안 하늘을 날았어요. 여기서부터 비행기의 역사가 시작되었어요.",
+   "funFact": "처음 날아간 거리는 37미터로, 지금의 큰 여객기 몸통 길이보다도 짧았어요.",
+   "wiki": "Wright Flyer",
+   "photoQuery": "Wright Flyer",
+   "photoMatch": [
+    "wright flyer",
+    "wright_flyer",
+    "wright brothers",
+    "first flight"
+   ],
+   "videoQueries": [
+    "Wright brothers first flight footage",
+    "Wright Flyer replica flight",
+    "라이트 형제 비행"
+   ],
+   "videoMatch": [
+    "wright flyer",
+    "wright brothers",
+    "라이트 형제"
+   ],
+   "photos": [
+    "File:First flight2.jpg",
+    "File:1903 Wright Flyer third flight 17 December 1903.jpg",
+    "File:Wright Flyer AN0231034.jpg",
+    "File:1903 Wright Flyer front view.jpg",
+    "File:• The original 1903 Wright Flyer on display inside 'The Wright Brothers & The Invention of the Aerial Age' exhibition gallery at the Smithsonian National Air and Space Museum, Washington, D.C. (1st August 2015).jpg"
+   ]
+  },
+  {
+   "id": "bleriot-xi",
+   "section": "old",
+   "name": "블레리오 XI",
+   "subtitle": "처음으로 바다를 건넌 비행기",
+   "color": "#B45309",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1909",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "프랑스",
+     ""
+    ],
+    [
+     "⏱️",
+     "바다를 건넌 시간",
+     "37",
+     "분"
+    ]
+   ],
+   "story": "프랑스의 블레리오가 만든 날개 하나짜리 비행기예요. 1909년에 영국과 프랑스 사이의 바다를 비행기로 처음 건넜어요.",
+   "funFact": "날개가 한 겹인 모양이 오늘날 비행기와 꽤 닮았어요.",
+   "wiki": "Blériot XI",
+   "photoQuery": "Blériot XI",
+   "photoMatch": [
+    "bleriot",
+    "blériot"
+   ],
+   "videoQueries": [
+    "Bleriot XI flight",
+    "Blériot XI flying",
+    "Bleriot XI replica flying"
+   ],
+   "videoMatch": [
+    "bleriot",
+    "blériot"
+   ],
+   "photos": [
+    "File:Bleriot XI Thulin A 1910 a.jpg",
+    "File:Blériot XI Thulin A Mikael Carlson OTT 2013 10 silhouette.jpg",
+    "File:Blériot XI Thulin A Mikael Carlson OTT 2013 08.jpg",
+    "File:Bleriot.jpg",
+    "File:Blériot XI Volandia museum (A).JPG"
+   ]
+  },
+  {
+   "id": "fokker-dr1",
+   "section": "old",
+   "name": "포커 Dr.I",
+   "subtitle": "날개가 세 겹인 빨간 비행기",
+   "color": "#B91C1C",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1917",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "🪽",
+     "날개",
+     "3",
+     "겹"
+    ]
+   ],
+   "story": "날개가 3층으로 겹쳐 있는 비행기예요. '붉은 남작'이라는 조종사가 온통 빨갛게 칠해 타고 다녀서 아주 유명해졌어요.",
+   "funFact": "날개가 많아서 아주 빨리 방향을 바꿀 수 있었어요.",
+   "wiki": "Fokker Dr.I",
+   "photoQuery": "Fokker Dr.I",
+   "photoMatch": [
+    "fokker dr",
+    "fokker_dr",
+    "dr.i",
+    "dr1",
+    "dr.1",
+    "triplane"
+   ],
+   "videoQueries": [
+    "Fokker Dr.1 triplane flying",
+    "Fokker triplane airshow",
+    "Fokker Dr.I replica flight"
+   ],
+   "videoMatch": [
+    "fokker",
+    "dr.1",
+    "dr1",
+    "dr.i",
+    "triplane"
+   ],
+   "photos": [
+    "File:Fokker Dr.I D-EFTJ Hahnweide 2011.jpg",
+    "File:Fokker DR1 at Airpower11 18.jpg",
+    "File:Fokker Dr.I Manfred Richthofen Taxi out 01 Dawn Patrol NMUSAF 26Sept09 (14597964654).jpg",
+    "File:Fokker DR.I (1353051402).jpg",
+    "File:Fokker Dr-1 (387872154).jpg"
+   ]
+  },
+  {
+   "id": "tiger-moth",
+   "section": "old",
+   "name": "타이거 모스",
+   "subtitle": "날개가 두 겹인 연습 비행기",
+   "color": "#CA8A04",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1931",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🪽",
+     "날개",
+     "2",
+     "겹"
+    ]
+   ],
+   "story": "날개가 위아래 두 겹인 귀여운 복엽기예요. 조종석이 뚜껑 없이 열려 있어서 바람을 맞으며 날아요.",
+   "funFact": "많은 조종사가 이 비행기로 처음 하늘을 나는 법을 배웠어요.",
+   "wiki": "de Havilland Tiger Moth",
+   "photoQuery": "de Havilland Tiger Moth",
+   "photoMatch": [
+    "tiger moth",
+    "tiger_moth",
+    "dh.82",
+    "dh82"
+   ],
+   "videoQueries": [
+    "Tiger Moth flying",
+    "Tiger Moth takeoff",
+    "de Havilland Tiger Moth flight"
+   ],
+   "videoMatch": [
+    "tiger moth"
+   ],
+   "photos": [
+    "File:Yellow Tiger Moth Góraszka.JPG",
+    "File:DH 82A Tiger Moth - N81DH.jpg",
+    "File:De Havilland D.H. 82 Tiger Moth G-ANZZ Duxford 2023 01.jpg",
+    "File:DH 82 A Tiger Moth D-EBKT.jpg",
+    "File:Tiger Moth at St. Stephan 2019 03.jpg"
+   ]
+  },
+  {
+   "id": "spirit-of-st-louis",
+   "section": "old",
+   "name": "스피릿 오브 세인트루이스",
+   "subtitle": "혼자서 큰 바다를 건넌 비행기",
+   "color": "#A8A29E",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1927",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⏱️",
+     "바다를 건넌 시간",
+     "33",
+     "시간"
+    ]
+   ],
+   "story": "린드버그라는 조종사가 혼자 타고, 미국 뉴욕에서 프랑스 파리까지 쉬지 않고 큰 바다를 건넌 비행기예요. 33시간 넘게 잠도 안 자고 날았어요.",
+   "funFact": "앞쪽에 커다란 기름통이 있어서 앞 창문이 없었어요! 옆 창문으로 고개를 내밀어 앞을 봤어요.",
+   "wiki": "Spirit of St. Louis",
+   "photoQuery": "Spirit of St. Louis",
+   "photoMatch": [
+    "spirit of st",
+    "spirit_of_st",
+    "ryan nyp",
+    "lindbergh"
+   ],
+   "videoQueries": [
+    "Spirit of St. Louis replica flight",
+    "Lindbergh Spirit of St Louis footage",
+    "Spirit of St. Louis flying"
+   ],
+   "videoMatch": [
+    "spirit of st",
+    "lindbergh",
+    "린드버그"
+   ],
+   "photos": [
+    "File:Spirit of St. Louis Modell (38037449372).jpg",
+    "File:'Spirit of St, SFA022002325.jpg",
+    "File:Spirit of St. Louis1.jpg",
+    "File:Het vliegtuig 'Spirit of St, SFA022002370.jpg",
+    "File:Spirit of St. Louis - Motor.jpg"
+   ]
+  },
+  {
+   "id": "ford-trimotor",
+   "section": "old",
+   "name": "포드 트라이모터",
+   "subtitle": "엔진 세 개짜리 양철 거위",
+   "color": "#78716C",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1926",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진",
+     "3",
+     "개"
+    ]
+   ],
+   "story": "자동차 회사 포드가 만든 옛날 여객기예요. 앞과 양쪽 날개에 엔진이 하나씩, 모두 3개 달려 있어요. 몸이 쭈글쭈글한 금속판으로 되어 있어요.",
+   "funFact": "별명이 '양철 거위'예요.",
+   "wiki": "Ford Trimotor",
+   "photoQuery": "Ford Trimotor",
+   "photoMatch": [
+    "trimotor",
+    "tri-motor"
+   ],
+   "videoQueries": [
+    "Ford Trimotor flight",
+    "Ford Trimotor takeoff",
+    "Ford Tri-Motor flying"
+   ],
+   "videoMatch": [
+    "trimotor",
+    "tri-motor"
+   ],
+   "photos": [
+    "File:Ford Tri-Motor (270805125).jpg",
+    "File:EAA Ford Tri-Motor (a.k.a. \"The Tin Goose\") - 40618029464.jpg",
+    "File:Ford 4AT Trimotor.JPG",
+    "File:1929 Ford 5AT Tri-Motor N9651 (3).jpg",
+    "File:Air Zoo December 2019 048 (Ford Tri-Motor).jpg"
+   ]
+  },
+  {
+   "id": "dc-3",
+   "section": "old",
+   "name": "더글러스 DC-3",
+   "subtitle": "비행기 여행을 바꾼 프로펠러 여객기",
+   "color": "#9CA3AF",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1935",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "32",
+     "명"
+    ]
+   ],
+   "story": "튼튼하고 편안해서 많은 사람이 비행기 여행을 할 수 있게 해 준 프로펠러 여객기예요. 옛날 우리나라 하늘에서도 날았어요.",
+   "funFact": "90살이 넘었는데도 아직 하늘을 나는 DC-3가 있어요.",
+   "wiki": "Douglas DC-3",
+   "photoQuery": "Douglas DC-3",
+   "photoMatch": [
+    "dc-3",
+    "dc3",
+    "c-47",
+    "dakota"
+   ],
+   "videoQueries": [
+    "Douglas DC-3 takeoff",
+    "DC-3 flying",
+    "DC-3 landing"
+   ],
+   "videoMatch": [
+    "dc-3",
+    "dc3",
+    "c-47",
+    "dakota"
+   ],
+   "photos": [
+    "File:Douglas DC-3, SE-CFP.jpg",
+    "File:Douglas DC-3 N983DC FDK MD5.jpg",
+    "File:RNZAF C-47 Dakota, 2010.jpg",
+    "File:TransNorthern DC-3 landing at ANC.jpg",
+    "File:DC-3 spinning props.JPG"
+   ]
+  },
+  {
+   "id": "spitfire",
+   "section": "old",
+   "name": "스핏파이어",
+   "subtitle": "타원 날개가 예쁜 영국 비행기",
+   "color": "#4D7C0F",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1936",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "595",
+     "km/h"
+    ]
+   ],
+   "story": "영국이 만든 프로펠러 전투기예요. 날개가 둥근 달걀 같은 타원 모양이라 아주 예뻐요. 지금도 에어쇼에서 날아요.",
+   "funFact": "엔진 소리가 '우우웅' 하고 노래처럼 들린다고 사람들이 좋아해요.",
+   "wiki": "Supermarine Spitfire",
+   "photoQuery": "Supermarine Spitfire",
+   "photoMatch": [
+    "spitfire"
+   ],
+   "videoQueries": [
+    "Spitfire flypast",
+    "Spitfire display airshow",
+    "Spitfire takeoff"
+   ],
+   "videoMatch": [
+    "spitfire",
+    "스핏파이어"
+   ],
+   "photos": [
+    "File:Spitfire - Season Premiere Airshow 2018 (cropped).jpg",
+    "File:Supermarine Spitfire Mk XVI NR.jpg",
+    "File:Spitfire mk2a p7350 arp.jpg",
+    "File:Spitfire mk11 pl965 arp.jpg",
+    "File:Supermarine 509 Spitfire T9C AN1067997.jpg"
+   ]
+  },
+  {
+   "id": "p-51",
+   "section": "old",
+   "name": "P-51 머스탱",
+   "subtitle": "가장 빠른 프로펠러 비행기 가운데 하나",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1940",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "703",
+     "km/h"
+    ]
+   ],
+   "story": "미국이 만든 프로펠러 전투기예요. 프로펠러 비행기 가운데 아주 빠른 편이에요. 지금도 에어쇼와 비행기 경주에서 날아요.",
+   "funFact": "머스탱은 미국 들판을 달리는 야생마 이름이에요.",
+   "wiki": "North American P-51 Mustang",
+   "photoQuery": "North American P-51 Mustang",
+   "photoMatch": [
+    "p-51",
+    "p51",
+    "mustang"
+   ],
+   "videoQueries": [
+    "P-51 Mustang flyby",
+    "P-51 Mustang airshow",
+    "P-51 Mustang takeoff"
+   ],
+   "videoMatch": [
+    "p-51",
+    "p51",
+    "mustang"
+   ],
+   "photos": [
+    "File:P51-d mustang 472216 arp.jpg",
+    "File:P51-C Betty Jane.jpg",
+    "File:P51 Mustang Wairarapa.jpg",
+    "File:P-51-361.jpg",
+    "File:P-51D-25NT The Rebel N151CF 2014 Reno Air Races photo Don Ramey Logan.jpg"
+   ]
+  },
+  {
+   "id": "piper-cub",
+   "section": "old",
+   "name": "파이퍼 J-3 컵",
+   "subtitle": "노란 꼬마 비행기",
+   "color": "#FACC15",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1938",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "140",
+     "km/h"
+    ]
+   ],
+   "story": "작고 가벼운 노란 비행기예요. 천천히 날고 짧은 땅에서도 뜨고 내려서 많은 사람이 이 비행기로 나는 법을 배웠어요.",
+   "funFact": "이 비행기의 노란색은 '컵 옐로'라는 이름이 따로 있을 만큼 유명해요.",
+   "wiki": "Piper J-3 Cub",
+   "photoQuery": "Piper J-3 Cub",
+   "photoMatch": [
+    "cub",
+    "j-3",
+    "j3"
+   ],
+   "videoQueries": [
+    "Piper J-3 Cub flying",
+    "Piper Cub takeoff",
+    "J-3 Cub landing"
+   ],
+   "videoMatch": [
+    "cub",
+    "j-3",
+    "j3"
+   ],
+   "photos": [
+    "File:Piper J3C Cub 04.jpg",
+    "File:Piperj3c.jpg",
+    "File:Piper J-3 Cub (5128718888).jpg",
+    "File:Piper Cub SP-AWP Radom 9623.JPG",
+    "File:J3 at dock.jpg"
+   ]
+  },
+  {
+   "id": "constellation",
+   "section": "old",
+   "name": "록히드 컨스텔레이션",
+   "subtitle": "꼬리가 세 개인 우아한 여객기",
+   "color": "#E5E7EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1943",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🪽",
+     "꼬리 날개",
+     "3",
+     "개"
+    ]
+   ],
+   "story": "몸통이 돌고래처럼 우아하게 휘어진 옛날 여객기예요. 엔진 4개로 바다 건너 먼 나라를 오갔어요.",
+   "funFact": "꼬리 날개가 3개나 있어서 멀리서도 금방 알아볼 수 있어요.",
+   "wiki": "Lockheed Constellation",
+   "photoQuery": "Lockheed Constellation",
+   "photoMatch": [
+    "constellation",
+    "super connie"
+   ],
+   "videoQueries": [
+    "Lockheed Super Constellation flying",
+    "Super Constellation takeoff",
+    "Lockheed Constellation flight"
+   ],
+   "videoMatch": [
+    "constellation",
+    "super connie"
+   ],
+   "photos": [
+    "File:Superconstellation2594.jpg",
+    "File:Lockheed C-121C Super Constellation, Super Constellation Flyers Association JP6615666.jpg",
+    "File:Lockheed VC-121E Super Constellation.jpg",
+    "File:Lockheed Constellation BOAC b. Landung in Kloten.jpg",
+    "File:Super Constellation at Salisbury Airport Rhodesia.JPG"
+   ]
+  },
+  {
+   "id": "boeing-707",
+   "section": "old",
+   "name": "보잉 707",
+   "subtitle": "제트기 여행 시대를 연 여객기",
+   "color": "#D4D4D8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1957",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "189",
+     "명"
+    ]
+   ],
+   "story": "프로펠러 대신 제트 엔진을 단 여객기 가운데 크게 성공한 첫 비행기예요. 이 비행기 덕분에 먼 나라 여행이 훨씬 빨라졌어요.",
+   "funFact": "미국 대통령이 타는 '에어포스 원'으로도 쓰였어요.",
+   "wiki": "Boeing 707",
+   "photoQuery": "Boeing 707",
+   "photoMatch": [
+    "707"
+   ],
+   "videoQueries": [
+    "Boeing 707 takeoff",
+    "Boeing 707 landing",
+    "Boeing 707 flying"
+   ],
+   "videoMatch": [
+    "707"
+   ],
+   "photos": [
+    "File:Boeing 707-321B Pan Am Freer.jpg",
+    "File:Boeing 707 Air India Basle - 1976.jpg",
+    "File:RAAF Boeing 707-338C CBR Gilbert-2.jpg",
+    "File:BEA Airtours 707-400 (cropped).jpg",
+    "File:CAAC Boeing 707.jpg"
+   ]
+  },
+  {
+   "id": "concorde",
+   "section": "old",
+   "name": "콩코드",
+   "subtitle": "소리보다 빠른 여객기",
+   "color": "#F8FAFC",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1969",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "영국·프랑스",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "2,180",
+     "km/h"
+    ]
+   ],
+   "story": "소리보다 2배 빠르게 날던 여객기예요. 런던에서 뉴욕까지 다른 비행기의 절반도 안 되는 3시간 반 만에 날아갔어요. 2003년에 은퇴했어요.",
+   "funFact": "너무 빨라서 서쪽으로 날면 시계로는 출발한 시각보다 더 이른 시각에 도착했어요.",
+   "wiki": "Concorde",
+   "photoQuery": "Concorde",
+   "photoMatch": [
+    "concorde"
+   ],
+   "videoQueries": [
+    "Concorde takeoff",
+    "Concorde landing",
+    "Concorde flyby"
+   ],
+   "videoMatch": [
+    "concorde",
+    "콩코드"
+   ],
+   "photos": [
+    "File:British Airways Concorde G-BOAC 03.jpg",
+    "File:British Airways Concorde G-BOAC 02.jpg",
+    "File:Concorde landing Farnborough Fitzgerald.jpg",
+    "File:Concorde first visit Heathrow Fitzgerald.jpg",
+    "File:Aérospatiale-BAC Concorde F-BVFB Air France RRearSide SATM 05June2013 (14577638406).jpg"
+   ]
+  },
+  {
+   "id": "bell-x1",
+   "section": "old",
+   "name": "벨 X-1",
+   "subtitle": "처음으로 소리보다 빠르게 난 비행기",
+   "color": "#F97316",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1946",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "1,541",
+     "km/h"
+    ]
+   ],
+   "story": "총알 모양으로 만든 로켓 비행기예요. 1947년에 사람이 탄 비행기로는 처음으로 소리보다 빠르게 날았어요.",
+   "funFact": "혼자 뜨지 않고 큰 비행기 배에 매달려 하늘 높이 올라간 뒤, 떨어지면서 로켓을 켰어요.",
+   "wiki": "Bell X-1",
+   "photoQuery": "Bell X-1",
+   "photoMatch": [
+    "x-1",
+    "x1"
+   ],
+   "videoQueries": [
+    "Bell X-1 flight footage",
+    "Bell X-1 sound barrier footage",
+    "X-1 rocket plane"
+   ],
+   "videoMatch": [
+    "x-1",
+    "x1"
+   ],
+   "photos": [
+    "File:BellX1.jpg",
+    "File:Bell X-1 in flight.jpg",
+    "File:20180410 Bell X-1 NASM.jpg",
+    "File:X-1B (E-4097).jpg",
+    "File:Bell X-1A in flight.jpg"
+   ]
+  },
+  {
+   "id": "buhwal",
+   "section": "old",
+   "name": "부활호",
+   "subtitle": "우리나라가 처음 만든 비행기",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1953",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "대한민국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "2",
+     "명"
+    ]
+   ],
+   "story": "1953년, 우리나라 사람들이 처음으로 직접 설계하고 만든 비행기예요. 나라가 다시 힘차게 일어나자는 뜻으로 '부활'이라는 이름을 붙였어요.",
+   "funFact": "오랫동안 잊혀졌다가 다시 고쳐져서, 지금은 박물관에서 만날 수 있어요.",
+   "wiki": "Buhwal",
+   "photoQuery": "Buhwal aircraft",
+   "photoMatch": [
+    "buhwal",
+    "부활"
+   ],
+   "videoQueries": [
+    "부활호 비행기",
+    "부활호 국산 1호 항공기",
+    "부활호 복원"
+   ],
+   "videoMatch": [
+    "부활호",
+    "buhwal"
+   ],
+   "photos": [
+    "File:Buwhal Ho War Memorial of Korea-1.jpg",
+    "File:1007-K Buwhalho (7597223224).jpg",
+    "File:Buwhal Ho War Memorial of Korea-2.jpg",
+    "File:부활호.JPG"
+   ]
+  },
+  {
+   "id": "graf-zeppelin",
+   "section": "old",
+   "name": "그라프 체펠린",
+   "subtitle": "하늘을 나는 커다란 풍선 배",
+   "color": "#A3A3A3",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1928",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "독일",
+     ""
+    ],
+    [
+     "📏",
+     "길이",
+     "236",
+     "m"
+    ]
+   ],
+   "story": "가스를 가득 채워 하늘에 둥실 떠서 나는 커다란 비행선이에요. 사람들이 안에서 밥도 먹고 잠도 자며 먼 나라까지 여행했어요.",
+   "funFact": "1929년에 지구를 한 바퀴 빙 돌았어요.",
+   "wiki": "LZ 127 Graf Zeppelin",
+   "photoQuery": "LZ 127 Graf Zeppelin",
+   "photoMatch": [
+    "graf zeppelin",
+    "lz 127",
+    "lz127",
+    "lz-127"
+   ],
+   "videoQueries": [
+    "Graf Zeppelin footage",
+    "LZ 127 Graf Zeppelin flight",
+    "Graf Zeppelin 1929"
+   ],
+   "videoMatch": [
+    "graf zeppelin",
+    "zeppelin",
+    "체펠린"
+   ],
+   "photos": [
+    "File:ZeppelinLZ127a.jpg",
+    "File:LZ 127 Graf Zeppelin landing in Friedrichshafen.jpg",
+    "File:Lz 127 graf zeppelin winter landing. 1929.jpg",
+    "File:Graf Zeppelin LZ127.jpg",
+    "File:LZ 127 Graf Zeppelin over Rio.jpg"
+   ]
+  },
+  {
+   "id": "an-225",
+   "section": "special",
+   "name": "안토노프 An-225 므리야",
+   "subtitle": "세계에서 가장 무거운 짐을 나른 비행기",
+   "color": "#2563EB",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1988",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "우크라이나",
+     ""
+    ],
+    [
+     "🛞",
+     "바퀴",
+     "32",
+     "개"
+    ]
+   ],
+   "story": "세상에서 가장 크고 무거운 비행기였어요. 엔진 6개로 아주 무거운 짐을 날랐고, 우주왕복선을 등에 업고 날기도 했어요.",
+   "funFact": "므리야는 우크라이나 말로 '꿈'이라는 뜻이에요.",
+   "wiki": "Antonov An-225 Mriya",
+   "photoQuery": "Antonov An-225 Mriya",
+   "photoMatch": [
+    "an-225",
+    "an225",
+    "mriya"
+   ],
+   "videoQueries": [
+    "An-225 Mriya takeoff",
+    "An-225 landing",
+    "Antonov An-225 flying"
+   ],
+   "videoMatch": [
+    "an-225",
+    "an225",
+    "mriya",
+    "므리야"
+   ],
+   "photos": [
+    "File:Antonov Design Bureau Antonov An-225 Mriya at Leipzig Halle (EDDP-LEJ).jpg",
+    "File:Antonov An-225 landing at Gostomel Airport.jpeg",
+    "File:Antonov An-225 with Buran at Le Bourget 1989 Manteufel.jpg",
+    "File:Antonov An-225 Mriya front.jpg",
+    "File:Antonov An-225 at Farnborough 1990 airshow (2).jpg"
+   ]
+  },
+  {
+   "id": "beluga-xl",
+   "section": "special",
+   "name": "에어버스 벨루가 XL",
+   "subtitle": "웃는 고래 비행기",
+   "color": "#7DD3FC",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2018",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "📦",
+     "하는 일",
+     "비행기 부품 나르기",
+     ""
+    ]
+   ],
+   "story": "머리가 볼록하게 솟은 화물기예요. 큰 비행기를 만들 때 필요한 날개나 몸통 조각을 이 공장에서 저 공장으로 실어 날라요.",
+   "funFact": "앞쪽에 눈과 웃는 입이 그려져 있어서 흰고래 '벨루가'처럼 보여요.",
+   "wiki": "Airbus BelugaXL",
+   "photoQuery": "Airbus BelugaXL",
+   "photoMatch": [
+    "beluga"
+   ],
+   "videoQueries": [
+    "Beluga XL takeoff",
+    "Airbus Beluga XL landing",
+    "BelugaXL flying"
+   ],
+   "videoMatch": [
+    "beluga",
+    "벨루가"
+   ],
+   "photos": [
+    "File:Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLH (DSC09365).jpg",
+    "File:Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLH (DSC09596).jpg",
+    "File:Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLJ (DSC00020).jpg",
+    "File:Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLI (DSC03392).jpg",
+    "File:Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLJ (DSC01443).jpg"
+   ]
+  },
+  {
+   "id": "c-130",
+   "section": "special",
+   "name": "C-130 허큘리스",
+   "subtitle": "어디든 내려앉는 수송기",
+   "color": "#65A30D",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1954",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⚙️",
+     "엔진",
+     "4",
+     "개"
+    ]
+   ],
+   "story": "사람과 짐, 자동차까지 싣고 나르는 수송기예요. 흙길이나 눈밭처럼 거친 땅에도 내려앉을 수 있어요. 우리 공군도 써요.",
+   "funFact": "커다란 수송기인데도 항공모함 위에서 뜨고 내린 적이 있어요.",
+   "wiki": "Lockheed C-130 Hercules",
+   "photoQuery": "Lockheed C-130 Hercules",
+   "photoMatch": [
+    "c-130",
+    "c130",
+    "hercules"
+   ],
+   "videoQueries": [
+    "C-130 Hercules short takeoff",
+    "C-130 landing",
+    "C-130 Hercules airshow"
+   ],
+   "videoMatch": [
+    "c-130",
+    "c130",
+    "hercules"
+   ],
+   "photos": [
+    "File:Lockheed C-130 Hercules.jpg",
+    "File:C-130 Hercules performs a tactical landing on a dirt strip.jpg",
+    "File:165158 C-130T US Navy (10124273196).jpg",
+    "File:C-130T Hercules Blue Angels.jpg",
+    "File:C-130 MK1 FAM 2 (altered).jpg"
+   ]
+  },
+  {
+   "id": "cl-415",
+   "section": "special",
+   "name": "캐나데어 CL-415",
+   "subtitle": "물을 퍼 담는 소방 비행기",
+   "color": "#EAB308",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1993",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "캐나다",
+     ""
+    ],
+    [
+     "💧",
+     "한 번에 싣는 물",
+     "6,100",
+     "L"
+    ]
+   ],
+   "story": "산불을 끄는 소방 비행기예요. 호수나 바다 위를 스치듯 날면서 배 아래 구멍으로 물을 퍼 담고, 불난 곳에 쏟아부어요.",
+   "funFact": "물을 가득 담는 데 12초밖에 안 걸려요.",
+   "wiki": "Canadair CL-415",
+   "photoQuery": "Canadair CL-415",
+   "photoMatch": [
+    "cl-415",
+    "cl415",
+    "canadair",
+    "cl-215",
+    "dhc-515"
+   ],
+   "videoQueries": [
+    "Canadair CL-415 water scooping",
+    "CL-415 water drop",
+    "Canadair scooping water"
+   ],
+   "videoMatch": [
+    "cl-415",
+    "cl415",
+    "canadair",
+    "water bomber",
+    "scooper"
+   ],
+   "photos": [
+    "File:Pélican 32 Gérard JOYON PROT CANADAIR 2006.jpg",
+    "File:Polemiki Aeroporia Canadair CL-415 2054 Naxos-2025-06-18 0826crop.jpg",
+    "File:Canadair CL-415 (45) septembre 2024 4.jpg",
+    "File:Canadair CL-415 (45) septembre 2024 14.jpg",
+    "File:Manitoba Canadair CL-415.jpg"
+   ]
+  },
+  {
+   "id": "e-3",
+   "section": "special",
+   "name": "E-3 센트리",
+   "subtitle": "등에 커다란 접시를 업은 비행기",
+   "color": "#94A3B8",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1976",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "📡",
+     "레이더 크기",
+     "9",
+     "m"
+    ]
+   ],
+   "story": "등에 둥근 접시 모양 레이더를 업은 비행기예요. 레이더가 빙글빙글 돌면서 아주 멀리 있는 비행기까지 찾아내요. 하늘의 눈이라고 불러요.",
+   "funFact": "접시 레이더는 1분에 6바퀴씩 천천히 돌아요.",
+   "wiki": "Boeing E-3 Sentry",
+   "photoQuery": "Boeing E-3 Sentry",
+   "photoMatch": [
+    "e-3",
+    "e3",
+    "awacs",
+    "sentry"
+   ],
+   "videoQueries": [
+    "E-3 Sentry AWACS takeoff",
+    "E-3 AWACS landing",
+    "Boeing E-3 Sentry flyby"
+   ],
+   "videoMatch": [
+    "e-3",
+    "awacs",
+    "sentry"
+   ],
+   "photos": [
+    "File:NATO E3A AWACS Paine Field WA Jul15 DSC8405.jpg",
+    "File:Boeing E-3 Sentry 090512-F-7550B-902.jpg",
+    "File:Royal Air Force (RAF) E-3D Sentry AEW1 (airborne early warning) aircraft, registration ZH106, taking part in Exercise Taurus Mountain 3, in the skies over North Yorkshire in March 2012 - MOD 45153803 (cropped).jpg",
+    "File:Boeing E-3 Sentry 000629-F-0966E-006.jpg",
+    "File:060610-SKP-E-3-01.jpg"
+   ]
+  },
+  {
+   "id": "air-force-one",
+   "section": "special",
+   "name": "에어포스 원",
+   "subtitle": "미국 대통령이 타는 비행기",
+   "color": "#60A5FA",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1987",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "✈️",
+     "바탕 비행기",
+     "보잉 747",
+     ""
+    ]
+   ],
+   "story": "미국 대통령이 타는 전용 비행기예요. 보잉 747을 특별하게 고쳐서 만들었어요. 안에 사무실과 회의실, 작은 병원도 있어요.",
+   "funFact": "날면서 하늘에서 기름을 넣을 수 있어서 아주 오래 날 수 있어요.",
+   "wiki": "Air Force One",
+   "photoQuery": "VC-25",
+   "photoMatch": [
+    "air force one",
+    "vc-25",
+    "vc25"
+   ],
+   "videoQueries": [
+    "Air Force One takeoff",
+    "Air Force One landing",
+    "VC-25 Air Force One flyby"
+   ],
+   "videoMatch": [
+    "air force one",
+    "vc-25",
+    "에어포스 원"
+   ],
+   "photos": [
+    "File:Air Force One VC-25B paint scheme 2023-03-10.JPG",
+    "File:Air Force One - Boeing VC-25A 92-9000 (SAM29000).jpg",
+    "File:Air Force One over Mt. Rushmore.jpg",
+    "File:United States Air Force Boeing VC-25 (92-9000) landing at Dayton International Airport (5).jpg",
+    "File:US Air Force VC-25(92-9000) \"AirForce-One\" (4102558656).jpg"
+   ]
+  },
+  {
+   "id": "kc-330",
+   "section": "special",
+   "name": "KC-330 시그너스",
+   "subtitle": "하늘의 주유소",
+   "color": "#78716C",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2007",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "유럽",
+     ""
+    ],
+    [
+     "⛽",
+     "하는 일",
+     "하늘에서 기름 넣기",
+     ""
+    ]
+   ],
+   "story": "날면서 다른 비행기에 기름을 넣어 주는 공중급유기예요. 긴 막대를 뒤로 내려서 따라오는 비행기에 기름을 넣어 줘요. 우리 공군도 써요.",
+   "funFact": "시그너스는 하늘의 별자리 '백조자리'라는 뜻이에요.",
+   "wiki": "Airbus A330 MRTT",
+   "photoQuery": "Airbus A330 MRTT",
+   "photoMatch": [
+    "mrtt",
+    "kc-330",
+    "kc-30",
+    "voyager",
+    "a330 mrtt"
+   ],
+   "videoQueries": [
+    "A330 MRTT air refueling",
+    "KC-330 시그너스 공중급유",
+    "A330 MRTT refuelling"
+   ],
+   "videoMatch": [
+    "mrtt",
+    "kc-330",
+    "시그너스",
+    "kc-30",
+    "voyager"
+   ],
+   "photos": [
+    "File:KC-30 A39-002 refuelling an USAF F-16 (cropped).jpg",
+    "File:Airbus A330 MRTT in refueling formation at ILA Berlin 2022.jpg",
+    "File:Airbus A330 MRTT F-UJCG - French Air Force.jpg",
+    "File:United Arab Emirates Airbus A330 MRTT taking off at Manchester Airport (2).jpg",
+    "File:Royal Netherlands Air Force Airbus A330 MRTT at Joint Base Elmendorf-Richardson, Alaska (USA), 10 July 2024 (240710-F-YB356-1063).JPG"
+   ]
+  },
+  {
+   "id": "solar-impulse",
+   "section": "special",
+   "name": "솔라 임펄스 2",
+   "subtitle": "햇빛으로 지구를 한 바퀴 돈 비행기",
+   "color": "#FBBF24",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2014",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "스위스",
+     ""
+    ],
+    [
+     "☀️",
+     "태양 전지",
+     "17,248",
+     "개"
+    ]
+   ],
+   "story": "기름 대신 햇빛으로 나는 비행기예요. 긴 날개 위에 햇빛을 전기로 바꾸는 태양 전지가 빼곡하게 붙어 있어요. 밤에는 낮에 모아 둔 전기로 날아요.",
+   "funFact": "기름을 한 방울도 쓰지 않고 지구를 한 바퀴 돌았어요.",
+   "wiki": "Solar Impulse",
+   "photoQuery": "Solar Impulse",
+   "photoMatch": [
+    "solar impulse",
+    "solar_impulse"
+   ],
+   "videoQueries": [
+    "Solar Impulse 2 takeoff",
+    "Solar Impulse 2 landing",
+    "Solar Impulse flight"
+   ],
+   "videoMatch": [
+    "solar impulse"
+   ],
+   "photos": [
+    "File:Solar Impulse SI2 pilote Bertrand Piccard Payerne November 2014.jpg",
+    "File:Solar Impulse 2 Oahu Hawaii April 2016.jpg",
+    "File:Solar Impulse 2 Oahu Hawaii April 2016 (25614148663).jpg",
+    "File:Solar Impulse 2 Oahu Hawaii April 2016 (26216813335).jpg",
+    "File:Flea Hop HB-SIA - Solar Impulse.jpg",
+    "File:Solar Impulse 2 Oahu Hawaii April 2016.jpg"
+   ]
+  },
+  {
+   "id": "stratolaunch",
+   "section": "special",
+   "name": "스트래토런치 로크",
+   "subtitle": "날개가 가장 긴 비행기",
+   "color": "#F1F5F9",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "2019",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "📏",
+     "날개 길이",
+     "117",
+     "m"
+    ]
+   ],
+   "story": "몸통 두 개를 아주 긴 날개 하나로 이어 붙인 쌍둥이 비행기예요. 하늘 높이 올라가서 날개 밑에 매단 로켓이나 실험 비행기를 떨어뜨려 날려 보내요.",
+   "funFact": "날개 길이가 축구장 길이보다 길어요.",
+   "wiki": "Scaled Composites Stratolaunch",
+   "photoQuery": "Stratolaunch",
+   "photoMatch": [
+    "stratolaunch",
+    "roc"
+   ],
+   "videoQueries": [
+    "Stratolaunch first flight",
+    "Stratolaunch Roc takeoff",
+    "Stratolaunch landing"
+   ],
+   "videoMatch": [
+    "stratolaunch"
+   ],
+   "photos": [
+    "File:230113- Stratolaunch Talon Photo Chase-091.jpg"
+   ]
+  },
+  {
+   "id": "sr-71",
+   "section": "special",
+   "name": "SR-71 블랙버드",
+   "subtitle": "가장 빠른 제트 비행기",
+   "color": "#18181B",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1964",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "🚀",
+     "가장 빠른 속도",
+     "3,540",
+     "km/h"
+    ]
+   ],
+   "story": "새까만 몸으로 아주 높이, 아주 빠르게 날던 정찰기예요. 사람이 타고 엔진으로 나는 비행기 가운데 가장 빨라요. 지금은 박물관에서 볼 수 있어요.",
+   "funFact": "너무 빨라서 날 때 공기와 부딪혀 몸이 뜨거워지고 조금 늘어나요.",
+   "wiki": "Lockheed SR-71 Blackbird",
+   "photoQuery": "Lockheed SR-71 Blackbird",
+   "photoMatch": [
+    "sr-71",
+    "sr71",
+    "blackbird"
+   ],
+   "videoQueries": [
+    "SR-71 Blackbird takeoff",
+    "SR-71 Blackbird flyby",
+    "SR-71 Blackbird flight footage"
+   ],
+   "videoMatch": [
+    "sr-71",
+    "sr71",
+    "blackbird"
+   ],
+   "photos": [
+    "File:Lockheed SR-71 Blackbird.jpg",
+    "File:Lockheed SR-71 Blackbird (modified).jpg",
+    "File:Sr71 1.jpg",
+    "File:Lockheed SR-71s.jpg",
+    "File:SR-71A taking off with afterburner RAF Mildenhall 1983.JPEG"
+   ]
+  },
+  {
+   "id": "twin-otter",
+   "section": "special",
+   "name": "트윈 오터 수상비행기",
+   "subtitle": "물 위에 내려앉는 비행기",
+   "color": "#14B8A6",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1965",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "캐나다",
+     ""
+    ],
+    [
+     "🛶",
+     "바퀴 대신",
+     "플로트",
+     ""
+    ]
+   ],
+   "story": "바퀴 대신 배처럼 생긴 '플로트'를 달아서 바다나 호수 위에 뜨고 내리는 비행기예요. 활주로가 없는 섬에도 갈 수 있어요.",
+   "funFact": "몰디브라는 섬나라에서는 이 수상비행기를 택시처럼 타고 섬과 섬 사이를 오가요.",
+   "wiki": "de Havilland Canada DHC-6 Twin Otter",
+   "photoQuery": "Twin Otter floatplane",
+   "photoMatch": [
+    "twin otter",
+    "dhc-6",
+    "dhc6"
+   ],
+   "videoQueries": [
+    "Twin Otter seaplane takeoff Maldives",
+    "Twin Otter seaplane landing",
+    "Maldives seaplane takeoff"
+   ],
+   "videoMatch": [
+    "twin otter",
+    "seaplane",
+    "dhc-6",
+    "수상비행기"
+   ],
+   "photos": [
+    "File:Vancouver to Victoria. West Coast Air De Havilland DHC-6 Twin Otter floatplane.jpg",
+    "File:Vancouver to Victoria. West Coast Air De Havilland DHC-6 Twin Otter floatplane -2.jpg",
+    "File:De Havilland Canada DHC-6-300 Twin Otter, Air Sea Lines JP6335642.jpg",
+    "File:WinAir De Havilland Canada DHC-6-300 Twin Otter Breidenstein.jpg",
+    "File:TMA DHC-6 Twin Otter at Velana International Airport, May 2017.jpg"
+   ]
+  },
+  {
+   "id": "cessna-172",
+   "section": "special",
+   "name": "세스나 172",
+   "subtitle": "세계에서 가장 많이 만든 비행기",
+   "color": "#EF4444",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1955",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "👥",
+     "탈 수 있는 사람",
+     "4",
+     "명"
+    ]
+   ],
+   "story": "4명이 타는 작은 비행기예요. 날개가 몸통 위에 붙어 있어서 아래 땅이 잘 보여요. 많은 조종사가 이 비행기로 나는 법을 배워요.",
+   "funFact": "4만 대도 넘게 만들어져서 세계에서 가장 많이 만든 비행기예요.",
+   "wiki": "Cessna 172",
+   "photoQuery": "Cessna 172",
+   "photoMatch": [
+    "cessna 172",
+    "c172",
+    "172"
+   ],
+   "videoQueries": [
+    "Cessna 172 takeoff",
+    "Cessna 172 landing",
+    "Cessna 172 flight"
+   ],
+   "videoMatch": [
+    "cessna 172",
+    "c172",
+    "172"
+   ],
+   "photos": [
+    "File:Cessna 172S Skyhawk SP, Private JP6817606.jpg",
+    "File:Cessna 172S Skyhawk at Bristol Airport (England) 23Aug2014 arp.jpg",
+    "File:1963-Cessna-172D.jpg",
+    "File:1979 Cessna 172N Skyhawk (G-BNKD) lands at Bristol Airport 14May2019 arp.jpg",
+    "File:CC-STA (Cessna 172 of the Temuco Air club).jpg"
+   ]
+  },
+  {
+   "id": "global-hawk",
+   "section": "special",
+   "name": "RQ-4 글로벌 호크",
+   "subtitle": "조종사가 타지 않는 비행기",
+   "color": "#CBD5E1",
+   "facts": [
+    [
+     "🎂",
+     "처음 날았던 해",
+     "1998",
+     "년"
+    ],
+    [
+     "🌏",
+     "나라",
+     "미국",
+     ""
+    ],
+    [
+     "⏱️",
+     "한 번에 나는 시간",
+     "34",
+     "시간"
+    ]
+   ],
+   "story": "조종사가 타지 않고 땅에서 조종하는 커다란 무인 비행기예요. 아주 높이 올라가 하루 넘게 날면서 땅을 살펴봐요. 우리 공군도 써요.",
+   "funFact": "머리 부분이 고래 이마처럼 볼록한데, 그 안에 위성과 이야기하는 안테나가 들어 있어요.",
+   "wiki": "Northrop Grumman RQ-4 Global Hawk",
+   "photoQuery": "Northrop Grumman RQ-4 Global Hawk",
+   "photoMatch": [
+    "global hawk",
+    "rq-4",
+    "rq4"
+   ],
+   "videoQueries": [
+    "RQ-4 Global Hawk takeoff",
+    "Global Hawk landing",
+    "Global Hawk flight"
+   ],
+   "videoMatch": [
+    "global hawk",
+    "rq-4",
+    "글로벌 호크",
+    "글로벌호크"
+   ],
+   "photos": [
+    "File:Global Hawk 1.jpg",
+    "File:Global Hawk, NASA's New Remote-Controlled Plane - October 2009.jpg",
+    "File:RQ-4 Global Hawk above the runaway.jpg",
+    "File:Luftwaffe 99-01 RQ-4B EuroHawk ILA 2012 1.jpg",
+    "File:Northrop Grumman RQ-4 Global Hawk (210476312).jpg"
+   ]
+  }
+ ]
+}
