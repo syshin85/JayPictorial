@@ -1,0 +1,10 @@
+{
+  "name": "마인크래프트 도감",
+  "short_name": "마인크래프트",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EAF6E0",
+  "theme_color": "#EAF6E0",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

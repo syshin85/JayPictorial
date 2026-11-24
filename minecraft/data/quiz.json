@@ -1,0 +1,2049 @@
+[
+ {
+  "id": "q001",
+  "kind": "drop",
+  "question": "가스트를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/ghast/thumb.png",
+  "choices": [
+   {
+    "text": "쇠뇌, 화살",
+    "image": null
+   },
+   {
+    "text": "네더의 별",
+    "image": null
+   },
+   {
+    "text": "가스트 눈물",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "가스트는 가스트 눈물을 떨어뜨려요.",
+  "item": "ghast"
+ },
+ {
+  "id": "q002",
+  "kind": "drop",
+  "question": "크리퍼를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/creeper/thumb.png",
+  "choices": [
+   {
+    "text": "실",
+    "image": null
+   },
+   {
+    "text": "셜커 껍데기",
+    "image": null
+   },
+   {
+    "text": "화약",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "크리퍼는 화약을 떨어뜨려요.",
+  "item": "creeper"
+ },
+ {
+  "id": "q003",
+  "kind": "drop",
+  "question": "호글린을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/hoglin/thumb.png",
+  "choices": [
+   {
+    "text": "불사의 토템",
+    "image": null
+   },
+   {
+    "text": "돼지고기",
+    "image": null
+   },
+   {
+    "text": "에메랄드",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "호글린은 돼지고기를 떨어뜨려요.",
+  "item": "hoglin"
+ },
+ {
+  "id": "q004",
+  "kind": "drop",
+  "question": "스켈레톤을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/skeleton/thumb.png",
+  "choices": [
+   {
+    "text": "에메랄드",
+    "image": null
+   },
+   {
+    "text": "스컬크 촉매",
+    "image": null
+   },
+   {
+    "text": "뼈와 화살",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "스켈레톤은 뼈와 화살을 떨어뜨려요.",
+  "item": "skeleton"
+ },
+ {
+  "id": "q005",
+  "kind": "drop",
+  "question": "보그드를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/bogged/thumb.png",
+  "choices": [
+   {
+    "text": "안장",
+    "image": null
+   },
+   {
+    "text": "금 도끼",
+    "image": null
+   },
+   {
+    "text": "독 화살",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "보그드는 독 화살을 떨어뜨려요.",
+  "item": "bogged"
+ },
+ {
+  "id": "q006",
+  "kind": "drop",
+  "question": "브리즈를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/breeze/thumb.png",
+  "choices": [
+   {
+    "text": "스컬크 촉매",
+    "image": null
+   },
+   {
+    "text": "브리즈 막대기",
+    "image": null
+   },
+   {
+    "text": "독 화살",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "브리즈는 브리즈 막대기를 떨어뜨려요.",
+  "item": "breeze"
+ },
+ {
+  "id": "q007",
+  "kind": "drop",
+  "question": "약탈자를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/pillager/thumb.png",
+  "choices": [
+   {
+    "text": "에메랄드",
+    "image": null
+   },
+   {
+    "text": "쇠뇌, 화살",
+    "image": null
+   },
+   {
+    "text": "블레이즈 막대기",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "약탈자는 쇠뇌, 화살을 떨어뜨려요.",
+  "item": "pillager"
+ },
+ {
+  "id": "q008",
+  "kind": "drop",
+  "question": "동굴 거미를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/cave-spider/thumb.png",
+  "choices": [
+   {
+    "text": "네더의 별",
+    "image": null
+   },
+   {
+    "text": "실",
+    "image": null
+   },
+   {
+    "text": "썩은 살점",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "동굴 거미는 실을 떨어뜨려요.",
+  "item": "cave-spider"
+ },
+ {
+  "id": "q009",
+  "kind": "drop",
+  "question": "가디언을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/guardian/thumb.png",
+  "choices": [
+   {
+    "text": "뼈와 화살",
+    "image": null
+   },
+   {
+    "text": "프리즈머린",
+    "image": null
+   },
+   {
+    "text": "네더의 별",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "가디언은 프리즈머린을 떨어뜨려요.",
+  "item": "guardian"
+ },
+ {
+  "id": "q010",
+  "kind": "drop",
+  "question": "파괴수를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/ravager/thumb.png",
+  "choices": [
+   {
+    "text": "실과 거미 눈",
+    "image": null
+   },
+   {
+    "text": "안장",
+    "image": null
+   },
+   {
+    "text": "금 도끼",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "파괴수는 안장을 떨어뜨려요.",
+  "item": "ravager"
+ },
+ {
+  "id": "q011",
+  "kind": "drop",
+  "question": "마녀를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/witch/thumb.png",
+  "choices": [
+   {
+    "text": "유리병, 설탕",
+    "image": null
+   },
+   {
+    "text": "스컬크 촉매",
+    "image": null
+   },
+   {
+    "text": "에메랄드",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "마녀는 유리병, 설탕을 떨어뜨려요.",
+  "item": "witch"
+ },
+ {
+  "id": "q012",
+  "kind": "drop",
+  "question": "난폭한 피글린을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/piglin-brute/thumb.png",
+  "choices": [
+   {
+    "text": "금 도끼",
+    "image": null
+   },
+   {
+    "text": "삼지창(가끔)",
+    "image": null
+   },
+   {
+    "text": "프리즈머린",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "난폭한 피글린은 금 도끼를 떨어뜨려요.",
+  "item": "piglin-brute"
+ },
+ {
+  "id": "q013",
+  "kind": "drop",
+  "question": "엘더 가디언을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/elder-guardian/thumb.png",
+  "choices": [
+   {
+    "text": "뼈와 화살",
+    "image": null
+   },
+   {
+    "text": "브리즈 막대기",
+    "image": null
+   },
+   {
+    "text": "젖은 스펀지",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "엘더 가디언은 젖은 스펀지를 떨어뜨려요.",
+  "item": "elder-guardian"
+ },
+ {
+  "id": "q014",
+  "kind": "drop",
+  "question": "위더를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/wither/thumb.png",
+  "choices": [
+   {
+    "text": "유리병, 설탕",
+    "image": null
+   },
+   {
+    "text": "팬텀 막",
+    "image": null
+   },
+   {
+    "text": "네더의 별",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "위더는 네더의 별을 떨어뜨려요.",
+  "item": "wither"
+ },
+ {
+  "id": "q015",
+  "kind": "drop",
+  "question": "워든을 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/warden/thumb.png",
+  "choices": [
+   {
+    "text": "스컬크 촉매",
+    "image": null
+   },
+   {
+    "text": "썩은 살점",
+    "image": null
+   },
+   {
+    "text": "브리즈 막대기",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "워든은 스컬크 촉매를 떨어뜨려요.",
+  "item": "warden"
+ },
+ {
+  "id": "q016",
+  "kind": "drop",
+  "question": "허스크를 물리치면 무엇을 떨어뜨릴까요?",
+  "image": "assets/items/husk/thumb.png",
+  "choices": [
+   {
+    "text": "썩은 살점",
+    "image": null
+   },
+   {
+    "text": "젖은 스펀지",
+    "image": null
+   },
+   {
+    "text": "블레이즈 막대기",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "허스크는 썩은 살점을 떨어뜨려요.",
+  "item": "husk"
+ },
+ {
+  "id": "q017",
+  "kind": "where",
+  "question": "판다는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/panda/thumb.png",
+  "choices": [
+   {
+    "text": "대나무 정글",
+    "image": null
+   },
+   {
+    "text": "산, 사바나",
+    "image": null
+   },
+   {
+    "text": "숲, 타이가",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "판다는 대나무 정글에서 만날 수 있어요.",
+  "item": "panda"
+ },
+ {
+  "id": "q018",
+  "kind": "where",
+  "question": "허스크는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/husk/thumb.png",
+  "choices": [
+   {
+    "text": "풀밭",
+    "image": null
+   },
+   {
+    "text": "정글",
+    "image": null
+   },
+   {
+    "text": "사막",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "허스크는 사막에서 만날 수 있어요.",
+  "item": "husk"
+ },
+ {
+  "id": "q019",
+  "kind": "where",
+  "question": "약탈자는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/pillager/thumb.png",
+  "choices": [
+   {
+    "text": "사바나, 악지",
+    "image": null
+   },
+   {
+    "text": "초소, 마을 습격",
+    "image": null
+   },
+   {
+    "text": "타이가, 눈 덮인 곳",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "약탈자는 초소, 마을 습격에서 만날 수 있어요.",
+  "item": "pillager"
+ },
+ {
+  "id": "q020",
+  "kind": "where",
+  "question": "고양이는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/cat/thumb.png",
+  "choices": [
+   {
+    "text": "마을, 늪 오두막",
+    "image": null
+   },
+   {
+    "text": "네더 요새",
+    "image": null
+   },
+   {
+    "text": "어두운 곳",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "고양이는 마을, 늪 오두막에서 만날 수 있어요.",
+  "item": "cat"
+ },
+ {
+  "id": "q021",
+  "kind": "where",
+  "question": "엔더 드래곤은 어디에서 만날 수 있을까요?",
+  "image": "assets/items/ender-dragon/thumb.png",
+  "choices": [
+   {
+    "text": "엔드",
+    "image": null
+   },
+   {
+    "text": "밤하늘",
+    "image": null
+   },
+   {
+    "text": "숲속 저택",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "엔더 드래곤은 엔드에서 만날 수 있어요.",
+  "item": "ender-dragon"
+ },
+ {
+  "id": "q022",
+  "kind": "where",
+  "question": "파괴수는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/ravager/thumb.png",
+  "choices": [
+   {
+    "text": "창백한 정원",
+    "image": null
+   },
+   {
+    "text": "마을 습격",
+    "image": null
+   },
+   {
+    "text": "꽃 숲, 평원",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "파괴수는 마을 습격에서 만날 수 있어요.",
+  "item": "ravager"
+ },
+ {
+  "id": "q023",
+  "kind": "where",
+  "question": "위더 스켈레톤은 어디에서 만날 수 있을까요?",
+  "image": "assets/items/wither-skeleton/thumb.png",
+  "choices": [
+   {
+    "text": "대나무 정글",
+    "image": null
+   },
+   {
+    "text": "초소, 숲속 저택",
+    "image": null
+   },
+   {
+    "text": "네더 요새",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "위더 스켈레톤은 네더 요새에서 만날 수 있어요.",
+  "item": "wither-skeleton"
+ },
+ {
+  "id": "q024",
+  "kind": "where",
+  "question": "소환사는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/evoker/thumb.png",
+  "choices": [
+   {
+    "text": "밤하늘",
+    "image": null
+   },
+   {
+    "text": "숲속 저택",
+    "image": null
+   },
+   {
+    "text": "늪, 깊은 땅속",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "소환사는 숲속 저택에서 만날 수 있어요.",
+  "item": "evoker"
+ },
+ {
+  "id": "q025",
+  "kind": "where",
+  "question": "늑대는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/wolf/thumb.png",
+  "choices": [
+   {
+    "text": "얼음 들판",
+    "image": null
+   },
+   {
+    "text": "초소, 마을 습격",
+    "image": null
+   },
+   {
+    "text": "숲, 타이가",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "늑대는 숲, 타이가에서 만날 수 있어요.",
+  "item": "wolf"
+ },
+ {
+  "id": "q026",
+  "kind": "where",
+  "question": "개구리는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/frog/thumb.png",
+  "choices": [
+   {
+    "text": "늪",
+    "image": null
+   },
+   {
+    "text": "진홍빛 숲",
+    "image": null
+   },
+   {
+    "text": "엔드 도시",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "개구리는 늪에서 만날 수 있어요.",
+  "item": "frog"
+ },
+ {
+  "id": "q027",
+  "kind": "where",
+  "question": "슬라임은 어디에서 만날 수 있을까요?",
+  "image": "assets/items/slime/thumb.png",
+  "choices": [
+   {
+    "text": "늪, 깊은 땅속",
+    "image": null
+   },
+   {
+    "text": "마을 습격",
+    "image": null
+   },
+   {
+    "text": "진홍빛 숲",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "슬라임은 늪, 깊은 땅속에서 만날 수 있어요.",
+  "item": "slime"
+ },
+ {
+  "id": "q028",
+  "kind": "where",
+  "question": "라마는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/llama/thumb.png",
+  "choices": [
+   {
+    "text": "산, 사바나",
+    "image": null
+   },
+   {
+    "text": "엔드 도시",
+    "image": null
+   },
+   {
+    "text": "시련의 회당",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "라마는 산, 사바나에서 만날 수 있어요.",
+  "item": "llama"
+ },
+ {
+  "id": "q029",
+  "kind": "where",
+  "question": "아홀로틀은 어디에서 만날 수 있을까요?",
+  "image": "assets/items/axolotl/thumb.png",
+  "choices": [
+   {
+    "text": "바다",
+    "image": null
+   },
+   {
+    "text": "늪, 시련의 회당",
+    "image": null
+   },
+   {
+    "text": "무성한 동굴",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "아홀로틀은 무성한 동굴에서 만날 수 있어요.",
+  "item": "axolotl"
+ },
+ {
+  "id": "q030",
+  "kind": "where",
+  "question": "마그마 큐브는 어디에서 만날 수 있을까요?",
+  "image": "assets/items/magma-cube/thumb.png",
+  "choices": [
+   {
+    "text": "마을 습격",
+    "image": null
+   },
+   {
+    "text": "네더",
+    "image": null
+   },
+   {
+    "text": "바다, 강",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "마그마 큐브는 네더에서 만날 수 있어요.",
+  "item": "magma-cube"
+ },
+ {
+  "id": "q031",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "난폭한 피글린",
+    "image": "assets/items/piglin-brute/thumb.png"
+   },
+   {
+    "text": "소",
+    "image": "assets/items/cow/thumb.png"
+   },
+   {
+    "text": "엔더 드래곤",
+    "image": "assets/items/ender-dragon/thumb.png"
+   }
+  ],
+  "answer": 2,
+  "explain": "엔더 드래곤의 체력은 하트 100칸이에요. ❤️",
+  "item": "ender-dragon"
+ },
+ {
+  "id": "q032",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "호글린",
+    "image": "assets/items/hoglin/thumb.png"
+   },
+   {
+    "text": "팬텀",
+    "image": "assets/items/phantom/thumb.png"
+   },
+   {
+    "text": "염소",
+    "image": "assets/items/goat/thumb.png"
+   }
+  ],
+  "answer": 0,
+  "explain": "호글린의 체력은 하트 20칸이에요. ❤️",
+  "item": "hoglin"
+ },
+ {
+  "id": "q033",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "북극곰",
+    "image": "assets/items/polar-bear/thumb.png"
+   },
+   {
+    "text": "양",
+    "image": "assets/items/sheep/thumb.png"
+   },
+   {
+    "text": "좀벌레",
+    "image": "assets/items/silverfish/thumb.png"
+   }
+  ],
+  "answer": 0,
+  "explain": "북극곰의 체력은 하트 15칸이에요. ❤️",
+  "item": "polar-bear"
+ },
+ {
+  "id": "q034",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "눈 골렘",
+    "image": "assets/items/snow-golem/thumb.png"
+   },
+   {
+    "text": "꿀벌",
+    "image": "assets/items/bee/thumb.png"
+   },
+   {
+    "text": "철 골렘",
+    "image": "assets/items/iron-golem/thumb.png"
+   }
+  ],
+  "answer": 2,
+  "explain": "철 골렘의 체력은 하트 50칸이에요. ❤️",
+  "item": "iron-golem"
+ },
+ {
+  "id": "q035",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "좀비",
+    "image": "assets/items/zombie/thumb.png"
+   },
+   {
+    "text": "워든",
+    "image": "assets/items/warden/thumb.png"
+   },
+   {
+    "text": "좀벌레",
+    "image": "assets/items/silverfish/thumb.png"
+   }
+  ],
+  "answer": 1,
+  "explain": "워든의 체력은 하트 250칸이에요. ❤️",
+  "item": "warden"
+ },
+ {
+  "id": "q036",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "파괴수",
+    "image": "assets/items/ravager/thumb.png"
+   },
+   {
+    "text": "행복한 가스트",
+    "image": "assets/items/happy-ghast/thumb.png"
+   },
+   {
+    "text": "꿀벌",
+    "image": "assets/items/bee/thumb.png"
+   }
+  ],
+  "answer": 0,
+  "explain": "파괴수의 체력은 하트 50칸이에요. ❤️",
+  "item": "ravager"
+ },
+ {
+  "id": "q037",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "개구리",
+    "image": "assets/items/frog/thumb.png"
+   },
+   {
+    "text": "약탈자",
+    "image": "assets/items/pillager/thumb.png"
+   },
+   {
+    "text": "꿀벌",
+    "image": "assets/items/bee/thumb.png"
+   }
+  ],
+  "answer": 1,
+  "explain": "약탈자의 체력은 하트 12칸이에요. ❤️",
+  "item": "pillager"
+ },
+ {
+  "id": "q038",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "아르마딜로",
+    "image": "assets/items/armadillo/thumb.png"
+   },
+   {
+    "text": "블레이즈",
+    "image": "assets/items/blaze/thumb.png"
+   },
+   {
+    "text": "워든",
+    "image": "assets/items/warden/thumb.png"
+   }
+  ],
+  "answer": 2,
+  "explain": "워든의 체력은 하트 250칸이에요. ❤️",
+  "item": "warden"
+ },
+ {
+  "id": "q039",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "동굴 거미",
+    "image": "assets/items/cave-spider/thumb.png"
+   },
+   {
+    "text": "파괴수",
+    "image": "assets/items/ravager/thumb.png"
+   },
+   {
+    "text": "엔더 드래곤",
+    "image": "assets/items/ender-dragon/thumb.png"
+   }
+  ],
+  "answer": 2,
+  "explain": "엔더 드래곤의 체력은 하트 100칸이에요. ❤️",
+  "item": "ender-dragon"
+ },
+ {
+  "id": "q040",
+  "kind": "compare",
+  "question": "셋 중에서 체력이 가장 많은 것은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "철 골렘",
+    "image": "assets/items/iron-golem/thumb.png"
+   },
+   {
+    "text": "라마",
+    "image": "assets/items/llama/thumb.png"
+   },
+   {
+    "text": "소환사",
+    "image": "assets/items/evoker/thumb.png"
+   }
+  ],
+  "answer": 0,
+  "explain": "철 골렘의 체력은 하트 50칸이에요. ❤️",
+  "item": "iron-golem"
+ },
+ {
+  "id": "q041",
+  "kind": "recipe",
+  "question": "빵을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/bread/thumb.png",
+  "choices": [
+   {
+    "text": "밀 3개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 5개",
+    "image": null
+   },
+   {
+    "text": "금 주괴 4개 + 레드스톤 가루 1개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "빵은 밀 3개를 써서 만들어요.",
+  "item": "bread"
+ },
+ {
+  "id": "q042",
+  "kind": "recipe",
+  "question": "상자를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/chest/thumb.png",
+  "choices": [
+   {
+    "text": "판자 8개",
+    "image": null
+   },
+   {
+    "text": "호박 1개 + 설탕 1개 + 달걀 1개",
+    "image": null
+   },
+   {
+    "text": "다이아몬드 3개 + 막대기 2개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "상자는 판자 8개를 써서 만들어요.",
+  "item": "chest"
+ },
+ {
+  "id": "q043",
+  "kind": "recipe",
+  "question": "양조기를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/brewing-stand/thumb.png",
+  "choices": [
+   {
+    "text": "조약돌 8개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 4개 + 레드스톤 가루 1개",
+    "image": null
+   },
+   {
+    "text": "블레이즈 막대기 1개 + 조약돌 3개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "양조기는 블레이즈 막대기 1개 + 조약돌 3개를 써서 만들어요.",
+  "item": "brewing-stand"
+ },
+ {
+  "id": "q044",
+  "kind": "recipe",
+  "question": "부싯돌과 부시를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/flint-and-steel/thumb.png",
+  "choices": [
+   {
+    "text": "철 주괴 1개 + 부싯돌 1개",
+    "image": null
+   },
+   {
+    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 5개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "부싯돌과 부시는 철 주괴 1개 + 부싯돌 1개를 써서 만들어요.",
+  "item": "flint-and-steel"
+ },
+ {
+  "id": "q045",
+  "kind": "recipe",
+  "question": "다이아몬드 곡괭이를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/diamond-pickaxe/thumb.png",
+  "choices": [
+   {
+    "text": "판자 8개",
+    "image": null
+   },
+   {
+    "text": "다이아몬드 3개 + 막대기 2개",
+    "image": null
+   },
+   {
+    "text": "블레이즈 막대기 1개 + 조약돌 3개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "다이아몬드 곡괭이는 다이아몬드 3개 + 막대기 2개를 써서 만들어요.",
+  "item": "diamond-pickaxe"
+ },
+ {
+  "id": "q046",
+  "kind": "recipe",
+  "question": "사다리를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/ladder/thumb.png",
+  "choices": [
+   {
+    "text": "빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개",
+    "image": null
+   },
+   {
+    "text": "막대기 7개",
+    "image": null
+   },
+   {
+    "text": "책 1개 + 다이아몬드 2개 + 흑요석 4개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "사다리는 막대기 7개를 써서 만들어요.",
+  "item": "ladder"
+ },
+ {
+  "id": "q047",
+  "kind": "recipe",
+  "question": "시계를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/clock/thumb.png",
+  "choices": [
+   {
+    "text": "금 주괴 4개 + 레드스톤 가루 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 4개 + 레드스톤 가루 1개",
+    "image": null
+   },
+   {
+    "text": "밀 3개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "시계는 금 주괴 4개 + 레드스톤 가루 1개를 써서 만들어요.",
+  "item": "clock"
+ },
+ {
+  "id": "q048",
+  "kind": "recipe",
+  "question": "버섯 스튜를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/mushroom-stew/thumb.png",
+  "choices": [
+   {
+    "text": "빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개",
+    "image": null
+   },
+   {
+    "text": "석탄 1개 + 막대기 1개",
+    "image": null
+   },
+   {
+    "text": "금 주괴 4개 + 레드스톤 가루 1개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "버섯 스튜는 빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개를 써서 만들어요.",
+  "item": "mushroom-stew"
+ },
+ {
+  "id": "q049",
+  "kind": "recipe",
+  "question": "화살을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/arrow/thumb.png",
+  "choices": [
+   {
+    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
+    "image": null
+   },
+   {
+    "text": "판자 6개",
+    "image": null
+   },
+   {
+    "text": "밀 2개 + 코코아 콩 1개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "화살은 부싯돌 1개 + 막대기 1개 + 깃털 1개를 써서 만들어요.",
+  "item": "arrow"
+ },
+ {
+  "id": "q050",
+  "kind": "recipe",
+  "question": "제작대를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/crafting-table/thumb.png",
+  "choices": [
+   {
+    "text": "원목 1개",
+    "image": null
+   },
+   {
+    "text": "조약돌 3개 + 막대기 2개",
+    "image": null
+   },
+   {
+    "text": "판자 4개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "제작대는 판자 4개를 써서 만들어요.",
+  "item": "crafting-table"
+ },
+ {
+  "id": "q051",
+  "kind": "recipe",
+  "question": "판자를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/oak-planks/thumb.png",
+  "choices": [
+   {
+    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
+    "image": null
+   },
+   {
+    "text": "원목 1개",
+    "image": null
+   },
+   {
+    "text": "다이아몬드 8개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "판자는 원목 1개를 써서 만들어요.",
+  "item": "oak-planks"
+ },
+ {
+  "id": "q052",
+  "kind": "recipe",
+  "question": "금 주괴를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/gold-ingot/thumb.png",
+  "choices": [
+   {
+    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
+    "image": null
+   },
+   {
+    "text": "금 조각 9개",
+    "image": null
+   },
+   {
+    "text": "원목 1개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "금 주괴는 금 조각 9개를 써서 만들어요.",
+  "item": "gold-ingot"
+ },
+ {
+  "id": "q053",
+  "kind": "recipe",
+  "question": "횃불을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/torch/thumb.png",
+  "choices": [
+   {
+    "text": "호박 1개 + 설탕 1개 + 달걀 1개",
+    "image": null
+   },
+   {
+    "text": "석탄 1개 + 막대기 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 2개 + 막대기 2개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "횃불은 석탄 1개 + 막대기 1개를 써서 만들어요.",
+  "item": "torch"
+ },
+ {
+  "id": "q054",
+  "kind": "recipe",
+  "question": "화로를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/furnace/thumb.png",
+  "choices": [
+   {
+    "text": "막대기 3개 + 실 2개",
+    "image": null
+   },
+   {
+    "text": "조약돌 8개",
+    "image": null
+   },
+   {
+    "text": "종이 8개 + 나침반 1개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "화로는 조약돌 8개를 써서 만들어요.",
+  "item": "furnace"
+ },
+ {
+  "id": "q055",
+  "kind": "fact",
+  "question": "크리퍼가 무서워해서 도망가는 동물은?",
+  "image": "assets/items/creeper/thumb.png",
+  "choices": [
+   {
+    "text": "닭",
+    "image": null
+   },
+   {
+    "text": "고양이",
+    "image": null
+   },
+   {
+    "text": "돼지",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "크리퍼는 고양이를 무서워해요. 🐱",
+  "item": "creeper"
+ },
+ {
+  "id": "q056",
+  "kind": "fact",
+  "question": "엔더맨이 화내는 건 언제일까요?",
+  "image": "assets/items/enderman/thumb.png",
+  "choices": [
+   {
+    "text": "눈을 마주칠 때",
+    "image": null
+   },
+   {
+    "text": "점프할 때",
+    "image": null
+   },
+   {
+    "text": "노래를 부를 때",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "엔더맨은 눈을 똑바로 쳐다보면 화를 내요.",
+  "item": "enderman"
+ },
+ {
+  "id": "q057",
+  "kind": "fact",
+  "question": "엔더맨이 아주 싫어하는 것은?",
+  "image": "assets/items/enderman/thumb.png",
+  "choices": [
+   {
+    "text": "꽃",
+    "image": null
+   },
+   {
+    "text": "모래",
+    "image": null
+   },
+   {
+    "text": "물",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "엔더맨은 물에 닿으면 아파해요. 💧",
+  "item": "enderman"
+ },
+ {
+  "id": "q058",
+  "kind": "fact",
+  "question": "좀비가 햇빛을 받으면 어떻게 될까요?",
+  "image": "assets/items/zombie/thumb.png",
+  "choices": [
+   {
+    "text": "불이 붙어요",
+    "image": null
+   },
+   {
+    "text": "잠을 자요",
+    "image": null
+   },
+   {
+    "text": "더 빨라져요",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "좀비와 스켈레톤은 햇빛을 받으면 불이 붙어요. ☀️",
+  "item": "zombie"
+ },
+ {
+  "id": "q059",
+  "kind": "fact",
+  "question": "햇빛을 받아도 불이 붙지 않는 사막 좀비는?",
+  "image": null,
+  "choices": [
+   {
+    "text": "드라운드",
+    "image": null
+   },
+   {
+    "text": "허스크",
+    "image": null
+   },
+   {
+    "text": "스트레이",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "허스크는 사막에 살아서 햇빛에도 끄떡없어요.",
+  "item": "husk"
+ },
+ {
+  "id": "q060",
+  "kind": "fact",
+  "question": "팬텀이 오지 않게 하려면 어떻게 해야 할까요?",
+  "image": "assets/items/phantom/thumb.png",
+  "choices": [
+   {
+    "text": "횃불을 꽂아요",
+    "image": null
+   },
+   {
+    "text": "침대에서 잠을 자요",
+    "image": null
+   },
+   {
+    "text": "물을 부어요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "사흘 밤 넘게 안 자면 팬텀이 와요. 잘 자요! 🛏️",
+  "item": "phantom"
+ },
+ {
+  "id": "q061",
+  "kind": "fact",
+  "question": "피글린이 좋아해서 물건과 바꿔 주는 것은?",
+  "image": "assets/items/piglin/thumb.png",
+  "choices": [
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
+   {
+    "text": "흙",
+    "image": null
+   },
+   {
+    "text": "금",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "피글린은 금을 좋아해요. 금 갑옷을 입으면 공격하지 않아요.",
+  "item": "piglin"
+ },
+ {
+  "id": "q062",
+  "kind": "fact",
+  "question": "늑대를 강아지 친구로 만들려면 무엇을 줄까요?",
+  "image": "assets/items/wolf/thumb.png",
+  "choices": [
+   {
+    "text": "사과",
+    "image": null
+   },
+   {
+    "text": "당근",
+    "image": null
+   },
+   {
+    "text": "뼈",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "뼈를 주면 늑대가 빨간 목걸이를 한 친구가 돼요. 🐶",
+  "item": "wolf"
+ },
+ {
+  "id": "q063",
+  "kind": "fact",
+  "question": "고양이를 길들이려면 무엇을 줄까요?",
+  "image": "assets/items/cat/thumb.png",
+  "choices": [
+   {
+    "text": "날생선",
+    "image": null
+   },
+   {
+    "text": "밀",
+    "image": null
+   },
+   {
+    "text": "뼈",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "고양이는 생선을 좋아해요. 🐟",
+  "item": "cat"
+ },
+ {
+  "id": "q064",
+  "kind": "fact",
+  "question": "앵무새에게 절대 주면 안 되는 음식은?",
+  "image": "assets/items/parrot/thumb.png",
+  "choices": [
+   {
+    "text": "씨앗",
+    "image": null
+   },
+   {
+    "text": "쿠키",
+    "image": null
+   },
+   {
+    "text": "밀",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "앵무새는 쿠키를 먹으면 아파요.",
+  "item": "parrot"
+ },
+ {
+  "id": "q065",
+  "kind": "fact",
+  "question": "소에게서 우유를 얻으려면 무엇을 들고 있어야 할까요?",
+  "image": "assets/items/cow/thumb.png",
+  "choices": [
+   {
+    "text": "빈 양동이",
+    "image": null
+   },
+   {
+    "text": "가위",
+    "image": null
+   },
+   {
+    "text": "그릇",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "빈 양동이를 들고 소를 누르면 우유를 받아요. 🥛",
+  "item": "cow"
+ },
+ {
+  "id": "q066",
+  "kind": "fact",
+  "question": "양의 털을 깎을 때 쓰는 도구는?",
+  "image": "assets/items/sheep/thumb.png",
+  "choices": [
+   {
+    "text": "가위",
+    "image": null
+   },
+   {
+    "text": "삽",
+    "image": null
+   },
+   {
+    "text": "괭이",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "가위로 털을 깎으면 양털이 나와요.",
+  "item": "sheep"
+ },
+ {
+  "id": "q067",
+  "kind": "fact",
+  "question": "아주 드물어서 보기 힘든 아홀로틀 색깔은?",
+  "image": "assets/items/axolotl/thumb.png",
+  "choices": [
+   {
+    "text": "분홍색",
+    "image": null
+   },
+   {
+    "text": "갈색",
+    "image": null
+   },
+   {
+    "text": "파란색",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "파란 아홀로틀은 1200마리 중 한 마리꼴로 태어나요.",
+  "item": "axolotl"
+ },
+ {
+  "id": "q068",
+  "kind": "fact",
+  "question": "철 골렘을 만들려면 철 블록과 함께 무엇이 필요할까요?",
+  "image": "assets/items/iron-golem/thumb.png",
+  "choices": [
+   {
+    "text": "수박",
+    "image": null
+   },
+   {
+    "text": "눈 블록",
+    "image": null
+   },
+   {
+    "text": "호박",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "철 블록 4개 위에 호박을 올리면 철 골렘이 태어나요.",
+  "item": "iron-golem"
+ },
+ {
+  "id": "q069",
+  "kind": "fact",
+  "question": "눈 골렘은 몬스터에게 무엇을 던질까요?",
+  "image": "assets/items/snow-golem/thumb.png",
+  "choices": [
+   {
+    "text": "화살",
+    "image": null
+   },
+   {
+    "text": "눈덩이",
+    "image": null
+   },
+   {
+    "text": "돌",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "눈 골렘은 눈덩이를 던져요. ⛄",
+  "item": "snow-golem"
+ },
+ {
+  "id": "q070",
+  "kind": "fact",
+  "question": "엔더 드래곤을 치료해 주는 기둥 위의 물건은?",
+  "image": "assets/items/ender-dragon/thumb.png",
+  "choices": [
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
+   {
+    "text": "엔드 수정",
+    "image": null
+   },
+   {
+    "text": "횃불",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "엔드 수정을 먼저 부숴야 드래곤을 물리칠 수 있어요.",
+  "item": "ender-dragon"
+ },
+ {
+  "id": "q071",
+  "kind": "fact",
+  "question": "눈이 없는 워든은 무엇으로 플레이어를 찾을까요?",
+  "image": "assets/items/warden/thumb.png",
+  "choices": [
+   {
+    "text": "색깔",
+    "image": null
+   },
+   {
+    "text": "소리와 냄새",
+    "image": null
+   },
+   {
+    "text": "빛",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "워든은 소리에 민감해서 웅크리고 살금살금 다녀야 해요.",
+  "item": "warden"
+ },
+ {
+  "id": "q072",
+  "kind": "fact",
+  "question": "위더의 머리는 몇 개일까요?",
+  "image": "assets/items/wither/thumb.png",
+  "choices": [
+   {
+    "text": "1개",
+    "image": null
+   },
+   {
+    "text": "5개",
+    "image": null
+   },
+   {
+    "text": "3개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "위더는 머리가 셋인 보스예요.",
+  "item": "wither"
+ },
+ {
+  "id": "q073",
+  "kind": "fact",
+  "question": "가스트가 쏘는 불덩이를 되받아칠 수 있을까요?",
+  "image": "assets/items/ghast/thumb.png",
+  "choices": [
+   {
+    "text": "물로만 막아요",
+    "image": null
+   },
+   {
+    "text": "칼이나 화살로 칠 수 있어요",
+    "image": null
+   },
+   {
+    "text": "절대 못 막아요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "불덩이를 쳐서 가스트에게 돌려보낼 수 있어요.",
+  "item": "ghast"
+ },
+ {
+  "id": "q074",
+  "kind": "fact",
+  "question": "네더에서 침대에 누우면 어떻게 될까요?",
+  "image": "assets/items/bed/thumb.png",
+  "choices": [
+   {
+    "text": "엔드로 가요",
+    "image": null
+   },
+   {
+    "text": "펑 터져요",
+    "image": null
+   },
+   {
+    "text": "아침이 돼요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "침대는 꼭 지상 세계에서만 써요!",
+  "item": "bed"
+ },
+ {
+  "id": "q075",
+  "kind": "fact",
+  "question": "높은 데서 떨어질 때 바닥에 무엇을 부으면 안 다칠까요?",
+  "image": "assets/items/water-bucket/thumb.png",
+  "choices": [
+   {
+    "text": "물",
+    "image": null
+   },
+   {
+    "text": "용암",
+    "image": null
+   },
+   {
+    "text": "모래",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "물에 떨어지면 다치지 않아요. '물 양동이 착지'예요.",
+  "item": "water-bucket"
+ },
+ {
+  "id": "q076",
+  "kind": "fact",
+  "question": "다이아몬드를 캐려면 적어도 어떤 곡괭이가 필요할까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "철 곡괭이",
+    "image": null
+   },
+   {
+    "text": "돌 곡괭이",
+    "image": null
+   },
+   {
+    "text": "나무 곡괭이",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "다이아몬드는 철 곡괭이 이상으로 캐야 나와요.",
+  "item": "iron-pickaxe"
+ },
+ {
+  "id": "q077",
+  "kind": "fact",
+  "question": "흑요석을 캘 수 있는 곡괭이는?",
+  "image": null,
+  "choices": [
+   {
+    "text": "철 곡괭이",
+    "image": null
+   },
+   {
+    "text": "금 곡괭이",
+    "image": null
+   },
+   {
+    "text": "다이아몬드 곡괭이",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "흑요석은 다이아몬드나 네더라이트 곡괭이로만 캐요.",
+  "item": "diamond-pickaxe"
+ },
+ {
+  "id": "q078",
+  "kind": "fact",
+  "question": "용암에 빠져도 불타지 않는 물건은 무엇으로 만들었을까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "네더라이트",
+    "image": null
+   },
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
+   {
+    "text": "철",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "네더라이트 물건은 용암 위에 둥둥 떠요.",
+  "item": "netherite-pickaxe"
+ },
+ {
+  "id": "q079",
+  "kind": "fact",
+  "question": "흑요석은 용암에 무엇이 닿으면 생길까요?",
+  "image": "assets/items/obsidian/thumb.png",
+  "choices": [
+   {
+    "text": "물",
+    "image": null
+   },
+   {
+    "text": "눈",
+    "image": null
+   },
+   {
+    "text": "모래",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "용암에 물이 닿으면 흑요석이 생겨요.",
+  "item": "obsidian"
+ },
+ {
+  "id": "q080",
+  "kind": "fact",
+  "question": "엔더의 눈을 하늘로 던지면 어디를 알려 줄까요?",
+  "image": "assets/items/eye-of-ender/thumb.png",
+  "choices": [
+   {
+    "text": "마을",
+    "image": null
+   },
+   {
+    "text": "요새",
+    "image": null
+   },
+   {
+    "text": "바다 신전",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "엔더의 눈은 엔드 차원문이 있는 요새 쪽으로 날아가요.",
+  "item": "eye-of-ender"
+ },
+ {
+  "id": "q081",
+  "kind": "fact",
+  "question": "네더 차원문을 만들 때 쓰는 블록은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "유리",
+    "image": null
+   },
+   {
+    "text": "흑요석",
+    "image": null
+   },
+   {
+    "text": "철 블록",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "흑요석 틀에 불을 붙이면 네더로 가는 문이 열려요.",
+  "item": "nether-portal"
+ },
+ {
+  "id": "q082",
+  "kind": "fact",
+  "question": "몬스터가 생기지 않게 하려면 어떻게 할까요?",
+  "image": "assets/items/torches/thumb.png",
+  "choices": [
+   {
+    "text": "물을 부어요",
+    "image": null
+   },
+   {
+    "text": "횃불로 밝혀요",
+    "image": null
+   },
+   {
+    "text": "꽃을 심어요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "몬스터는 어두운 곳에서 생겨요. 횃불로 밝게! 🔥",
+  "item": "torches"
+ },
+ {
+  "id": "q083",
+  "kind": "fact",
+  "question": "땅을 팔 때 절대 하면 안 되는 것은?",
+  "image": "assets/items/stairs-down/thumb.png",
+  "choices": [
+   {
+    "text": "횃불 꽂기",
+    "image": null
+   },
+   {
+    "text": "발 바로 아래 파기",
+    "image": null
+   },
+   {
+    "text": "계단처럼 파기",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "발 아래를 파면 용암이나 동굴로 떨어질 수 있어요.",
+  "item": "stairs-down"
+ },
+ {
+  "id": "q084",
+  "kind": "fact",
+  "question": "뼛가루를 뿌리면 식물이 어떻게 될까요?",
+  "image": "assets/items/bone-meal/thumb.png",
+  "choices": [
+   {
+    "text": "시들어요",
+    "image": null
+   },
+   {
+    "text": "쑥쑥 자라요",
+    "image": null
+   },
+   {
+    "text": "사라져요",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "뼛가루는 식물을 빨리 자라게 해요. 🌱",
+  "item": "bone-meal"
+ },
+ {
+  "id": "q085",
+  "kind": "fact",
+  "question": "화로에서 무엇을 구우면 유리가 될까요?",
+  "image": "assets/items/glass/thumb.png",
+  "choices": [
+   {
+    "text": "흙",
+    "image": null
+   },
+   {
+    "text": "조약돌",
+    "image": null
+   },
+   {
+    "text": "모래",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "모래를 구우면 유리가 돼요.",
+  "item": "glass"
+ },
+ {
+  "id": "q086",
+  "kind": "fact",
+  "question": "케이크는 몇 번 나눠 먹을 수 있을까요?",
+  "image": "assets/items/cake/thumb.png",
+  "choices": [
+   {
+    "text": "3번",
+    "image": null
+   },
+   {
+    "text": "1번",
+    "image": null
+   },
+   {
+    "text": "7번",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "케이크는 한 조각씩 7번 먹을 수 있어요. 🎂",
+  "item": "cake"
+ },
+ {
+  "id": "q087",
+  "kind": "fact",
+  "question": "황금 사과를 만들 때 사과를 둘러싸는 것은?",
+  "image": "assets/items/golden-apple/thumb.png",
+  "choices": [
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
+   {
+    "text": "금 주괴",
+    "image": null
+   },
+   {
+    "text": "철 주괴",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "사과를 금 주괴 8개로 둘러싸요.",
+  "item": "golden-apple"
+ },
+ {
+  "id": "q088",
+  "kind": "fact",
+  "question": "스니퍼가 땅을 파서 찾아 주는 것은?",
+  "image": "assets/items/sniffer/thumb.png",
+  "choices": [
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
+   {
+    "text": "옛날 씨앗",
+    "image": null
+   },
+   {
+    "text": "뼈",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "스니퍼는 다른 데 없는 옛날 꽃씨를 찾아 줘요.",
+  "item": "sniffer"
+ },
+ {
+  "id": "q089",
+  "kind": "fact",
+  "question": "주민과 거래할 때 돈처럼 쓰는 보석은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "에메랄드",
+    "image": null
+   },
+   {
+    "text": "청금석",
+    "image": null
+   },
+   {
+    "text": "다이아몬드",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "주민은 에메랄드로 물건을 바꿔 줘요. 💚",
+  "item": "trade-tip"
+ }
+]

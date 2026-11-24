@@ -1,0 +1,6917 @@
+{
+ "books": [
+  {
+   "id": "mobs",
+   "name": "몬스터와 동물",
+   "emoji": "🧟",
+   "color": "#3F8E3B"
+  },
+  {
+   "id": "items",
+   "name": "도구와 재료",
+   "emoji": "⛏️",
+   "color": "#8B5A2B"
+  },
+  {
+   "id": "tips",
+   "name": "게임 꿀팁",
+   "emoji": "💡",
+   "color": "#E0A100"
+  },
+  {
+   "id": "builds",
+   "name": "멋진 건물",
+   "emoji": "🏰",
+   "color": "#3D7DCA"
+  }
+ ],
+ "sections": [
+  {
+   "id": "hostile",
+   "book": "mobs",
+   "name": "몬스터",
+   "emoji": "🧟",
+   "color": "#3F8E3B"
+  },
+  {
+   "id": "nether",
+   "book": "mobs",
+   "name": "네더와 엔드",
+   "emoji": "🔥",
+   "color": "#B3352B"
+  },
+  {
+   "id": "boss",
+   "book": "mobs",
+   "name": "보스",
+   "emoji": "👑",
+   "color": "#6B3FA0"
+  },
+  {
+   "id": "friends",
+   "book": "mobs",
+   "name": "동물과 친구들",
+   "emoji": "🐷",
+   "color": "#E77FA0"
+  },
+  {
+   "id": "blocks",
+   "book": "items",
+   "name": "꼭 필요한 블록",
+   "emoji": "🧱",
+   "color": "#8B5A2B"
+  },
+  {
+   "id": "tools",
+   "book": "items",
+   "name": "도구",
+   "emoji": "⛏️",
+   "color": "#5B6B7A"
+  },
+  {
+   "id": "gear",
+   "book": "items",
+   "name": "무기와 갑옷",
+   "emoji": "🛡️",
+   "color": "#2C8C99"
+  },
+  {
+   "id": "materials",
+   "book": "items",
+   "name": "재료",
+   "emoji": "💎",
+   "color": "#1FA6A0"
+  },
+  {
+   "id": "food",
+   "book": "items",
+   "name": "음식",
+   "emoji": "🍞",
+   "color": "#D9822B"
+  },
+  {
+   "id": "start",
+   "book": "tips",
+   "name": "처음 시작하기",
+   "emoji": "🌅",
+   "color": "#E0A100"
+  },
+  {
+   "id": "survive",
+   "book": "tips",
+   "name": "살아남기",
+   "emoji": "❤️",
+   "color": "#D9443A"
+  },
+  {
+   "id": "mining",
+   "book": "tips",
+   "name": "광물 캐기",
+   "emoji": "💎",
+   "color": "#1FA6A0"
+  },
+  {
+   "id": "adventure",
+   "book": "tips",
+   "name": "모험하기",
+   "emoji": "🧭",
+   "color": "#6B3FA0"
+  },
+  {
+   "id": "houses",
+   "book": "builds",
+   "name": "집",
+   "emoji": "🏠",
+   "color": "#3D7DCA"
+  },
+  {
+   "id": "castles",
+   "book": "builds",
+   "name": "성과 궁전",
+   "emoji": "🏰",
+   "color": "#7A5BB5"
+  },
+  {
+   "id": "town",
+   "book": "builds",
+   "name": "마을 건물",
+   "emoji": "🏘️",
+   "color": "#D9822B"
+  },
+  {
+   "id": "wonders",
+   "book": "builds",
+   "name": "신기한 건물",
+   "emoji": "✨",
+   "color": "#1FA6A0"
+  }
+ ],
+ "items": [
+  {
+   "id": "zombie",
+   "section": "hostile",
+   "name": "좀비",
+   "subtitle": "밤에 나오는 초록 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어두운 곳",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "썩은 살점",
+     ""
+    ]
+   ],
+   "story": "밤이나 어두운 동굴에서 나타나 두 팔을 앞으로 뻗고 느릿느릿 걸어와요. 해가 뜨면 몸에 불이 붙어서 그늘이나 물속으로 숨어요.",
+   "funFact": "작은 아기 좀비는 아주 빨리 뛰어서 더 조심해야 해요. 가끔 닭을 타고 다니기도 해요.",
+   "wiki": "Zombie",
+   "photos": [
+    "File:Baby Zombie JE1 BE1.png",
+    "File:15 Year Journey Baby Zombie.png"
+   ]
+  },
+  {
+   "id": "skeleton",
+   "section": "hostile",
+   "name": "스켈레톤",
+   "subtitle": "활을 쏘는 뼈다귀",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어두운 곳",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "뼈와 화살",
+     ""
+    ]
+   ],
+   "story": "멀리서 활을 쏘는 뼈 몬스터예요. 좀비처럼 햇빛을 받으면 불이 붙어요. 나무 뒤나 벽 뒤에 숨으면 화살을 피할 수 있어요.",
+   "funFact": "스켈레톤이 떨어뜨린 뼈로 늑대를 길들일 수 있어요.",
+   "wiki": "Skeleton",
+   "photos": [
+    "File:Skeleton Aiming JE1.png",
+    "File:Dual Wielding Skeleton.png"
+   ]
+  },
+  {
+   "id": "creeper",
+   "section": "hostile",
+   "name": "크리퍼",
+   "subtitle": "쉬익… 펑! 조용한 초록 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어두운 곳",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "화약",
+     ""
+    ]
+   ],
+   "story": "소리 없이 다가와서 '쉬익' 소리를 내고 펑 터져요. 쉬익 소리가 들리면 얼른 뒤로 도망쳐야 해요. 터지면 블록이 부서져서 집에 구멍이 나요.",
+   "funFact": "크리퍼는 고양이를 무서워해서 고양이가 있으면 도망가요. 번개를 맞으면 파랗게 빛나는 '충전된 크리퍼'가 돼요.",
+   "wiki": "Creeper",
+   "photos": [
+    "File:Creeper JE3 BE1.png",
+    "File:CreeperExplosion.png",
+    "File:Charged Creeper JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "spider",
+   "section": "hostile",
+   "name": "거미",
+   "subtitle": "벽을 타는 빨간 눈",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "8",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어디든",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "실과 거미 눈",
+     ""
+    ]
+   ],
+   "story": "벽을 타고 기어오를 수 있어서 높은 담도 넘어와요. 낮에는 먼저 때리지 않으면 얌전하지만 밤에는 공격해요.",
+   "funFact": "거미가 떨어뜨린 실로 활과 낚싯대를 만들어요.",
+   "wiki": "Spider",
+   "photos": [
+    "File:Spider JE2 BE1.png",
+    "File:A spider during Alpha.png"
+   ]
+  },
+  {
+   "id": "cave-spider",
+   "section": "hostile",
+   "name": "동굴 거미",
+   "subtitle": "폐광에 사는 파란 거미",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "6",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "폐광",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "실",
+     ""
+    ]
+   ],
+   "story": "땅속 폐광에 사는 작은 파란 거미예요. 거미줄이 잔뜩 있는 곳에서 나오고, 물리면 독에 걸려요.",
+   "funFact": "몸이 작아서 블록 한 칸 틈으로도 지나갈 수 있어요.",
+   "wiki": "Cave Spider",
+   "photos": [
+    "File:Cave Spider JE1 BE1.png",
+    "File:Jappa 1.13 cave spider.jpg"
+   ]
+  },
+  {
+   "id": "enderman",
+   "section": "hostile",
+   "name": "엔더맨",
+   "subtitle": "눈을 마주치면 화내는 키다리",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "20",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어디든",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "엔더 진주",
+     ""
+    ]
+   ],
+   "story": "키가 3칸이나 되는 검은 몬스터예요. 눈을 똑바로 쳐다보면 화를 내요. 순간 이동을 할 수 있고 블록을 들고 다니기도 해요.",
+   "funFact": "엔더맨은 물을 싫어해요. 머리에 조각한 호박을 쓰면 눈을 마주쳐도 화내지 않아요.",
+   "wiki": "Enderman",
+   "photos": [
+    "File:Enderman JE1.png",
+    "File:Enderman-ingame.jpeg"
+   ]
+  },
+  {
+   "id": "witch",
+   "section": "hostile",
+   "name": "마녀",
+   "subtitle": "물약을 던지는 마녀",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "13",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "늪",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "유리병, 설탕",
+     ""
+    ]
+   ],
+   "story": "늪에 있는 오두막에 살아요. 독 물약이나 느려지는 물약을 던지고, 다치면 회복 물약을 마셔요.",
+   "funFact": "주민이 번개를 맞으면 마녀로 변해요.",
+   "wiki": "Witch",
+   "photos": [
+    "File:Witch BE1.png",
+    "File:MME Witch.jpg"
+   ]
+  },
+  {
+   "id": "slime",
+   "section": "hostile",
+   "name": "슬라임",
+   "subtitle": "통통 튀는 초록 젤리",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "8",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "늪, 깊은 땅속",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "슬라임 볼",
+     ""
+    ]
+   ],
+   "story": "통통 튀어 다니는 젤리 큐브예요. 큰 슬라임을 때리면 작은 슬라임 여러 개로 나뉘어요.",
+   "funFact": "슬라임 볼로 만든 슬라임 블록 위에 떨어지면 트램펄린처럼 튕겨 올라요.",
+   "wiki": "Slime",
+   "photos": [
+    "File:Slime JE1.png",
+    "File:Bigslime.png"
+   ]
+  },
+  {
+   "id": "drowned",
+   "section": "hostile",
+   "name": "드라운드",
+   "subtitle": "물속에 사는 좀비",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "바다, 강",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "삼지창(가끔)",
+     ""
+    ]
+   ],
+   "story": "물속에 사는 좀비예요. 헤엄을 잘 치고, 삼지창을 든 드라운드는 멀리서 던지기도 해요.",
+   "funFact": "좀비가 물속에 오래 있으면 드라운드로 변해요.",
+   "wiki": "Drowned",
+   "photos": [
+    "File:Baby Drowned BE1.png",
+    "File:Baby Drowned Throwing Trident BE3.png"
+   ]
+  },
+  {
+   "id": "husk",
+   "section": "hostile",
+   "name": "허스크",
+   "subtitle": "사막의 좀비",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "사막",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "썩은 살점",
+     ""
+    ]
+   ],
+   "story": "사막에 사는 좀비예요. 보통 좀비와 달리 햇빛을 받아도 불이 붙지 않아서 낮에도 돌아다녀요.",
+   "funFact": "허스크에게 맞으면 배가 빨리 고파져요.",
+   "wiki": "Husk",
+   "photos": [
+    "File:Baby Husk BE1.png",
+    "File:Camel Husk Jockey JE1.png"
+   ]
+  },
+  {
+   "id": "stray",
+   "section": "hostile",
+   "name": "스트레이",
+   "subtitle": "눈밭의 스켈레톤",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "눈 덮인 곳",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "뼈와 화살",
+     ""
+    ]
+   ],
+   "story": "눈 덮인 곳에 사는 스켈레톤이에요. 얘가 쏘는 화살에 맞으면 몸이 느려져요.",
+   "funFact": "스켈레톤이 가루눈 속에 오래 있으면 스트레이가 돼요.",
+   "wiki": "Stray",
+   "photos": [
+    "File:Stray BE1.png",
+    "File:StrayAndSkeleton.png"
+   ]
+  },
+  {
+   "id": "phantom",
+   "section": "hostile",
+   "name": "팬텀",
+   "subtitle": "잠 안 자면 오는 밤하늘 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "밤하늘",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "팬텀 막",
+     ""
+    ]
+   ],
+   "story": "사흘 밤 넘게 잠을 안 자면 밤하늘에서 날아와 휙 내려와요. 침대에서 잘 자면 팬텀이 오지 않아요.",
+   "funFact": "팬텀 막으로 부서진 겉날개를 고칠 수 있어요.",
+   "wiki": "Phantom",
+   "photos": [
+    "File:Phantom BE1.gif",
+    "File:Phantom Poses.jpg"
+   ]
+  },
+  {
+   "id": "pillager",
+   "section": "hostile",
+   "name": "약탈자",
+   "subtitle": "쇠뇌를 든 회색 얼굴",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "12",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "초소, 마을 습격",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "쇠뇌, 화살",
+     ""
+    ]
+   ],
+   "story": "회색 얼굴에 쇠뇌를 든 무리예요. 높은 나무 초소에 모여 살고, 가끔 무리 지어 마을을 습격해요.",
+   "funFact": "깃발을 든 대장 약탈자를 물리치면 마을 습격이 시작될 수 있어요.",
+   "wiki": "Pillager",
+   "photos": [
+    "File:Pillager JE1.png",
+    "File:Group of Pillagers.png"
+   ]
+  },
+  {
+   "id": "vindicator",
+   "section": "hostile",
+   "name": "변명자",
+   "subtitle": "도끼를 든 숲속 저택 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "12",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "숲속 저택",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "에메랄드",
+     ""
+    ]
+   ],
+   "story": "어두운 숲에 있는 커다란 저택에 살아요. 도끼를 들고 빠르게 달려와서 무척 강해요.",
+   "funFact": "마을 습격 때 약탈자와 함께 오기도 해요.",
+   "wiki": "Vindicator",
+   "photos": [
+    "File:Vindicator JE1 BE1.png",
+    "File:Vindicator unarmed attacking JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "evoker",
+   "section": "hostile",
+   "name": "소환사",
+   "subtitle": "마법을 쓰는 검은 옷",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "12",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "숲속 저택",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "불사의 토템",
+     ""
+    ]
+   ],
+   "story": "마법으로 땅에서 이빨 덫을 튀어나오게 하고, 작은 벡스들을 불러내요.",
+   "funFact": "소환사가 떨어뜨리는 불사의 토템을 손에 들고 있으면 한 번 쓰러질 때 다시 살아나요.",
+   "wiki": "Evoker",
+   "photos": [
+    "File:Evoker JE1 BE1.png",
+    "File:EvokerPreparing.png"
+   ]
+  },
+  {
+   "id": "ravager",
+   "section": "hostile",
+   "name": "파괴수",
+   "subtitle": "습격 때 오는 커다란 짐승",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "50",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "마을 습격",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "안장",
+     ""
+    ]
+   ],
+   "story": "마을 습격 때 나타나는 커다란 짐승이에요. 들이받는 힘이 아주 세고 나뭇잎과 농작물을 부수며 달려요.",
+   "funFact": "약탈자가 파괴수 등에 올라타고 오기도 해요.",
+   "wiki": "Ravager",
+   "photos": [
+    "File:Ravager BE1.png",
+    "File:Ravager Jockey (Evoker).png"
+   ]
+  },
+  {
+   "id": "silverfish",
+   "section": "hostile",
+   "name": "좀벌레",
+   "subtitle": "돌 속에 숨은 벌레",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "4",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "요새, 산",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "없음",
+     ""
+    ]
+   ],
+   "story": "돌 블록 속에 숨어 있다가 블록을 캐면 튀어나와요. 한 마리를 때리면 친구들이 우르르 나와요.",
+   "funFact": "엔드로 가는 차원문이 있는 '요새'에 많이 숨어 있어요.",
+   "wiki": "Silverfish",
+   "photos": [
+    "File:Silverfish JE1 BE1.gif",
+    "File:Jeb Silverfish.png"
+   ]
+  },
+  {
+   "id": "guardian",
+   "section": "hostile",
+   "name": "가디언",
+   "subtitle": "바다 신전을 지키는 물고기",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "바다 신전",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "프리즈머린",
+     ""
+    ]
+   ],
+   "story": "바닷속 신전을 지키는 눈 하나 달린 물고기예요. 레이저 빔을 쏘고, 몸의 가시에 닿으면 따끔해요.",
+   "funFact": "가디언이 떨어뜨린 프리즈머린으로 반짝이는 바다 블록을 만들 수 있어요.",
+   "wiki": "Guardian",
+   "photos": [
+    "File:Guardian JE1 BE1.png",
+    "File:Guardian Squid.jpg"
+   ]
+  },
+  {
+   "id": "breeze",
+   "section": "hostile",
+   "name": "브리즈",
+   "subtitle": "바람을 쏘는 시련의 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "시련의 회당",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "브리즈 막대기",
+     ""
+    ]
+   ],
+   "story": "땅속 '시련의 회당'에 사는 바람 몬스터예요. 통통 뛰어다니며 바람 덩어리를 쏴서 플레이어를 날려 보내요.",
+   "funFact": "브리즈 막대기와 무거운 코어로 강력한 철퇴를 만들어요.",
+   "wiki": "Breeze",
+   "photos": [
+    "File:Breeze BE1.png",
+    "File:Breeze Standing.png"
+   ]
+  },
+  {
+   "id": "bogged",
+   "section": "hostile",
+   "name": "보그드",
+   "subtitle": "이끼 낀 늪 스켈레톤",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "8",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "늪, 시련의 회당",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "독 화살",
+     ""
+    ]
+   ],
+   "story": "늪에 사는 이끼 낀 스켈레톤이에요. 독 화살을 쏴서 맞으면 잠깐 독에 걸려요.",
+   "funFact": "머리에 버섯이 자라 있어서 가위로 잘라 가질 수 있어요.",
+   "wiki": "Bogged",
+   "photos": [
+    "File:Bogged Aiming JE2.png",
+    "File:Boggedmangrove.png"
+   ]
+  },
+  {
+   "id": "creaking",
+   "section": "hostile",
+   "name": "크리킹",
+   "subtitle": "쳐다보면 멈추는 나무 몬스터",
+   "color": "#3F8E3B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "무적",
+     ""
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "창백한 정원",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "없음",
+     ""
+    ]
+   ],
+   "story": "창백한 정원의 밤에 나타나는 나무 몬스터예요. 쳐다보고 있으면 꼼짝 못 하고, 눈을 돌리면 움직여요.",
+   "funFact": "때려도 쓰러지지 않아요. 근처 나무 속 '크리킹 심장'을 부숴야 사라져요.",
+   "wiki": "Creaking",
+   "photos": [
+    "File:Creaking JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "ghast",
+   "section": "nether",
+   "name": "가스트",
+   "subtitle": "불덩이를 쏘는 하얀 유령",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "가스트 눈물",
+     ""
+    ]
+   ],
+   "story": "네더 하늘을 둥둥 떠다니는 커다란 하얀 몬스터예요. 불덩이를 쏘는데, 칼이나 화살로 불덩이를 되받아칠 수 있어요.",
+   "funFact": "몸은 크지만 체력은 5칸밖에 안 돼요. 가끔 아기 울음 같은 소리를 내요.",
+   "wiki": "Ghast",
+   "photos": [
+    "File:Ghast JE1 BE1.gif",
+    "File:Expanding Ghast.gif"
+   ]
+  },
+  {
+   "id": "blaze",
+   "section": "nether",
+   "name": "블레이즈",
+   "subtitle": "불타는 막대 몬스터",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더 요새",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "블레이즈 막대기",
+     ""
+    ]
+   ],
+   "story": "네더 요새에 사는 불 몬스터예요. 날아다니며 작은 불덩이를 세 번씩 쏴요. 눈덩이를 맞으면 많이 아파해요.",
+   "funFact": "블레이즈 막대기는 엔드로 가는 길에 꼭 필요한 엔더의 눈 재료예요.",
+   "wiki": "Blaze",
+   "photos": [
+    "File:Blaze BE2.png",
+    "File:BlazeHarmedBySnowWeather.png"
+   ]
+  },
+  {
+   "id": "piglin",
+   "section": "nether",
+   "name": "피글린",
+   "subtitle": "금을 좋아하는 돼지 얼굴",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "8",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "금",
+     ""
+    ]
+   ],
+   "story": "네더에 사는 돼지 얼굴 몬스터예요. 금 갑옷을 하나라도 입고 있으면 공격하지 않아요. 금을 던져 주면 물건과 바꿔 줘요.",
+   "funFact": "금 블록이나 금 상자를 건드리면 피글린이 화를 내요.",
+   "wiki": "Piglin",
+   "photos": [
+    "File:Baby Piglin JE1.png",
+    "File:Baby Piglin riding a Baby Hoglin.png"
+   ]
+  },
+  {
+   "id": "zombified-piglin",
+   "section": "nether",
+   "name": "좀비화 피글린",
+   "subtitle": "건드리지 않으면 얌전해요",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "금 조각",
+     ""
+    ]
+   ],
+   "story": "금 칼을 든 좀비 피글린이에요. 먼저 때리지 않으면 공격하지 않지만, 한 마리를 때리면 근처 친구들이 모두 달려와요.",
+   "funFact": "피글린이 지상 세계로 오면 좀비화 피글린으로 변해요.",
+   "wiki": "Zombified Piglin",
+   "photos": [
+    "File:Baby Zombified Piglin BE3.png"
+   ]
+  },
+  {
+   "id": "magma-cube",
+   "section": "nether",
+   "name": "마그마 큐브",
+   "subtitle": "네더의 불 슬라임",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "8",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "마그마 크림",
+     ""
+    ]
+   ],
+   "story": "네더에 사는 빨간 슬라임이에요. 아주 높이 뛰어오르고 용암 속에서도 멀쩡해요. 때리면 작게 나뉘어요.",
+   "funFact": "마그마 크림으로 불에 타지 않는 물약을 만들 수 있어요.",
+   "wiki": "Magma Cube",
+   "photos": [
+    "File:Magma Cube JE1 BE1.png",
+    "File:Magmacubelava.png"
+   ]
+  },
+  {
+   "id": "wither-skeleton",
+   "section": "nether",
+   "name": "위더 스켈레톤",
+   "subtitle": "돌칼을 든 까만 해골",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더 요새",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "해골 머리(가끔)",
+     ""
+    ]
+   ],
+   "story": "네더 요새에 사는 키 큰 까만 스켈레톤이에요. 맞으면 '위더' 효과로 체력이 점점 줄어요.",
+   "funFact": "위더 스켈레톤 해골 3개를 모으면 보스 '위더'를 불러낼 수 있어요.",
+   "wiki": "Wither Skeleton",
+   "photos": [
+    "File:Wither Skeleton JE2.png",
+    "File:Wither Skeleton Halloween Screenshot.png"
+   ]
+  },
+  {
+   "id": "hoglin",
+   "section": "nether",
+   "name": "호글린",
+   "subtitle": "네더의 멧돼지",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "20",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "진홍빛 숲",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "돼지고기",
+     ""
+    ]
+   ],
+   "story": "네더의 진홍빛 숲에 사는 커다란 멧돼지예요. 들이받아서 플레이어를 높이 날려 보내요.",
+   "funFact": "뒤틀린 균을 무서워해서 그 근처로는 오지 않아요.",
+   "wiki": "Hoglin",
+   "photos": [
+    "File:Baby Hoglin BE3.png"
+   ]
+  },
+  {
+   "id": "piglin-brute",
+   "section": "nether",
+   "name": "난폭한 피글린",
+   "subtitle": "금도끼를 든 성 지킴이",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "25",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "피글린 성채",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "금 도끼",
+     ""
+    ]
+   ],
+   "story": "피글린 성채의 보물을 지키는 힘센 피글린이에요. 금 갑옷을 입어도 봐주지 않아요.",
+   "funFact": "한 번 쓰러뜨리면 다시 나타나지 않아요.",
+   "wiki": "Piglin Brute",
+   "photos": [
+    "File:Piglin Brute BE1.png",
+    "File:Piglin Brute with armor.png"
+   ]
+  },
+  {
+   "id": "shulker",
+   "section": "nether",
+   "name": "셜커",
+   "subtitle": "상자 속에 숨은 엔드 몬스터",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "엔드 도시",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "셜커 껍데기",
+     ""
+    ]
+   ],
+   "story": "엔드 도시에 사는 상자 모양 몬스터예요. 뚜껑을 열고 총알을 쏘는데, 맞으면 몸이 둥둥 떠올라요.",
+   "funFact": "셜커 껍데기로 만든 셜커 상자는 물건을 넣은 채로 들고 다닐 수 있어요.",
+   "wiki": "Shulker",
+   "photos": [
+    "File:Magenta Shulker JE1 BE1.png",
+    "File:Magenta Shulker Box JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "endermite",
+   "section": "nether",
+   "name": "엔더마이트",
+   "subtitle": "엔더 진주에서 나온 벌레",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "4",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "엔더 진주 던진 곳",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "없음",
+     ""
+    ]
+   ],
+   "story": "엔더 진주를 던져서 순간 이동하면 가끔 나타나는 작은 보라색 벌레예요.",
+   "funFact": "엔더맨은 엔더마이트를 아주 싫어해서 보면 공격해요.",
+   "wiki": "Endermite",
+   "photos": [
+    "File:Endermite JE1.png",
+    "File:A group of endermites being mauled.png"
+   ]
+  },
+  {
+   "id": "strider",
+   "section": "nether",
+   "name": "스트라이더",
+   "subtitle": "용암 위를 걷는 착한 친구",
+   "color": "#B3352B",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "네더 용암 바다",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "뒤틀린 균",
+     ""
+    ]
+   ],
+   "story": "용암 위를 걸어 다니는 착한 생물이에요. 안장을 얹고 뒤틀린 균 낚싯대로 조종하면 용암 바다를 건널 수 있어요.",
+   "funFact": "용암 밖으로 나오면 추워서 보라색으로 변하고 덜덜 떨어요.",
+   "wiki": "Strider",
+   "photos": [
+    "File:Saddled Strider BE2.gif",
+    "File:Baby Strider Jockey in lava.png"
+   ]
+  },
+  {
+   "id": "ender-dragon",
+   "section": "boss",
+   "name": "엔더 드래곤",
+   "subtitle": "엔드의 마지막 보스",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "100",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "엔드",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "드래곤 알",
+     ""
+    ]
+   ],
+   "story": "엔드 세계를 날아다니는 커다란 검은 용이에요. 기둥 위의 '엔드 수정'이 용을 치료해 주니까 먼저 수정을 부숴야 해요.",
+   "funFact": "드래곤을 물리치면 엔딩 글이 나오고, 하나뿐인 드래곤 알을 가질 수 있어요.",
+   "wiki": "Ender Dragon",
+   "photos": [
+    "File:Ender Dragon.gif",
+    "File:Ender dragon near the edge of the main island.png"
+   ]
+  },
+  {
+   "id": "wither",
+   "section": "boss",
+   "name": "위더",
+   "subtitle": "머리가 셋인 보스",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "150",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "직접 불러내요",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "네더의 별",
+     ""
+    ]
+   ],
+   "story": "영혼 모래 4개와 위더 스켈레톤 해골 3개로 불러내는 보스예요. 머리가 3개이고 블록을 부수는 해골을 쏴요.",
+   "funFact": "위더가 떨어뜨린 네더의 별로 신호기를 만들 수 있어요.",
+   "wiki": "Wither",
+   "photos": [
+    "File:Wither JE2 BE2.png",
+    "File:Blue Wither JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "warden",
+   "section": "boss",
+   "name": "워든",
+   "subtitle": "깊은 어둠 속 눈 없는 수호자",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "250",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "깊은 어둠",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "스컬크 촉매",
+     ""
+    ]
+   ],
+   "story": "깊은 땅속 '깊은 어둠'에 사는 아주 강한 몬스터예요. 눈이 없어서 소리와 냄새로 찾아와요. 몰래몰래 웅크리고 다니면 들키지 않아요.",
+   "funFact": "워든은 싸우기보다 피하는 게 좋아요. 양털 위를 걸으면 소리가 나지 않아요.",
+   "wiki": "Warden",
+   "photos": [
+    "File:Warden JE1 BE1.png",
+    "File:Player and Warden.jpg"
+   ]
+  },
+  {
+   "id": "elder-guardian",
+   "section": "boss",
+   "name": "엘더 가디언",
+   "subtitle": "바다 신전의 대장",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "40",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "바다 신전",
+     ""
+    ],
+    [
+     "🎁",
+     "떨어뜨리는 것",
+     "젖은 스펀지",
+     ""
+    ]
+   ],
+   "story": "바다 신전에 세 마리가 사는 커다란 가디언이에요. 가까이 가면 '채굴 피로'를 걸어서 블록을 천천히 캐게 만들어요.",
+   "funFact": "가디언보다 두 배나 크고 하얀색이에요.",
+   "wiki": "Elder Guardian",
+   "photos": [
+    "File:Elder Guardian JE1 BE1.png",
+    "File:Guardian In Full View.png"
+   ]
+  },
+  {
+   "id": "iron-golem",
+   "section": "friends",
+   "name": "철 골렘",
+   "subtitle": "마을을 지키는 든든한 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "50",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "마을",
+     ""
+    ],
+    [
+     "💚",
+     "만드는 법",
+     "철 블록 + 호박",
+     ""
+    ]
+   ],
+   "story": "마을을 지키는 키 큰 철 거인이에요. 몬스터가 오면 높이 던져서 물리쳐요. 철 블록 4개와 호박으로 직접 만들 수도 있어요.",
+   "funFact": "아기 주민에게 양귀비꽃을 건네주기도 해요.",
+   "wiki": "Iron Golem",
+   "photos": [
+    "File:Iron Golem JE1 BE1.png",
+    "File:IronGolemRose.png"
+   ]
+  },
+  {
+   "id": "snow-golem",
+   "section": "friends",
+   "name": "눈 골렘",
+   "subtitle": "눈덩이를 던지는 눈사람",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "2",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "직접 만들어요",
+     ""
+    ],
+    [
+     "💚",
+     "만드는 법",
+     "눈 블록 + 호박",
+     ""
+    ]
+   ],
+   "story": "눈 블록 2개 위에 호박을 올리면 태어나는 눈사람이에요. 몬스터에게 눈덩이를 던지고, 지나간 자리에 눈이 쌓여요.",
+   "funFact": "가위로 호박을 벗기면 눈사람 얼굴이 보여요.",
+   "wiki": "Snow Golem",
+   "photos": [
+    "File:Snow Golem JE1 BE1.png",
+    "File:Endermadegolems.jpg"
+   ]
+  },
+  {
+   "id": "villager",
+   "section": "friends",
+   "name": "주민",
+   "subtitle": "에메랄드로 거래하는 이웃",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "마을",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "에메랄드",
+     ""
+    ]
+   ],
+   "story": "마을에 사는 이웃이에요. 직업에 따라 농부, 사서, 대장장이 등이 있고 에메랄드를 받고 물건을 바꿔 줘요.",
+   "funFact": "'흠~' 하는 소리를 내요. 밤이 되면 침대에 들어가 잠을 자요.",
+   "wiki": "Villager",
+   "photos": [
+    "File:Desert Baby Villager BE1.png",
+    "File:An Army of Villagers Staring!.png"
+   ]
+  },
+  {
+   "id": "wandering-trader",
+   "section": "friends",
+   "name": "떠돌이 상인",
+   "subtitle": "라마와 함께 다니는 상인",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "어디든",
+     ""
+    ],
+    [
+     "💚",
+     "파는 것",
+     "신기한 식물",
+     ""
+    ]
+   ],
+   "story": "라마 두 마리와 함께 세상을 돌아다니는 상인이에요. 다른 곳에서 구하기 힘든 꽃, 묘목, 산호를 팔아요.",
+   "funFact": "밤이 되면 투명 물약을 마시고 사라졌다가 아침에 다시 나타나요.",
+   "wiki": "Wandering Trader",
+   "photos": [
+    "File:Wandering Trader JE1 BE1.png",
+    "File:Makena & Wandering Trader.jpeg"
+   ]
+  },
+  {
+   "id": "wolf",
+   "section": "friends",
+   "name": "늑대",
+   "subtitle": "뼈를 주면 강아지 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "4",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "숲, 타이가",
+     ""
+    ],
+    [
+     "💚",
+     "길들이는 것",
+     "뼈",
+     ""
+    ]
+   ],
+   "story": "뼈를 주면 빨간 목걸이를 한 강아지 친구가 돼요. 주인을 따라다니며 몬스터와 같이 싸워 줘요.",
+   "funFact": "아르마딜로 인갑으로 만든 늑대 갑옷을 입힐 수 있어요.",
+   "wiki": "Wolf",
+   "photos": [
+    "File:Ashen Baby Wolf JE2.png",
+    "File:Ashen Baby Tamed Wolf JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "cat",
+   "section": "friends",
+   "name": "고양이",
+   "subtitle": "크리퍼를 쫓는 고양이",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "마을, 늪 오두막",
+     ""
+    ],
+    [
+     "💚",
+     "길들이는 것",
+     "날생선",
+     ""
+    ]
+   ],
+   "story": "생선을 주면 길들일 수 있어요. 크리퍼와 팬텀이 고양이를 무서워해서 집을 지켜 줘요.",
+   "funFact": "길들인 고양이는 아침에 가끔 선물을 물어다 줘요.",
+   "wiki": "Cat",
+   "photos": [
+    "File:Baby Red Cat JE2 BE2.png",
+    "File:Baby Black Cat JE2 BE2.png",
+    "File:Baby Jellie Cat JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "horse",
+   "section": "friends",
+   "name": "말",
+   "subtitle": "타고 달리는 빠른 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "평원, 사바나",
+     ""
+    ],
+    [
+     "💚",
+     "필요한 것",
+     "안장",
+     ""
+    ]
+   ],
+   "story": "여러 번 올라타면 길들일 수 있어요. 안장을 얹으면 빠르게 달리고 높이 뛸 수 있어요.",
+   "funFact": "말 색깔과 무늬가 서로 달라서 똑같은 말을 찾기 어려워요.",
+   "wiki": "Horse",
+   "photos": [
+    "File:Baby Brown Horse JE5.png",
+    "File:Baby Black Horse BE3.png"
+   ]
+  },
+  {
+   "id": "parrot",
+   "section": "friends",
+   "name": "앵무새",
+   "subtitle": "어깨에 앉는 정글 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "3",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "정글",
+     ""
+    ],
+    [
+     "💚",
+     "길들이는 것",
+     "씨앗",
+     ""
+    ]
+   ],
+   "story": "정글에 사는 알록달록한 새예요. 씨앗을 주면 길들일 수 있고 어깨에 앉아 같이 다녀요.",
+   "funFact": "근처에서 음악을 틀면 춤을 추고, 몬스터 소리를 흉내 내요.",
+   "wiki": "Parrot",
+   "photos": [
+    "File:Dancing Parrot JE1.gif",
+    "File:15th Anniversary Parrots.png",
+    "File:Better Together Parrots.jpg"
+   ]
+  },
+  {
+   "id": "axolotl",
+   "section": "friends",
+   "name": "아홀로틀",
+   "subtitle": "물속의 귀여운 도롱뇽",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "7",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "무성한 동굴",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "열대어 양동이",
+     ""
+    ]
+   ],
+   "story": "무성한 동굴의 물속에 사는 귀여운 친구예요. 물속에서 같이 싸워 주고, 다치면 죽은 척하며 회복해요.",
+   "funFact": "파란색 아홀로틀은 아주 드물어서 1200마리 중 한 마리꼴로 태어나요.",
+   "wiki": "Axolotl",
+   "photos": [
+    "File:Axolotl Hovering in Water (lucy) JE2.png",
+    "File:Axolotl Hovering in Water (blue) JE2.png",
+    "File:Axolotl Hovering in Water (wild) JE1.png"
+   ]
+  },
+  {
+   "id": "allay",
+   "section": "friends",
+   "name": "알레이",
+   "subtitle": "물건을 모아 주는 파란 요정",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "초소, 숲속 저택",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "음악",
+     ""
+    ]
+   ],
+   "story": "손에 물건을 하나 쥐여 주면 같은 물건을 주워서 가져다주는 파란 요정이에요. 노래하듯 날아다녀요.",
+   "funFact": "소리 블록 소리를 들으면 그 근처로 물건을 가져다 놓아요.",
+   "wiki": "Allay",
+   "photos": [
+    "File:Allay JE1 BE1.png",
+    "File:Allay animated sticker.gif"
+   ]
+  },
+  {
+   "id": "bee",
+   "section": "friends",
+   "name": "꿀벌",
+   "subtitle": "꽃을 돌아다니는 꿀벌",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "꽃 숲, 평원",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "꽃",
+     ""
+    ]
+   ],
+   "story": "꽃가루를 모아 벌집에 꿀을 채우는 꿀벌이에요. 벌집을 건드리면 화를 내니까 모닥불을 벌집 아래에 두면 좋아요.",
+   "funFact": "꿀벌이 꽃 위를 지나가면 농작물이 쑥쑥 자라요.",
+   "wiki": "Bee",
+   "photos": [
+    "File:Bee (angry) JE1.gif"
+   ]
+  },
+  {
+   "id": "panda",
+   "section": "friends",
+   "name": "판다",
+   "subtitle": "대나무를 좋아하는 판다",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "대나무 정글",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "대나무",
+     ""
+    ]
+   ],
+   "story": "대나무 정글에서 대나무를 먹는 판다예요. 게으른 판다, 장난꾸러기 판다처럼 성격이 다 달라요.",
+   "funFact": "아기 판다가 재채기를 하면 슬라임 볼이 떨어지기도 해요.",
+   "wiki": "Panda",
+   "photos": [
+    "File:Aggressive Baby Panda BE2.png"
+   ]
+  },
+  {
+   "id": "fox",
+   "section": "friends",
+   "name": "여우",
+   "subtitle": "물건을 물고 다니는 여우",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "타이가, 눈 덮인 곳",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "달콤한 열매",
+     ""
+    ]
+   ],
+   "story": "밤에 돌아다니고 낮에는 잠을 자요. 입에 물건을 물고 다니고, 닭과 토끼를 몰래 사냥해요.",
+   "funFact": "눈 덮인 곳에는 하얀 북극여우가 살아요.",
+   "wiki": "Fox",
+   "photos": [
+    "File:Baby Fox JE1 BE1.png",
+    "File:Baby Snow Fox JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "sniffer",
+   "section": "friends",
+   "name": "스니퍼",
+   "subtitle": "옛날 씨앗을 찾는 큰 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "7",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "알에서 태어나요",
+     ""
+    ],
+    [
+     "💚",
+     "찾아 주는 것",
+     "옛날 씨앗",
+     ""
+    ]
+   ],
+   "story": "아주 옛날에 살던 커다란 동물이에요. 코를 킁킁대며 땅을 파서 다른 데 없는 옛날 꽃씨를 찾아 줘요.",
+   "funFact": "바다의 수상한 모래에서 찾은 스니퍼 알이 부화하면 만날 수 있어요.",
+   "wiki": "Sniffer",
+   "photos": [
+    "File:Sniffer JE1 BE1.png",
+    "File:1.20 Dev Sniffer in village.png"
+   ]
+  },
+  {
+   "id": "pig",
+   "section": "friends",
+   "name": "돼지",
+   "subtitle": "꿀꿀 분홍 돼지",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "풀밭",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "당근",
+     ""
+    ]
+   ],
+   "story": "풀밭에 사는 분홍 돼지예요. 안장을 얹고 당근 낚싯대를 들면 돼지를 타고 다닐 수 있어요.",
+   "funFact": "돼지가 번개를 맞으면 좀비화 피글린으로 변해요.",
+   "wiki": "Pig",
+   "photos": [
+    "File:Baby Pig JE1 BE1.png",
+    "File:Pig Riding 1.jpg"
+   ]
+  },
+  {
+   "id": "cow",
+   "section": "friends",
+   "name": "소",
+   "subtitle": "우유를 주는 소",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "풀밭",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "밀",
+     ""
+    ]
+   ],
+   "story": "빈 양동이를 들고 소를 누르면 우유를 얻어요. 우유를 마시면 독 같은 효과가 사라져요.",
+   "funFact": "버섯 들판에는 등에 버섯이 난 빨간 '무시룸'이 살아요.",
+   "wiki": "Cow",
+   "photos": [
+    "File:Baby Cow JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "sheep",
+   "section": "friends",
+   "name": "양",
+   "subtitle": "털을 주는 양",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "4",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "풀밭",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "밀",
+     ""
+    ]
+   ],
+   "story": "가위로 털을 깎으면 양털을 얻어요. 양털로 침대를 만들 수 있고, 염료로 양을 물들일 수도 있어요.",
+   "funFact": "양에게 'jeb_'이라고 이름을 붙이면 무지개색으로 바뀌어요.",
+   "wiki": "Sheep",
+   "photos": [
+    "File:White Sheep JE5.png",
+    "File:Baby Blue Sheep BE1.png"
+   ]
+  },
+  {
+   "id": "chicken",
+   "section": "friends",
+   "name": "닭",
+   "subtitle": "달걀을 낳는 닭",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "2",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "풀밭",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "씨앗",
+     ""
+    ]
+   ],
+   "story": "가끔 달걀을 낳는 닭이에요. 높은 곳에서 떨어져도 날개를 퍼덕이며 천천히 내려와서 다치지 않아요.",
+   "funFact": "달걀을 던지면 가끔 아기 병아리가 나와요.",
+   "wiki": "Chicken",
+   "photos": [
+    "File:Baby Chicken JE1 BE1.png",
+    "File:Burning Chicken.png"
+   ]
+  },
+  {
+   "id": "turtle",
+   "section": "friends",
+   "name": "거북",
+   "subtitle": "모래 해변의 거북",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "해변",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "해초",
+     ""
+    ]
+   ],
+   "story": "모래 해변에 사는 거북이에요. 자기가 태어난 해변으로 돌아와 알을 낳아요.",
+   "funFact": "아기 거북이 자라면서 떨어뜨린 껍데기 조각으로 물속에서 숨을 오래 참는 모자를 만들어요.",
+   "wiki": "Turtle",
+   "photos": [
+    "File:Turtle BE1.png",
+    "File:A Turtle Digging Sand.png"
+   ]
+  },
+  {
+   "id": "dolphin",
+   "section": "friends",
+   "name": "돌고래",
+   "subtitle": "같이 헤엄치는 돌고래",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "바다",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "날생선",
+     ""
+    ]
+   ],
+   "story": "바다에서 무리 지어 헤엄쳐요. 옆에서 헤엄치면 빨리 헤엄치게 해 주고, 생선을 주면 보물이 있는 곳으로 안내해요.",
+   "funFact": "숨을 쉬러 가끔 물 위로 올라와야 해요.",
+   "wiki": "Dolphin",
+   "photos": [
+    "File:Baby Dolphin JE2 BE2.gif",
+    "File:Bedrock Dolphin.jpg"
+   ]
+  },
+  {
+   "id": "camel",
+   "section": "friends",
+   "name": "낙타",
+   "subtitle": "둘이 함께 타는 사막 낙타",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "16",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "사막 마을",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "선인장",
+     ""
+    ]
+   ],
+   "story": "사막 마을에 사는 낙타예요. 키가 커서 좀비 손이 닿지 않고, 두 사람이 함께 탈 수 있어요.",
+   "funFact": "앉아서 쉴 때는 '쿨쿨' 졸기도 해요.",
+   "wiki": "Camel",
+   "photos": [
+    "File:Baby Camel JE2 BE3.png"
+   ]
+  },
+  {
+   "id": "frog",
+   "section": "friends",
+   "name": "개구리",
+   "subtitle": "혀로 먹이를 잡는 개구리",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "늪",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "슬라임 볼",
+     ""
+    ]
+   ],
+   "story": "늪에 사는 개구리예요. 긴 혀를 쏙 내밀어 작은 슬라임을 먹어요. 사는 곳 날씨에 따라 색이 달라요.",
+   "funFact": "올챙이가 자라서 개구리가 돼요.",
+   "wiki": "Frog",
+   "photos": [
+    "File:Temperate Frog JE1 BE1.gif",
+    "File:Warm Frog BE1.png"
+   ]
+  },
+  {
+   "id": "armadillo",
+   "section": "friends",
+   "name": "아르마딜로",
+   "subtitle": "몸을 공처럼 마는 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "6",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "사바나, 악지",
+     ""
+    ],
+    [
+     "💚",
+     "주는 것",
+     "인갑",
+     ""
+    ]
+   ],
+   "story": "놀라면 몸을 동그랗게 말아 숨어요. 붓으로 쓸어 주면 등껍질 조각 '인갑'을 얻어요.",
+   "funFact": "인갑으로 늑대 갑옷을 만들어 강아지 친구를 지켜 줄 수 있어요.",
+   "wiki": "Armadillo",
+   "photos": [
+    "File:Armadillo (Rolled Up) JE1 BE1.png",
+    "File:Armadillo Roll Up BE1.gif"
+   ]
+  },
+  {
+   "id": "polar-bear",
+   "section": "friends",
+   "name": "북극곰",
+   "subtitle": "얼음 위의 하얀 곰",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "얼음 들판",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "생선",
+     ""
+    ]
+   ],
+   "story": "얼음 위에 사는 하얀 곰이에요. 평소엔 얌전하지만 아기 곰 근처에 가면 엄마 곰이 화를 내요.",
+   "funFact": "헤엄을 아주 잘 쳐요.",
+   "wiki": "Polar Bear",
+   "photos": [
+    "File:Baby Polar Bear BE1.png",
+    "File:Introducing baby polar bears.jpg"
+   ]
+  },
+  {
+   "id": "llama",
+   "section": "friends",
+   "name": "라마",
+   "subtitle": "짐을 나르는 라마",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "15",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "산, 사바나",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "건초 더미",
+     ""
+    ]
+   ],
+   "story": "상자를 얹어 짐을 나를 수 있는 라마예요. 화가 나면 침을 퉤 뱉어요.",
+   "funFact": "라마 한 마리를 끈으로 묶으면 다른 라마들이 줄지어 따라와요.",
+   "wiki": "Llama",
+   "photos": [
+    "File:Baby Brown Llama JE3 BE3.png",
+    "File:1.1.11Llama-Brown-Orange.png"
+   ]
+  },
+  {
+   "id": "goat",
+   "section": "friends",
+   "name": "염소",
+   "subtitle": "산꼭대기의 점프왕",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "5",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "높은 산",
+     ""
+    ],
+    [
+     "💚",
+     "좋아하는 것",
+     "밀",
+     ""
+    ]
+   ],
+   "story": "높은 산에 사는 염소예요. 아주 높이 뛰고, 가끔 달려와서 쿵 들이받아요.",
+   "funFact": "염소가 바위에 뿔을 부딪히면 뿔이 떨어져요. 그 뿔로 나팔을 불 수 있어요.",
+   "wiki": "Goat",
+   "photos": [
+    "File:Baby Goat (left horn) JE2 BE3.png",
+    "File:A goat in a coat.jpeg"
+   ]
+  },
+  {
+   "id": "happy-ghast",
+   "section": "friends",
+   "name": "행복한 가스트",
+   "subtitle": "하늘을 나는 하얀 친구",
+   "color": "#E77FA0",
+   "facts": [
+    [
+     "❤️",
+     "체력",
+     "10",
+     "칸"
+    ],
+    [
+     "📍",
+     "나오는 곳",
+     "말린 가스트에서",
+     ""
+    ],
+    [
+     "💚",
+     "필요한 것",
+     "하네스",
+     ""
+    ]
+   ],
+   "story": "말린 가스트를 물에 넣어 키우면 태어나는 착한 가스트예요. 하네스를 채우면 친구들과 함께 하늘을 날 수 있어요.",
+   "funFact": "눈덩이를 좋아해서 손에 들고 있으면 따라와요.",
+   "wiki": "Happy Ghast",
+   "photos": [
+    "File:Ghastling JE1 BE1.gif",
+    "File:Happy Ghast Black Harness Goggles Down BE1.gif"
+   ]
+  },
+  {
+   "id": "crafting-table",
+   "section": "blocks",
+   "name": "제작대",
+   "subtitle": "모든 제작의 시작",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "손에서 바로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "3×3 제작",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "pp",
+     "pp"
+    ],
+    "key": {
+     "p": "planks"
+    }
+   },
+   "uses": [
+    "도구와 무기 만들기",
+    "상자, 화로 만들기"
+   ],
+   "story": "판자 4개로 만드는 작업대예요. 바닥에 놓고 누르면 3×3 칸이 열려서 곡괭이, 상자 같은 거의 모든 물건을 만들 수 있어요.",
+   "funFact": "들고 다니다가 필요한 곳에 놓아도 돼요. 캐면 다시 가질 수 있어요.",
+   "wiki": "Crafting Table",
+   "photos": [
+    "File:Crafting Table JE4 BE3.png"
+   ]
+  },
+  {
+   "id": "furnace",
+   "section": "blocks",
+   "name": "화로",
+   "subtitle": "굽고 녹이는 돌 화로",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "연료",
+     "석탄, 나무",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ccc",
+     "c c",
+     "ccc"
+    ],
+    "key": {
+     "c": "cobblestone"
+    }
+   },
+   "uses": [
+    "철 원석 → 철 주괴",
+    "익히지 않은 고기 → 맛있게 구운 고기",
+    "모래 → 유리"
+   ],
+   "story": "조약돌 8개로 만들어요. 위 칸에 구울 것을, 아래 칸에 석탄 같은 연료를 넣으면 고기를 굽고 광석을 녹여 주괴를 만들어요.",
+   "funFact": "용암 양동이 하나로 아이템을 100개나 구울 수 있어요.",
+   "wiki": "Furnace",
+   "photos": [
+    "File:Furnace (S) JE4.png"
+   ]
+  },
+  {
+   "id": "chest",
+   "section": "blocks",
+   "name": "상자",
+   "subtitle": "물건을 보관해요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "담는 칸",
+     "27칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "p p",
+     "ppp"
+    ],
+    "key": {
+     "p": "planks"
+    }
+   },
+   "uses": [
+    "모은 광물과 블록 보관하기",
+    "큰 상자로 54칸 만들기"
+   ],
+   "story": "판자 8개로 만드는 보물 상자예요. 물건을 27칸이나 넣을 수 있어요. 두 개를 나란히 놓으면 큰 상자가 돼요.",
+   "funFact": "상자 위에 블록이 있으면 뚜껑이 안 열려요. 고양이가 앉아 있어도 안 열려요!",
+   "wiki": "Chest",
+   "photos": [
+    "File:Chest.gif"
+   ]
+  },
+  {
+   "id": "bed",
+   "section": "blocks",
+   "name": "침대",
+   "subtitle": "밤을 건너뛰고 다시 태어나는 곳",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "밤 건너뛰기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "www",
+     "ppp"
+    ],
+    "key": {
+     "w": "wool",
+     "p": "planks"
+    }
+   },
+   "uses": [
+    "밤 건너뛰기",
+    "다시 태어나는 곳 정하기",
+    "팬텀이 오지 않게 하기"
+   ],
+   "story": "양털 3개와 판자 3개로 만들어요. 밤에 침대에서 자면 바로 아침이 돼요. 한 번 누우면 쓰러졌을 때 그 침대에서 다시 시작해요.",
+   "funFact": "네더나 엔드에서 침대에 누우면 펑 터져요! 꼭 지상 세계에서만 써요.",
+   "wiki": "Bed",
+   "photos": [
+    "File:White Bed (N).png"
+   ]
+  },
+  {
+   "id": "torch",
+   "section": "blocks",
+   "name": "횃불",
+   "subtitle": "어둠을 밝혀요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 4개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "c",
+     "s"
+    ],
+    "key": {
+     "c": "coal",
+     "s": "stick"
+    },
+    "n": 4
+   },
+   "uses": [
+    "동굴 밝히기",
+    "집 주변에 몬스터 막기",
+    "돌아갈 길 표시하기"
+   ],
+   "story": "석탄과 막대기로 만들어요. 어두운 곳에는 몬스터가 생기니까 횃불을 꽂아서 밝게 해 두면 안전해요.",
+   "funFact": "동굴에서 돌아오는 길 오른쪽에만 횃불을 꽂으면, 나갈 때 횃불이 왼쪽에 보여서 길을 안 잃어요.",
+   "wiki": "Torch",
+   "photos": [
+    "File:Torch JE7.png"
+   ]
+  },
+  {
+   "id": "oak-door",
+   "section": "blocks",
+   "name": "나무 문",
+   "subtitle": "집의 출입문",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 3개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "pp",
+     "pp",
+     "pp"
+    ],
+    "key": {
+     "p": "planks"
+    },
+    "n": 3
+   },
+   "uses": [
+    "집 입구 만들기",
+    "동물 우리 문"
+   ],
+   "story": "판자 6개로 만드는 문이에요. 문을 달면 몬스터가 쉽게 들어오지 못해요.",
+   "funFact": "어려움 난이도에서는 좀비가 나무 문을 부수고 들어올 수 있어요. 철 문은 못 부숴요.",
+   "wiki": "Oak Door",
+   "photos": [
+    "File:Oak Door JE8.png"
+   ]
+  },
+  {
+   "id": "ladder",
+   "section": "blocks",
+   "name": "사다리",
+   "subtitle": "위아래로 오르내려요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 3개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "s s",
+     "sss",
+     "s s"
+    ],
+    "key": {
+     "s": "stick"
+    },
+    "n": 3
+   },
+   "uses": [
+    "높은 탑 오르기",
+    "광산 굴 내려가기"
+   ],
+   "story": "막대기 7개로 만들어요. 벽에 붙이면 위로 올라가거나 아래로 내려갈 수 있어요.",
+   "funFact": "사다리에 매달려 웅크리면 떨어지지 않고 멈춰 있을 수 있어요.",
+   "wiki": "Ladder",
+   "photos": [
+    "File:Ladder (S) JE4.png"
+   ]
+  },
+  {
+   "id": "enchanting-table",
+   "section": "blocks",
+   "name": "마법 부여대",
+   "subtitle": "도구에 마법을 걸어요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 것",
+     "경험치, 청금석",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " b ",
+     "dod",
+     "ooo"
+    ],
+    "key": {
+     "b": "book",
+     "d": "diamond",
+     "o": "obsidian"
+    }
+   },
+   "uses": [
+    "곡괭이에 '효율' 마법",
+    "칼에 '날카로움' 마법",
+    "갑옷에 '보호' 마법"
+   ],
+   "story": "책, 다이아몬드 2개, 흑요석 4개로 만들어요. 도구를 올리고 경험치와 청금석을 쓰면 더 튼튼하고 빠른 마법 도구가 돼요.",
+   "funFact": "주변에 책장을 15개 놓으면 가장 강한 마법을 걸 수 있어요.",
+   "wiki": "Enchanting Table",
+   "photos": [
+    "File:Enchanting Table.gif"
+   ]
+  },
+  {
+   "id": "anvil",
+   "section": "blocks",
+   "name": "모루",
+   "subtitle": "도구를 고치고 이름 붙여요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "무게",
+     "떨어지는 블록",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "III",
+     " i ",
+     "iii"
+    ],
+    "key": {
+     "I": "iron-block",
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "부서지려는 도구 고치기",
+    "마법 책 붙이기",
+    "이름표에 이름 쓰기"
+   ],
+   "story": "철 블록 3개와 철 주괴 4개로 만드는 무거운 블록이에요. 닳은 도구를 고치고, 마법 책을 합치고, 이름을 붙일 수 있어요.",
+   "funFact": "모래처럼 위에서 떨어져요. 오래 쓰면 금이 가다가 부서져요.",
+   "wiki": "Anvil",
+   "photos": [
+    "File:Anvil (N) JE3.png"
+   ]
+  },
+  {
+   "id": "glass",
+   "section": "blocks",
+   "name": "유리",
+   "subtitle": "투명한 창문",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "모래",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "sand"
+   },
+   "uses": [
+    "창문 만들기",
+    "유리병 만들기",
+    "온실 만들기"
+   ],
+   "story": "화로에서 모래를 구우면 만들어져요. 집에 창문을 달면 밖이 보이고 햇빛도 들어와요.",
+   "funFact": "유리는 캐면 부서져서 없어져요. '섬세한 손길' 마법 곡괭이로만 그대로 가질 수 있어요.",
+   "wiki": "Glass",
+   "photos": [
+    "File:Glass JE4.png"
+   ]
+  },
+  {
+   "id": "brewing-stand",
+   "section": "blocks",
+   "name": "양조기",
+   "subtitle": "물약을 만드는 곳",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "연료",
+     "블레이즈 가루",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " r ",
+     "ccc"
+    ],
+    "key": {
+     "r": "blaze-rod",
+     "c": "cobblestone"
+    }
+   },
+   "uses": [
+    "회복 물약",
+    "화염 저항 물약",
+    "물속 호흡 물약"
+   ],
+   "story": "블레이즈 막대기와 조약돌로 만들어요. 물병에 재료를 넣고 끓이면 빨리 달리기, 회복, 밤눈 같은 물약이 돼요.",
+   "funFact": "모든 물약은 '네더 사마귀'를 먼저 넣어서 '어색한 물약'부터 만들어요.",
+   "wiki": "Brewing Stand",
+   "photos": [
+    "File:Brewing Stand (empty) JE10.png"
+   ]
+  },
+  {
+   "id": "wooden-pickaxe",
+   "section": "tools",
+   "name": "나무 곡괭이",
+   "subtitle": "제일 처음 만드는 곡괭이",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "캘 수 있는 것",
+     "돌, 석탄",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     " s ",
+     " s "
+    ],
+    "key": {
+     "p": "planks",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "돌 캐서 조약돌 모으기",
+    "석탄 캐기"
+   ],
+   "story": "판자 3개와 막대기 2개로 만들어요. 돌을 캐서 조약돌을 모으는 첫 도구예요.",
+   "funFact": "금방 닳아서 조약돌을 모으면 바로 돌 곡괭이로 바꾸는 게 좋아요.",
+   "wiki": "Wooden Pickaxe",
+   "photos": [
+    "File:Wooden Pickaxe JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "stone-pickaxe",
+   "section": "tools",
+   "name": "돌 곡괭이",
+   "subtitle": "철을 캘 수 있어요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "캘 수 있는 것",
+     "철, 청금석",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ccc",
+     " s ",
+     " s "
+    ],
+    "key": {
+     "c": "cobblestone",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "철광석 캐기",
+    "구리, 청금석 캐기"
+   ],
+   "story": "조약돌 3개와 막대기 2개로 만들어요. 나무 곡괭이보다 빠르고, 철광석을 캘 수 있어요.",
+   "funFact": "다이아몬드는 돌 곡괭이로 캐면 아무것도 안 나와요. 철 곡괭이가 필요해요.",
+   "wiki": "Stone Pickaxe",
+   "photos": [
+    "File:Stone Pickaxe JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-pickaxe",
+   "section": "tools",
+   "name": "철 곡괭이",
+   "subtitle": "다이아몬드를 캘 수 있어요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "캘 수 있는 것",
+     "다이아몬드",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "iii",
+     " s ",
+     " s "
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "다이아몬드 캐기",
+    "금, 레드스톤 캐기"
+   ],
+   "story": "철 주괴 3개와 막대기 2개로 만들어요. 다이아몬드, 금, 레드스톤, 에메랄드를 캘 수 있어요.",
+   "funFact": "흑요석은 철 곡괭이로는 못 캐요. 다이아몬드 곡괭이가 필요해요.",
+   "wiki": "Iron Pickaxe",
+   "photos": [
+    "File:Iron Pickaxe JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "diamond-pickaxe",
+   "section": "tools",
+   "name": "다이아몬드 곡괭이",
+   "subtitle": "흑요석도 캐는 튼튼한 곡괭이",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "캘 수 있는 것",
+     "흑요석",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ddd",
+     " s ",
+     " s "
+    ],
+    "key": {
+     "d": "diamond",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "흑요석 캐서 네더 차원문 만들기",
+    "고대 잔해 캐기"
+   ],
+   "story": "다이아몬드 3개와 막대기 2개로 만들어요. 아주 튼튼하고 빨라서 흑요석과 고대 잔해도 캘 수 있어요.",
+   "funFact": "마법 부여대에서 '효율'과 '내구성'을 걸면 최고의 곡괭이가 돼요.",
+   "wiki": "Diamond Pickaxe",
+   "photos": [
+    "File:Diamond Pickaxe JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "netherite-pickaxe",
+   "section": "tools",
+   "name": "네더라이트 곡괭이",
+   "subtitle": "가장 강한 곡괭이",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "대장장이 작업대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "특별한 점",
+     "용암에도 안 타요",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smith": [
+     "upgrade",
+     "diamond-pickaxe",
+     "netherite-ingot"
+    ]
+   },
+   "uses": [
+    "무엇이든 빠르게 캐기",
+    "다이아몬드 곡괭이에 걸린 마법도 그대로 남아요"
+   ],
+   "story": "다이아몬드 곡괭이에 네더라이트 주괴와 강화 견본을 더해서 대장장이 작업대에서 업그레이드해요. 게임에서 가장 강한 곡괭이예요.",
+   "funFact": "네더라이트로 만든 물건은 용암에 빠져도 불타지 않고 둥둥 떠요.",
+   "wiki": "Netherite Pickaxe",
+   "photos": [
+    "File:Netherite Pickaxe JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-axe",
+   "section": "tools",
+   "name": "철 도끼",
+   "subtitle": "나무를 빨리 베요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "잘 캐는 것",
+     "나무",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ii",
+     "is",
+     " s"
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "나무 베기",
+    "원목 껍질 벗기기",
+    "방패 막는 적 무찌르기"
+   ],
+   "story": "철 주괴 3개와 막대기 2개로 만들어요. 나무와 판자로 된 블록을 아주 빨리 캘 수 있어요.",
+   "funFact": "도끼로 원목을 누르면 껍질이 벗겨진 매끈한 원목이 돼요.",
+   "wiki": "Iron Axe",
+   "photos": [
+    "File:Iron Axe JE5 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-shovel",
+   "section": "tools",
+   "name": "철 삽",
+   "subtitle": "흙과 모래를 퍼요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "잘 캐는 것",
+     "흙, 모래, 눈",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "i",
+     "s",
+     "s"
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "흙과 모래 캐기",
+    "잔디 위에 길 만들기",
+    "눈덩이 모으기"
+   ],
+   "story": "철 주괴 1개와 막대기 2개로 만들어요. 흙, 모래, 자갈, 눈을 빠르게 퍼낼 수 있어요.",
+   "funFact": "잔디를 삽으로 누르면 '흙길'이 생겨요. 모닥불을 끌 수도 있어요.",
+   "wiki": "Iron Shovel",
+   "photos": [
+    "File:Iron Shovel JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-hoe",
+   "section": "tools",
+   "name": "철 괭이",
+   "subtitle": "밭을 갈아요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "농사",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ii",
+     " s",
+     " s"
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "밭 갈기",
+    "나뭇잎과 건초 빨리 캐기"
+   ],
+   "story": "철 주괴 2개와 막대기 2개로 만들어요. 흙을 눌러 밭을 갈면 씨앗을 심을 수 있어요.",
+   "funFact": "밭 근처 4칸 안에 물이 있어야 농작물이 잘 자라요.",
+   "wiki": "Iron Hoe",
+   "photos": [
+    "File:Iron Hoe JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "fishing-rod",
+   "section": "tools",
+   "name": "낚싯대",
+   "subtitle": "물고기와 보물을 낚아요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "낚이는 것",
+     "생선, 보물",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "  s",
+     " sS",
+     "s S"
+    ],
+    "key": {
+     "s": "stick",
+     "S": "string"
+    }
+   },
+   "uses": [
+    "생선 낚기",
+    "보물 낚기",
+    "몹을 끌어당기기"
+   ],
+   "story": "막대기 3개와 실 2개로 만들어요. 물에 던지고 찌가 쏙 들어가면 당겨요. 생선뿐 아니라 이름표, 안장 같은 보물도 낚여요.",
+   "funFact": "비가 올 때 낚시를 하면 물고기가 더 빨리 물어요.",
+   "wiki": "Fishing Rod",
+   "photos": [
+    "File:Fishing Rod JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "bucket",
+   "section": "tools",
+   "name": "양동이",
+   "subtitle": "물, 용암, 우유를 담아요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "16",
+     "개"
+    ],
+    [
+     "⭐",
+     "담을 수 있는 것",
+     "물, 용암, 우유",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "i i",
+     " i "
+    ],
+    "key": {
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "물 옮기기",
+    "용암을 화로 연료로 쓰기",
+    "우유 받기",
+    "물고기 담기"
+   ],
+   "story": "철 주괴 3개로 만들어요. 물이나 용암을 떠서 옮기고, 소에게서 우유를 받을 수 있어요.",
+   "funFact": "높은 데서 떨어질 때 바닥에 물을 부으면 다치지 않아요. '물 양동이 착지'라고 해요.",
+   "wiki": "Bucket",
+   "photos": [
+    "File:Bucket JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "shears",
+   "section": "tools",
+   "name": "가위",
+   "subtitle": "양털을 깎아요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "털 깎기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " i",
+     "i "
+    ],
+    "key": {
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "양털 깎기",
+    "나뭇잎과 거미줄 가져오기",
+    "눈 골렘 호박 벗기기"
+   ],
+   "story": "철 주괴 2개로 만들어요. 양의 털을 깎으면 양털이 1~3개 나오고 양은 다치지 않아요.",
+   "funFact": "가위로 꿀벌집을 누르면 벌집 조각을 얻을 수 있어요.",
+   "wiki": "Shears",
+   "photos": [
+    "File:Shears JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "flint-and-steel",
+   "section": "tools",
+   "name": "부싯돌과 부시",
+   "subtitle": "불을 붙여요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "불 붙이기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "i ",
+     " f"
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "f": "flint"
+    }
+   },
+   "uses": [
+    "네더 차원문 열기",
+    "모닥불 켜기"
+   ],
+   "story": "철 주괴와 부싯돌로 만들어요. 블록에 불을 붙일 수 있고, 흑요석 틀에 불을 붙이면 네더 차원문이 열려요.",
+   "funFact": "나무집 안에서 쓰면 불이 번질 수 있어서 조심해야 해요.",
+   "wiki": "Flint and Steel",
+   "photos": [
+    "File:Flint and Steel JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "compass",
+   "section": "tools",
+   "name": "나침반",
+   "subtitle": "처음 시작한 곳을 가리켜요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "가리키는 곳",
+     "처음 시작한 곳",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " i ",
+     "iri",
+     " i "
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "r": "redstone"
+    }
+   },
+   "uses": [
+    "집으로 돌아가기",
+    "지도 만들기"
+   ],
+   "story": "철 주괴 4개와 레드스톤 가루로 만들어요. 바늘이 항상 처음 게임을 시작한 곳을 가리켜서 길을 잃지 않아요.",
+   "funFact": "자석석에 나침반을 대면 그 자석석을 가리키는 나침반이 돼요.",
+   "wiki": "Compass",
+   "photos": [
+    "File:Compass JE3 BE3.gif"
+   ]
+  },
+  {
+   "id": "clock",
+   "section": "tools",
+   "name": "시계",
+   "subtitle": "해와 달을 보여 줘요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "알려 주는 것",
+     "낮과 밤",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " g ",
+     "grg",
+     " g "
+    ],
+    "key": {
+     "g": "gold-ingot",
+     "r": "redstone"
+    }
+   },
+   "uses": [
+    "동굴에서 밤이 됐는지 확인하기"
+   ],
+   "story": "금 주괴 4개와 레드스톤 가루로 만들어요. 땅속에서도 지금이 낮인지 밤인지 알 수 있어요.",
+   "funFact": "네더와 엔드에서는 시계 바늘이 빙글빙글 돌아요.",
+   "wiki": "Clock",
+   "photos": [
+    "File:Clock JE3 BE3.gif"
+   ]
+  },
+  {
+   "id": "map",
+   "section": "tools",
+   "name": "지도",
+   "subtitle": "다닌 곳을 그려 줘요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "종이와 나침반",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "pcp",
+     "ppp"
+    ],
+    "key": {
+     "p": "paper",
+     "c": "compass"
+    }
+   },
+   "uses": [
+    "길 찾기",
+    "액자에 걸어서 큰 지도 벽 만들기"
+   ],
+   "story": "종이 8개와 나침반으로 만들어요. 들고 다니면 내가 걸어간 곳이 지도에 그려지고 내 위치가 표시돼요.",
+   "funFact": "지도 제작대에서 종이를 더 붙이면 지도를 더 넓게 키울 수 있어요.",
+   "wiki": "Map",
+   "photos": [
+    "File:Map Zoom 4.png"
+   ]
+  },
+  {
+   "id": "diamond-sword",
+   "section": "gear",
+   "name": "다이아몬드 검",
+   "subtitle": "튼튼하고 강한 칼",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "다이아몬드 2개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "d",
+     "d",
+     "s"
+    ],
+    "key": {
+     "d": "diamond",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "몬스터 막아 내기",
+    "거미줄 빨리 자르기"
+   ],
+   "story": "다이아몬드 2개와 막대기 1개로 만들어요. 몬스터를 막아 낼 때 쓰는 튼튼한 칼이에요.",
+   "funFact": "꾹 누르는 대신 막대가 다 찰 때마다 휘두르면 더 세게 쳐요.",
+   "wiki": "Diamond Sword",
+   "photos": [
+    "File:Diamond Sword JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "bow",
+   "section": "gear",
+   "name": "활",
+   "subtitle": "멀리서 화살을 쏴요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 것",
+     "화살",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " sS",
+     "s S",
+     " sS"
+    ],
+    "key": {
+     "s": "stick",
+     "S": "string"
+    }
+   },
+   "uses": [
+    "멀리 있는 몬스터 맞히기",
+    "버튼과 과녁 맞히기"
+   ],
+   "story": "막대기 3개와 실 3개로 만들어요. 오래 당길수록 화살이 멀리 세게 날아가요.",
+   "funFact": "'무한' 마법을 걸면 화살 하나만 있어도 계속 쏠 수 있어요.",
+   "wiki": "Bow",
+   "photos": [
+    "File:Bow JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "arrow",
+   "section": "gear",
+   "name": "화살",
+   "subtitle": "활과 쇠뇌로 쏴요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 4개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "f",
+     "s",
+     "F"
+    ],
+    "key": {
+     "f": "flint",
+     "s": "stick",
+     "F": "feather"
+    },
+    "n": 4
+   },
+   "uses": [
+    "활로 쏘기",
+    "쇠뇌로 쏘기"
+   ],
+   "story": "부싯돌, 막대기, 깃털로 만들어요. 스켈레톤을 물리치면 화살을 떨어뜨리기도 해요.",
+   "funFact": "물약을 묻힌 '물약 화살'도 만들 수 있어요.",
+   "wiki": "Arrow",
+   "photos": [
+    "File:Arrow JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "shield",
+   "section": "gear",
+   "name": "방패",
+   "subtitle": "공격을 막아요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "막는 것",
+     "화살, 칼, 폭발",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "pip",
+     "ppp",
+     " p "
+    ],
+    "key": {
+     "p": "planks",
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "화살 막기",
+    "크리퍼 폭발 막기"
+   ],
+   "story": "판자 6개와 철 주괴 1개로 만들어요. 왼손에 들고 웅크리면 앞에서 오는 화살과 크리퍼 폭발을 막아요.",
+   "funFact": "깃발과 합치면 방패에 멋진 무늬를 그릴 수 있어요.",
+   "wiki": "Shield",
+   "photos": [
+    "File:Shield JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "crossbow",
+   "section": "gear",
+   "name": "쇠뇌",
+   "subtitle": "장전해 두고 쏴요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "특별한 점",
+     "폭죽도 쏴요",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "sis",
+     "StS",
+     " s "
+    ],
+    "key": {
+     "s": "stick",
+     "i": "iron-ingot",
+     "S": "string",
+     "t": "tripwire-hook"
+    }
+   },
+   "uses": [
+    "화살 쏘기",
+    "폭죽 쏘기"
+   ],
+   "story": "막대기, 철 주괴, 실, 철사 덫 갈고리로 만들어요. 미리 장전해 두었다가 원할 때 바로 쏠 수 있어요.",
+   "funFact": "약탈자들이 들고 다니는 무기가 바로 쇠뇌예요.",
+   "wiki": "Crossbow",
+   "photos": [
+    "File:Crossbow.png"
+   ]
+  },
+  {
+   "id": "trident",
+   "section": "gear",
+   "name": "삼지창",
+   "subtitle": "던질 수 있는 바다 창",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "만들 수 없어요",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "얻는 법",
+     "드라운드",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "드라운드가 가끔 떨어뜨려요"
+   },
+   "uses": [
+    "던져서 맞히기",
+    "'충성' 마법: 던지면 손으로 되돌아와요",
+    "'급류' 마법: 비 올 때 하늘로 슝"
+   ],
+   "story": "만들 수 없고, 삼지창을 든 드라운드를 물리치면 가끔 얻어요. 던지면 날아가서 맞히고 다시 주워 와요.",
+   "funFact": "'집전' 마법을 걸고 천둥 칠 때 던지면 번개가 내리쳐요.",
+   "wiki": "Trident",
+   "photos": [
+    "File:Trident.png"
+   ]
+  },
+  {
+   "id": "mace",
+   "section": "gear",
+   "name": "철퇴",
+   "subtitle": "높이 뛰어 내려찍어요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "특별한 점",
+     "높을수록 세요",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "h",
+     "r"
+    ],
+    "key": {
+     "h": "heavy-core",
+     "r": "breeze-rod"
+    }
+   },
+   "uses": [
+    "높이 뛰어 내려찍기"
+   ],
+   "story": "시련의 회당에서 얻는 무거운 코어와 브리즈 막대기로 만들어요. 높은 곳에서 떨어지며 내려찍으면 엄청 세지고 떨어져도 다치지 않아요.",
+   "funFact": "바람 돌격 병과 함께 쓰면 하늘 높이 뛰어올라 내려찍을 수 있어요.",
+   "wiki": "Mace",
+   "photos": [
+    "File:Mace JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "diamond-chestplate",
+   "section": "gear",
+   "name": "다이아몬드 흉갑",
+   "subtitle": "몸을 지키는 갑옷",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "다이아몬드 8개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "d d",
+     "ddd",
+     "ddd"
+    ],
+    "key": {
+     "d": "diamond"
+    }
+   },
+   "uses": [
+    "몸 지키기",
+    "네더라이트 갑옷으로 업그레이드"
+   ],
+   "story": "다이아몬드 8개로 만들어요. 투구, 흉갑, 레깅스, 부츠 네 가지를 모두 입으면 몬스터 공격을 많이 막아 줘요.",
+   "funFact": "흉갑 하나에 다이아몬드가 8개나 들어가서 갑옷 중 가장 비싸요.",
+   "wiki": "Diamond Chestplate",
+   "photos": [
+    "File:Diamond Chestplate JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-helmet",
+   "section": "gear",
+   "name": "철 투구",
+   "subtitle": "머리를 지켜요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "철 주괴 5개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "iii",
+     "i i"
+    ],
+    "key": {
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "머리 지키기"
+   ],
+   "story": "철 주괴 5개로 만드는 투구예요. 철 갑옷 한 벌은 처음 모험할 때 가장 좋은 갑옷이에요.",
+   "funFact": "투구 대신 조각한 호박을 쓰면 엔더맨이 화내지 않아요.",
+   "wiki": "Iron Helmet",
+   "photos": [
+    "File:Iron Helmet JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "oak-log",
+   "section": "materials",
+   "name": "원목",
+   "subtitle": "모든 것의 시작, 나무",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "나무에서",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만들 수 있는 것",
+     "판자",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "나무를 주먹이나 도끼로 캐요"
+   },
+   "uses": [
+    "판자 만들기",
+    "숯 만들기",
+    "집 기둥 꾸미기"
+   ],
+   "story": "나무 기둥을 캐면 얻어요. 게임을 시작하면 가장 먼저 모아야 하는 재료예요.",
+   "funFact": "참나무, 자작나무, 벚나무처럼 나무 종류마다 색이 달라요.",
+   "wiki": "Oak Log",
+   "photos": [
+    "File:Oak Log (UD) JE8 BE3.png"
+   ]
+  },
+  {
+   "id": "oak-planks",
+   "section": "materials",
+   "name": "판자",
+   "subtitle": "원목 하나로 4개",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "손에서 바로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "4개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "l"
+    ],
+    "key": {
+     "l": "oak-log"
+    },
+    "n": 4
+   },
+   "uses": [
+    "제작대",
+    "막대기",
+    "상자",
+    "집 짓기"
+   ],
+   "story": "원목 1개로 판자 4개를 만들어요. 제작대, 상자, 막대기, 집 짓기에 정말 많이 써요.",
+   "funFact": "화로 연료로도 쓸 수 있어요.",
+   "wiki": "Oak Planks",
+   "photos": [
+    "File:Oak Planks.png"
+   ]
+  },
+  {
+   "id": "stick",
+   "section": "materials",
+   "name": "막대기",
+   "subtitle": "도구의 손잡이",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "손에서 바로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "4개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "p",
+     "p"
+    ],
+    "key": {
+     "p": "planks"
+    },
+    "n": 4
+   },
+   "uses": [
+    "곡괭이, 도끼, 칼 손잡이",
+    "횃불",
+    "사다리",
+    "울타리"
+   ],
+   "story": "판자 2개를 위아래로 놓으면 막대기 4개가 돼요. 거의 모든 도구와 무기의 손잡이예요.",
+   "funFact": "죽은 덤불을 캐도 막대기가 나와요.",
+   "wiki": "Stick",
+   "photos": [
+    "File:Stick JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "cobblestone",
+   "section": "materials",
+   "name": "조약돌",
+   "subtitle": "돌을 캐면 나와요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "돌에서",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 도구",
+     "곡괭이",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "곡괭이로 돌을 캐요"
+   },
+   "uses": [
+    "돌 곡괭이",
+    "화로",
+    "튼튼한 집 짓기"
+   ],
+   "story": "돌을 곡괭이로 캐면 조약돌이 나와요. 단단해서 첫 집과 화로를 만들 때 좋아요.",
+   "funFact": "용암이 흐르다 물을 만나면 조약돌이 생겨요.",
+   "wiki": "Cobblestone",
+   "photos": [
+    "File:Cobblestone JE5 BE3.png"
+   ]
+  },
+  {
+   "id": "coal",
+   "section": "materials",
+   "name": "석탄",
+   "subtitle": "불을 피우는 까만 돌",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "석탄 광석",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "횃불, 연료",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "석탄 광석을 곡괭이로 캐요"
+   },
+   "uses": [
+    "횃불",
+    "화로 연료"
+   ],
+   "story": "검은 점이 박힌 석탄 광석을 캐면 나와요. 횃불을 만들고 화로 연료로 써요.",
+   "funFact": "석탄이 없으면 원목을 화로에 구워 '숯'을 만들어 대신 써요.",
+   "wiki": "Coal",
+   "photos": [
+    "File:Coal JE4 BE3.png"
+   ]
+  },
+  {
+   "id": "iron-ingot",
+   "section": "materials",
+   "name": "철 주괴",
+   "subtitle": "가장 많이 쓰는 금속",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "캐는 도구",
+     "돌 곡괭이",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "raw-iron"
+   },
+   "uses": [
+    "철 곡괭이와 철 갑옷",
+    "양동이",
+    "방패",
+    "철 골렘"
+   ],
+   "story": "철광석을 캐서 나온 철 원석을 화로에 구우면 철 주괴가 돼요. 도구, 갑옷, 양동이, 레일까지 정말 많이 써요.",
+   "funFact": "철 골렘을 물리치거나 마을 상자에서도 얻을 수 있어요.",
+   "wiki": "Iron Ingot",
+   "photos": [
+    "File:Iron Ingot JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "gold-ingot",
+   "section": "materials",
+   "name": "금 주괴",
+   "subtitle": "반짝이는 노란 금속",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대, 화로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "좋아하는 몹",
+     "피글린",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "nnn",
+     "nnn",
+     "nnn"
+    ],
+    "key": {
+     "n": "gold-nugget"
+    }
+   },
+   "uses": [
+    "황금 사과",
+    "시계",
+    "피글린과 물물 교환"
+   ],
+   "story": "금광석을 캐서 구우면 얻어요. 금 조각 9개를 모아도 만들 수 있어요. 금으로 만든 도구는 빠르지만 금방 닳아요.",
+   "funFact": "네더에서 금 갑옷을 입으면 피글린이 공격하지 않아요.",
+   "wiki": "Gold Ingot",
+   "photos": [
+    "File:Gold Ingot JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "diamond",
+   "section": "materials",
+   "name": "다이아몬드",
+   "subtitle": "모두가 찾는 보석",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "다이아몬드 광석",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "찾는 깊이",
+     "Y -58 근처",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "땅속 깊은 곳에서 철 곡괭이로 캐요"
+   },
+   "uses": [
+    "다이아몬드 곡괭이와 칼",
+    "다이아몬드 갑옷",
+    "마법 부여대"
+   ],
+   "story": "아주 깊은 땅속에 숨은 하늘색 보석이에요. 철 곡괭이 이상으로 캐야 나와요. 가장 튼튼한 도구와 갑옷을 만들어요.",
+   "funFact": "용암 근처에 많이 있으니 조심조심 캐야 해요.",
+   "wiki": "Diamond",
+   "photos": [
+    "File:Diamond JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "redstone",
+   "section": "materials",
+   "name": "레드스톤 가루",
+   "subtitle": "전기처럼 신호를 보내요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "레드스톤 광석",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "장치, 기계",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "레드스톤 광석을 철 곡괭이로 캐요"
+   },
+   "uses": [
+    "자동문 만들기",
+    "나침반과 시계",
+    "레드스톤 등불"
+   ],
+   "story": "깊은 땅속 빨간 광석에서 나와요. 바닥에 깔면 전선처럼 신호를 보내서 자동문, 엘리베이터 같은 장치를 만들어요.",
+   "funFact": "레드스톤 광석을 건드리면 빨갛게 반짝반짝 빛나요.",
+   "wiki": "Redstone Dust",
+   "photos": [
+    "File:Redstone Dust JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "lapis",
+   "section": "materials",
+   "name": "청금석",
+   "subtitle": "파란 마법 보석",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "청금석 광석",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "마법 부여",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "청금석 광석을 돌 곡괭이로 캐요"
+   },
+   "uses": [
+    "마법 부여",
+    "파란 염료"
+   ],
+   "story": "파란 광석에서 한 번에 여러 개가 나와요. 마법 부여대에서 마법을 걸 때 꼭 필요해요.",
+   "funFact": "청금석 블록은 파랗고 예뻐서 건물 꾸미기에도 좋아요.",
+   "wiki": "Lapis Lazuli",
+   "photos": [
+    "File:Lapis Lazuli JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "emerald",
+   "section": "materials",
+   "name": "에메랄드",
+   "subtitle": "주민과 거래하는 돈",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "산, 주민",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "거래",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "산에서 캐거나 주민과 거래해요"
+   },
+   "uses": [
+    "주민에게 물건 사기",
+    "신호기 연료"
+   ],
+   "story": "초록색 보석이에요. 주민과 거래할 때 돈처럼 써요. 높은 산에서 드물게 캘 수 있어요.",
+   "funFact": "주민에게 농작물이나 종이를 팔면 에메랄드를 받을 수 있어요.",
+   "wiki": "Emerald",
+   "photos": [
+    "File:Emerald JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "netherite-ingot",
+   "section": "materials",
+   "name": "네더라이트 주괴",
+   "subtitle": "가장 강한 금속",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "파편 4 + 금 4",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "sss",
+     "sgg",
+     "gg "
+    ],
+    "key": {
+     "s": "netherite-scrap",
+     "g": "gold-ingot"
+    }
+   },
+   "uses": [
+    "네더라이트 도구",
+    "네더라이트 갑옷"
+   ],
+   "story": "네더 깊은 곳의 고대 잔해를 구워 얻은 네더라이트 파편 4개와 금 주괴 4개로 만들어요. 다이아몬드 장비를 업그레이드해요.",
+   "funFact": "고대 잔해는 아주 드물어서 찾으면 정말 운이 좋은 거예요.",
+   "wiki": "Netherite Ingot",
+   "photos": [
+    "File:Netherite Ingot JE1 BE2.png"
+   ]
+  },
+  {
+   "id": "obsidian",
+   "section": "materials",
+   "name": "흑요석",
+   "subtitle": "가장 단단한 블록 중 하나",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "용암 + 물",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "캐는 도구",
+     "다이아몬드 곡괭이",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "고여 있는 용암에 물이 닿으면 생겨요"
+   },
+   "uses": [
+    "네더 차원문",
+    "마법 부여대",
+    "튼튼한 벽"
+   ],
+   "story": "용암에 물을 부으면 생기는 보라빛 검은 블록이에요. 아주 단단해서 크리퍼 폭발에도 안 부서져요.",
+   "funFact": "다이아몬드 곡괭이로도 캐는 데 10초 가까이 걸려요.",
+   "wiki": "Obsidian",
+   "photos": [
+    "File:Obsidian JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "string",
+   "section": "materials",
+   "name": "실",
+   "subtitle": "거미가 주는 실",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "거미, 거미줄",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "활, 낚싯대",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "거미를 물리치거나 거미줄을 캐요"
+   },
+   "uses": [
+    "활",
+    "낚싯대",
+    "양털",
+    "철사 덫"
+   ],
+   "story": "거미가 떨어뜨려요. 활, 낚싯대를 만들고 4개를 모으면 양털도 만들 수 있어요.",
+   "funFact": "바닥에 깔면 보이지 않는 철사 덫 줄이 돼요.",
+   "wiki": "String",
+   "photos": [
+    "File:String JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "gunpowder",
+   "section": "materials",
+   "name": "화약",
+   "subtitle": "크리퍼가 떨어뜨려요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "크리퍼, 가스트",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "폭죽",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "크리퍼를 물리쳐요"
+   },
+   "uses": [
+    "폭죽 로켓",
+    "겉날개로 날 때 쓰는 로켓"
+   ],
+   "story": "크리퍼나 가스트가 떨어뜨리는 회색 가루예요. 하늘에 터지는 예쁜 폭죽을 만들 수 있어요.",
+   "funFact": "겉날개를 입고 폭죽 로켓을 쓰면 하늘을 슝 날 수 있어요.",
+   "wiki": "Gunpowder",
+   "photos": [
+    "File:Gunpowder JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "ender-pearl",
+   "section": "materials",
+   "name": "엔더 진주",
+   "subtitle": "던지면 순간 이동",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "엔더맨",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "16",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "순간 이동",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "엔더맨을 물리치거나 사서 얻어요"
+   },
+   "uses": [
+    "순간 이동",
+    "엔더의 눈 만들기"
+   ],
+   "story": "엔더맨이 떨어뜨리는 초록 구슬이에요. 던지면 떨어진 곳으로 순간 이동해요.",
+   "funFact": "순간 이동할 때 아주 조금 다쳐요.",
+   "wiki": "Ender Pearl",
+   "photos": [
+    "File:Ender Pearl JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "blaze-rod",
+   "section": "materials",
+   "name": "블레이즈 막대기",
+   "subtitle": "네더 요새의 불 막대",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "블레이즈",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 것",
+     "가루, 양조기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "네더 요새의 블레이즈를 물리쳐요"
+   },
+   "uses": [
+    "양조기",
+    "블레이즈 가루",
+    "엔더의 눈"
+   ],
+   "story": "블레이즈가 떨어뜨려요. 블레이즈 가루로 만들어 엔더의 눈과 물약 연료로 쓰고, 양조기도 만들어요.",
+   "funFact": "화로 연료로 쓰면 석탄보다 오래 타요.",
+   "wiki": "Blaze Rod",
+   "photos": [
+    "File:Blaze Rod JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "eye-of-ender",
+   "section": "materials",
+   "name": "엔더의 눈",
+   "subtitle": "엔드로 가는 길잡이",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 개수",
+     "최대 12개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "pb"
+    ],
+    "key": {
+     "p": "ender-pearl",
+     "b": "blaze-powder"
+    }
+   },
+   "uses": [
+    "요새 찾기",
+    "엔드 차원문 열기"
+   ],
+   "story": "엔더 진주와 블레이즈 가루로 만들어요. 하늘로 던지면 '요새'가 있는 쪽으로 날아가요. 요새의 엔드 차원문 틀에 끼우면 엔드로 가는 문이 열려요.",
+   "funFact": "던진 눈은 가끔 깨져서 사라지니까 넉넉하게 만들어요.",
+   "wiki": "Eye of Ender",
+   "photos": [
+    "File:Eye of Ender JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "bone-meal",
+   "section": "materials",
+   "name": "뼛가루",
+   "subtitle": "식물을 쑥쑥 키워요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "손에서 바로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "빨리 자라게",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "b"
+    ],
+    "key": {
+     "b": "bone"
+    },
+    "n": 3
+   },
+   "uses": [
+    "농작물 빨리 키우기",
+    "나무 빨리 키우기",
+    "풀밭에 꽃 피우기"
+   ],
+   "story": "뼈 1개로 뼛가루 3개를 만들어요. 농작물이나 묘목에 뿌리면 쑥쑥 자라요.",
+   "funFact": "흰색 염료로도 쓸 수 있어요.",
+   "wiki": "Bone Meal",
+   "photos": [
+    "File:Bone Meal JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "bread",
+   "section": "food",
+   "name": "빵",
+   "subtitle": "밀 3개로 만드는 빵",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 2.5칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "www"
+    ],
+    "key": {
+     "w": "wheat"
+    }
+   },
+   "uses": [
+    "배고픔 채우기",
+    "주민에게 주기"
+   ],
+   "story": "밀 3개를 나란히 놓으면 빵이 돼요. 농사를 지으면 쉽게 많이 만들 수 있는 첫 음식이에요.",
+   "funFact": "마을 농부 주민도 빵을 만들어서 다른 주민에게 나눠 줘요.",
+   "wiki": "Bread",
+   "photos": [
+    "File:Bread JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "steak",
+   "section": "food",
+   "name": "스테이크",
+   "subtitle": "가장 든든한 고기",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로, 모닥불",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 4칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "raw-beef"
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "소에게서 얻은 고기를 화로나 모닥불에 구우면 스테이크가 돼요. 배를 오래 든든하게 채워 줘요.",
+   "funFact": "불이 붙은 소를 잡으면 바로 구워진 고기가 나와요.",
+   "wiki": "Steak",
+   "photos": [
+    "File:Steak JE4 BE3.png"
+   ]
+  },
+  {
+   "id": "apple",
+   "section": "food",
+   "name": "사과",
+   "subtitle": "나무에서 떨어져요",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "참나무 잎",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 2칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "참나무 잎을 캐면 가끔 떨어져요"
+   },
+   "uses": [
+    "배고픔 채우기",
+    "황금 사과 만들기"
+   ],
+   "story": "참나무와 짙은 참나무 잎에서 가끔 떨어지는 빨간 사과예요.",
+   "funFact": "말에게 사과를 주면 쑥쑥 자라요.",
+   "wiki": "Apple",
+   "photos": [
+    "File:Apple JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "golden-apple",
+   "section": "food",
+   "name": "황금 사과",
+   "subtitle": "힘이 나는 마법 사과",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "효과",
+     "재생, 흡수",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ggg",
+     "gag",
+     "ggg"
+    ],
+    "key": {
+     "g": "gold-ingot",
+     "a": "apple"
+    }
+   },
+   "uses": [
+    "보스와 싸울 때 먹기",
+    "좀비 주민을 치료하기"
+   ],
+   "story": "사과를 금 주괴 8개로 둘러싸서 만들어요. 먹으면 체력이 빨리 차오르고 노란 하트가 더 생겨요.",
+   "funFact": "약한 물약을 맞은 좀비 주민에게 황금 사과를 주면 다시 주민으로 돌아와요.",
+   "wiki": "Golden Apple",
+   "photos": [
+    "File:Golden Apple JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "cake",
+   "section": "food",
+   "name": "케이크",
+   "subtitle": "모두 함께 나눠 먹어요",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "먹는 횟수",
+     "7조각",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "mmm",
+     "ses",
+     "www"
+    ],
+    "key": {
+     "m": "milk",
+     "s": "sugar",
+     "e": "egg",
+     "w": "wheat"
+    }
+   },
+   "uses": [
+    "친구와 나눠 먹기",
+    "생일 파티 꾸미기"
+   ],
+   "story": "우유 3통, 설탕 2개, 달걀 1개, 밀 3개로 만들어요. 바닥에 놓고 한 조각씩 7번 먹을 수 있어요.",
+   "funFact": "케이크를 다 만들면 빈 양동이 3개를 돌려받아요.",
+   "wiki": "Cake",
+   "photos": [
+    "File:Cake JE4.png"
+   ]
+  },
+  {
+   "id": "cookie",
+   "section": "food",
+   "name": "쿠키",
+   "subtitle": "한 번에 8개",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "8개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "wcw"
+    ],
+    "key": {
+     "w": "wheat",
+     "c": "cocoa"
+    },
+    "n": 8
+   },
+   "uses": [
+    "간식 먹기"
+   ],
+   "story": "밀 2개와 코코아 콩으로 쿠키 8개를 만들어요.",
+   "funFact": "앵무새에게는 쿠키를 주면 안 돼요! 앵무새가 아파요.",
+   "wiki": "Cookie",
+   "photos": [
+    "File:Cookie JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "pumpkin-pie",
+   "section": "food",
+   "name": "호박 파이",
+   "subtitle": "달콤한 호박 파이",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 4칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ps",
+     "e "
+    ],
+    "key": {
+     "p": "pumpkin",
+     "s": "sugar",
+     "e": "egg"
+    }
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "호박, 설탕, 달걀로 만들어요. 한 번에 배를 많이 채워 줘요.",
+   "funFact": "호박은 가위로 눌러 조각하면 얼굴이 있는 호박이 돼요.",
+   "wiki": "Pumpkin Pie",
+   "photos": [
+    "File:Pumpkin Pie JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "baked-potato",
+   "section": "food",
+   "name": "구운 감자",
+   "subtitle": "밭에서 키워 구워요",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로, 모닥불",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 2.5칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "potato"
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "감자를 화로에 구우면 구운 감자가 돼요. 감자 하나를 심으면 여러 개가 열려서 많이 모을 수 있어요.",
+   "funFact": "가끔 초록색 '독 감자'가 나오는데 먹으면 배탈이 나요.",
+   "wiki": "Baked Potato",
+   "photos": [
+    "File:Baked Potato JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "mushroom-stew",
+   "section": "food",
+   "name": "버섯 스튜",
+   "subtitle": "따뜻한 버섯 수프",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 3칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "r",
+     "b",
+     "o"
+    ],
+    "key": {
+     "r": "red-mushroom",
+     "b": "brown-mushroom",
+     "o": "bowl"
+    }
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "빨간 버섯, 갈색 버섯, 그릇으로 만들어요. 다 먹으면 그릇이 남아요.",
+   "funFact": "무시룸에게 그릇을 대면 버섯 스튜를 받을 수 있어요.",
+   "wiki": "Mushroom Stew",
+   "photos": [
+    "File:Mushroom Stew JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "first-day",
+   "section": "start",
+   "name": "첫날 할 일",
+   "subtitle": "해가 지기 전에 준비해요",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "첫날 낮",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "주먹",
+     ""
+    ]
+   ],
+   "steps": [
+    "나무를 주먹으로 캐서 원목을 모아요.",
+    "판자와 제작대를 만들어요.",
+    "나무 곡괭이로 돌을 캐서 돌 도구를 만들어요.",
+    "해가 지기 전에 작은 집을 짓거나 굴을 파서 숨어요."
+   ],
+   "funFact": "마인크래프트의 하루는 20분이에요. 낮은 10분쯤이라 금방 지나가요.",
+   "wiki": "Oak Log",
+   "photos": [
+    "File:Oak Log (UD) JE8 BE3.png"
+   ]
+  },
+  {
+   "id": "first-tools",
+   "section": "start",
+   "name": "첫 도구 만들기",
+   "subtitle": "나무 → 돌 → 철 순서",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "첫날",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "판자, 조약돌",
+     ""
+    ]
+   ],
+   "steps": [
+    "판자로 제작대를 만들어 바닥에 놓아요.",
+    "판자와 막대기로 나무 곡괭이를 만들어요.",
+    "돌을 캐서 조약돌을 모아요.",
+    "조약돌로 돌 곡괭이, 돌 칼, 돌 도끼를 만들어요."
+   ],
+   "funFact": "도구는 나무 < 돌 < 철 < 다이아몬드 < 네더라이트 순서로 강해져요.",
+   "wiki": "Stone Pickaxe",
+   "photos": [
+    "File:Stone Pickaxe JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "first-house",
+   "section": "start",
+   "name": "첫날 밤 집 짓기",
+   "subtitle": "몬스터를 막아 줄 작은 집",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "첫날 저녁",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "판자, 문",
+     ""
+    ]
+   ],
+   "steps": [
+    "판자나 흙으로 벽을 2칸 높이로 둘러요.",
+    "지붕을 덮어서 거미가 못 들어오게 해요.",
+    "문을 달고 안에 횃불을 꽂아요.",
+    "침대와 제작대, 화로, 상자를 놓아요."
+   ],
+   "funFact": "급할 땐 산 옆구리를 파고 들어가 입구를 막아도 돼요.",
+   "wiki": "Oak Door",
+   "photos": [
+    "File:Oak Door JE8.png"
+   ]
+  },
+  {
+   "id": "sleep",
+   "section": "start",
+   "name": "침대에서 자기",
+   "subtitle": "밤을 건너뛰어요",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "밤",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "양털 3개",
+     ""
+    ]
+   ],
+   "steps": [
+    "양 3마리의 털을 모아요.",
+    "양털 3개와 판자 3개로 침대를 만들어요.",
+    "밤이 되면 침대에 누워서 자요.",
+    "아침이 되면 안전하게 모험을 시작해요."
+   ],
+   "funFact": "침대에서 자면 쓰러져도 그 침대 옆에서 다시 시작해요.",
+   "wiki": "Bed",
+   "photos": [
+    "File:White Bed (N).png"
+   ]
+  },
+  {
+   "id": "torches",
+   "section": "start",
+   "name": "횃불로 밝히기",
+   "subtitle": "어두우면 몬스터가 생겨요",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "언제나",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "석탄, 막대기",
+     ""
+    ]
+   ],
+   "steps": [
+    "석탄을 캐서 막대기와 함께 횃불을 만들어요.",
+    "집 안과 집 주변에 횃불을 꽂아요.",
+    "동굴에 들어갈 때 횃불을 넉넉히 챙겨요."
+   ],
+   "funFact": "석탄이 없으면 원목을 화로에 구워서 숯으로 횃불을 만들어요.",
+   "wiki": "Torch",
+   "photos": [
+    "File:Torch JE7.png"
+   ]
+  },
+  {
+   "id": "food",
+   "section": "start",
+   "name": "배고프지 않게",
+   "subtitle": "배가 부르면 체력이 차요",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "언제나",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "고기, 빵",
+     ""
+    ]
+   ],
+   "steps": [
+    "소, 돼지, 닭을 잡아 고기를 모아요.",
+    "고기는 꼭 화로에 구워 먹어요.",
+    "밀을 심어서 빵을 만들어요.",
+    "배고픔 칸이 가득하면 체력이 저절로 차요."
+   ],
+   "funFact": "배고픔 칸이 0이 되면 체력이 조금씩 줄어요.",
+   "wiki": "Bread",
+   "photos": [
+    "File:Bread JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "creeper-tip",
+   "section": "survive",
+   "name": "크리퍼 피하기",
+   "subtitle": "쉬익 소리가 나면 뒤로!",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "밤, 동굴",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "칼, 방패",
+     ""
+    ]
+   ],
+   "steps": [
+    "'쉬익' 소리가 들리면 바로 뒤로 물러나요.",
+    "활로 멀리서 맞히면 안전해요.",
+    "칼로 치고 뒤로 물러나기를 반복해요.",
+    "집 주변을 밝게 해서 크리퍼가 안 생기게 해요."
+   ],
+   "funFact": "고양이를 키우면 크리퍼가 집에 가까이 오지 않아요.",
+   "wiki": "Creeper",
+   "photos": [
+    "File:Creeper JE3 BE1.png"
+   ]
+  },
+  {
+   "id": "water-bucket",
+   "section": "survive",
+   "name": "물 양동이 착지",
+   "subtitle": "높은 데서 떨어질 때",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "떨어질 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "물 양동이",
+     ""
+    ]
+   ],
+   "steps": [
+    "물 양동이를 단축 칸에 넣어 둬요.",
+    "떨어지는 중에 땅을 바라봐요.",
+    "땅에 닿기 바로 전에 물을 부어요.",
+    "물에 떨어지면 다치지 않아요. 물은 다시 떠 담아요."
+   ],
+   "funFact": "네더에서는 물이 바로 증발해서 이 방법을 못 써요.",
+   "wiki": "Water Bucket",
+   "photos": [
+    "File:Water Bucket JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "enderman-tip",
+   "section": "survive",
+   "name": "엔더맨과 지내기",
+   "subtitle": "눈을 마주치지 않아요",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "밤",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "호박",
+     ""
+    ]
+   ],
+   "steps": [
+    "엔더맨의 눈을 똑바로 쳐다보지 않아요.",
+    "화가 났다면 물속으로 들어가요.",
+    "2칸 높이 지붕 아래에 있으면 키 큰 엔더맨이 못 따라와요.",
+    "조각한 호박을 머리에 쓰면 쳐다봐도 괜찮아요."
+   ],
+   "funFact": "엔더맨은 물에 닿으면 아파해서 비가 오면 순간 이동으로 도망가요.",
+   "wiki": "Enderman",
+   "photos": [
+    "File:Enderman JE3.png"
+   ]
+  },
+  {
+   "id": "lava-tip",
+   "section": "survive",
+   "name": "용암 조심하기",
+   "subtitle": "땅속의 뜨거운 함정",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "동굴",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "물 양동이",
+     ""
+    ]
+   ],
+   "steps": [
+    "바로 아래 블록을 파지 않아요. 밑에 용암이 있을 수 있어요.",
+    "용암이 보이면 블록으로 막아요.",
+    "물 양동이를 들고 다니면 용암을 돌로 바꿀 수 있어요."
+   ],
+   "funFact": "용암에 빠지면 들고 있던 물건이 다 타 버려요. 네더라이트는 안 타요!",
+   "wiki": "Lava",
+   "photos": [
+    "File:Lava JE19.gif"
+   ]
+  },
+  {
+   "id": "lost-tip",
+   "section": "survive",
+   "name": "길 잃지 않기",
+   "subtitle": "집으로 돌아가는 법",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "모험할 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "나침반, 지도",
+     ""
+    ]
+   ],
+   "steps": [
+    "집 위에 높은 탑을 세워 멀리서도 보이게 해요.",
+    "나침반을 들고 다니면 처음 시작한 곳을 알려 줘요.",
+    "지도를 만들어 들고 다녀요.",
+    "침대를 놓아 두면 쓰러져도 집에서 다시 시작해요."
+   ],
+   "funFact": "설정에서 '좌표 보기'를 켜면 지금 위치를 숫자로 볼 수 있어요.",
+   "wiki": "Compass",
+   "photos": [
+    "File:Compass JE3 BE3.gif"
+   ]
+  },
+  {
+   "id": "diamond-depth",
+   "section": "mining",
+   "name": "다이아몬드 찾기",
+   "subtitle": "깊이 내려가야 해요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "철 곡괭이 후",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "철 곡괭이",
+     ""
+    ]
+   ],
+   "steps": [
+    "철 곡괭이를 먼저 만들어요.",
+    "좌표의 Y가 -58 근처가 될 때까지 계단처럼 내려가요.",
+    "옆으로 길게 굴을 파면서 하늘색 광석을 찾아요.",
+    "용암을 조심하며 물 양동이를 챙겨요."
+   ],
+   "funFact": "'행운' 마법 곡괭이로 캐면 다이아몬드가 여러 개 나오기도 해요.",
+   "wiki": "Diamond",
+   "photos": [
+    "File:Diamond JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "stairs-down",
+   "section": "mining",
+   "name": "계단처럼 파기",
+   "subtitle": "안전하게 내려가요",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "동굴 갈 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "곡괭이",
+     ""
+    ]
+   ],
+   "steps": [
+    "앞으로 한 칸, 아래로 한 칸씩 계단처럼 파요.",
+    "절대 발 바로 아래를 파지 않아요.",
+    "가는 길에 횃불을 꽂아요.",
+    "올라올 때는 계단을 따라 올라와요."
+   ],
+   "funFact": "발 아래를 파면 동굴이나 용암으로 뚝 떨어질 수 있어요.",
+   "wiki": "Stone Pickaxe",
+   "photos": [
+    "File:Stone Pickaxe JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "ore-order",
+   "section": "mining",
+   "name": "광물 순서 알기",
+   "subtitle": "어떤 곡괭이로 무엇을 캘까",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "언제나",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "곡괭이",
+     ""
+    ]
+   ],
+   "steps": [
+    "나무 곡괭이: 돌, 석탄",
+    "돌 곡괭이: 철, 구리, 청금석",
+    "철 곡괭이: 금, 다이아몬드, 레드스톤, 에메랄드",
+    "다이아몬드 곡괭이: 흑요석, 고대 잔해"
+   ],
+   "funFact": "맞지 않는 곡괭이로 캐면 아무것도 나오지 않아요.",
+   "wiki": "Iron Pickaxe",
+   "photos": [
+    "File:Iron Pickaxe JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "caves-tip",
+   "section": "mining",
+   "name": "동굴 탐험",
+   "subtitle": "광물이 보이는 동굴",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "준비되면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "횃불, 음식, 칼",
+     ""
+    ]
+   ],
+   "steps": [
+    "횃불, 음식, 칼, 여분의 곡괭이를 챙겨요.",
+    "갈림길마다 횃불로 표시해요.",
+    "벽에 드러난 광석을 캐요.",
+    "가방이 가득 차면 집으로 돌아와 상자에 넣어요."
+   ],
+   "funFact": "큰 동굴은 동굴 소리가 '우우웅' 하고 들리기도 해요.",
+   "wiki": "Torch",
+   "photos": [
+    "File:Torch JE7.png"
+   ]
+  },
+  {
+   "id": "trade-tip",
+   "section": "adventure",
+   "name": "주민과 거래하기",
+   "subtitle": "에메랄드로 물건 사기",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "마을에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "에메랄드",
+     ""
+    ]
+   ],
+   "steps": [
+    "마을의 주민을 눌러 거래 창을 열어요.",
+    "주민이 원하는 물건을 주고 에메랄드를 받아요.",
+    "에메랄드로 마법 책, 갑옷 같은 좋은 물건을 사요.",
+    "거래를 많이 하면 주민 레벨이 올라 더 좋은 물건이 나와요."
+   ],
+   "funFact": "주민의 직업은 옆에 있는 작업 블록으로 정해져요. 독서대 옆이면 사서가 돼요.",
+   "wiki": "Emerald",
+   "photos": [
+    "File:Emerald JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "wolf-tip",
+   "section": "adventure",
+   "name": "강아지 친구 만들기",
+   "subtitle": "뼈로 늑대 길들이기",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "숲에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "뼈",
+     ""
+    ]
+   ],
+   "steps": [
+    "스켈레톤을 물리쳐서 뼈를 모아요.",
+    "숲에서 늑대를 찾아 뼈를 줘요.",
+    "하트가 나오고 빨간 목걸이가 생기면 성공!",
+    "눌러서 앉히거나 따라오게 할 수 있어요."
+   ],
+   "funFact": "길들인 강아지에게 고기를 주면 체력이 차요.",
+   "wiki": "Bone",
+   "photos": [
+    "File:Bone JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "farm-tip",
+   "section": "adventure",
+   "name": "농사 짓기",
+   "subtitle": "밀을 키워 빵 만들기",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "언제나",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "괭이, 씨앗",
+     ""
+    ]
+   ],
+   "steps": [
+    "풀을 캐서 씨앗을 모아요.",
+    "물 근처 흙을 괭이로 갈아요.",
+    "씨앗을 심고 횃불로 밝혀 줘요.",
+    "노랗게 다 자라면 캐서 빵을 만들어요."
+   ],
+   "funFact": "뼛가루를 뿌리면 밀이 금방 자라요.",
+   "wiki": "Wheat",
+   "photos": [
+    "File:Wheat JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "nether-portal",
+   "section": "adventure",
+   "name": "네더 가는 문",
+   "subtitle": "흑요석으로 만드는 차원문",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "준비되면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "흑요석 10개",
+     ""
+    ]
+   ],
+   "steps": [
+    "흑요석을 가로 4칸, 세로 5칸 틀로 쌓아요. (모서리는 없어도 돼요)",
+    "부싯돌과 부시로 틀 안에 불을 붙여요.",
+    "보라색 문이 생기면 들어가요.",
+    "네더는 뜨겁고 위험하니 금 갑옷과 음식을 꼭 챙겨요."
+   ],
+   "funFact": "네더에서 1칸 가면 지상에서는 8칸을 간 거예요.",
+   "wiki": "Nether Portal",
+   "photos": [
+    "File:Nether portal (animated).png"
+   ]
+  },
+  {
+   "id": "enchant-tip",
+   "section": "adventure",
+   "name": "마법 부여하기",
+   "subtitle": "도구를 더 강하게",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "경험치 모으면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "청금석, 경험치",
+     ""
+    ]
+   ],
+   "steps": [
+    "마법 부여대를 만들어요.",
+    "몬스터를 물리치고 광물을 캐서 경험치를 모아요.",
+    "도구와 청금석을 올리고 마법을 골라요.",
+    "주변에 책장을 놓으면 더 강한 마법이 나와요."
+   ],
+   "funFact": "경험치 구슬은 몬스터를 물리치거나 화로에서 구운 걸 꺼낼 때도 나와요.",
+   "wiki": "Enchanting Table",
+   "photos": [
+    "File:Enchanting Table.gif"
+   ]
+  },
+  {
+   "id": "end-tip",
+   "section": "adventure",
+   "name": "엔드로 가는 길",
+   "subtitle": "마지막 모험",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "아주 어려움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "강해진 뒤",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "엔더의 눈 12개",
+     ""
+    ]
+   ],
+   "steps": [
+    "엔더 진주와 블레이즈 가루로 엔더의 눈을 만들어요.",
+    "하늘로 던져서 날아가는 쪽으로 따라가요.",
+    "땅속 요새에서 엔드 차원문 틀을 찾아요.",
+    "틀에 엔더의 눈을 다 끼우면 엔드로 가는 문이 열려요."
+   ],
+   "funFact": "엔드에 가면 엔더 드래곤을 물리치기 전에는 돌아올 수 없으니 준비를 단단히 해요.",
+   "wiki": "Eye of Ender",
+   "photos": [
+    "File:Eye of Ender JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "starter-house",
+   "section": "houses",
+   "name": "첫 나무집",
+   "subtitle": "첫날 짓기 좋은 아늑한 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "원목, 판자",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "12",
+     "분"
+    ]
+   ],
+   "story": "생존 모드에서 처음 지을 만한 나무집이에요. 원목으로 기둥을 세우고 판자로 벽을 채운 뒤 계단 블록으로 세모 지붕을 얹어요.",
+   "funFact": "기둥은 원목, 벽은 판자처럼 두 가지 나무를 섞으면 집이 훨씬 멋져 보여요.",
+   "videoQueries": [
+    "minecraft starter house tutorial",
+    "minecraft survival starter house how to build"
+   ],
+   "videoMatch": [
+    "starter house",
+    "starter base",
+    "survival house"
+   ]
+  },
+  {
+   "id": "modern-house",
+   "section": "houses",
+   "name": "모던 하우스",
+   "subtitle": "수영장이 있는 하얀 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "석영, 콘크리트, 유리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "11",
+     "분"
+    ]
+   ],
+   "story": "하얀 벽과 큰 유리창, 네모난 모양으로 지은 요즘 집이에요. 집 앞에 물을 채워 수영장도 만들어요.",
+   "funFact": "하얀 블록에 회색이나 검은 블록을 조금 섞으면 집이 더 선명해 보여요.",
+   "videoQueries": [
+    "minecraft modern house tutorial",
+    "minecraft modern house how to build easy"
+   ],
+   "videoMatch": [
+    "modern house"
+   ]
+  },
+  {
+   "id": "cherry-house",
+   "section": "houses",
+   "name": "벚나무 집",
+   "subtitle": "분홍빛 벚꽃 마을의 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "벚나무 판자",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "20",
+     "분"
+    ]
+   ],
+   "story": "분홍색 벚나무 판자로 지은 예쁜 집이에요. 벚나무 숲에 지으면 꽃잎이 흩날려서 더 예뻐요.",
+   "funFact": "벚나무는 벚나무 숲 생물 군계에서만 자라요. 묘목을 가져와 집 옆에 심어 봐요.",
+   "videoQueries": [
+    "minecraft cherry blossom house tutorial"
+   ],
+   "videoMatch": [
+    "cherry"
+   ]
+  },
+  {
+   "id": "treehouse",
+   "section": "houses",
+   "name": "나무 위의 집",
+   "subtitle": "높은 나무 위 비밀 기지",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "원목, 나뭇잎",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "14",
+     "분"
+    ]
+   ],
+   "story": "커다란 나무를 직접 만들고 그 위에 작은 집을 올려요. 사다리를 타고 올라가는 비밀 기지 같아요.",
+   "funFact": "나뭇잎은 원목에서 멀어지면 사라져요. 직접 놓은 나뭇잎은 사라지지 않으니 걱정 마요.",
+   "videoQueries": [
+    "minecraft treehouse tutorial"
+   ],
+   "videoMatch": [
+    "treehouse",
+    "tree house"
+   ]
+  },
+  {
+   "id": "mushroom-house",
+   "section": "houses",
+   "name": "버섯 집",
+   "subtitle": "빨간 점박이 버섯 모양 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "빨간 버섯 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "9",
+     "분"
+    ]
+   ],
+   "story": "빨간 버섯 블록으로 둥근 지붕을 만들고 하얀 점을 콕콕 찍은 귀여운 집이에요.",
+   "funFact": "버섯 블록은 실크 터치 마법 도구로 캐면 그대로 가져올 수 있어요.",
+   "videoQueries": [
+    "minecraft mushroom house tutorial"
+   ],
+   "videoMatch": [
+    "mushroom"
+   ]
+  },
+  {
+   "id": "underwater-house",
+   "section": "houses",
+   "name": "바닷속 집",
+   "subtitle": "물고기가 보이는 유리 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "유리, 프리즈머린",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "12",
+     "분"
+    ]
+   ],
+   "story": "바닷속에 유리로 집을 지어서 물고기와 산호를 구경할 수 있어요. 물을 빼는 게 가장 어려운 단계예요.",
+   "funFact": "모래나 자갈을 떨어뜨려 물을 채운 뒤 캐내면 물을 쉽게 뺄 수 있어요.",
+   "videoQueries": [
+    "minecraft underwater house tutorial",
+    "minecraft underwater base tutorial"
+   ],
+   "videoMatch": [
+    "underwater"
+   ]
+  },
+  {
+   "id": "medieval-castle",
+   "section": "castles",
+   "name": "중세 성",
+   "subtitle": "탑과 성벽이 있는 성",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "돌 벽돌, 조약돌",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "13",
+     "분"
+    ]
+   ],
+   "story": "네 모서리에 둥근 탑을 세우고 성벽으로 이은 뒤 가운데에 큰 건물을 짓는 성이에요.",
+   "funFact": "돌 벽돌에 이끼 낀 돌 벽돌을 조금 섞으면 오래된 성처럼 보여요.",
+   "videoQueries": [
+    "minecraft medieval castle tutorial",
+    "minecraft castle tutorial",
+    "minecraft castle build tutorial easy"
+   ],
+   "videoMatch": [
+    "castle"
+   ]
+  },
+  {
+   "id": "japanese-castle",
+   "section": "castles",
+   "name": "벚꽃 탑",
+   "subtitle": "지붕이 겹겹이 쌓인 탑",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "벚나무 판자, 짙은 참나무",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "19",
+     "분"
+    ]
+   ],
+   "story": "지붕을 여러 층으로 쌓아 올린 동양식 탑이에요. 지붕 끝이 살짝 위로 휘어 있는 게 특징이에요.",
+   "funFact": "위층으로 갈수록 한 칸씩 작게 지으면 탑 모양이 예쁘게 나와요.",
+   "videoQueries": [
+    "minecraft japanese castle tutorial",
+    "minecraft japanese pagoda tutorial"
+   ],
+   "videoMatch": [
+    "japanese",
+    "pagoda"
+   ]
+  },
+  {
+   "id": "palace",
+   "section": "castles",
+   "name": "궁전",
+   "subtitle": "왕이 사는 커다란 하얀 궁전",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "석영, 돌 벽돌",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "20",
+     "분"
+    ]
+   ],
+   "story": "양쪽으로 길게 뻗은 하얀 건물과 가운데 큰 지붕이 있는 궁전이에요. 기둥과 창문을 똑같이 반복해서 지어요.",
+   "funFact": "큰 건물은 먼저 바닥에 모양을 그려 두고 지으면 틀리지 않아요.",
+   "videoQueries": [
+    "minecraft palace tutorial",
+    "minecraft royal palace build tutorial",
+    "minecraft palace how to build"
+   ],
+   "videoMatch": [
+    "palace"
+   ]
+  },
+  {
+   "id": "castle-gate",
+   "section": "castles",
+   "name": "성문과 탑",
+   "subtitle": "성으로 들어가는 커다란 문",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "돌 벽돌, 짙은 참나무",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "10",
+     "분"
+    ]
+   ],
+   "story": "양쪽에 뾰족한 지붕 탑을 세우고 가운데에 큰 문을 만든 성문이에요.",
+   "funFact": "지붕 끝에 깃발을 달면 더 성다워 보여요.",
+   "videoQueries": [
+    "minecraft castle gate tutorial",
+    "minecraft castle tower tutorial"
+   ],
+   "videoMatch": [
+    "gate",
+    "tower"
+   ]
+  },
+  {
+   "id": "windmill",
+   "section": "town",
+   "name": "풍차",
+   "subtitle": "바람에 도는 날개 집",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "판자, 양털",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "19",
+     "분"
+    ]
+   ],
+   "story": "들판 위에 서 있는 풍차예요. 커다란 날개는 울타리와 양털로 만들어요.",
+   "funFact": "풍차 옆에 밀밭을 만들어 주면 진짜 농장 마을 같아요.",
+   "videoQueries": [
+    "minecraft windmill tutorial"
+   ],
+   "videoMatch": [
+    "windmill"
+   ]
+  },
+  {
+   "id": "lighthouse",
+   "section": "town",
+   "name": "등대",
+   "subtitle": "바닷가의 빨강 하양 등대",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "콘크리트, 유리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "20",
+     "분"
+    ]
+   ],
+   "story": "바닷가 바위 위에 빨강과 하양 줄무늬로 둥근 탑을 쌓고 꼭대기에 불빛을 달아요.",
+   "funFact": "꼭대기 불빛은 레드스톤 등불이나 바다 랜턴으로 만들 수 있어요.",
+   "videoQueries": [
+    "minecraft lighthouse tutorial"
+   ],
+   "videoMatch": [
+    "lighthouse"
+   ]
+  },
+  {
+   "id": "train-station",
+   "section": "town",
+   "name": "기차역",
+   "subtitle": "기차가 서는 마을 역",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "벽돌, 레일",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "14",
+     "분"
+    ]
+   ],
+   "story": "레일 옆에 지붕이 있는 승강장과 시계탑이 있는 역 건물을 짓는 여러 가지 방법이 나와요. 블록으로 만든 기차도 볼 수 있어요.",
+   "funFact": "진짜 마인크래프트에서는 광산 수레와 레일로 직접 기차를 탈 수 있어요.",
+   "videoQueries": [
+    "minecraft train station tutorial"
+   ],
+   "videoMatch": [
+    "train station",
+    "station"
+   ]
+  },
+  {
+   "id": "bridge",
+   "section": "town",
+   "name": "다리",
+   "subtitle": "강을 건너는 아치 다리",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "돌 벽돌, 판자",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "12",
+     "분"
+    ]
+   ],
+   "story": "강 위에 아치 모양 기둥을 세우고 그 위에 길을 놓은 다리예요.",
+   "funFact": "아치는 계단 블록을 거꾸로 놓으면 둥글게 만들 수 있어요.",
+   "videoQueries": [
+    "minecraft bridge tutorial"
+   ],
+   "videoMatch": [
+    "bridge"
+   ]
+  },
+  {
+   "id": "blacksmith",
+   "section": "town",
+   "name": "대장간",
+   "subtitle": "망치 소리가 나는 마을 가게",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "조약돌, 짙은 참나무",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "11",
+     "분"
+    ]
+   ],
+   "story": "굴뚝과 화로, 모루가 있는 마을 대장간이에요. 돌로 아래층을 짓고 나무로 지붕을 올려요.",
+   "funFact": "대장간 안에 용광로를 놓으면 진짜 주민이 대장장이가 될 수 있어요.",
+   "videoQueries": [
+    "minecraft blacksmith tutorial"
+   ],
+   "videoMatch": [
+    "blacksmith"
+   ]
+  },
+  {
+   "id": "pirate-ship",
+   "section": "wonders",
+   "name": "해적선",
+   "subtitle": "돛이 세 개인 커다란 배",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "짙은 참나무, 양털",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "14",
+     "분"
+    ]
+   ],
+   "story": "바다 위에 커다란 나무 배를 짓고 양털로 돛을 달아요. 해골 깃발도 펄럭여요.",
+   "funFact": "배 바닥은 둥글게 좁아지도록 한 층씩 줄여 가며 쌓아요.",
+   "videoQueries": [
+    "minecraft pirate ship tutorial",
+    "minecraft pirate ship build",
+    "minecraft ship tutorial"
+   ],
+   "videoMatch": [
+    "pirate ship",
+    "ship"
+   ]
+  },
+  {
+   "id": "floating-island",
+   "section": "wonders",
+   "name": "하늘섬",
+   "subtitle": "구름 위에 둥둥 뜬 섬",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "흙, 돌, 나무",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "8",
+     "분"
+    ]
+   ],
+   "story": "하늘에 거꾸로 된 산 모양 섬을 만들고 그 위에 작은 집과 나무를 올려요.",
+   "funFact": "아래로 갈수록 뾰족하게 만들면 섬이 하늘에 둥둥 떠 있는 것처럼 보여요.",
+   "videoQueries": [
+    "minecraft floating island tutorial"
+   ],
+   "videoMatch": [
+    "floating island",
+    "sky island"
+   ]
+  },
+  {
+   "id": "hot-air-balloon",
+   "section": "wonders",
+   "name": "열기구",
+   "subtitle": "하늘에 뜬 무지개 풍선",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "색깔 양털",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "6",
+     "분"
+    ]
+   ],
+   "story": "무지개색 양털로 둥근 풍선을 만들고 밧줄 아래에 바구니를 매단 열기구예요.",
+   "funFact": "양털에 염료를 묻히면 원하는 색으로 바꿀 수 있어요.",
+   "videoQueries": [
+    "minecraft hot air balloon tutorial"
+   ],
+   "videoMatch": [
+    "balloon"
+   ]
+  },
+  {
+   "id": "giant-tree",
+   "section": "wonders",
+   "name": "거대한 벚나무",
+   "subtitle": "하늘까지 닿는 커다란 나무",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "원목, 벚나무 잎",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "24",
+     "분"
+    ]
+   ],
+   "story": "원목으로 굵은 줄기와 구불구불한 가지를 만들고 벚나무 잎을 풍성하게 붙여요.",
+   "funFact": "가지 끝으로 갈수록 가늘게 만들면 진짜 나무 같아요.",
+   "videoQueries": [
+    "minecraft giant tree tutorial",
+    "minecraft custom tree tutorial"
+   ],
+   "videoMatch": [
+    "tree"
+   ]
+  },
+  {
+   "id": "dragon-statue",
+   "section": "wonders",
+   "name": "드래곤 조각상",
+   "subtitle": "하늘로 솟는 빨간 용",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "빨간 블록, 금 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "13",
+     "분"
+    ]
+   ],
+   "story": "구불구불한 긴 몸에 비늘과 뿔을 붙인 동양식 용 조각상이에요.",
+   "funFact": "몸통을 먼저 선으로 그려 놓고 살을 붙이면 모양 잡기가 쉬워요.",
+   "videoQueries": [
+    "minecraft dragon statue tutorial"
+   ],
+   "videoMatch": [
+    "dragon"
+   ]
+  }
+ ],
+ "icons": {
+  "planks": {
+   "name": "판자",
+   "wiki": "Oak Planks",
+   "file": "File:Oak Planks.png"
+  },
+  "oak-log": {
+   "name": "원목",
+   "wiki": "Oak Log",
+   "file": "File:Oak Log (UD) JE8 BE3.png"
+  },
+  "stick": {
+   "name": "막대기",
+   "wiki": "Stick",
+   "file": "File:Stick JE1 BE1.png"
+  },
+  "cobblestone": {
+   "name": "조약돌",
+   "wiki": "Cobblestone",
+   "file": "File:Cobblestone JE5 BE3.png"
+  },
+  "coal": {
+   "name": "석탄",
+   "wiki": "Coal",
+   "file": "File:Coal JE4 BE3.png"
+  },
+  "iron-ingot": {
+   "name": "철 주괴",
+   "wiki": "Iron Ingot",
+   "file": "File:Iron Ingot JE3 BE2.png"
+  },
+  "gold-ingot": {
+   "name": "금 주괴",
+   "wiki": "Gold Ingot",
+   "file": "File:Gold Ingot JE4 BE2.png"
+  },
+  "diamond": {
+   "name": "다이아몬드",
+   "wiki": "Diamond",
+   "file": "File:Diamond JE3 BE3.png"
+  },
+  "redstone": {
+   "name": "레드스톤 가루",
+   "wiki": "Redstone Dust",
+   "file": "File:Redstone Dust JE2 BE2.png"
+  },
+  "netherite-ingot": {
+   "name": "네더라이트 주괴",
+   "wiki": "Netherite Ingot",
+   "file": "File:Netherite Ingot JE1 BE2.png"
+  },
+  "netherite-scrap": {
+   "name": "네더라이트 파편",
+   "wiki": "Netherite Scrap",
+   "file": "File:Netherite Scrap JE2 BE1.png"
+  },
+  "upgrade": {
+   "name": "네더라이트 강화 견본",
+   "wiki": "Netherite Upgrade",
+   "file": "File:Netherite Upgrade Smithing Template JE1 BE1.png"
+  },
+  "obsidian": {
+   "name": "흑요석",
+   "wiki": "Obsidian",
+   "file": "File:Obsidian JE3 BE2.png"
+  },
+  "string": {
+   "name": "실",
+   "wiki": "String",
+   "file": "File:String JE2 BE2.png"
+  },
+  "blaze-rod": {
+   "name": "블레이즈 막대기",
+   "wiki": "Blaze Rod",
+   "file": "File:Blaze Rod JE1 BE1.png"
+  },
+  "blaze-powder": {
+   "name": "블레이즈 가루",
+   "wiki": "Blaze Powder",
+   "file": "File:Blaze Powder JE2 BE1.png"
+  },
+  "ender-pearl": {
+   "name": "엔더 진주",
+   "wiki": "Ender Pearl",
+   "file": "File:Ender Pearl JE3 BE2.png"
+  },
+  "bone": {
+   "name": "뼈",
+   "wiki": "Bone",
+   "file": "File:Bone JE3 BE2.png"
+  },
+  "sand": {
+   "name": "모래",
+   "wiki": "Sand",
+   "file": "File:Sand JE5 BE3.png"
+  },
+  "wool": {
+   "name": "양털",
+   "wiki": "Wool",
+   "file": "File:White Wool JE2 BE2.png"
+  },
+  "book": {
+   "name": "책",
+   "wiki": "Book",
+   "file": "File:Book JE2 BE2.png"
+  },
+  "paper": {
+   "name": "종이",
+   "wiki": "Paper",
+   "file": "File:Paper JE2 BE2.png"
+  },
+  "feather": {
+   "name": "깃털",
+   "wiki": "Feather",
+   "file": "File:Feather JE3 BE2.png"
+  },
+  "flint": {
+   "name": "부싯돌",
+   "wiki": "Flint",
+   "file": "File:Flint JE3 BE3.png"
+  },
+  "gold-nugget": {
+   "name": "금 조각",
+   "wiki": "Gold Nugget",
+   "file": "File:Gold Nugget JE3 BE2.png"
+  },
+  "wheat": {
+   "name": "밀",
+   "wiki": "Wheat",
+   "file": "File:Wheat JE2 BE2.png"
+  },
+  "raw-beef": {
+   "name": "익히지 않은 소고기",
+   "wiki": "Raw Beef",
+   "file": "File:Raw Beef JE4 BE3.png"
+  },
+  "apple": {
+   "name": "사과",
+   "wiki": "Apple",
+   "file": "File:Apple JE3 BE3.png"
+  },
+  "milk": {
+   "name": "우유 양동이",
+   "wiki": "Milk Bucket",
+   "file": "File:Milk Bucket JE2 BE2.png"
+  },
+  "sugar": {
+   "name": "설탕",
+   "wiki": "Sugar",
+   "file": "File:Sugar JE2 BE2.png"
+  },
+  "egg": {
+   "name": "달걀",
+   "wiki": "Egg",
+   "file": "File:Egg JE2 BE2.png"
+  },
+  "cocoa": {
+   "name": "코코아 콩",
+   "wiki": "Cocoa Beans",
+   "file": "File:Cocoa Beans JE4 BE3.png"
+  },
+  "pumpkin": {
+   "name": "호박",
+   "wiki": "Pumpkin",
+   "file": "File:Pumpkin JE3.png"
+  },
+  "potato": {
+   "name": "감자",
+   "wiki": "Potato",
+   "file": "File:Potato JE3 BE2.png"
+  },
+  "bowl": {
+   "name": "그릇",
+   "wiki": "Bowl",
+   "file": "File:Bowl JE2 BE2.png"
+  },
+  "red-mushroom": {
+   "name": "빨간 버섯",
+   "wiki": "Red Mushroom",
+   "file": "File:Red Mushroom JE9.png"
+  },
+  "brown-mushroom": {
+   "name": "갈색 버섯",
+   "wiki": "Brown Mushroom",
+   "file": "File:Brown Mushroom JE9.png"
+  },
+  "iron-block": {
+   "name": "철 블록",
+   "wiki": "Iron Block",
+   "file": "File:Block of Iron JE4 BE3.png"
+  },
+  "raw-iron": {
+   "name": "철 원석",
+   "wiki": "Raw Iron",
+   "file": "File:Raw Iron JE3 BE2.png"
+  },
+  "tripwire-hook": {
+   "name": "철사 덫 갈고리",
+   "wiki": "Tripwire Hook",
+   "file": "File:Tripwire Hook (S) JE6.png"
+  },
+  "breeze-rod": {
+   "name": "브리즈 막대기",
+   "wiki": "Breeze Rod",
+   "file": "File:Breeze Rod JE1 BE1.png"
+  },
+  "heavy-core": {
+   "name": "무거운 코어",
+   "wiki": "Heavy Core",
+   "file": "File:Heavy Core JE1 BE1.png"
+  },
+  "compass": {
+   "name": "나침반",
+   "wiki": "Compass",
+   "file": "File:Compass JE3 BE3.gif"
+  },
+  "diamond-pickaxe": {
+   "name": "다이아몬드 곡괭이",
+   "wiki": "Diamond Pickaxe",
+   "file": "File:Diamond Pickaxe JE3 BE3.png"
+  },
+  "furnace": {
+   "name": "화로",
+   "wiki": "Furnace",
+   "file": "File:Furnace (S) JE4.png"
+  },
+  "fire": {
+   "name": "불",
+   "wiki": "Fire",
+   "file": "File:Fire.gif"
+  }
+ }
+}
