@@ -2809,6 +2809,340 @@
    ]
   },
   {
+   "id": "bookshelf",
+   "section": "blocks",
+   "name": "책장",
+   "subtitle": "책이 꽂힌 나무 선반",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "마법 부여",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "bbb",
+     "ppp"
+    ],
+    "key": {
+     "p": "planks",
+     "b": "book"
+    }
+   },
+   "uses": [
+    "도서관 꾸미기",
+    "마법 부여대를 강하게"
+   ],
+   "story": "판자 6개와 책 3권으로 만들어요. 집을 꾸미기에도 좋고, 마법 부여대 둘레에 놓으면 더 강한 마법이 나와요.",
+   "funFact": "마법 부여대 주변에 책장을 15개 놓으면 가장 강한 마법을 고를 수 있어요.",
+   "photos": [
+    "File:Bookshelf JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "fence",
+   "section": "blocks",
+   "name": "울타리",
+   "subtitle": "동물이 못 나가게",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "높이",
+     "1.5칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "psp",
+     "psp"
+    ],
+    "key": {
+     "p": "planks",
+     "s": "stick"
+    },
+    "n": 3
+   },
+   "uses": [
+    "동물 우리 만들기",
+    "마당 꾸미기"
+   ],
+   "story": "판자 4개와 막대기 2개로 울타리 3개를 만들어요. 울타리는 1.5칸 높이라서 동물과 몬스터가 뛰어넘지 못해요.",
+   "funFact": "울타리 문도 만들 수 있어서 열고 닫으며 드나들어요.",
+   "photos": [
+    "File:Oak Fence (EW) JE9.png"
+   ]
+  },
+  {
+   "id": "campfire",
+   "section": "blocks",
+   "name": "모닥불",
+   "subtitle": "굽고, 연기 신호도",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "고기 굽기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     " s ",
+     "scs",
+     "lll"
+    ],
+    "key": {
+     "s": "stick",
+     "c": "coal",
+     "l": "oak-log"
+    }
+   },
+   "uses": [
+    "고기 4개 한꺼번에 굽기",
+    "벌집 아래 두어 꿀벌 진정시키기",
+    "연기 신호"
+   ],
+   "story": "막대기, 석탄, 원목으로 만들어요. 모닥불 위에 고기를 올리면 연료 없이 천천히 구워져요.",
+   "funFact": "모닥불 아래에 건초 더미를 놓으면 연기가 아주 높이 올라가요.",
+   "photos": [
+    "File:Campfire (S) JE2 BE2.gif"
+   ]
+  },
+  {
+   "id": "lantern",
+   "section": "blocks",
+   "name": "랜턴",
+   "subtitle": "천장에 다는 등불",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "철 조각 8 + 횃불",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "nnn",
+     "ntn",
+     "nnn"
+    ],
+    "key": {
+     "n": "iron-nugget",
+     "t": "torch"
+    }
+   },
+   "uses": [
+    "집 밝히기",
+    "길가 가로등"
+   ],
+   "story": "철 조각 8개로 횃불을 감싸서 만들어요. 바닥에 놓거나 천장에 매달 수 있어서 집을 예쁘게 밝혀요.",
+   "funFact": "영혼 횃불로 만들면 파란 불빛의 '영혼 랜턴'이 돼요.",
+   "photos": [
+    "File:Lantern JE1 BE1.gif"
+   ]
+  },
+  {
+   "id": "piston",
+   "section": "blocks",
+   "name": "피스톤",
+   "subtitle": "블록을 밀어내요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "움직이는 힘",
+     "레드스톤",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "cic",
+     "crc"
+    ],
+    "key": {
+     "p": "planks",
+     "c": "cobblestone",
+     "i": "iron-ingot",
+     "r": "redstone"
+    }
+   },
+   "uses": [
+    "비밀 문 만들기",
+    "자동 농장",
+    "움직이는 장치"
+   ],
+   "story": "판자, 조약돌, 철 주괴, 레드스톤으로 만들어요. 레드스톤 신호를 받으면 앞의 블록을 쭉 밀어내요.",
+   "funFact": "슬라임볼을 더하면 블록을 밀었다가 다시 당기는 '끈끈이 피스톤'이 돼요.",
+   "photos": [
+    "File:Piston (U) JE3.gif"
+   ]
+  },
+  {
+   "id": "jukebox",
+   "section": "blocks",
+   "name": "주크박스",
+   "subtitle": "음반을 트는 상자",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 것",
+     "음반",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "pdp",
+     "ppp"
+    ],
+    "key": {
+     "p": "planks",
+     "d": "diamond"
+    }
+   },
+   "uses": [
+    "음반으로 노래 듣기",
+    "앵무새 춤추게 하기"
+   ],
+   "story": "판자 8개와 다이아몬드 1개로 만들어요. 음반을 넣으면 노래가 흘러나와요.",
+   "funFact": "스켈레톤의 화살에 크리퍼가 쓰러지면 음반을 떨어뜨려요.",
+   "photos": [
+    "File:Jukebox JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "note-block",
+   "section": "blocks",
+   "name": "소리 블록",
+   "subtitle": "눌러서 음을 연주해요",
+   "color": "#8B5A2B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "음 개수",
+     "25음",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ppp",
+     "prp",
+     "ppp"
+    ],
+    "key": {
+     "p": "planks",
+     "r": "redstone"
+    }
+   },
+   "uses": [
+    "노래 연주하기",
+    "알레이에게 신호 주기"
+   ],
+   "story": "판자 8개와 레드스톤 가루로 만들어요. 누를 때마다 음이 한 칸씩 올라가서 노래를 연주할 수 있어요.",
+   "funFact": "아래에 놓인 블록에 따라 피아노, 북, 종소리처럼 악기가 바뀌어요.",
+   "photos": [
+    "File:Note Block JE2 BE2.png"
+   ]
+  },
+  {
    "id": "wooden-pickaxe",
    "section": "tools",
    "name": "나무 곡괭이",
@@ -3525,6 +3859,366 @@
    ]
   },
   {
+   "id": "minecart",
+   "section": "tools",
+   "name": "광산 수레",
+   "subtitle": "레일 위를 달려요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 것",
+     "레일",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "i i",
+     "iii"
+    ],
+    "key": {
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "레일 타고 이동",
+    "상자를 실어 짐 나르기"
+   ],
+   "story": "철 주괴 5개로 만들어요. 레일 위에 놓고 타면 기차처럼 레일을 따라 달려요.",
+   "funFact": "상자, 화로, 호퍼를 실은 광산 수레도 만들 수 있어요.",
+   "photos": [
+    "File:Minecart JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "rail",
+   "section": "tools",
+   "name": "레일",
+   "subtitle": "내가 까는 기찻길",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 16개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "i i",
+     "isi",
+     "i i"
+    ],
+    "key": {
+     "i": "iron-ingot",
+     "s": "stick"
+    },
+    "n": 16
+   },
+   "uses": [
+    "광산과 집 잇기",
+    "롤러코스터 만들기"
+   ],
+   "story": "철 주괴 6개와 막대기 1개로 레일 16개를 만들어요. 바닥에 깔면 저절로 이어지고 굽어져요.",
+   "funFact": "금으로 만든 전동 레일을 섞어 깔면 광산 수레가 멈추지 않고 달려요.",
+   "photos": [
+    "File:Rail (NS) JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "lead",
+   "section": "tools",
+   "name": "끈",
+   "subtitle": "동물을 데리고 다녀요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "실 + 슬라임볼",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "ss ",
+     "sb ",
+     "  s"
+    ],
+    "key": {
+     "s": "string",
+     "b": "slime-ball"
+    },
+    "n": 2
+   },
+   "uses": [
+    "동물 데려가기",
+    "울타리에 묶어 두기"
+   ],
+   "story": "실 4개와 슬라임볼 1개로 끈 2개를 만들어요. 동물에게 걸면 강아지 산책하듯 데리고 다닐 수 있어요.",
+   "funFact": "라마 한 마리를 끈으로 데려가면 다른 라마들이 줄지어 따라와요.",
+   "photos": [
+    "File:Lead JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "name-tag",
+   "section": "tools",
+   "name": "이름표",
+   "subtitle": "동물에게 이름을 지어 줘요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "상자, 낚시",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "필요한 것",
+     "모루",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "상자에서 찾거나 낚시, 주민 거래로 얻어요"
+   },
+   "uses": [
+    "반려동물 이름 짓기",
+    "몬스터가 사라지지 않게"
+   ],
+   "story": "모루에서 이름을 적은 뒤 동물에게 쓰면 머리 위에 이름이 떠요. 이름이 붙은 동물은 사라지지 않아요.",
+   "funFact": "양에게 'jeb_'이라고 이름을 붙이면 무지개색으로 바뀌어요.",
+   "photos": [
+    "File:Name Tag JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "spyglass",
+   "section": "tools",
+   "name": "망원경",
+   "subtitle": "멀리 있는 것을 크게",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "자수정 + 구리",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "a",
+     "c",
+     "c"
+    ],
+    "key": {
+     "a": "amethyst",
+     "c": "copper-ingot"
+    }
+   },
+   "uses": [
+    "멀리 있는 마을 찾기",
+    "몬스터 미리 살피기"
+   ],
+   "story": "자수정 조각 1개와 구리 주괴 2개로 만들어요. 들여다보면 멀리 있는 것이 크게 보여요.",
+   "funFact": "망원경으로 하늘의 가스트를 보면 업적을 받을 수 있어요.",
+   "photos": [
+    "File:Spyglass JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "brush",
+   "section": "tools",
+   "name": "솔",
+   "subtitle": "고고학자의 붓",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "하는 일",
+     "유물 발굴",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "f",
+     "c",
+     "s"
+    ],
+    "key": {
+     "f": "feather",
+     "c": "copper-ingot",
+     "s": "stick"
+    }
+   },
+   "uses": [
+    "수상한 모래 쓸기",
+    "아르마딜로 인갑 얻기"
+   ],
+   "story": "깃털, 구리 주괴, 막대기로 만들어요. 수상한 모래를 살살 쓸면 옛날 도자기 조각과 보물이 나와요.",
+   "funFact": "스니퍼 알도 수상한 모래를 쓸어서 찾을 수 있어요.",
+   "photos": [
+    "File:Brush JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "carrot-on-a-stick",
+   "section": "tools",
+   "name": "당근 낚싯대",
+   "subtitle": "돼지를 조종해요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "함께 쓰는 것",
+     "안장",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "f ",
+     " c"
+    ],
+    "key": {
+     "f": "fishing-rod",
+     "c": "carrot"
+    }
+   },
+   "uses": [
+    "돼지 타고 달리기"
+   ],
+   "story": "낚싯대와 당근으로 만들어요. 안장 얹은 돼지에 타고 들고 있으면 돼지가 당근을 따라 앞으로 가요.",
+   "funFact": "누르면 돼지가 잠깐 아주 빨리 달려요.",
+   "photos": [
+    "File:Carrot on a Stick JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "saddle",
+   "section": "tools",
+   "name": "안장",
+   "subtitle": "말과 돼지에 얹어요",
+   "color": "#5B6B7A",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "상자, 낚시",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "타는 동물",
+     "말, 돼지, 낙타",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "상자에서 찾거나 낚시, 주민 거래로 얻어요"
+   },
+   "uses": [
+    "말 타기",
+    "돼지 타기",
+    "스트라이더 타기"
+   ],
+   "story": "만들 수 없고 상자나 낚시, 가죽 장인과의 거래로 얻어요. 길들인 말에 얹으면 내 마음대로 달릴 수 있어요.",
+   "funFact": "던전, 마을, 사원 상자에서 자주 나와요.",
+   "photos": [
+    "File:Saddle JE2 BE2.png"
+   ]
+  },
+  {
    "id": "diamond-sword",
    "section": "gear",
    "name": "다이아몬드 검",
@@ -3945,6 +4639,261 @@
    "wiki": "Iron Helmet",
    "photos": [
     "File:Iron Helmet JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "netherite-sword",
+   "section": "gear",
+   "name": "네더라이트 검",
+   "subtitle": "가장 강한 칼",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "대장장이 작업대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "특별한 점",
+     "용암에도 안 타요",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smith": [
+     "upgrade",
+     "diamond-sword",
+     "netherite-ingot"
+    ]
+   },
+   "uses": [
+    "보스 무찌르기"
+   ],
+   "story": "다이아몬드 검에 네더라이트 주괴와 강화 견본을 더해 업그레이드해요. 게임에서 가장 강한 칼이에요.",
+   "funFact": "다이아몬드 검에 걸린 마법도 그대로 남아요.",
+   "photos": [
+    "File:Netherite Sword JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "turtle-shell",
+   "section": "gear",
+   "name": "거북 등딱지",
+   "subtitle": "물속에서 숨을 더 오래",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "효과",
+     "수중 호흡",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "sss",
+     "s s"
+    ],
+    "key": {
+     "s": "turtle-scute"
+    }
+   },
+   "uses": [
+    "바다 탐험",
+    "물속 집 짓기"
+   ],
+   "story": "아기 거북이 자랄 때 떨어뜨린 거북 인갑 5개로 만드는 투구예요. 쓰고 물에 들어가면 숨을 더 오래 참아요.",
+   "funFact": "거북 알은 밤에 부화해요. 아기 거북을 잘 지켜 줘요.",
+   "photos": [
+    "File:Turtle Shell JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "wolf-armor",
+   "section": "gear",
+   "name": "늑대 갑옷",
+   "subtitle": "강아지 친구를 지켜요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "재료",
+     "아르마딜로 인갑 6",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "s  ",
+     "sss",
+     "s s"
+    ],
+    "key": {
+     "s": "armadillo-scute"
+    }
+   },
+   "uses": [
+    "강아지 친구 지키기"
+   ],
+   "story": "아르마딜로 인갑 6개로 만들어요. 길들인 늑대에게 입히면 다치지 않게 지켜 줘요.",
+   "funFact": "갑옷에 염료를 묻혀 강아지에게 예쁜 색을 입힐 수 있어요.",
+   "photos": [
+    "File:Wolf Armor (model) JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "firework",
+   "section": "gear",
+   "name": "폭죽 로켓",
+   "subtitle": "하늘을 수놓는 폭죽",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 개수",
+     "한 번에 3개",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "pg"
+    ],
+    "key": {
+     "p": "paper",
+     "g": "gunpowder"
+    },
+    "n": 3
+   },
+   "uses": [
+    "축하 불꽃놀이",
+    "겉날개로 날 때 속도 올리기"
+   ],
+   "story": "종이와 화약으로 만들어요. 쏘면 하늘 높이 올라가 펑 터져요. 폭죽 별을 넣으면 알록달록한 모양이 돼요.",
+   "funFact": "화약을 더 넣으면 폭죽이 더 높이 올라가요.",
+   "photos": [
+    "File:Firework Rocket JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "elytra",
+   "section": "gear",
+   "name": "겉날개",
+   "subtitle": "하늘을 나는 날개",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "엔드 배",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "함께 쓰는 것",
+     "폭죽 로켓",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "엔드 도시 옆에 떠 있는 엔드 배에서 찾아요"
+   },
+   "uses": [
+    "하늘 날기",
+    "먼 곳으로 빨리 가기"
+   ],
+   "story": "만들 수 없고 엔드의 엔드 배에서만 찾을 수 있어요. 흉갑 자리에 입고 높은 곳에서 뛰면 하늘을 날아요.",
+   "funFact": "닳으면 팬텀 막으로 고칠 수 있어요.",
+   "photos": [
+    "File:Elytra JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "totem",
+   "section": "gear",
+   "name": "불사의 토템",
+   "subtitle": "한 번 더 살아나요",
+   "color": "#2C8C99",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "소환사",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "1",
+     "개"
+    ],
+    [
+     "⭐",
+     "효과",
+     "다시 살아나기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "숲속 저택의 소환사를 물리치면 떨어뜨려요"
+   },
+   "uses": [
+    "보스와 싸울 때 들고 있기"
+   ],
+   "story": "손에 들고 있으면 쓰러지는 순간 토템이 터지면서 다시 살아나요. 한 번 쓰면 사라져요.",
+   "funFact": "마을 습격을 막아 내도 소환사가 나와서 얻을 수 있어요.",
+   "photos": [
+    "File:Totem of Undying JE2 BE2.png"
    ]
   },
   {
@@ -4764,6 +5713,211 @@
    ]
   },
   {
+   "id": "copper-ingot",
+   "section": "materials",
+   "name": "구리 주괴",
+   "subtitle": "주황빛 금속",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "특별한 점",
+     "녹이 슬어요",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "raw-copper"
+   },
+   "uses": [
+    "망원경",
+    "솔",
+    "구리 블록 꾸미기"
+   ],
+   "story": "구리 광석을 캐서 나온 구리 원석을 구우면 얻어요. 망원경, 솔, 피뢰침을 만들어요.",
+   "funFact": "구리 블록은 시간이 지나면 초록색으로 녹이 슬어요. 도끼로 긁으면 다시 반짝여요.",
+   "photos": [
+    "File:Copper Ingot JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "amethyst",
+   "section": "materials",
+   "name": "자수정 조각",
+   "subtitle": "반짝이는 보라 수정",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "자수정 정동",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "쓰는 곳",
+     "망원경",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "땅속 자수정 정동의 수정을 캐요"
+   },
+   "uses": [
+    "망원경",
+    "알레이 복제하기"
+   ],
+   "story": "땅속 동그란 '자수정 정동' 안에서 자라는 보라 수정을 캐면 나와요. 건드리면 딩동 맑은 소리가 나요.",
+   "funFact": "자수정은 시간이 지나면 다시 자라요.",
+   "photos": [
+    "File:Amethyst Shard JE2 BE1.png"
+   ]
+  },
+  {
+   "id": "slime-ball",
+   "section": "materials",
+   "name": "슬라임볼",
+   "subtitle": "끈적한 초록 공",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "슬라임",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 것",
+     "끈, 슬라임 블록",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "작은 슬라임을 물리쳐요"
+   },
+   "uses": [
+    "끈",
+    "끈끈이 피스톤",
+    "슬라임 블록"
+   ],
+   "story": "작은 슬라임이 떨어뜨리는 끈적한 공이에요. 판다가 재채기할 때 나오기도 해요.",
+   "funFact": "슬라임 블록 위에 떨어지면 트램펄린처럼 통통 튀어요.",
+   "photos": [
+    "File:Slimeball JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "quartz",
+   "section": "materials",
+   "name": "네더 석영",
+   "subtitle": "네더의 하얀 보석",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "네더",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 것",
+     "석영 블록",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "네더 석영 광석을 캐요"
+   },
+   "uses": [
+    "석영 블록",
+    "레드스톤 장치"
+   ],
+   "story": "네더의 빨간 돌 사이에 박힌 하얀 광석에서 나와요. 하얀 석영 블록으로 멋진 건물을 지어요.",
+   "funFact": "그리스 신전과 모던 하우스에 자주 쓰는 하얀 블록이 석영이에요.",
+   "photos": [
+    "File:Nether Quartz JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "iron-block",
+   "section": "materials",
+   "name": "철 블록",
+   "subtitle": "철 주괴 9개를 한 덩어리로",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "만드는 것",
+     "철 골렘, 모루",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "iii",
+     "iii",
+     "iii"
+    ],
+    "key": {
+     "i": "iron-ingot"
+    }
+   },
+   "uses": [
+    "철 골렘 만들기",
+    "모루 만들기",
+    "신호기 받침"
+   ],
+   "story": "철 주괴 9개로 만들어요. 철을 한곳에 모아 두기 좋고, 다시 주괴 9개로 바꿀 수 있어요.",
+   "funFact": "다이아몬드, 금, 에메랄드도 9개를 모으면 블록이 돼요.",
+   "photos": [
+    "File:Block of Iron JE4 BE3.png"
+   ]
+  },
+  {
    "id": "bread",
    "section": "food",
    "name": "빵",
@@ -5163,6 +6317,248 @@
    "wiki": "Mushroom Stew",
    "photos": [
     "File:Mushroom Stew JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "golden-carrot",
+   "section": "food",
+   "name": "황금 당근",
+   "subtitle": "가장 든든한 채소",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "제작대",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 3칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "craft": [
+     "nnn",
+     "ncn",
+     "nnn"
+    ],
+    "key": {
+     "n": "gold-nugget",
+     "c": "carrot"
+    }
+   },
+   "uses": [
+    "배고픔 채우기",
+    "말 키우기",
+    "밤눈 물약 만들기"
+   ],
+   "story": "당근을 금 조각 8개로 둘러싸서 만들어요. 배를 오래 든든하게 채워 줘요.",
+   "funFact": "말에게 황금 당근을 주면 아기 말이 태어나요.",
+   "photos": [
+    "File:Golden Carrot JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "cooked-chicken",
+   "section": "food",
+   "name": "익힌 닭고기",
+   "subtitle": "노릇노릇 구운 닭",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로, 모닥불",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 3칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "raw-chicken"
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "닭에게서 얻은 고기를 구우면 돼요. 익히지 않은 닭고기를 먹으면 배탈이 날 수 있으니 꼭 구워요.",
+   "funFact": "늑대 친구에게 주면 체력이 차요.",
+   "photos": [
+    "File:Cooked Chicken JE3 BE3.png"
+   ]
+  },
+  {
+   "id": "honey-bottle",
+   "section": "food",
+   "name": "꿀이 든 병",
+   "subtitle": "달콤한 꿀",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "벌집",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "16",
+     "개"
+    ],
+    [
+     "⭐",
+     "효과",
+     "독 없애기",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "꿀이 가득 찬 벌집에 유리병을 대요"
+   },
+   "uses": [
+    "배고픔 채우기",
+    "독 없애기",
+    "설탕 만들기"
+   ],
+   "story": "꿀이 가득 차서 노랗게 된 벌집에 유리병을 대면 꿀을 담을 수 있어요. 마시면 독이 사라져요.",
+   "funFact": "벌집 아래에 모닥불을 두면 꿀벌이 화내지 않아요.",
+   "photos": [
+    "File:Honey Bottle JE1 BE2.png"
+   ]
+  },
+  {
+   "id": "melon-slice",
+   "section": "food",
+   "name": "수박 조각",
+   "subtitle": "시원한 수박",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "수박",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 1칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "수박 블록을 캐면 조각이 여러 개 나와요"
+   },
+   "uses": [
+    "간식 먹기",
+    "반짝이는 수박 조각 만들기"
+   ],
+   "story": "정글에서 찾은 수박을 캐면 수박 조각이 여러 개 나와요. 씨앗으로 밭에 심어 키울 수도 있어요.",
+   "funFact": "수박 조각 9개를 모으면 다시 수박 블록이 돼요.",
+   "photos": [
+    "File:Melon Slice JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "sweet-berries",
+   "section": "food",
+   "name": "달콤한 열매",
+   "subtitle": "가시덤불의 빨간 열매",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "달콤한 열매 덤불",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 1칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "how": "타이가 숲의 덤불에서 따요"
+   },
+   "uses": [
+    "간식 먹기",
+    "여우 길들이기"
+   ],
+   "story": "타이가 숲의 덤불에서 따요. 덤불은 가시가 있어서 들어가면 따끔해요.",
+   "funFact": "여우는 달콤한 열매를 아주 좋아해요.",
+   "photos": [
+    "File:Sweet Berries JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "cooked-cod",
+   "section": "food",
+   "name": "익힌 대구",
+   "subtitle": "낚시로 잡은 생선 구이",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧰",
+     "만드는 곳",
+     "화로, 모닥불",
+     ""
+    ],
+    [
+     "📦",
+     "한 칸에",
+     "64",
+     "개"
+    ],
+    [
+     "⭐",
+     "배부름",
+     "🍗 2.5칸",
+     ""
+    ]
+   ],
+   "recipe": {
+    "smelt": "raw-cod"
+   },
+   "uses": [
+    "배고픔 채우기"
+   ],
+   "story": "낚시로 잡은 대구를 구우면 돼요. 바다 근처에서 쉽게 구할 수 있는 음식이에요.",
+   "funFact": "익히지 않은 대구로는 고양이와 돌고래를 친구로 만들 수 있어요.",
+   "photos": [
+    "File:Cooked Cod JE4 BE3.png"
    ]
   },
   {
@@ -8244,6 +9640,76 @@
    "name": "불",
    "wiki": "Fire",
    "file": "File:Fire.gif"
+  },
+  "torch": {
+   "name": "횃불",
+   "wiki": "",
+   "file": "File:Torch JE7.png"
+  },
+  "iron-nugget": {
+   "name": "철 조각",
+   "wiki": "",
+   "file": "File:Iron Nugget JE1 BE1.png"
+  },
+  "slime-ball": {
+   "name": "슬라임볼",
+   "wiki": "",
+   "file": "File:Slimeball JE2 BE2.png"
+  },
+  "amethyst": {
+   "name": "자수정 조각",
+   "wiki": "",
+   "file": "File:Amethyst Shard JE2 BE1.png"
+  },
+  "copper-ingot": {
+   "name": "구리 주괴",
+   "wiki": "",
+   "file": "File:Copper Ingot JE2 BE1.png"
+  },
+  "fishing-rod": {
+   "name": "낚싯대",
+   "wiki": "",
+   "file": "File:Fishing Rod JE2 BE2.png"
+  },
+  "carrot": {
+   "name": "당근",
+   "wiki": "",
+   "file": "File:Carrot JE3 BE2.png"
+  },
+  "diamond-sword": {
+   "name": "다이아몬드 검",
+   "wiki": "",
+   "file": "File:Diamond Sword JE3 BE3.png"
+  },
+  "turtle-scute": {
+   "name": "거북 인갑",
+   "wiki": "",
+   "file": "File:Turtle Scute JE1 BE1.png"
+  },
+  "armadillo-scute": {
+   "name": "아르마딜로 인갑",
+   "wiki": "",
+   "file": "File:Armadillo Scute JE2 BE2.png"
+  },
+  "gunpowder": {
+   "name": "화약",
+   "wiki": "",
+   "file": "File:Gunpowder JE2 BE2.png"
+  },
+  "raw-chicken": {
+   "name": "익히지 않은 닭고기",
+   "wiki": "",
+   "file": "File:Raw Chicken JE3 BE3.png"
+  },
+  "raw-cod": {
+   "name": "익히지 않은 대구",
+   "wiki": "",
+   "file": "File:Raw Cod JE4 BE2.png"
+  },
+  "raw-copper": {
+   "name": "구리 원석",
+   "wiki": "",
+   "file": "File:Raw Copper JE3 BE2.png"
   }
  }
 }

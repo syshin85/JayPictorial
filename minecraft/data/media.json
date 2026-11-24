@@ -3054,5 +3054,389 @@
         "thumb": "assets/items/elytra-tip/thumb.png"
       }
     ]
+  },
+  "bookshelf": {
+    "images": [
+      {
+        "src": "assets/items/bookshelf/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Bookshelf_JE4_BE2.png",
+        "file": "File:Bookshelf JE4 BE2.png",
+        "thumb": "assets/items/bookshelf/thumb.png"
+      }
+    ]
+  },
+  "fence": {
+    "images": [
+      {
+        "src": "assets/items/fence/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Oak_Fence_(EW)_JE9.png",
+        "file": "File:Oak Fence (EW) JE9.png",
+        "thumb": "assets/items/fence/thumb.png"
+      }
+    ]
+  },
+  "campfire": {
+    "images": [
+      {
+        "src": "assets/items/campfire/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Campfire_(S)_JE2_BE2.gif",
+        "file": "File:Campfire (S) JE2 BE2.gif",
+        "thumb": "assets/items/campfire/thumb.png"
+      }
+    ]
+  },
+  "lantern": {
+    "images": [
+      {
+        "src": "assets/items/lantern/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Lantern_JE1_BE1.gif",
+        "file": "File:Lantern JE1 BE1.gif",
+        "thumb": "assets/items/lantern/thumb.png"
+      }
+    ]
+  },
+  "piston": {
+    "images": [
+      {
+        "src": "assets/items/piston/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Piston_(U)_JE3.gif",
+        "file": "File:Piston (U) JE3.gif",
+        "thumb": "assets/items/piston/thumb.png"
+      }
+    ]
+  },
+  "jukebox": {
+    "images": [
+      {
+        "src": "assets/items/jukebox/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Jukebox_JE2_BE2.png",
+        "file": "File:Jukebox JE2 BE2.png",
+        "thumb": "assets/items/jukebox/thumb.png"
+      }
+    ]
+  },
+  "note-block": {
+    "images": [
+      {
+        "src": "assets/items/note-block/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Note_Block_JE2_BE2.png",
+        "file": "File:Note Block JE2 BE2.png",
+        "thumb": "assets/items/note-block/thumb.png"
+      }
+    ]
+  },
+  "minecart": {
+    "images": [
+      {
+        "src": "assets/items/minecart/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Minecart_JE4_BE2.png",
+        "file": "File:Minecart JE4 BE2.png",
+        "thumb": "assets/items/minecart/thumb.png"
+      }
+    ]
+  },
+  "rail": {
+    "images": [
+      {
+        "src": "assets/items/rail/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Rail_(NS)_JE3_BE2.png",
+        "file": "File:Rail (NS) JE3 BE2.png",
+        "thumb": "assets/items/rail/thumb.png"
+      }
+    ]
+  },
+  "lead": {
+    "images": [
+      {
+        "src": "assets/items/lead/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Lead_JE2_BE2.png",
+        "file": "File:Lead JE2 BE2.png",
+        "thumb": "assets/items/lead/thumb.png"
+      }
+    ]
+  },
+  "name-tag": {
+    "images": [
+      {
+        "src": "assets/items/name-tag/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Name_Tag_JE3_BE2.png",
+        "file": "File:Name Tag JE3 BE2.png",
+        "thumb": "assets/items/name-tag/thumb.png"
+      }
+    ]
+  },
+  "spyglass": {
+    "images": [
+      {
+        "src": "assets/items/spyglass/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Spyglass_JE2_BE1.png",
+        "file": "File:Spyglass JE2 BE1.png",
+        "thumb": "assets/items/spyglass/thumb.png"
+      }
+    ]
+  },
+  "brush": {
+    "images": [
+      {
+        "src": "assets/items/brush/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Brush_JE1_BE1.png",
+        "file": "File:Brush JE1 BE1.png",
+        "thumb": "assets/items/brush/thumb.png"
+      }
+    ]
+  },
+  "carrot-on-a-stick": {
+    "images": [
+      {
+        "src": "assets/items/carrot-on-a-stick/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Carrot_on_a_Stick_JE2_BE2.png",
+        "file": "File:Carrot on a Stick JE2 BE2.png",
+        "thumb": "assets/items/carrot-on-a-stick/thumb.png"
+      }
+    ]
+  },
+  "saddle": {
+    "images": [
+      {
+        "src": "assets/items/saddle/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Saddle_JE2_BE2.png",
+        "file": "File:Saddle JE2 BE2.png",
+        "thumb": "assets/items/saddle/thumb.png"
+      }
+    ]
+  },
+  "netherite-sword": {
+    "images": [
+      {
+        "src": "assets/items/netherite-sword/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Netherite_Sword_JE2_BE2.png",
+        "file": "File:Netherite Sword JE2 BE2.png",
+        "thumb": "assets/items/netherite-sword/thumb.png"
+      }
+    ]
+  },
+  "turtle-shell": {
+    "images": [
+      {
+        "src": "assets/items/turtle-shell/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Turtle_Shell_JE1_BE1.png",
+        "file": "File:Turtle Shell JE1 BE1.png",
+        "thumb": "assets/items/turtle-shell/thumb.png"
+      }
+    ]
+  },
+  "wolf-armor": {
+    "images": [
+      {
+        "src": "assets/items/wolf-armor/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Wolf_Armor_(model)_JE2_BE2.png",
+        "file": "File:Wolf Armor (model) JE2 BE2.png",
+        "thumb": "assets/items/wolf-armor/thumb.png"
+      }
+    ]
+  },
+  "firework": {
+    "images": [
+      {
+        "src": "assets/items/firework/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Firework_Rocket_JE2_BE2.png",
+        "file": "File:Firework Rocket JE2 BE2.png",
+        "thumb": "assets/items/firework/thumb.png"
+      }
+    ]
+  },
+  "elytra": {
+    "images": [
+      {
+        "src": "assets/items/elytra/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Elytra_JE2_BE2.png",
+        "file": "File:Elytra JE2 BE2.png",
+        "thumb": "assets/items/elytra/thumb.png"
+      }
+    ]
+  },
+  "totem": {
+    "images": [
+      {
+        "src": "assets/items/totem/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Totem_of_Undying_JE2_BE2.png",
+        "file": "File:Totem of Undying JE2 BE2.png",
+        "thumb": "assets/items/totem/thumb.png"
+      }
+    ]
+  },
+  "copper-ingot": {
+    "images": [
+      {
+        "src": "assets/items/copper-ingot/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Copper_Ingot_JE2_BE1.png",
+        "file": "File:Copper Ingot JE2 BE1.png",
+        "thumb": "assets/items/copper-ingot/thumb.png"
+      }
+    ]
+  },
+  "amethyst": {
+    "images": [
+      {
+        "src": "assets/items/amethyst/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Amethyst_Shard_JE2_BE1.png",
+        "file": "File:Amethyst Shard JE2 BE1.png",
+        "thumb": "assets/items/amethyst/thumb.png"
+      }
+    ]
+  },
+  "slime-ball": {
+    "images": [
+      {
+        "src": "assets/items/slime-ball/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Slimeball_JE2_BE2.png",
+        "file": "File:Slimeball JE2 BE2.png",
+        "thumb": "assets/items/slime-ball/thumb.png"
+      }
+    ]
+  },
+  "quartz": {
+    "images": [
+      {
+        "src": "assets/items/quartz/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Nether_Quartz_JE2_BE2.png",
+        "file": "File:Nether Quartz JE2 BE2.png",
+        "thumb": "assets/items/quartz/thumb.png"
+      }
+    ]
+  },
+  "iron-block": {
+    "images": [
+      {
+        "src": "assets/items/iron-block/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Block_of_Iron_JE4_BE3.png",
+        "file": "File:Block of Iron JE4 BE3.png",
+        "thumb": "assets/items/iron-block/thumb.png"
+      }
+    ]
+  },
+  "golden-carrot": {
+    "images": [
+      {
+        "src": "assets/items/golden-carrot/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Golden_Carrot_JE4_BE2.png",
+        "file": "File:Golden Carrot JE4 BE2.png",
+        "thumb": "assets/items/golden-carrot/thumb.png"
+      }
+    ]
+  },
+  "cooked-chicken": {
+    "images": [
+      {
+        "src": "assets/items/cooked-chicken/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Cooked_Chicken_JE3_BE3.png",
+        "file": "File:Cooked Chicken JE3 BE3.png",
+        "thumb": "assets/items/cooked-chicken/thumb.png"
+      }
+    ]
+  },
+  "honey-bottle": {
+    "images": [
+      {
+        "src": "assets/items/honey-bottle/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Honey_Bottle_JE1_BE2.png",
+        "file": "File:Honey Bottle JE1 BE2.png",
+        "thumb": "assets/items/honey-bottle/thumb.png"
+      }
+    ]
+  },
+  "melon-slice": {
+    "images": [
+      {
+        "src": "assets/items/melon-slice/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Melon_Slice_JE2_BE2.png",
+        "file": "File:Melon Slice JE2 BE2.png",
+        "thumb": "assets/items/melon-slice/thumb.png"
+      }
+    ]
+  },
+  "sweet-berries": {
+    "images": [
+      {
+        "src": "assets/items/sweet-berries/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Sweet_Berries_JE1_BE1.png",
+        "file": "File:Sweet Berries JE1 BE1.png",
+        "thumb": "assets/items/sweet-berries/thumb.png"
+      }
+    ]
+  },
+  "cooked-cod": {
+    "images": [
+      {
+        "src": "assets/items/cooked-cod/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Cooked_Cod_JE4_BE3.png",
+        "file": "File:Cooked Cod JE4 BE3.png",
+        "thumb": "assets/items/cooked-cod/thumb.png"
+      }
+    ]
   }
 }

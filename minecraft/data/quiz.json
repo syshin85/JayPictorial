@@ -922,6 +922,52 @@
  {
   "id": "q041",
   "kind": "recipe",
+  "question": "활을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/bow/thumb.png",
+  "choices": [
+   {
+    "text": "종이 8개 + 나침반 1개",
+    "image": null
+   },
+   {
+    "text": "실 4개 + 슬라임볼 1개",
+    "image": null
+   },
+   {
+    "text": "막대기 3개 + 실 3개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "활은 막대기 3개 + 실 3개를 써서 만들어요.",
+  "item": "bow"
+ },
+ {
+  "id": "q042",
+  "kind": "recipe",
+  "question": "양동이를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/bucket/thumb.png",
+  "choices": [
+   {
+    "text": "종이 1개 + 화약 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 3개",
+    "image": null
+   },
+   {
+    "text": "판자 3개 + 막대기 2개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "양동이는 철 주괴 3개를 써서 만들어요.",
+  "item": "bucket"
+ },
+ {
+  "id": "q043",
+  "kind": "recipe",
   "question": "빵을 만들려면 무엇이 필요할까요?",
   "image": "assets/items/bread/thumb.png",
   "choices": [
@@ -930,11 +976,11 @@
     "image": null
    },
    {
-    "text": "철 주괴 5개",
+    "text": "판자 6개 + 철 주괴 1개",
     "image": null
    },
    {
-    "text": "금 주괴 4개 + 레드스톤 가루 1개",
+    "text": "철 주괴 5개",
     "image": null
    }
   ],
@@ -943,266 +989,59 @@
   "item": "bread"
  },
  {
-  "id": "q042",
+  "id": "q044",
   "kind": "recipe",
-  "question": "상자를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/chest/thumb.png",
+  "question": "소리 블록을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/note-block/thumb.png",
   "choices": [
    {
-    "text": "판자 8개",
+    "text": "다이아몬드 8개",
+    "image": null
+   },
+   {
+    "text": "판자 8개 + 레드스톤 가루 1개",
     "image": null
    },
    {
     "text": "호박 1개 + 설탕 1개 + 달걀 1개",
     "image": null
-   },
-   {
-    "text": "다이아몬드 3개 + 막대기 2개",
-    "image": null
    }
   ],
-  "answer": 0,
-  "explain": "상자는 판자 8개를 써서 만들어요.",
-  "item": "chest"
- },
- {
-  "id": "q043",
-  "kind": "recipe",
-  "question": "양조기를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/brewing-stand/thumb.png",
-  "choices": [
-   {
-    "text": "조약돌 8개",
-    "image": null
-   },
-   {
-    "text": "철 주괴 4개 + 레드스톤 가루 1개",
-    "image": null
-   },
-   {
-    "text": "블레이즈 막대기 1개 + 조약돌 3개",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "양조기는 블레이즈 막대기 1개 + 조약돌 3개를 써서 만들어요.",
-  "item": "brewing-stand"
- },
- {
-  "id": "q044",
-  "kind": "recipe",
-  "question": "부싯돌과 부시를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/flint-and-steel/thumb.png",
-  "choices": [
-   {
-    "text": "철 주괴 1개 + 부싯돌 1개",
-    "image": null
-   },
-   {
-    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
-    "image": null
-   },
-   {
-    "text": "철 주괴 5개",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "부싯돌과 부시는 철 주괴 1개 + 부싯돌 1개를 써서 만들어요.",
-  "item": "flint-and-steel"
+  "answer": 1,
+  "explain": "소리 블록은 판자 8개 + 레드스톤 가루 1개를 써서 만들어요.",
+  "item": "note-block"
  },
  {
   "id": "q045",
   "kind": "recipe",
-  "question": "다이아몬드 곡괭이를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/diamond-pickaxe/thumb.png",
+  "question": "다이아몬드 검을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/diamond-sword/thumb.png",
   "choices": [
    {
-    "text": "판자 8개",
-    "image": null
-   },
-   {
-    "text": "다이아몬드 3개 + 막대기 2개",
-    "image": null
-   },
-   {
-    "text": "블레이즈 막대기 1개 + 조약돌 3개",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "다이아몬드 곡괭이는 다이아몬드 3개 + 막대기 2개를 써서 만들어요.",
-  "item": "diamond-pickaxe"
- },
- {
-  "id": "q046",
-  "kind": "recipe",
-  "question": "사다리를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/ladder/thumb.png",
-  "choices": [
-   {
-    "text": "빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개",
-    "image": null
-   },
-   {
-    "text": "막대기 7개",
+    "text": "다이아몬드 2개 + 막대기 1개",
     "image": null
    },
    {
     "text": "책 1개 + 다이아몬드 2개 + 흑요석 4개",
     "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "사다리는 막대기 7개를 써서 만들어요.",
-  "item": "ladder"
- },
- {
-  "id": "q047",
-  "kind": "recipe",
-  "question": "시계를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/clock/thumb.png",
-  "choices": [
-   {
-    "text": "금 주괴 4개 + 레드스톤 가루 1개",
-    "image": null
    },
    {
-    "text": "철 주괴 4개 + 레드스톤 가루 1개",
-    "image": null
-   },
-   {
-    "text": "밀 3개",
+    "text": "판자 3개 + 조약돌 4개 + 철 주괴 1개 + 레드스톤 가루 1개",
     "image": null
    }
   ],
   "answer": 0,
-  "explain": "시계는 금 주괴 4개 + 레드스톤 가루 1개를 써서 만들어요.",
-  "item": "clock"
+  "explain": "다이아몬드 검은 다이아몬드 2개 + 막대기 1개를 써서 만들어요.",
+  "item": "diamond-sword"
  },
  {
-  "id": "q048",
-  "kind": "recipe",
-  "question": "버섯 스튜를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/mushroom-stew/thumb.png",
-  "choices": [
-   {
-    "text": "빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개",
-    "image": null
-   },
-   {
-    "text": "석탄 1개 + 막대기 1개",
-    "image": null
-   },
-   {
-    "text": "금 주괴 4개 + 레드스톤 가루 1개",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "버섯 스튜는 빨간 버섯 1개 + 갈색 버섯 1개 + 그릇 1개를 써서 만들어요.",
-  "item": "mushroom-stew"
- },
- {
-  "id": "q049",
-  "kind": "recipe",
-  "question": "화살을 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/arrow/thumb.png",
-  "choices": [
-   {
-    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
-    "image": null
-   },
-   {
-    "text": "판자 6개",
-    "image": null
-   },
-   {
-    "text": "밀 2개 + 코코아 콩 1개",
-    "image": null
-   }
-  ],
-  "answer": 0,
-  "explain": "화살은 부싯돌 1개 + 막대기 1개 + 깃털 1개를 써서 만들어요.",
-  "item": "arrow"
- },
- {
-  "id": "q050",
-  "kind": "recipe",
-  "question": "제작대를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/crafting-table/thumb.png",
-  "choices": [
-   {
-    "text": "원목 1개",
-    "image": null
-   },
-   {
-    "text": "조약돌 3개 + 막대기 2개",
-    "image": null
-   },
-   {
-    "text": "판자 4개",
-    "image": null
-   }
-  ],
-  "answer": 2,
-  "explain": "제작대는 판자 4개를 써서 만들어요.",
-  "item": "crafting-table"
- },
- {
-  "id": "q051",
-  "kind": "recipe",
-  "question": "판자를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/oak-planks/thumb.png",
-  "choices": [
-   {
-    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
-    "image": null
-   },
-   {
-    "text": "원목 1개",
-    "image": null
-   },
-   {
-    "text": "다이아몬드 8개",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "판자는 원목 1개를 써서 만들어요.",
-  "item": "oak-planks"
- },
- {
-  "id": "q052",
-  "kind": "recipe",
-  "question": "금 주괴를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/gold-ingot/thumb.png",
-  "choices": [
-   {
-    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
-    "image": null
-   },
-   {
-    "text": "금 조각 9개",
-    "image": null
-   },
-   {
-    "text": "원목 1개",
-    "image": null
-   }
-  ],
-  "answer": 1,
-  "explain": "금 주괴는 금 조각 9개를 써서 만들어요.",
-  "item": "gold-ingot"
- },
- {
-  "id": "q053",
+  "id": "q046",
   "kind": "recipe",
   "question": "횃불을 만들려면 무엇이 필요할까요?",
   "image": "assets/items/torch/thumb.png",
   "choices": [
    {
-    "text": "호박 1개 + 설탕 1개 + 달걀 1개",
+    "text": "철 주괴 2개 + 막대기 2개",
     "image": null
    },
    {
@@ -1210,7 +1049,7 @@
     "image": null
    },
    {
-    "text": "철 주괴 2개 + 막대기 2개",
+    "text": "막대기 3개 + 철 주괴 1개 + 실 2개 + 철사 덫 갈고리 1개",
     "image": null
    }
   ],
@@ -1219,27 +1058,188 @@
   "item": "torch"
  },
  {
-  "id": "q054",
+  "id": "q047",
   "kind": "recipe",
-  "question": "화로를 만들려면 무엇이 필요할까요?",
-  "image": "assets/items/furnace/thumb.png",
+  "question": "쿠키를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/cookie/thumb.png",
   "choices": [
    {
-    "text": "막대기 3개 + 실 2개",
+    "text": "막대기 7개",
     "image": null
    },
    {
-    "text": "조약돌 8개",
+    "text": "밀 2개 + 코코아 콩 1개",
+    "image": null
+   },
+   {
+    "text": "판자 4개 + 막대기 2개",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "쿠키는 밀 2개 + 코코아 콩 1개를 써서 만들어요.",
+  "item": "cookie"
+ },
+ {
+  "id": "q048",
+  "kind": "recipe",
+  "question": "황금 사과를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/golden-apple/thumb.png",
+  "choices": [
+   {
+    "text": "금 주괴 8개 + 사과 1개",
     "image": null
    },
    {
     "text": "종이 8개 + 나침반 1개",
     "image": null
+   },
+   {
+    "text": "막대기 3개 + 실 3개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "황금 사과는 금 주괴 8개 + 사과 1개를 써서 만들어요.",
+  "item": "golden-apple"
+ },
+ {
+  "id": "q049",
+  "kind": "recipe",
+  "question": "가위를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/shears/thumb.png",
+  "choices": [
+   {
+    "text": "금 조각 8개 + 당근 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 9개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 2개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "가위는 철 주괴 2개를 써서 만들어요.",
+  "item": "shears"
+ },
+ {
+  "id": "q050",
+  "kind": "recipe",
+  "question": "광산 수레를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/minecart/thumb.png",
+  "choices": [
+   {
+    "text": "무거운 코어 1개 + 브리즈 막대기 1개",
+    "image": null
+   },
+   {
+    "text": "자수정 조각 1개 + 구리 주괴 2개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 5개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "광산 수레는 철 주괴 5개를 써서 만들어요.",
+  "item": "minecart"
+ },
+ {
+  "id": "q051",
+  "kind": "recipe",
+  "question": "케이크를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/cake/thumb.png",
+  "choices": [
+   {
+    "text": "우유 양동이 3개 + 설탕 2개 + 달걀 1개 + 밀 3개",
+    "image": null
+   },
+   {
+    "text": "원목 1개",
+    "image": null
+   },
+   {
+    "text": "판자 4개 + 막대기 2개",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "케이크는 우유 양동이 3개 + 설탕 2개 + 달걀 1개 + 밀 3개를 써서 만들어요.",
+  "item": "cake"
+ },
+ {
+  "id": "q052",
+  "kind": "recipe",
+  "question": "철 블록을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/iron-block/thumb.png",
+  "choices": [
+   {
+    "text": "석탄 1개 + 막대기 1개",
+    "image": null
+   },
+   {
+    "text": "깃털 1개 + 구리 주괴 1개 + 막대기 1개",
+    "image": null
+   },
+   {
+    "text": "철 주괴 9개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "철 블록은 철 주괴 9개를 써서 만들어요.",
+  "item": "iron-block"
+ },
+ {
+  "id": "q053",
+  "kind": "recipe",
+  "question": "화살을 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/arrow/thumb.png",
+  "choices": [
+   {
+    "text": "조약돌 3개 + 막대기 2개",
+    "image": null
+   },
+   {
+    "text": "막대기 3개 + 철 주괴 1개 + 실 2개 + 철사 덫 갈고리 1개",
+    "image": null
+   },
+   {
+    "text": "부싯돌 1개 + 막대기 1개 + 깃털 1개",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "화살은 부싯돌 1개 + 막대기 1개 + 깃털 1개를 써서 만들어요.",
+  "item": "arrow"
+ },
+ {
+  "id": "q054",
+  "kind": "recipe",
+  "question": "상자를 만들려면 무엇이 필요할까요?",
+  "image": "assets/items/chest/thumb.png",
+  "choices": [
+   {
+    "text": "막대기 3개 + 실 3개",
+    "image": null
+   },
+   {
+    "text": "판자 8개",
+    "image": null
+   },
+   {
+    "text": "자수정 조각 1개 + 구리 주괴 2개",
+    "image": null
    }
   ],
   "answer": 1,
-  "explain": "화로는 조약돌 8개를 써서 만들어요.",
-  "item": "furnace"
+  "explain": "상자는 판자 8개를 써서 만들어요.",
+  "item": "chest"
  },
  {
   "id": "q055",
@@ -1248,11 +1248,11 @@
   "image": "assets/items/creeper/thumb.png",
   "choices": [
    {
-    "text": "닭",
+    "text": "고양이",
     "image": null
    },
    {
-    "text": "고양이",
+    "text": "닭",
     "image": null
    },
    {
@@ -1260,7 +1260,7 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "크리퍼는 고양이를 무서워해요. 🐱",
   "item": "creeper"
  },
@@ -1271,19 +1271,19 @@
   "image": "assets/items/enderman/thumb.png",
   "choices": [
    {
+    "text": "노래를 부를 때",
+    "image": null
+   },
+   {
     "text": "눈을 마주칠 때",
     "image": null
    },
    {
     "text": "점프할 때",
     "image": null
-   },
-   {
-    "text": "노래를 부를 때",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "엔더맨은 눈을 똑바로 쳐다보면 화를 내요.",
   "item": "enderman"
  },
@@ -1294,19 +1294,19 @@
   "image": "assets/items/enderman/thumb.png",
   "choices": [
    {
-    "text": "꽃",
-    "image": null
-   },
-   {
     "text": "모래",
     "image": null
    },
    {
     "text": "물",
     "image": null
+   },
+   {
+    "text": "꽃",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "엔더맨은 물에 닿으면 아파해요. 💧",
   "item": "enderman"
  },
@@ -1317,11 +1317,11 @@
   "image": "assets/items/zombie/thumb.png",
   "choices": [
    {
-    "text": "불이 붙어요",
+    "text": "잠을 자요",
     "image": null
    },
    {
-    "text": "잠을 자요",
+    "text": "불이 붙어요",
     "image": null
    },
    {
@@ -1329,7 +1329,7 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "좀비와 스켈레톤은 햇빛을 받으면 불이 붙어요. ☀️",
   "item": "zombie"
  },
@@ -1340,7 +1340,7 @@
   "image": null,
   "choices": [
    {
-    "text": "드라운드",
+    "text": "스트레이",
     "image": null
    },
    {
@@ -1348,7 +1348,7 @@
     "image": null
    },
    {
-    "text": "스트레이",
+    "text": "드라운드",
     "image": null
    }
   ],
@@ -1363,19 +1363,19 @@
   "image": "assets/items/phantom/thumb.png",
   "choices": [
    {
-    "text": "횃불을 꽂아요",
-    "image": null
-   },
-   {
     "text": "침대에서 잠을 자요",
     "image": null
    },
    {
     "text": "물을 부어요",
     "image": null
+   },
+   {
+    "text": "횃불을 꽂아요",
+    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "사흘 밤 넘게 안 자면 팬텀이 와요. 잘 자요! 🛏️",
   "item": "phantom"
  },
@@ -1386,11 +1386,11 @@
   "image": "assets/items/piglin/thumb.png",
   "choices": [
    {
-    "text": "다이아몬드",
+    "text": "흙",
     "image": null
    },
    {
-    "text": "흙",
+    "text": "다이아몬드",
     "image": null
    },
    {
@@ -1409,7 +1409,7 @@
   "image": "assets/items/wolf/thumb.png",
   "choices": [
    {
-    "text": "사과",
+    "text": "뼈",
     "image": null
    },
    {
@@ -1417,11 +1417,11 @@
     "image": null
    },
    {
-    "text": "뼈",
+    "text": "사과",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "뼈를 주면 늑대가 빨간 목걸이를 한 친구가 돼요. 🐶",
   "item": "wolf"
  },
@@ -1432,11 +1432,11 @@
   "image": "assets/items/cat/thumb.png",
   "choices": [
    {
-    "text": "날생선",
+    "text": "밀",
     "image": null
    },
    {
-    "text": "밀",
+    "text": "날생선",
     "image": null
    },
    {
@@ -1444,7 +1444,7 @@
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "고양이는 생선을 좋아해요. 🐟",
   "item": "cat"
  },
@@ -1478,19 +1478,19 @@
   "image": "assets/items/cow/thumb.png",
   "choices": [
    {
-    "text": "빈 양동이",
-    "image": null
-   },
-   {
     "text": "가위",
     "image": null
    },
    {
     "text": "그릇",
     "image": null
+   },
+   {
+    "text": "빈 양동이",
+    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "빈 양동이를 들고 소를 누르면 우유를 받아요. 🥛",
   "item": "cow"
  },
@@ -1501,19 +1501,19 @@
   "image": "assets/items/sheep/thumb.png",
   "choices": [
    {
-    "text": "가위",
-    "image": null
-   },
-   {
     "text": "삽",
     "image": null
    },
    {
     "text": "괭이",
     "image": null
+   },
+   {
+    "text": "가위",
+    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "가위로 털을 깎으면 양털이 나와요.",
   "item": "sheep"
  },
@@ -1524,19 +1524,19 @@
   "image": "assets/items/axolotl/thumb.png",
   "choices": [
    {
+    "text": "파란색",
+    "image": null
+   },
+   {
     "text": "분홍색",
     "image": null
    },
    {
     "text": "갈색",
     "image": null
-   },
-   {
-    "text": "파란색",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "파란 아홀로틀은 1200마리 중 한 마리꼴로 태어나요.",
   "item": "axolotl"
  },
@@ -1551,15 +1551,15 @@
     "image": null
    },
    {
-    "text": "눈 블록",
+    "text": "호박",
     "image": null
    },
    {
-    "text": "호박",
+    "text": "눈 블록",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "철 블록 4개 위에 호박을 올리면 철 골렘이 태어나요.",
   "item": "iron-golem"
  },
@@ -1570,11 +1570,11 @@
   "image": "assets/items/snow-golem/thumb.png",
   "choices": [
    {
-    "text": "화살",
+    "text": "눈덩이",
     "image": null
    },
    {
-    "text": "눈덩이",
+    "text": "화살",
     "image": null
    },
    {
@@ -1582,7 +1582,7 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "눈 골렘은 눈덩이를 던져요. ⛄",
   "item": "snow-golem"
  },
@@ -1593,11 +1593,11 @@
   "image": "assets/items/ender-dragon/thumb.png",
   "choices": [
    {
-    "text": "다이아몬드",
+    "text": "엔드 수정",
     "image": null
    },
    {
-    "text": "엔드 수정",
+    "text": "다이아몬드",
     "image": null
    },
    {
@@ -1605,7 +1605,7 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "엔드 수정을 먼저 부숴야 드래곤을 물리칠 수 있어요.",
   "item": "ender-dragon"
  },
@@ -1616,19 +1616,19 @@
   "image": "assets/items/warden/thumb.png",
   "choices": [
    {
+    "text": "빛",
+    "image": null
+   },
+   {
     "text": "색깔",
     "image": null
    },
    {
     "text": "소리와 냄새",
     "image": null
-   },
-   {
-    "text": "빛",
-    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "워든은 소리에 민감해서 웅크리고 살금살금 다녀야 해요.",
   "item": "warden"
  },
@@ -1662,7 +1662,7 @@
   "image": "assets/items/ghast/thumb.png",
   "choices": [
    {
-    "text": "물로만 막아요",
+    "text": "절대 못 막아요",
     "image": null
    },
    {
@@ -1670,7 +1670,7 @@
     "image": null
    },
    {
-    "text": "절대 못 막아요",
+    "text": "물로만 막아요",
     "image": null
    }
   ],
@@ -1685,7 +1685,7 @@
   "image": "assets/items/bed/thumb.png",
   "choices": [
    {
-    "text": "엔드로 가요",
+    "text": "아침이 돼요",
     "image": null
    },
    {
@@ -1693,7 +1693,7 @@
     "image": null
    },
    {
-    "text": "아침이 돼요",
+    "text": "엔드로 가요",
     "image": null
    }
   ],
@@ -1708,19 +1708,19 @@
   "image": "assets/items/water-bucket/thumb.png",
   "choices": [
    {
+    "text": "모래",
+    "image": null
+   },
+   {
     "text": "물",
     "image": null
    },
    {
     "text": "용암",
     "image": null
-   },
-   {
-    "text": "모래",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "물에 떨어지면 다치지 않아요. '물 양동이 착지'예요.",
   "item": "water-bucket"
  },
@@ -1731,7 +1731,7 @@
   "image": null,
   "choices": [
    {
-    "text": "철 곡괭이",
+    "text": "나무 곡괭이",
     "image": null
    },
    {
@@ -1739,11 +1739,11 @@
     "image": null
    },
    {
-    "text": "나무 곡괭이",
+    "text": "철 곡괭이",
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "다이아몬드는 철 곡괭이 이상으로 캐야 나와요.",
   "item": "iron-pickaxe"
  },
@@ -1754,19 +1754,19 @@
   "image": null,
   "choices": [
    {
-    "text": "철 곡괭이",
-    "image": null
-   },
-   {
     "text": "금 곡괭이",
     "image": null
    },
    {
     "text": "다이아몬드 곡괭이",
     "image": null
+   },
+   {
+    "text": "철 곡괭이",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "흑요석은 다이아몬드나 네더라이트 곡괭이로만 캐요.",
   "item": "diamond-pickaxe"
  },
@@ -1777,19 +1777,19 @@
   "image": null,
   "choices": [
    {
+    "text": "철",
+    "image": null
+   },
+   {
     "text": "네더라이트",
     "image": null
    },
    {
     "text": "다이아몬드",
     "image": null
-   },
-   {
-    "text": "철",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "네더라이트 물건은 용암 위에 둥둥 떠요.",
   "item": "netherite-pickaxe"
  },
@@ -1804,11 +1804,11 @@
     "image": null
    },
    {
-    "text": "눈",
+    "text": "모래",
     "image": null
    },
    {
-    "text": "모래",
+    "text": "눈",
     "image": null
    }
   ],
@@ -1823,19 +1823,19 @@
   "image": "assets/items/eye-of-ender/thumb.png",
   "choices": [
    {
-    "text": "마을",
-    "image": null
-   },
-   {
     "text": "요새",
     "image": null
    },
    {
     "text": "바다 신전",
     "image": null
+   },
+   {
+    "text": "마을",
+    "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "엔더의 눈은 엔드 차원문이 있는 요새 쪽으로 날아가요.",
   "item": "eye-of-ender"
  },
@@ -1850,15 +1850,15 @@
     "image": null
    },
    {
-    "text": "흑요석",
+    "text": "철 블록",
     "image": null
    },
    {
-    "text": "철 블록",
+    "text": "흑요석",
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "흑요석 틀에 불을 붙이면 네더로 가는 문이 열려요.",
   "item": "nether-portal"
  },
@@ -1869,11 +1869,11 @@
   "image": "assets/items/torches/thumb.png",
   "choices": [
    {
-    "text": "물을 부어요",
+    "text": "횃불로 밝혀요",
     "image": null
    },
    {
-    "text": "횃불로 밝혀요",
+    "text": "물을 부어요",
     "image": null
    },
    {
@@ -1881,7 +1881,7 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "몬스터는 어두운 곳에서 생겨요. 횃불로 밝게! 🔥",
   "item": "torches"
  },
@@ -1892,11 +1892,11 @@
   "image": "assets/items/stairs-down/thumb.png",
   "choices": [
    {
-    "text": "횃불 꽂기",
+    "text": "발 바로 아래 파기",
     "image": null
    },
    {
-    "text": "발 바로 아래 파기",
+    "text": "횃불 꽂기",
     "image": null
    },
    {
@@ -1904,7 +1904,7 @@
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 0,
   "explain": "발 아래를 파면 용암이나 동굴로 떨어질 수 있어요.",
   "item": "stairs-down"
  },
@@ -1942,15 +1942,15 @@
     "image": null
    },
    {
-    "text": "조약돌",
+    "text": "모래",
     "image": null
    },
    {
-    "text": "모래",
+    "text": "조약돌",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "모래를 구우면 유리가 돼요.",
   "item": "glass"
  },
@@ -1961,19 +1961,19 @@
   "image": "assets/items/cake/thumb.png",
   "choices": [
    {
-    "text": "3번",
-    "image": null
-   },
-   {
     "text": "1번",
     "image": null
    },
    {
     "text": "7번",
     "image": null
+   },
+   {
+    "text": "3번",
+    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "케이크는 한 조각씩 7번 먹을 수 있어요. 🎂",
   "item": "cake"
  },
@@ -1984,7 +1984,7 @@
   "image": "assets/items/golden-apple/thumb.png",
   "choices": [
    {
-    "text": "다이아몬드",
+    "text": "철 주괴",
     "image": null
    },
    {
@@ -1992,7 +1992,7 @@
     "image": null
    },
    {
-    "text": "철 주괴",
+    "text": "다이아몬드",
     "image": null
    }
   ],
@@ -2030,7 +2030,7 @@
   "image": "assets/items/game-modes/thumb.png",
   "choices": [
    {
-    "text": "평화로움",
+    "text": "쉬움",
     "image": null
    },
    {
@@ -2038,11 +2038,11 @@
     "image": null
    },
    {
-    "text": "쉬움",
+    "text": "평화로움",
     "image": null
    }
   ],
-  "answer": 0,
+  "answer": 2,
   "explain": "평화로움 난이도에서는 몬스터가 나오지 않아요. 🕊️",
   "item": "game-modes"
  },
@@ -2053,11 +2053,11 @@
   "image": null,
   "choices": [
    {
-    "text": "보트",
+    "text": "썰매",
     "image": null
    },
    {
-    "text": "썰매",
+    "text": "보트",
     "image": null
    },
    {
@@ -2080,15 +2080,15 @@
     "image": null
    },
    {
-    "text": "씨앗",
+    "text": "당근",
     "image": null
    },
    {
-    "text": "당근",
+    "text": "씨앗",
     "image": null
    }
   ],
-  "answer": 2,
+  "answer": 1,
   "explain": "돼지는 당근, 소와 양은 밀, 닭은 씨앗을 좋아해요.",
   "item": "breed-tip"
  },
@@ -2099,7 +2099,7 @@
   "image": null,
   "choices": [
    {
-    "text": "상자",
+    "text": "양동이",
     "image": null
    },
    {
@@ -2107,7 +2107,7 @@
     "image": null
    },
    {
-    "text": "양동이",
+    "text": "상자",
     "image": null
    }
   ],
@@ -2122,19 +2122,19 @@
   "image": "assets/items/elytra-tip/thumb.png",
   "choices": [
    {
+    "text": "폭죽 로켓",
+    "image": null
+   },
+   {
     "text": "화살",
     "image": null
    },
    {
     "text": "눈덩이",
     "image": null
-   },
-   {
-    "text": "폭죽 로켓",
-    "image": null
    }
   ],
-  "answer": 2,
+  "answer": 0,
   "explain": "폭죽 로켓을 쓰면 겉날개로 하늘 높이 날아요. 🎆",
   "item": "elytra-tip"
  },
@@ -2149,15 +2149,15 @@
     "image": null
    },
    {
-    "text": "에메랄드",
+    "text": "청금석",
     "image": null
    },
    {
-    "text": "청금석",
+    "text": "에메랄드",
     "image": null
    }
   ],
-  "answer": 1,
+  "answer": 2,
   "explain": "주민은 에메랄드로 물건을 바꿔 줘요. 💚",
   "item": "trade-tip"
  }
