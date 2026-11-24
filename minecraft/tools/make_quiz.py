@@ -138,10 +138,15 @@ FACTS = [
     ("cake", "케이크는 몇 번 나눠 먹을 수 있을까요?", "7번", ["1번", "3번"], "케이크는 한 조각씩 7번 먹을 수 있어요. 🎂"),
     ("golden-apple", "황금 사과를 만들 때 사과를 둘러싸는 것은?", "금 주괴", ["다이아몬드", "철 주괴"], "사과를 금 주괴 8개로 둘러싸요."),
     ("sniffer", "스니퍼가 땅을 파서 찾아 주는 것은?", "옛날 씨앗", ["다이아몬드", "뼈"], "스니퍼는 다른 데 없는 옛날 꽃씨를 찾아 줘요."),
+    ("game-modes", "몬스터가 하나도 나오지 않는 난이도는?", "평화로움", ["쉬움", "어려움"], "평화로움 난이도에서는 몬스터가 나오지 않아요. 🕊️"),
+    ("rails-tip", "레일 위를 달리는 수레의 이름은?", "광산 수레", ["보트", "썰매"], "광산 수레를 레일 위에 올리면 기차처럼 달려요. 🚃"),
+    ("breed-tip", "돼지가 좋아해서 아기 돼지가 태어나게 하는 먹이는?", "당근", ["밀", "씨앗"], "돼지는 당근, 소와 양은 밀, 닭은 씨앗을 좋아해요."),
+    ("horse-tip", "말을 내 마음대로 조종하려면 무엇을 얹어야 할까요?", "안장", ["양동이", "상자"], "길들인 말에 안장을 얹으면 조종할 수 있어요. 🐴"),
+    ("elytra-tip", "겉날개를 입고 하늘로 슝 날아오르게 해 주는 것은?", "폭죽 로켓", ["눈덩이", "화살"], "폭죽 로켓을 쓰면 겉날개로 하늘 높이 날아요. 🎆"),
     ("trade-tip", "주민과 거래할 때 돈처럼 쓰는 보석은?", "에메랄드", ["다이아몬드", "청금석"], "주민은 에메랄드로 물건을 바꿔 줘요. 💚"),
 ]
 # the picture would give the answer away
-NO_PICTURE = {"husk", "iron-pickaxe", "diamond-pickaxe", "netherite-pickaxe", "nether-portal", "trade-tip"}
+NO_PICTURE = {"rails-tip", "horse-tip", "husk", "iron-pickaxe", "diamond-pickaxe", "netherite-pickaxe", "nether-portal", "trade-tip"}
 for i, q, right, wrongs, explain in FACTS:
     assert i in items, i
     choices, ans = text_choices(right, wrongs)

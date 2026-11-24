@@ -2522,5 +2522,537 @@
         "source": "https://www.youtube.com/watch?v=VLhHpuxBLjo"
       }
     ]
+  },
+  "desert-house": {
+    "video": {
+      "youtube": "vTOTa7hG7B0",
+      "title": "Minecraft : How to build a DESERT HOUSE - Minecraft : DESERT HOUSE TUTORIAL",
+      "seconds": 871,
+      "channel": "BuildCraft Studio"
+    },
+    "images": [
+      {
+        "src": "assets/items/desert-house/1.jpg",
+        "thumb": "assets/items/desert-house/thumb.jpg",
+        "credit": "BuildCraft Studio",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=vTOTa7hG7B0"
+      }
+    ]
+  },
+  "winter-cabin": {
+    "video": {
+      "youtube": "Sa0nxFfN7qM",
+      "title": "Minecraft | Winter Cabin Tutorial | Starter House | Relaxing",
+      "seconds": 490,
+      "channel": "FenX Builds"
+    },
+    "images": [
+      {
+        "src": "assets/items/winter-cabin/1.jpg",
+        "thumb": "assets/items/winter-cabin/thumb.jpg",
+        "credit": "FenX Builds",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=Sa0nxFfN7qM"
+      }
+    ]
+  },
+  "mountain-house": {
+    "video": {
+      "youtube": "Icc3i-dZrZg",
+      "title": "Minecraft Mountain House | Build a Minecraft Base ► Minecraft Tutorial - How To Build In Minecraft",
+      "seconds": 1121,
+      "channel": "Mr Mirror"
+    },
+    "images": [
+      {
+        "src": "assets/items/mountain-house/1.jpg",
+        "thumb": "assets/items/mountain-house/thumb.jpg",
+        "credit": "Mr Mirror",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=Icc3i-dZrZg"
+      }
+    ]
+  },
+  "bee-house": {
+    "video": {
+      "youtube": "If6kNfl8JbM",
+      "title": "⛏️ Minecraft Tutorial :: Cute Bee Shaped House (2026 Remake Version) 🐝🥰 [마인크래프트 꿀벌 모양 집짓기 리메이크 건축강좌]",
+      "seconds": 716,
+      "channel": "만두민 ManDooMiN"
+    },
+    "images": [
+      {
+        "src": "assets/items/bee-house/1.jpg",
+        "thumb": "assets/items/bee-house/thumb.jpg",
+        "credit": "만두민 ManDooMiN",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=If6kNfl8JbM"
+      }
+    ]
+  },
+  "wizard-tower": {
+    "video": {
+      "youtube": "15gbVAPAri4",
+      "title": "Minecraft: How To Build a Wizard Tower | Tutorial",
+      "seconds": 884,
+      "channel": "BuilderWizard"
+    },
+    "images": [
+      {
+        "src": "assets/items/wizard-tower/1.jpg",
+        "thumb": "assets/items/wizard-tower/thumb.jpg",
+        "credit": "BuilderWizard",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=15gbVAPAri4"
+      }
+    ]
+  },
+  "fantasy-castle": {
+    "video": {
+      "youtube": "iux_L9j4lHs",
+      "title": "I Built the Disney Castle in Crazy Detail! (with LDShadowlady)",
+      "seconds": 611,
+      "channel": "SmallishBeans"
+    },
+    "images": [
+      {
+        "src": "assets/items/fantasy-castle/1.jpg",
+        "thumb": "assets/items/fantasy-castle/thumb.jpg",
+        "credit": "SmallishBeans",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=iux_L9j4lHs"
+      }
+    ]
+  },
+  "pyramid": {
+    "video": {
+      "youtube": "4U5wcvn3IPA",
+      "title": "Minecraft timelapse final pyramid",
+      "seconds": 386,
+      "channel": "FallenQbuilds"
+    },
+    "images": [
+      {
+        "src": "assets/items/pyramid/1.jpg",
+        "thumb": "assets/items/pyramid/thumb.jpg",
+        "credit": "FallenQbuilds",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=4U5wcvn3IPA"
+      }
+    ]
+  },
+  "temple": {
+    "video": {
+      "youtube": "ObF6rU9u71w",
+      "title": "Tutorial: Minecraft Greco-Roman Quartz Temple",
+      "seconds": 204,
+      "channel": "Zeplington"
+    },
+    "images": [
+      {
+        "src": "assets/items/temple/1.jpg",
+        "thumb": "assets/items/temple/thumb.jpg",
+        "credit": "Zeplington",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=ObF6rU9u71w"
+      }
+    ]
+  },
+  "bakery": {
+    "video": {
+      "youtube": "MsgLFPPBe2Y",
+      "title": "How to Build a Medieval Bakery - Minecraft Tutorial",
+      "seconds": 682,
+      "channel": "LionCheater"
+    },
+    "images": [
+      {
+        "src": "assets/items/bakery/1.jpg",
+        "thumb": "assets/items/bakery/thumb.jpg",
+        "credit": "LionCheater",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=MsgLFPPBe2Y"
+      }
+    ]
+  },
+  "barn": {
+    "video": {
+      "youtube": "tIDW0-Gagtw",
+      "title": "Minecraft | How to build a Barn for Animals | Tutorial",
+      "seconds": 991,
+      "channel": "Goldrobin"
+    },
+    "images": [
+      {
+        "src": "assets/items/barn/1.jpg",
+        "thumb": "assets/items/barn/thumb.jpg",
+        "credit": "Goldrobin",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=tIDW0-Gagtw"
+      }
+    ]
+  },
+  "library": {
+    "video": {
+      "youtube": "OTgtkHJRXh0",
+      "title": "Minecraft: Grand Library Tutorial (how to build)",
+      "seconds": 981,
+      "channel": "disruptive builds"
+    },
+    "images": [
+      {
+        "src": "assets/items/library/1.jpg",
+        "thumb": "assets/items/library/thumb.jpg",
+        "credit": "disruptive builds",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=OTgtkHJRXh0"
+      }
+    ]
+  },
+  "fire-station": {
+    "video": {
+      "youtube": "9KXoa-0__WI",
+      "title": "HOW TO BUILD A FIRE STATION IN MINECRAFT - Minecraft Tutorial",
+      "seconds": 778,
+      "channel": "ZekkenBlaze"
+    },
+    "images": [
+      {
+        "src": "assets/items/fire-station/1.jpg",
+        "thumb": "assets/items/fire-station/thumb.jpg",
+        "credit": "ZekkenBlaze",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=9KXoa-0__WI"
+      }
+    ]
+  },
+  "school": {
+    "video": {
+      "youtube": "fGgssNXZu7s",
+      "title": "⛏️ Minecraft Tutorial :: 🏫 How to build a School (Pt.1)🌳[마인크래프트 학교 만들기 건축강좌 1편]",
+      "seconds": 733,
+      "channel": "만두민 ManDooMiN"
+    },
+    "images": [
+      {
+        "src": "assets/items/school/1.jpg",
+        "thumb": "assets/items/school/thumb.jpg",
+        "credit": "만두민 ManDooMiN",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=fGgssNXZu7s"
+      }
+    ]
+  },
+  "market": {
+    "video": {
+      "youtube": "RkX3VbCm3X4",
+      "title": "Minecraft: Market Stall Build Tutorial ≫ Cute Easy Stand Design",
+      "seconds": 249,
+      "channel": "BB's Hideaway"
+    },
+    "images": [
+      {
+        "src": "assets/items/market/1.jpg",
+        "thumb": "assets/items/market/thumb.jpg",
+        "credit": "BB's Hideaway",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=RkX3VbCm3X4"
+      }
+    ]
+  },
+  "steam-train": {
+    "video": {
+      "youtube": "Wvzk37d1kRY",
+      "title": "⛏️ Minecraft :: How to build a Steam Locomotive Train Survival Base 🚂🏠 [마인크래프트 증기기관차 모양 집짓기 건축강좌]",
+      "seconds": 667,
+      "channel": "만두민 ManDooMiN"
+    },
+    "images": [
+      {
+        "src": "assets/items/steam-train/1.jpg",
+        "thumb": "assets/items/steam-train/thumb.jpg",
+        "credit": "만두민 ManDooMiN",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=Wvzk37d1kRY"
+      }
+    ]
+  },
+  "airplane": {
+    "video": {
+      "youtube": "9ZJ6DGeobQY",
+      "title": "How To Build A PASSENGER PLANE in Minecraft!",
+      "seconds": 1403,
+      "channel": "Chippz"
+    },
+    "images": [
+      {
+        "src": "assets/items/airplane/1.jpg",
+        "thumb": "assets/items/airplane/thumb.jpg",
+        "credit": "Chippz",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=9ZJ6DGeobQY"
+      }
+    ]
+  },
+  "rocket": {
+    "video": {
+      "youtube": "viUwQNKQjXE",
+      "title": "EASY ROCKET TUTORIAL (Saturn V)",
+      "seconds": 819,
+      "channel": "Little World Minecraft"
+    },
+    "images": [
+      {
+        "src": "assets/items/rocket/1.jpg",
+        "thumb": "assets/items/rocket/thumb.jpg",
+        "credit": "Little World Minecraft",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=viUwQNKQjXE"
+      }
+    ]
+  },
+  "ferris-wheel": {
+    "video": {
+      "youtube": "aBOLGOu6gZ4",
+      "title": "⛏️ Minecraft Tutorial :: 🎡 How to build a Ferris Wheel - [마인크래프트 놀이공원 관람차 만들기 건축 강좌]",
+      "seconds": 633,
+      "channel": "만두민 ManDooMiN"
+    },
+    "images": [
+      {
+        "src": "assets/items/ferris-wheel/1.jpg",
+        "thumb": "assets/items/ferris-wheel/thumb.jpg",
+        "credit": "만두민 ManDooMiN",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=aBOLGOu6gZ4"
+      }
+    ]
+  },
+  "submarine": {
+    "video": {
+      "youtube": "LTJrHt-AUXs",
+      "title": "🚢 Minecraft Tutorial: How to Make a Submarine (Skipjack-class) [1/2 Scale]",
+      "seconds": 1130,
+      "channel": "Lord Dakr"
+    },
+    "images": [
+      {
+        "src": "assets/items/submarine/1.jpg",
+        "thumb": "assets/items/submarine/thumb.jpg",
+        "credit": "Lord Dakr",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=LTJrHt-AUXs"
+      }
+    ]
+  },
+  "sports-car": {
+    "video": {
+      "youtube": "nPdkeCkFQTw",
+      "title": "Simple White Car - Minecraft Tutorial",
+      "seconds": 105,
+      "channel": "DiamondsRaider"
+    },
+    "images": [
+      {
+        "src": "assets/items/sports-car/1.jpg",
+        "thumb": "assets/items/sports-car/thumb.jpg",
+        "credit": "DiamondsRaider",
+        "license": "YouTube 썸네일",
+        "source": "https://www.youtube.com/watch?v=nPdkeCkFQTw"
+      }
+    ]
+  },
+  "game-modes": {
+    "images": [
+      {
+        "src": "assets/items/game-modes/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Grass_Block_JE7_BE6.png",
+        "file": "File:Grass Block JE7 BE6.png",
+        "thumb": "assets/items/game-modes/thumb.png"
+      }
+    ]
+  },
+  "chest-tip": {
+    "images": [
+      {
+        "src": "assets/items/chest-tip/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Chest.gif",
+        "file": "File:Chest.gif",
+        "thumb": "assets/items/chest-tip/thumb.png"
+      }
+    ]
+  },
+  "charcoal-tip": {
+    "images": [
+      {
+        "src": "assets/items/charcoal-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Charcoal_JE4_BE4.png",
+        "file": "File:Charcoal JE4 BE4.png",
+        "thumb": "assets/items/charcoal-tip/thumb.png"
+      }
+    ]
+  },
+  "armor-tip": {
+    "images": [
+      {
+        "src": "assets/items/armor-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Iron_Chestplate_JE2_BE2.png",
+        "file": "File:Iron Chestplate JE2 BE2.png",
+        "thumb": "assets/items/armor-tip/thumb.png"
+      }
+    ]
+  },
+  "underwater-tip": {
+    "images": [
+      {
+        "src": "assets/items/underwater-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Turtle_Shell_JE1_BE1.png",
+        "file": "File:Turtle Shell JE1 BE1.png",
+        "thumb": "assets/items/underwater-tip/thumb.png"
+      }
+    ]
+  },
+  "heal-tip": {
+    "images": [
+      {
+        "src": "assets/items/heal-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Golden_Apple_JE2_BE2.png",
+        "file": "File:Golden Apple JE2 BE2.png",
+        "thumb": "assets/items/heal-tip/thumb.png"
+      }
+    ]
+  },
+  "lost-items": {
+    "images": [
+      {
+        "src": "assets/items/lost-items/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Recovery_Compass_JE1_BE1.gif",
+        "file": "File:Recovery Compass JE1 BE1.gif",
+        "thumb": "assets/items/lost-items/thumb.png"
+      }
+    ]
+  },
+  "rails-tip": {
+    "images": [
+      {
+        "src": "assets/items/rails-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Minecart_JE4_BE2.png",
+        "file": "File:Minecart JE4 BE2.png",
+        "thumb": "assets/items/rails-tip/thumb.png"
+      }
+    ]
+  },
+  "branch-mining": {
+    "images": [
+      {
+        "src": "assets/items/branch-mining/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Diamond_Ore_JE5_BE5.png",
+        "file": "File:Diamond Ore JE5 BE5.png",
+        "thumb": "assets/items/branch-mining/thumb.png"
+      }
+    ]
+  },
+  "iron-tip": {
+    "images": [
+      {
+        "src": "assets/items/iron-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Iron_Ore_JE6_BE4.png",
+        "file": "File:Iron Ore JE6 BE4.png",
+        "thumb": "assets/items/iron-tip/thumb.png"
+      }
+    ]
+  },
+  "smelt-tip": {
+    "images": [
+      {
+        "src": "assets/items/smelt-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Blast_Furnace_(S)_JE1.png",
+        "file": "File:Blast Furnace (S) JE1.png",
+        "thumb": "assets/items/smelt-tip/thumb.png"
+      }
+    ]
+  },
+  "horse-tip": {
+    "images": [
+      {
+        "src": "assets/items/horse-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Saddle_(Pig)_JE2_BE2.png",
+        "file": "File:Saddle (Pig) JE2 BE2.png",
+        "thumb": "assets/items/horse-tip/thumb.png"
+      }
+    ]
+  },
+  "boat-tip": {
+    "images": [
+      {
+        "src": "assets/items/boat-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Oak_Boat_JE4_BE2.png",
+        "file": "File:Oak Boat JE4 BE2.png",
+        "thumb": "assets/items/boat-tip/thumb.png"
+      }
+    ]
+  },
+  "fishing-tip": {
+    "images": [
+      {
+        "src": "assets/items/fishing-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Raw_Cod_JE4_BE2.png",
+        "file": "File:Raw Cod JE4 BE2.png",
+        "thumb": "assets/items/fishing-tip/thumb.png"
+      }
+    ]
+  },
+  "breed-tip": {
+    "images": [
+      {
+        "src": "assets/items/breed-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Carrot_JE3_BE2.png",
+        "file": "File:Carrot JE3 BE2.png",
+        "thumb": "assets/items/breed-tip/thumb.png"
+      }
+    ]
+  },
+  "elytra-tip": {
+    "images": [
+      {
+        "src": "assets/items/elytra-tip/1.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Elytra_JE2_BE2.png",
+        "file": "File:Elytra JE2 BE2.png",
+        "thumb": "assets/items/elytra-tip/thumb.png"
+      }
+    ]
   }
 }

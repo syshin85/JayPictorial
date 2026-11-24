@@ -5393,6 +5393,119 @@
    ]
   },
   {
+   "id": "game-modes",
+   "section": "start",
+   "name": "게임 모드 알기",
+   "subtitle": "생존, 창작, 평화로움",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "시작할 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "없음",
+     ""
+    ]
+   ],
+   "steps": [
+    "창작 모드: 블록이 끝없이 있고 하늘을 날 수 있어요. 마음껏 건물을 지어요.",
+    "생존 모드: 재료를 직접 모으고 배고픔과 체력을 챙겨요.",
+    "난이도를 '평화로움'으로 하면 몬스터가 나오지 않아요.",
+    "처음엔 평화로움으로 연습하고 익숙해지면 '쉬움'으로 바꿔 봐요."
+   ],
+   "funFact": "창작 모드에서는 점프 버튼을 두 번 누르면 하늘을 날아요.",
+   "wiki": "Grass Block",
+   "photos": [
+    "File:Grass Block JE7 BE6.png"
+   ]
+  },
+  {
+   "id": "chest-tip",
+   "section": "start",
+   "name": "상자로 정리하기",
+   "subtitle": "찾기 쉬운 우리 집 창고",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "물건이 많아지면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "상자, 액자",
+     ""
+    ]
+   ],
+   "steps": [
+    "상자를 여러 개 나란히 놓아요.",
+    "광물, 블록, 음식, 몬스터 물건처럼 종류별로 나눠 넣어요.",
+    "상자 앞에 액자를 걸고 안에 든 물건을 끼워 표시해요."
+   ],
+   "funFact": "상자 두 개를 옆에 붙이면 큰 상자가 돼서 두 배로 많이 들어가요.",
+   "wiki": "Chest",
+   "photos": [
+    "File:Chest.gif"
+   ]
+  },
+  {
+   "id": "charcoal-tip",
+   "section": "start",
+   "name": "숯 만들기",
+   "subtitle": "석탄이 없을 때",
+   "color": "#E0A100",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "첫날",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "원목, 화로",
+     ""
+    ]
+   ],
+   "steps": [
+    "화로 위 칸에 원목을 넣어요.",
+    "아래 칸에는 판자를 연료로 넣어요.",
+    "잠시 기다리면 원목이 숯이 돼요.",
+    "숯은 석탄처럼 횃불을 만들 수 있어요."
+   ],
+   "funFact": "숯과 석탄은 모양이 비슷하지만 숯이 조금 더 갈색이에요.",
+   "wiki": "Charcoal",
+   "photos": [
+    "File:Charcoal JE4 BE4.png"
+   ]
+  },
+  {
    "id": "creeper-tip",
    "section": "survive",
    "name": "크리퍼 피하기",
@@ -5582,6 +5695,158 @@
    ]
   },
   {
+   "id": "armor-tip",
+   "section": "survive",
+   "name": "갑옷 입기",
+   "subtitle": "몬스터 공격을 덜 아프게",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "철을 모으면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "철 주괴 24개",
+     ""
+    ]
+   ],
+   "steps": [
+    "철 주괴로 투구, 흉갑, 레깅스, 부츠를 만들어요.",
+    "가방을 열고 갑옷 칸에 끼우거나, 들고 꾹 눌러 입어요.",
+    "갑옷 막대가 차면 몬스터 공격이 덜 아파요.",
+    "닳으면 모루에서 같은 재료로 고쳐요."
+   ],
+   "funFact": "철 갑옷 한 벌에는 철 주괴가 24개나 들어가요.",
+   "wiki": "Iron Chestplate",
+   "photos": [
+    "File:Iron Chestplate JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "underwater-tip",
+   "section": "survive",
+   "name": "물속에서 숨쉬기",
+   "subtitle": "바다 탐험 준비",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "바다 탐험",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "문, 거북 등딱지",
+     ""
+    ]
+   ],
+   "steps": [
+    "물속에서는 거품 막대가 줄어들어요. 다 줄기 전에 물 위로 올라와요.",
+    "물속에 문을 놓으면 문 칸 안에서 숨을 쉴 수 있어요.",
+    "거북 등딱지 투구를 쓰면 숨을 더 오래 참아요.",
+    "수중 호흡 물약을 마시면 물속에서 오래 놀 수 있어요."
+   ],
+   "funFact": "물속에서 캐면 느리니까 '친수성' 마법이 걸린 투구를 쓰면 빨라져요.",
+   "wiki": "Turtle Shell",
+   "photos": [
+    "File:Turtle Shell JE1 BE1.png"
+   ]
+  },
+  {
+   "id": "heal-tip",
+   "section": "survive",
+   "name": "체력 채우기",
+   "subtitle": "하트가 줄었을 때",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "다쳤을 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "음식",
+     ""
+    ]
+   ],
+   "steps": [
+    "배고픔 칸을 가득 채우면 하트가 천천히 다시 차요.",
+    "안전한 곳에 숨어서 기다려요.",
+    "급할 때는 황금 사과를 먹으면 빨리 회복돼요.",
+    "회복 물약도 하트를 바로 채워 줘요."
+   ],
+   "funFact": "배고픔 칸이 6칸 아래로 내려가면 빨리 달릴 수 없어요.",
+   "wiki": "Golden Apple",
+   "photos": [
+    "File:Golden Apple JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "lost-items",
+   "section": "survive",
+   "name": "떨어뜨린 물건 찾기",
+   "subtitle": "쓰러진 곳으로 돌아가요",
+   "color": "#D9443A",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "쓰러졌을 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "회복 나침반",
+     ""
+    ]
+   ],
+   "steps": [
+    "쓰러지면 갖고 있던 물건이 그 자리에 떨어져요.",
+    "5분 안에 그곳으로 돌아가면 다시 주울 수 있어요.",
+    "회복 나침반을 들고 있으면 쓰러진 곳을 가리켜요.",
+    "용암에 빠진 물건은 타서 사라져요."
+   ],
+   "funFact": "좌표를 켜 두면 쓰러진 곳의 숫자를 기억해 둘 수 있어요.",
+   "wiki": "Recovery Compass",
+   "photos": [
+    "File:Recovery Compass JE1 BE1.gif"
+   ]
+  },
+  {
    "id": "diamond-depth",
    "section": "mining",
    "name": "다이아몬드 찾기",
@@ -5731,6 +5996,157 @@
    "wiki": "Torch",
    "photos": [
     "File:Torch JE7.png"
+   ]
+  },
+  {
+   "id": "rails-tip",
+   "section": "mining",
+   "name": "광산 수레 레일",
+   "subtitle": "내가 만드는 기차길",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "철을 모으면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "철 주괴, 막대기",
+     ""
+    ]
+   ],
+   "steps": [
+    "철 주괴 6개와 막대기 1개로 레일 16개를 만들어요.",
+    "바닥에 레일을 깔고 광산 수레를 올려요.",
+    "금으로 만든 '전동 레일'에 레드스톤 횃불을 켜면 수레가 쌩쌩 달려요.",
+    "광산 깊은 곳과 집을 레일로 이으면 금방 오갈 수 있어요."
+   ],
+   "funFact": "레일은 언덕도 올라갈 수 있어요. 중간중간 전동 레일을 깔아 줘요.",
+   "wiki": "Minecart",
+   "photos": [
+    "File:Minecart JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "branch-mining",
+   "section": "mining",
+   "name": "가지 굴 파기",
+   "subtitle": "다이아몬드를 많이 찾는 법",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "철 곡괭이 후",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "곡괭이, 횃불",
+     ""
+    ]
+   ],
+   "steps": [
+    "다이아몬드가 많은 깊이(Y -58)까지 내려가요.",
+    "가운데에 큰 굴을 하나 길게 파요.",
+    "양옆으로 두 칸씩 띄우고 작은 굴을 길게 파요.",
+    "벽에 보이는 광석을 모두 캐요."
+   ],
+   "funFact": "나뭇가지처럼 굴이 뻗어 있어서 '가지 굴'이라고 불러요.",
+   "wiki": "Deepslate Diamond Ore",
+   "photos": [
+    "File:Diamond Ore JE5 BE5.png"
+   ]
+  },
+  {
+   "id": "iron-tip",
+   "section": "mining",
+   "name": "철 찾기",
+   "subtitle": "가장 많이 쓰는 광물",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "돌 곡괭이 후",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "돌 곡괭이",
+     ""
+    ]
+   ],
+   "steps": [
+    "주황 점이 박힌 철광석을 찾아요.",
+    "산 위쪽과 땅속 Y 16 근처에 많아요.",
+    "동굴 벽에도 자주 보여요.",
+    "캔 철 원석은 화로에 구워 철 주괴로 만들어요."
+   ],
+   "funFact": "철광석은 돌 곡괭이로도 캘 수 있어요.",
+   "wiki": "Iron Ore",
+   "photos": [
+    "File:Iron Ore JE6 BE4.png"
+   ]
+  },
+  {
+   "id": "smelt-tip",
+   "section": "mining",
+   "name": "빨리 굽기",
+   "subtitle": "용광로와 훈연기",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "재료가 많을 때",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "철 주괴 5개",
+     ""
+    ]
+   ],
+   "steps": [
+    "용광로는 광석을 화로보다 두 배 빨리 구워요.",
+    "훈연기는 고기를 두 배 빨리 구워요.",
+    "화로 여러 개에 나눠 넣으면 더 빨라요."
+   ],
+   "funFact": "용광로를 마을에 두면 주민이 대장장이가 돼요.",
+   "wiki": "Blast Furnace",
+   "photos": [
+    "File:Blast Furnace (S) JE1.png"
    ]
   },
   {
@@ -5962,6 +6378,196 @@
    ]
   },
   {
+   "id": "horse-tip",
+   "section": "adventure",
+   "name": "말 타기",
+   "subtitle": "들판을 쌩쌩 달려요",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "들판에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "안장",
+     ""
+    ]
+   ],
+   "steps": [
+    "들판에서 말을 찾아 빈손으로 올라타요.",
+    "떨어뜨려도 계속 올라타면 하트가 나오며 길들여져요.",
+    "안장을 얹으면 내가 조종할 수 있어요.",
+    "점프 버튼을 꾹 눌렀다 떼면 높이 뛰어요."
+   ],
+   "funFact": "안장은 만들 수 없어서 상자에서 찾거나 낚시, 거래로 얻어요.",
+   "wiki": "Saddle",
+   "photos": [
+    "File:Saddle (Pig) JE2 BE2.png"
+   ]
+  },
+  {
+   "id": "boat-tip",
+   "section": "adventure",
+   "name": "보트 타기",
+   "subtitle": "강과 바다를 건너요",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "물가에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "판자",
+     ""
+    ]
+   ],
+   "steps": [
+    "판자로 보트를 만들어요.",
+    "물 위에 보트를 놓고 올라타요.",
+    "앞으로 가면서 방향을 바꿔요.",
+    "상자 보트를 만들면 짐도 실을 수 있어요."
+   ],
+   "funFact": "보트에는 두 명이 탈 수 있어요. 동물도 태울 수 있어요.",
+   "wiki": "Oak Boat",
+   "photos": [
+    "File:Oak Boat JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "fishing-tip",
+   "section": "adventure",
+   "name": "낚시하기",
+   "subtitle": "물고기와 보물을 낚아요",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "물가에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "낚싯대",
+     ""
+    ]
+   ],
+   "steps": [
+    "낚싯대를 물에 던져요.",
+    "물방울이 찌 쪽으로 다가오는 걸 지켜봐요.",
+    "찌가 쏙 들어가면 바로 당겨요.",
+    "생선은 구워 먹고, 보물이 나오면 잘 챙겨요."
+   ],
+   "funFact": "낚시로 안장, 이름표, 마법 책 같은 보물이 나오기도 해요.",
+   "wiki": "Raw Cod",
+   "photos": [
+    "File:Raw Cod JE4 BE2.png"
+   ]
+  },
+  {
+   "id": "breed-tip",
+   "section": "adventure",
+   "name": "동물 키우기",
+   "subtitle": "아기 동물이 태어나요",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "동물을 모으면",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "밀, 당근, 씨앗",
+     ""
+    ]
+   ],
+   "steps": [
+    "같은 동물 두 마리를 울타리 안에 모아요.",
+    "좋아하는 먹이를 둘 다에게 줘요. 소와 양은 밀, 돼지는 당근, 닭은 씨앗이에요.",
+    "하트가 뿅뿅 나오면 아기 동물이 태어나요.",
+    "아기는 시간이 지나면 어른이 돼요."
+   ],
+   "funFact": "아기 동물에게 먹이를 주면 더 빨리 자라요.",
+   "wiki": "Carrot",
+   "photos": [
+    "File:Carrot JE3 BE2.png"
+   ]
+  },
+  {
+   "id": "elytra-tip",
+   "section": "adventure",
+   "name": "겉날개로 날기",
+   "subtitle": "하늘을 나는 날개",
+   "color": "#6B3FA0",
+   "facts": [
+    [
+     "⭐",
+     "난이도",
+     "아주 어려움",
+     ""
+    ],
+    [
+     "🕐",
+     "언제",
+     "엔드 도시에서",
+     ""
+    ],
+    [
+     "🎒",
+     "준비물",
+     "겉날개, 폭죽",
+     ""
+    ]
+   ],
+   "steps": [
+    "엔드 도시 옆에 떠 있는 엔드 배에서 겉날개를 찾아요.",
+    "흉갑 대신 겉날개를 입어요.",
+    "높은 곳에서 뛰어내리고 점프 버튼을 한 번 더 눌러 날개를 펴요.",
+    "폭죽 로켓을 쓰면 하늘 위로 슝 날아올라요."
+   ],
+   "funFact": "겉날개가 닳으면 팬텀 막으로 고칠 수 있어요.",
+   "wiki": "Elytra",
+   "photos": [
+    "File:Elytra JE2 BE2.png"
+   ]
+  },
+  {
    "id": "starter-house",
    "section": "houses",
    "name": "첫 나무집",
@@ -6178,6 +6784,152 @@
    ]
   },
   {
+   "id": "desert-house",
+   "section": "houses",
+   "name": "사막 집",
+   "subtitle": "모래 마을의 시원한 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "사암, 테라코타",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "15",
+     "분"
+    ]
+   ],
+   "story": "사막에 어울리는 모래색 사암으로 지은 집이에요. 평평한 지붕 위에 테라스를 만들고 야자수와 선인장으로 꾸며요.",
+   "funFact": "사막은 비가 오지 않아서 지붕을 평평하게 지어도 괜찮아요.",
+   "videoQueries": [
+    "minecraft desert house tutorial"
+   ],
+   "videoMatch": [
+    "desert"
+   ]
+  },
+  {
+   "id": "winter-cabin",
+   "section": "houses",
+   "name": "눈 덮인 오두막",
+   "subtitle": "모닥불이 따뜻한 겨울 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "가문비나무 판자, 돌",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "8",
+     "분"
+    ]
+   ],
+   "story": "눈 덮인 숲에 짓는 작은 나무 오두막이에요. 짙은 가문비나무로 벽을 만들고 지붕을 뾰족하게 올려요.",
+   "funFact": "눈 덮인 곳에서는 모닥불을 피워 두면 오두막이 더 아늑해 보여요.",
+   "videoQueries": [
+    "minecraft winter cabin tutorial",
+    "minecraft snowy house tutorial"
+   ],
+   "videoMatch": [
+    "winter",
+    "snow",
+    "snowy"
+   ]
+  },
+  {
+   "id": "mountain-house",
+   "section": "houses",
+   "name": "산속 집",
+   "subtitle": "산을 파고 들어간 비밀 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "돌, 원목, 유리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "19",
+     "분"
+    ]
+   ],
+   "story": "커다란 산 옆을 파고 들어가서 지은 집이에요. 밖에서 보면 산에 동그란 문과 창문만 보여요.",
+   "funFact": "산을 파서 집을 지으면 벽을 따로 안 쌓아도 돼서 블록이 적게 들어요.",
+   "videoQueries": [
+    "minecraft mountain house tutorial",
+    "minecraft cliff house tutorial"
+   ],
+   "videoMatch": [
+    "mountain",
+    "cliff"
+   ]
+  },
+  {
+   "id": "bee-house",
+   "section": "houses",
+   "name": "꿀벌 집",
+   "subtitle": "통통한 꿀벌 모양 집",
+   "color": "#3D7DCA",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "노란 양털, 검은 콘크리트",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "12",
+     "분"
+    ]
+   ],
+   "story": "노랑과 검정 줄무늬로 커다란 꿀벌 모양을 만들고 그 안에 방을 꾸민 귀여운 집이에요.",
+   "funFact": "집 옆에 꽃을 잔뜩 심고 벌집을 두면 진짜 꿀벌들이 놀러 와요.",
+   "videoQueries": [
+    "minecraft bee house tutorial",
+    "minecraft beehive house tutorial"
+   ],
+   "videoMatch": [
+    "bee"
+   ]
+  },
+  {
    "id": "medieval-castle",
    "section": "castles",
    "name": "중세 성",
@@ -6323,6 +7075,150 @@
    "videoMatch": [
     "gate",
     "tower"
+   ]
+  },
+  {
+   "id": "wizard-tower",
+   "section": "castles",
+   "name": "마법사 탑",
+   "subtitle": "보랏빛 마법사의 탑",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "돌 벽돌, 보라색 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "15",
+     "분"
+    ]
+   ],
+   "story": "좁고 높게 솟은 탑 꼭대기에 보라색 뾰족 지붕을 얹은 마법사의 탑이에요.",
+   "funFact": "탑 안에 마법 부여대와 책장을 넣으면 진짜 마법사의 방이 돼요.",
+   "videoQueries": [
+    "minecraft wizard tower tutorial"
+   ],
+   "videoMatch": [
+    "wizard",
+    "mage"
+   ]
+  },
+  {
+   "id": "fantasy-castle",
+   "section": "castles",
+   "name": "동화 속 성",
+   "subtitle": "공주님이 살 것 같은 성",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "석영, 파란 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "아주 어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "10",
+     "분"
+    ]
+   ],
+   "story": "뾰족한 파란 지붕이 여러 개 솟은 동화 속 성을 아주 자세하게 짓는 영상이에요.",
+   "funFact": "큰 성은 친구와 나눠서 지으면 더 빨리, 더 재미있게 지을 수 있어요.",
+   "videoQueries": [
+    "minecraft fantasy castle tutorial",
+    "minecraft disney castle",
+    "minecraft princess castle tutorial"
+   ],
+   "videoMatch": [
+    "castle"
+   ]
+  },
+  {
+   "id": "pyramid",
+   "section": "castles",
+   "name": "피라미드",
+   "subtitle": "사막의 거대한 세모 건물",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "사암",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "6",
+     "분"
+    ]
+   ],
+   "story": "사암을 한 층씩 줄여 가며 쌓아 올린 커다란 피라미드예요. 영상을 빠르게 돌려서 쑥쑥 올라가는 모습을 보여 줘요.",
+   "funFact": "한 층 올라갈 때마다 양쪽에서 한 칸씩 줄이면 세모 모양이 돼요.",
+   "videoQueries": [
+    "minecraft pyramid tutorial",
+    "minecraft egyptian pyramid build"
+   ],
+   "videoMatch": [
+    "pyramid"
+   ]
+  },
+  {
+   "id": "temple",
+   "section": "castles",
+   "name": "그리스 신전",
+   "subtitle": "하얀 기둥이 줄지어 선 신전",
+   "color": "#7A5BB5",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "석영",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "3",
+     "분"
+    ]
+   ],
+   "story": "하얀 석영 기둥을 줄지어 세우고 세모 지붕을 얹은 옛날 그리스 신전이에요.",
+   "funFact": "기둥 위아래에 계단 블록을 붙이면 진짜 돌기둥처럼 멋져져요.",
+   "videoQueries": [
+    "minecraft greek temple tutorial"
+   ],
+   "videoMatch": [
+    "temple"
    ]
   },
   {
@@ -6499,6 +7395,224 @@
    ],
    "videoMatch": [
     "blacksmith"
+   ]
+  },
+  {
+   "id": "bakery",
+   "section": "town",
+   "name": "빵집",
+   "subtitle": "굴뚝에서 연기가 나는 빵집",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "판자, 조약돌, 벽돌",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "11",
+     "분"
+    ]
+   ],
+   "story": "벽돌 굴뚝이 있는 마을 빵집이에요. 안에는 화덕과 빵을 올려 둔 진열대를 꾸며요.",
+   "funFact": "모닥불을 굴뚝 아래에 두면 연기가 굴뚝 위로 피어올라요.",
+   "videoQueries": [
+    "minecraft bakery tutorial",
+    "minecraft bakery how to build",
+    "minecraft medieval bakery"
+   ],
+   "videoMatch": [
+    "bakery"
+   ]
+  },
+  {
+   "id": "barn",
+   "section": "town",
+   "name": "농장 헛간",
+   "subtitle": "빨간 지붕의 동물 헛간",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "빨간 블록, 하얀 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "17",
+     "분"
+    ]
+   ],
+   "story": "빨간 벽과 하얀 테두리가 있는 농장 헛간이에요. 안에 소와 양을 키울 우리를 만들어요.",
+   "funFact": "헛간 옆에 밀밭을 만들면 동물 먹이를 바로 줄 수 있어요.",
+   "videoQueries": [
+    "minecraft barn tutorial",
+    "minecraft barn how to build",
+    "minecraft farm barn build"
+   ],
+   "videoMatch": [
+    "barn"
+   ]
+  },
+  {
+   "id": "library",
+   "section": "town",
+   "name": "도서관",
+   "subtitle": "책장이 가득한 큰 도서관",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "판자, 책장",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "16",
+     "분"
+    ]
+   ],
+   "story": "높은 천장까지 책장이 빼곡한 커다란 도서관이에요. 계단과 2층 복도도 있어요.",
+   "funFact": "도서관 근처에 독서대를 두면 마을 주민이 사서가 돼요.",
+   "videoQueries": [
+    "minecraft library tutorial"
+   ],
+   "videoMatch": [
+    "library"
+   ]
+  },
+  {
+   "id": "fire-station",
+   "section": "town",
+   "name": "소방서",
+   "subtitle": "소방차가 서 있는 소방서",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "빨간 블록, 벽돌",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "13",
+     "분"
+    ]
+   ],
+   "story": "빨간 차고 문이 여러 개 있는 소방서예요. 블록으로 만든 소방차도 함께 서 있어요.",
+   "funFact": "마인크래프트에는 진짜 소방차가 없어서 블록으로 모양을 만들어요.",
+   "videoQueries": [
+    "minecraft fire station tutorial",
+    "minecraft fire station build",
+    "minecraft firehouse"
+   ],
+   "videoMatch": [
+    "fire station"
+   ]
+  },
+  {
+   "id": "school",
+   "section": "town",
+   "name": "학교",
+   "subtitle": "운동장이 있는 우리 학교",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "콘크리트, 유리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "12",
+     "분"
+    ]
+   ],
+   "story": "교실 건물과 운동장이 있는 학교예요. 이번 편에서는 학교 건물 겉모습을 지어요.",
+   "funFact": "교실마다 창문을 똑같이 반복해서 달면 학교 건물처럼 보여요.",
+   "videoQueries": [
+    "minecraft school tutorial"
+   ],
+   "videoMatch": [
+    "school"
+   ]
+  },
+  {
+   "id": "market",
+   "section": "town",
+   "name": "시장 가게",
+   "subtitle": "줄무늬 천막 가게",
+   "color": "#D9822B",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "양털, 판자",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "4",
+     "분"
+    ]
+   ],
+   "story": "줄무늬 양털 천막을 씌운 작은 시장 가게예요. 과일과 물건을 진열해서 꾸며요.",
+   "funFact": "가게를 여러 개 줄지어 세우면 시끌벅적한 시장 거리가 돼요.",
+   "videoQueries": [
+    "minecraft market stall tutorial",
+    "minecraft market tutorial"
+   ],
+   "videoMatch": [
+    "market",
+    "stall"
    ]
   },
   {
@@ -6679,6 +7793,224 @@
    ],
    "videoMatch": [
     "dragon"
+   ]
+  },
+  {
+   "id": "steam-train",
+   "section": "wonders",
+   "name": "증기 기관차",
+   "subtitle": "레일 위의 칙칙폭폭 기차",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "철 블록, 검은 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "11",
+     "분"
+    ]
+   ],
+   "story": "레일 위에 커다란 증기 기관차를 짓고 그 안을 집으로 꾸미는 영상이에요. 굴뚝에서 하얀 연기도 나요.",
+   "funFact": "기차 굴뚝 안에 모닥불을 넣으면 칙칙폭폭 연기가 피어올라요.",
+   "videoQueries": [
+    "minecraft steam train tutorial",
+    "minecraft train tutorial"
+   ],
+   "videoMatch": [
+    "train",
+    "locomotive"
+   ]
+  },
+  {
+   "id": "airplane",
+   "section": "wonders",
+   "name": "비행기",
+   "subtitle": "활주로 위의 큰 여객기",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "하얀 콘크리트, 유리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "23",
+     "분"
+    ]
+   ],
+   "story": "하얀 몸통과 긴 날개, 엔진이 달린 큰 여객기를 활주로 위에 지어요.",
+   "funFact": "날개는 몸통 가운데쯤에, 꼬리 날개는 맨 뒤에 붙여야 비행기처럼 보여요.",
+   "videoQueries": [
+    "minecraft airplane tutorial",
+    "minecraft plane tutorial"
+   ],
+   "videoMatch": [
+    "airplane",
+    "plane",
+    "jet"
+   ]
+  },
+  {
+   "id": "rocket",
+   "section": "wonders",
+   "name": "로켓",
+   "subtitle": "하늘로 솟은 새턴 V 로켓",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "하얀 콘크리트, 검은 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "14",
+     "분"
+    ]
+   ],
+   "story": "사람을 달에 데려다준 새턴 V 로켓을 하양과 검정 블록으로 높이 쌓아요. 옆에는 빨간 발사대도 세워요.",
+   "funFact": "새턴 V는 우주 도감에도 나와요! 진짜 로켓과 비교해 봐요.",
+   "videoQueries": [
+    "minecraft rocket tutorial",
+    "minecraft spaceship tutorial"
+   ],
+   "videoMatch": [
+    "rocket",
+    "spaceship"
+   ]
+  },
+  {
+   "id": "ferris-wheel",
+   "section": "wonders",
+   "name": "관람차",
+   "subtitle": "빙글빙글 놀이공원 관람차",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "색깔 블록, 울타리",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "보통",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "11",
+     "분"
+    ]
+   ],
+   "story": "동그란 바퀴에 알록달록한 칸을 매단 놀이공원 관람차예요.",
+   "funFact": "동그라미는 블록으로 만들기 어려워서 먼저 바닥에 원을 그려 보고 세워요.",
+   "videoQueries": [
+    "minecraft ferris wheel tutorial"
+   ],
+   "videoMatch": [
+    "ferris"
+   ]
+  },
+  {
+   "id": "submarine",
+   "section": "wonders",
+   "name": "잠수함",
+   "subtitle": "바다를 누비는 검은 잠수함",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "검은 콘크리트, 철 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "어려움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "19",
+     "분"
+    ]
+   ],
+   "story": "검고 길쭉한 잠수함을 진짜 모양을 따라 자세하게 지어요.",
+   "funFact": "잠수함을 물속에 지으려면 먼저 물을 빼고 지어야 해요.",
+   "videoQueries": [
+    "minecraft submarine tutorial"
+   ],
+   "videoMatch": [
+    "submarine"
+   ]
+  },
+  {
+   "id": "sports-car",
+   "section": "wonders",
+   "name": "자동차",
+   "subtitle": "하얀 멋진 자동차",
+   "color": "#1FA6A0",
+   "facts": [
+    [
+     "🧱",
+     "주재료",
+     "하얀 콘크리트, 검은 블록",
+     ""
+    ],
+    [
+     "⭐",
+     "난이도",
+     "쉬움",
+     ""
+    ],
+    [
+     "⏱️",
+     "영상 길이",
+     "2",
+     "분"
+    ]
+   ],
+   "story": "하얀 블록으로 작은 자동차를 만드는 짧은 영상이에요. 바퀴는 검은 블록으로 만들어요.",
+   "funFact": "자동차 도감에서 좋아하는 차를 골라 블록으로 만들어 봐요.",
+   "videoQueries": [
+    "minecraft car tutorial",
+    "minecraft sports car tutorial"
+   ],
+   "videoMatch": [
+    "car"
    ]
   }
  ],

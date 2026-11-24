@@ -2026,9 +2026,128 @@
  {
   "id": "q089",
   "kind": "fact",
+  "question": "몬스터가 하나도 나오지 않는 난이도는?",
+  "image": "assets/items/game-modes/thumb.png",
+  "choices": [
+   {
+    "text": "평화로움",
+    "image": null
+   },
+   {
+    "text": "어려움",
+    "image": null
+   },
+   {
+    "text": "쉬움",
+    "image": null
+   }
+  ],
+  "answer": 0,
+  "explain": "평화로움 난이도에서는 몬스터가 나오지 않아요. 🕊️",
+  "item": "game-modes"
+ },
+ {
+  "id": "q090",
+  "kind": "fact",
+  "question": "레일 위를 달리는 수레의 이름은?",
+  "image": null,
+  "choices": [
+   {
+    "text": "보트",
+    "image": null
+   },
+   {
+    "text": "썰매",
+    "image": null
+   },
+   {
+    "text": "광산 수레",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "광산 수레를 레일 위에 올리면 기차처럼 달려요. 🚃",
+  "item": "rails-tip"
+ },
+ {
+  "id": "q091",
+  "kind": "fact",
+  "question": "돼지가 좋아해서 아기 돼지가 태어나게 하는 먹이는?",
+  "image": "assets/items/breed-tip/thumb.png",
+  "choices": [
+   {
+    "text": "밀",
+    "image": null
+   },
+   {
+    "text": "씨앗",
+    "image": null
+   },
+   {
+    "text": "당근",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "돼지는 당근, 소와 양은 밀, 닭은 씨앗을 좋아해요.",
+  "item": "breed-tip"
+ },
+ {
+  "id": "q092",
+  "kind": "fact",
+  "question": "말을 내 마음대로 조종하려면 무엇을 얹어야 할까요?",
+  "image": null,
+  "choices": [
+   {
+    "text": "상자",
+    "image": null
+   },
+   {
+    "text": "안장",
+    "image": null
+   },
+   {
+    "text": "양동이",
+    "image": null
+   }
+  ],
+  "answer": 1,
+  "explain": "길들인 말에 안장을 얹으면 조종할 수 있어요. 🐴",
+  "item": "horse-tip"
+ },
+ {
+  "id": "q093",
+  "kind": "fact",
+  "question": "겉날개를 입고 하늘로 슝 날아오르게 해 주는 것은?",
+  "image": "assets/items/elytra-tip/thumb.png",
+  "choices": [
+   {
+    "text": "화살",
+    "image": null
+   },
+   {
+    "text": "눈덩이",
+    "image": null
+   },
+   {
+    "text": "폭죽 로켓",
+    "image": null
+   }
+  ],
+  "answer": 2,
+  "explain": "폭죽 로켓을 쓰면 겉날개로 하늘 높이 날아요. 🎆",
+  "item": "elytra-tip"
+ },
+ {
+  "id": "q094",
+  "kind": "fact",
   "question": "주민과 거래할 때 돈처럼 쓰는 보석은?",
   "image": null,
   "choices": [
+   {
+    "text": "다이아몬드",
+    "image": null
+   },
    {
     "text": "에메랄드",
     "image": null
@@ -2036,13 +2155,9 @@
    {
     "text": "청금석",
     "image": null
-   },
-   {
-    "text": "다이아몬드",
-    "image": null
    }
   ],
-  "answer": 0,
+  "answer": 1,
   "explain": "주민은 에메랄드로 물건을 바꿔 줘요. 💚",
   "item": "trade-tip"
  }
