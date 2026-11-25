@@ -73,13 +73,14 @@
     .book.plane { background: #17A2C4; box-shadow: 0 10px 0 #0E7591; }
     .book.plane:active { box-shadow: 0 2px 0 #0E7591; }
 
+    .book.mc { background: #4E9A3E; box-shadow: 0 10px 0 #2F6B24; }
+    .book.mc:active { box-shadow: 0 2px 0 #2F6B24; }
+
     .book.soon {
       background: transparent; color: var(--ink-soft); box-shadow: none;
       border: 5px dashed var(--line); pointer-events: none;
     }
     .book.soon .book-emoji { opacity: .6; }
-    .book.soon.mc { border-color: #8CC66B; color: #3F8E3B; }
-    .book.soon.mc .book-emoji { opacity: .85; }
     .book.soon .book-name { font-size: 30px; }
 
     @media (max-width: 600px) {
@@ -122,12 +123,11 @@
         <span class="book-name">비행기 도감</span>
         <span class="book-sub">여객기, 전투기, 헬리콥터</span>
       </a>
-      <!-- ready at minecraft/, not opened from here yet: becomes <a class="book mc" href="minecraft/"> on release -->
-      <div class="book soon mc" aria-hidden="true">
-        <span class="book-emoji">⛏️</span>
+      <a class="book mc" href="minecraft/">
+        <span class="book-emoji" aria-hidden="true">⛏️</span>
         <span class="book-name">마인크래프트 도감</span>
-        <span class="book-sub">곧 출시 예정!</span>
-      </div>
+        <span class="book-sub">몬스터, 도구, 꿀팁, 멋진 건물</span>
+      </a>
       <div class="book soon" aria-hidden="true">
         <span class="book-emoji">🎁</span>
         <span class="book-name">새 도감이 곧 와요!</span>
