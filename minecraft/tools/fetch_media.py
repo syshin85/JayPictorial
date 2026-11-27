@@ -98,11 +98,15 @@ def fetch_item(item, infos):
         name = save_picture(data, f, out_dir, str(n))
         images.append({"src": f"assets/items/{item['id']}/{name}", "credit": "Mojang Studios",
                        "license": "Minecraft Wiki", "source": ii["descriptionurl"], "file": f})
-        if n == 1:  # card picture: a small still PNG/JPEG
-            thumb = "thumb.png" if name.endswith((".png", ".gif")) else "thumb.jpg"
-            sips(out_dir / name, out_dir / thumb, "png" if thumb.endswith("png") else "jpeg", THUMB_MAX)
-            images[0]["thumb"] = f"assets/items/{item['id']}/{thumb}"
         time.sleep(0.5)
+    if images:  # card picture: a small still PNG/JPEG, from a still render when the first one is animated
+        first = images[0]["src"]
+        if first.endswith(".gif"):
+            first = next((img["src"] for img in images if img["src"].endswith(".png")), first)
+        name = first.rsplit("/", 1)[1]
+        thumb = "thumb.png" if name.endswith((".png", ".gif")) else "thumb.jpg"
+        sips(out_dir / name, out_dir / thumb, "png" if thumb.endswith("png") else "jpeg", THUMB_MAX)
+        images[0]["thumb"] = f"assets/items/{item['id']}/{thumb}"
     return images
 
 

@@ -104,15 +104,22 @@
   "enderman": {
     "images": [
       {
-        "src": "assets/items/enderman/1.png",
+        "src": "assets/items/enderman/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Enderman_JE1.png",
-        "file": "File:Enderman JE1.png",
+        "source": "https://minecraft.wiki/w/File:Enderman_Screaming.gif",
+        "file": "File:Enderman Screaming.gif",
         "thumb": "assets/items/enderman/thumb.png"
       },
       {
-        "src": "assets/items/enderman/2.jpg",
+        "src": "assets/items/enderman/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Enderman_JE1.png",
+        "file": "File:Enderman JE1.png"
+      },
+      {
+        "src": "assets/items/enderman/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Enderman-ingame.jpeg",
@@ -142,15 +149,22 @@
   "slime": {
     "images": [
       {
-        "src": "assets/items/slime/1.png",
+        "src": "assets/items/slime/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Slime_JE1.png",
-        "file": "File:Slime JE1.png",
+        "source": "https://minecraft.wiki/w/File:Slime.gif",
+        "file": "File:Slime.gif",
         "thumb": "assets/items/slime/thumb.png"
       },
       {
-        "src": "assets/items/slime/2.jpg",
+        "src": "assets/items/slime/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Slime_JE1.png",
+        "file": "File:Slime JE1.png"
+      },
+      {
+        "src": "assets/items/slime/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Bigslime.png",
@@ -237,15 +251,22 @@
   "pillager": {
     "images": [
       {
-        "src": "assets/items/pillager/1.png",
+        "src": "assets/items/pillager/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Pillager_JE1.png",
-        "file": "File:Pillager JE1.png",
+        "source": "https://minecraft.wiki/w/File:Pillager_celebrating.gif",
+        "file": "File:Pillager celebrating.gif",
         "thumb": "assets/items/pillager/thumb.png"
       },
       {
-        "src": "assets/items/pillager/2.jpg",
+        "src": "assets/items/pillager/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Pillager_JE1.png",
+        "file": "File:Pillager JE1.png"
+      },
+      {
+        "src": "assets/items/pillager/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Group_of_Pillagers.png",
@@ -256,15 +277,22 @@
   "vindicator": {
     "images": [
       {
-        "src": "assets/items/vindicator/1.png",
+        "src": "assets/items/vindicator/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Vindicator_JE1_BE1.png",
-        "file": "File:Vindicator JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Vindicator_celebrating.gif",
+        "file": "File:Vindicator celebrating.gif",
         "thumb": "assets/items/vindicator/thumb.png"
       },
       {
-        "src": "assets/items/vindicator/2.jpg",
+        "src": "assets/items/vindicator/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Vindicator_JE1_BE1.png",
+        "file": "File:Vindicator JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/vindicator/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Vindicator_unarmed_attacking_JE1_BE1.png",
@@ -275,15 +303,22 @@
   "evoker": {
     "images": [
       {
-        "src": "assets/items/evoker/1.png",
+        "src": "assets/items/evoker/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Evoker_JE1_BE1.png",
-        "file": "File:Evoker JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Evoker_celebrating.gif",
+        "file": "File:Evoker celebrating.gif",
         "thumb": "assets/items/evoker/thumb.png"
       },
       {
-        "src": "assets/items/evoker/2.jpg",
+        "src": "assets/items/evoker/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Evoker_JE1_BE1.png",
+        "file": "File:Evoker JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/evoker/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:EvokerPreparing.png",
@@ -294,15 +329,22 @@
   "ravager": {
     "images": [
       {
-        "src": "assets/items/ravager/1.png",
+        "src": "assets/items/ravager/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Ravager_BE1.png",
-        "file": "File:Ravager BE1.png",
+        "source": "https://minecraft.wiki/w/File:Ravager_Walk_BE1.gif",
+        "file": "File:Ravager Walk BE1.gif",
         "thumb": "assets/items/ravager/thumb.png"
       },
       {
         "src": "assets/items/ravager/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Ravager_BE1.png",
+        "file": "File:Ravager BE1.png"
+      },
+      {
+        "src": "assets/items/ravager/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Ravager_Jockey_(Evoker).png",
@@ -332,15 +374,22 @@
   "guardian": {
     "images": [
       {
-        "src": "assets/items/guardian/1.png",
+        "src": "assets/items/guardian/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Guardian_JE1_BE1.png",
-        "file": "File:Guardian JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Guardian_JE2_BE2.gif",
+        "file": "File:Guardian JE2 BE2.gif",
         "thumb": "assets/items/guardian/thumb.png"
       },
       {
-        "src": "assets/items/guardian/2.jpg",
+        "src": "assets/items/guardian/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Guardian_JE1_BE1.png",
+        "file": "File:Guardian JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/guardian/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Guardian_Squid.jpg",
@@ -351,15 +400,22 @@
   "breeze": {
     "images": [
       {
-        "src": "assets/items/breeze/1.png",
+        "src": "assets/items/breeze/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Breeze_BE1.png",
-        "file": "File:Breeze BE1.png",
+        "source": "https://minecraft.wiki/w/File:Breeze_Slide.gif",
+        "file": "File:Breeze Slide.gif",
         "thumb": "assets/items/breeze/thumb.png"
       },
       {
-        "src": "assets/items/breeze/2.jpg",
+        "src": "assets/items/breeze/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Breeze_BE1.png",
+        "file": "File:Breeze BE1.png"
+      },
+      {
+        "src": "assets/items/breeze/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Breeze_Standing.png",
@@ -389,12 +445,19 @@
   "creaking": {
     "images": [
       {
-        "src": "assets/items/creaking/1.png",
+        "src": "assets/items/creaking/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Creaking_BE2_JE2_Walk_Animation.gif",
+        "file": "File:Creaking BE2 JE2 Walk Animation.gif",
+        "thumb": "assets/items/creaking/thumb.png"
+      },
+      {
+        "src": "assets/items/creaking/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Creaking_JE1_BE1.png",
-        "file": "File:Creaking JE1 BE1.png",
-        "thumb": "assets/items/creaking/thumb.png"
+        "file": "File:Creaking JE1 BE1.png"
       }
     ]
   },
@@ -420,15 +483,22 @@
   "blaze": {
     "images": [
       {
-        "src": "assets/items/blaze/1.png",
+        "src": "assets/items/blaze/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Blaze_BE2.png",
-        "file": "File:Blaze BE2.png",
+        "source": "https://minecraft.wiki/w/File:Blaze_JE2.gif",
+        "file": "File:Blaze.gif",
         "thumb": "assets/items/blaze/thumb.png"
       },
       {
-        "src": "assets/items/blaze/2.jpg",
+        "src": "assets/items/blaze/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Blaze_BE2.png",
+        "file": "File:Blaze BE2.png"
+      },
+      {
+        "src": "assets/items/blaze/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:BlazeHarmedBySnowWeather.png",
@@ -439,15 +509,22 @@
   "piglin": {
     "images": [
       {
-        "src": "assets/items/piglin/1.png",
+        "src": "assets/items/piglin/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Piglin_JE1.png",
-        "file": "File:Baby Piglin JE1.png",
+        "source": "https://minecraft.wiki/w/File:Piglin_celebrate_hunt_JE2.gif",
+        "file": "File:Piglin celebrate hunt JE2.gif",
         "thumb": "assets/items/piglin/thumb.png"
       },
       {
-        "src": "assets/items/piglin/2.jpg",
+        "src": "assets/items/piglin/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Piglin_JE1.png",
+        "file": "File:Baby Piglin JE1.png"
+      },
+      {
+        "src": "assets/items/piglin/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Piglin_riding_a_Baby_Hoglin.png",
@@ -470,15 +547,22 @@
   "magma-cube": {
     "images": [
       {
-        "src": "assets/items/magma-cube/1.png",
+        "src": "assets/items/magma-cube/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Magma_Cube_JE1_BE1.png",
-        "file": "File:Magma Cube JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Magma_Cube_jumping.gif",
+        "file": "File:Magma Cube jumping.gif",
         "thumb": "assets/items/magma-cube/thumb.png"
       },
       {
-        "src": "assets/items/magma-cube/2.jpg",
+        "src": "assets/items/magma-cube/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Magma_Cube_JE1_BE1.png",
+        "file": "File:Magma Cube JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/magma-cube/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Magmacubelava.png",
@@ -508,12 +592,19 @@
   "hoglin": {
     "images": [
       {
-        "src": "assets/items/hoglin/1.png",
+        "src": "assets/items/hoglin/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Hoglin_attacking_Revision_1.gif",
+        "file": "File:Hoglin attacking Revision 1.gif",
+        "thumb": "assets/items/hoglin/thumb.png"
+      },
+      {
+        "src": "assets/items/hoglin/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Hoglin_BE3.png",
-        "file": "File:Baby Hoglin BE3.png",
-        "thumb": "assets/items/hoglin/thumb.png"
+        "file": "File:Baby Hoglin BE3.png"
       }
     ]
   },
@@ -539,15 +630,22 @@
   "shulker": {
     "images": [
       {
-        "src": "assets/items/shulker/1.png",
+        "src": "assets/items/shulker/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Magenta_Shulker_JE1_BE1.png",
-        "file": "File:Magenta Shulker JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Shulker_shooting.gif",
+        "file": "File:Shulker shooting.gif",
         "thumb": "assets/items/shulker/thumb.png"
       },
       {
         "src": "assets/items/shulker/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Magenta_Shulker_JE1_BE1.png",
+        "file": "File:Magenta Shulker JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/shulker/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Magenta_Shulker_Box_JE2_BE2.png",
@@ -558,15 +656,22 @@
   "endermite": {
     "images": [
       {
-        "src": "assets/items/endermite/1.png",
+        "src": "assets/items/endermite/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Endermite_JE1.png",
-        "file": "File:Endermite JE1.png",
+        "source": "https://minecraft.wiki/w/File:Endermite.gif",
+        "file": "File:Endermite.gif",
         "thumb": "assets/items/endermite/thumb.png"
       },
       {
-        "src": "assets/items/endermite/2.jpg",
+        "src": "assets/items/endermite/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Endermite_JE1.png",
+        "file": "File:Endermite JE1.png"
+      },
+      {
+        "src": "assets/items/endermite/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:A_group_of_endermites_being_mauled.png",
@@ -634,15 +739,22 @@
   "warden": {
     "images": [
       {
-        "src": "assets/items/warden/1.png",
+        "src": "assets/items/warden/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Warden_JE1_BE1.png",
-        "file": "File:Warden JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Warden.gif",
+        "file": "File:Warden.gif",
         "thumb": "assets/items/warden/thumb.png"
       },
       {
-        "src": "assets/items/warden/2.jpg",
+        "src": "assets/items/warden/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Warden_JE1_BE1.png",
+        "file": "File:Warden JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/warden/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Player_and_Warden.jpg",
@@ -653,15 +765,22 @@
   "elder-guardian": {
     "images": [
       {
-        "src": "assets/items/elder-guardian/1.png",
+        "src": "assets/items/elder-guardian/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Elder_Guardian_JE1_BE1.png",
-        "file": "File:Elder Guardian JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Elder_Guardian_JE2_BE2.gif",
+        "file": "File:Elder Guardian JE2 BE2.gif",
         "thumb": "assets/items/elder-guardian/thumb.png"
       },
       {
-        "src": "assets/items/elder-guardian/2.jpg",
+        "src": "assets/items/elder-guardian/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Elder_Guardian_JE1_BE1.png",
+        "file": "File:Elder Guardian JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/elder-guardian/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Guardian_In_Full_View.png",
@@ -710,15 +829,22 @@
   "villager": {
     "images": [
       {
-        "src": "assets/items/villager/1.png",
+        "src": "assets/items/villager/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Desert_Baby_Villager_BE1.png",
-        "file": "File:Desert Baby Villager BE1.png",
+        "source": "https://minecraft.wiki/w/File:Villager_refusing.gif",
+        "file": "File:Villager refusing.gif",
         "thumb": "assets/items/villager/thumb.png"
       },
       {
-        "src": "assets/items/villager/2.jpg",
+        "src": "assets/items/villager/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Desert_Baby_Villager_BE1.png",
+        "file": "File:Desert Baby Villager BE1.png"
+      },
+      {
+        "src": "assets/items/villager/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:An_Army_of_Villagers_Staring!.png",
@@ -729,15 +855,22 @@
   "wandering-trader": {
     "images": [
       {
-        "src": "assets/items/wandering-trader/1.png",
+        "src": "assets/items/wandering-trader/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Wandering_Trader_JE1_BE1.png",
-        "file": "File:Wandering Trader JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Wandering_Trader_Idle_Render_AMCM.gif",
+        "file": "File:Wandering Trader Idle Render AMCM.gif",
         "thumb": "assets/items/wandering-trader/thumb.png"
       },
       {
-        "src": "assets/items/wandering-trader/2.jpg",
+        "src": "assets/items/wandering-trader/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Wandering_Trader_JE1_BE1.png",
+        "file": "File:Wandering Trader JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/wandering-trader/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Makena_%26_Wandering_Trader.jpeg",
@@ -748,15 +881,22 @@
   "wolf": {
     "images": [
       {
-        "src": "assets/items/wolf/1.png",
+        "src": "assets/items/wolf/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Ashen_Baby_Wolf_JE2_BE2.png",
-        "file": "File:Ashen Baby Wolf JE2.png",
+        "source": "https://minecraft.wiki/w/File:Wolf_shaking.gif",
+        "file": "File:Wolf shaking.gif",
         "thumb": "assets/items/wolf/thumb.png"
       },
       {
         "src": "assets/items/wolf/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Ashen_Baby_Wolf_JE2_BE2.png",
+        "file": "File:Ashen Baby Wolf JE2.png"
+      },
+      {
+        "src": "assets/items/wolf/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Ashen_Baby_Tamed_Wolf_JE1_BE1.png",
@@ -838,41 +978,48 @@
   "axolotl": {
     "images": [
       {
-        "src": "assets/items/axolotl/1.png",
+        "src": "assets/items/axolotl/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Axolotl_Hovering_in_Water_(lucy)_JE2.png",
-        "file": "File:Axolotl Hovering in Water (lucy) JE2.png",
+        "source": "https://minecraft.wiki/w/File:Axolotl_Swim.gif",
+        "file": "File:Axolotl Swim.gif",
         "thumb": "assets/items/axolotl/thumb.png"
       },
       {
         "src": "assets/items/axolotl/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Axolotl_Hovering_in_Water_(blue)_JE2.png",
-        "file": "File:Axolotl Hovering in Water (blue) JE2.png"
+        "source": "https://minecraft.wiki/w/File:Axolotl_Hovering_in_Water_(lucy)_JE2.png",
+        "file": "File:Axolotl Hovering in Water (lucy) JE2.png"
       },
       {
         "src": "assets/items/axolotl/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Axolotl_Hovering_in_Water_(wild)_JE1.png",
-        "file": "File:Axolotl Hovering in Water (wild) JE1.png"
+        "source": "https://minecraft.wiki/w/File:Axolotl_Hovering_in_Water_(blue)_JE2.png",
+        "file": "File:Axolotl Hovering in Water (blue) JE2.png"
       }
     ]
   },
   "allay": {
     "images": [
       {
-        "src": "assets/items/allay/1.png",
+        "src": "assets/items/allay/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Allay_JE1_BE1.png",
-        "file": "File:Allay JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Allay_JE2_BE2.gif",
+        "file": "File:Allay JE2 BE2.gif",
         "thumb": "assets/items/allay/thumb.png"
       },
       {
         "src": "assets/items/allay/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Allay_JE1_BE1.png",
+        "file": "File:Allay JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/allay/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Allay_animated_sticker.gif",
@@ -895,27 +1042,41 @@
   "panda": {
     "images": [
       {
-        "src": "assets/items/panda/1.png",
+        "src": "assets/items/panda/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Panda_Rolling.gif",
+        "file": "File:Panda Rolling.gif",
+        "thumb": "assets/items/panda/thumb.png"
+      },
+      {
+        "src": "assets/items/panda/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Aggressive_Baby_Panda_BE2.png",
-        "file": "File:Aggressive Baby Panda BE2.png",
-        "thumb": "assets/items/panda/thumb.png"
+        "file": "File:Aggressive Baby Panda BE2.png"
       }
     ]
   },
   "fox": {
     "images": [
       {
-        "src": "assets/items/fox/1.png",
+        "src": "assets/items/fox/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Fox_JE1_BE1.png",
-        "file": "File:Baby Fox JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Fox_Wiggle.gif",
+        "file": "File:Fox Wiggle.gif",
         "thumb": "assets/items/fox/thumb.png"
       },
       {
         "src": "assets/items/fox/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Fox_JE1_BE1.png",
+        "file": "File:Baby Fox JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/fox/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Snow_Fox_JE1_BE1.png",
@@ -926,15 +1087,22 @@
   "sniffer": {
     "images": [
       {
-        "src": "assets/items/sniffer/1.png",
+        "src": "assets/items/sniffer/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Sniffer_JE1_BE1.png",
-        "file": "File:Sniffer JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Sniffer_sniffsniff.gif",
+        "file": "File:Sniffer sniffsniff.gif",
         "thumb": "assets/items/sniffer/thumb.png"
       },
       {
-        "src": "assets/items/sniffer/2.jpg",
+        "src": "assets/items/sniffer/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Sniffer_JE1_BE1.png",
+        "file": "File:Sniffer JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/sniffer/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:1.20_Dev_Sniffer_in_village.png",
@@ -995,15 +1163,22 @@
   "chicken": {
     "images": [
       {
-        "src": "assets/items/chicken/1.png",
+        "src": "assets/items/chicken/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Chicken_JE1_BE1.png",
-        "file": "File:Baby Chicken JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Chicken_Flapping.gif",
+        "file": "File:Chicken Flapping.gif",
         "thumb": "assets/items/chicken/thumb.png"
       },
       {
-        "src": "assets/items/chicken/2.jpg",
+        "src": "assets/items/chicken/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Chicken_JE1_BE1.png",
+        "file": "File:Baby Chicken JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/chicken/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Burning_Chicken.png",
@@ -1052,12 +1227,19 @@
   "camel": {
     "images": [
       {
-        "src": "assets/items/camel/1.png",
+        "src": "assets/items/camel/1.gif",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Camel_Walk.gif",
+        "file": "File:Camel Walk.gif",
+        "thumb": "assets/items/camel/thumb.png"
+      },
+      {
+        "src": "assets/items/camel/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Camel_JE2_BE3.png",
-        "file": "File:Baby Camel JE2 BE3.png",
-        "thumb": "assets/items/camel/thumb.png"
+        "file": "File:Baby Camel JE2 BE3.png"
       }
     ]
   },
@@ -1083,15 +1265,22 @@
   "armadillo": {
     "images": [
       {
-        "src": "assets/items/armadillo/1.png",
+        "src": "assets/items/armadillo/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Armadillo_(Rolled_Up)_JE1_BE1.png",
-        "file": "File:Armadillo (Rolled Up) JE1 BE1.png",
+        "source": "https://minecraft.wiki/w/File:Armadillo_Walking_JE2_BE2.gif",
+        "file": "File:Armadillo Walking JE2 BE2.gif",
         "thumb": "assets/items/armadillo/thumb.png"
       },
       {
-        "src": "assets/items/armadillo/2.gif",
+        "src": "assets/items/armadillo/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Armadillo_(Rolled_Up)_JE1_BE1.png",
+        "file": "File:Armadillo (Rolled Up) JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/armadillo/3.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Armadillo_Roll_Up_BE1.gif",
@@ -1102,15 +1291,22 @@
   "polar-bear": {
     "images": [
       {
-        "src": "assets/items/polar-bear/1.png",
+        "src": "assets/items/polar-bear/1.gif",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Polar_Bear_BE1.png",
-        "file": "File:Baby Polar Bear BE1.png",
+        "source": "https://minecraft.wiki/w/File:Polar_Bear_attacking.gif",
+        "file": "File:Polar Bear attacking.gif",
         "thumb": "assets/items/polar-bear/thumb.png"
       },
       {
-        "src": "assets/items/polar-bear/2.jpg",
+        "src": "assets/items/polar-bear/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Polar_Bear_BE1.png",
+        "file": "File:Baby Polar Bear BE1.png"
+      },
+      {
+        "src": "assets/items/polar-bear/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Introducing_baby_polar_bears.jpg",

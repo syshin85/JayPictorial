@@ -67,6 +67,8 @@ function thumbFor(t) {
 const isRender = (src) => /\.(png|gif|webp)$/.test(src);
 // small pixel-art pictures (items, icons) stay sharp when scaled up
 const isPixel = (t) => sectionById(t.section).book === "items";
+// mobs without an animated GIF get a gentle idle wobble so every mob looks alive
+const isStill = (t, src) => sectionById(t.section).book === "mobs" && src.endsWith(".png");
 
 const iconSrc = (key) => `assets/icons/${key}.png`;
 const iconName = (key) => (state.icons[key] && state.icons[key].name) || key;
@@ -160,7 +162,7 @@ function renderItem(id) {
   const video = videoOf(t);
 
   const slides = images.length
-    ? images.map((img, i) => `<img class="slide ${isPixel(t) ? "pixel" : ""}" src="${img.src}" alt="${esc(t.name)} 사진 ${i + 1}" ${i ? 'loading="lazy"' : ""}>`).join("")
+    ? images.map((img, i) => `<img class="slide ${isPixel(t) ? "pixel" : ""} ${isStill(t, img.src) ? "alive" : ""}" src="${img.src}" alt="${esc(t.name)} 사진 ${i + 1}" ${i ? 'loading="lazy"' : ""}>`).join("")
     : `<div class="slide placeholder">${section.emoji}</div>`;
 
   const dots = images

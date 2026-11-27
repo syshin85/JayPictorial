@@ -219,6 +219,14 @@ h1, h2, .card-name, .big-label, .tab, .chip b, .fun-title {
 .slide.placeholder { font-size: 120px; }
 .slides.render { background: linear-gradient(#D6EEFF, #F2FAEA); }
 .slides.render .slide { padding: 24px; }
+.slide.alive { transform-origin: 50% 90%; animation: mobIdle 2.6s ease-in-out infinite; }
+@keyframes mobIdle {
+  0%, 100% { transform: translateY(0) rotate(0); }
+  25% { transform: translateY(-3%) rotate(-2.5deg); }
+  50% { transform: translateY(0) scale(1.02, .98); }
+  75% { transform: translateY(-3%) rotate(2.5deg); }
+}
+@media (prefers-reduced-motion: reduce) { .slide.alive { animation: none; } }
 
 .thumbs { display: flex; gap: 10px; margin-top: 18px; }
 .thumb {
