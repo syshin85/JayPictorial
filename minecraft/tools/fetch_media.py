@@ -5,6 +5,7 @@
   python3 tools/fetch_media.py creeper …  → just these items (again)
 
 Each item's "photos" lists exact wiki file titles; the first one is the card picture.
+"anim:<id>" uses a GIF made by tools/animate.py (assets/anim/<id>/) instead of a wiki file.
 Renders with a transparent background stay PNG (GIFs stay animated); screenshots become JPEG.
 "icons" (recipe ingredients) go to assets/icons/<key>.png. Pictures are © Mojang, used here privately.
 Needs only macOS `sips`.
@@ -90,6 +91,13 @@ def fetch_item(item, infos):
         old.unlink()
     images = []
     for n, f in enumerate(item.get("photos", []), 1):
+        if f.startswith("anim:"):
+            anim = f"assets/anim/{f[5:]}"
+            images.append({"src": f"{anim}/1.gif", "credit": "Mojang Studios (texture), animated for JayPictorial",
+                           "license": "Minecraft Wiki", "source": "https://minecraft.wiki/w/" + item.get("wiki", ""), "file": f})
+            if n == 1:
+                images[0]["thumb"] = f"{anim}/thumb.png"
+            continue
         ii = infos.get(f)
         if not ii:
             print(f"{item['id']}: missing {f}")
@@ -99,7 +107,7 @@ def fetch_item(item, infos):
         images.append({"src": f"assets/items/{item['id']}/{name}", "credit": "Mojang Studios",
                        "license": "Minecraft Wiki", "source": ii["descriptionurl"], "file": f})
         time.sleep(0.5)
-    if images:  # card picture: a small still PNG/JPEG, from a still render when the first one is animated
+    if images and "thumb" not in images[0]:  # card picture: a small still PNG/JPEG, from a still render when the first one is animated
         first = images[0]["src"]
         if first.endswith(".gif"):
             first = next((img["src"] for img in images if img["src"].endswith(".png")), first)
@@ -129,7 +137,7 @@ def main():
     media = json.loads(MEDIA.read_text()) if MEDIA.exists() else {}
     todo = [i for i in data["items"] if i.get("photos") and (
         i["id"] in args if args else [img.get("file") for img in media.get(i["id"], {}).get("images", [])] != i["photos"])]
-    infos = image_infos(sorted({f for i in todo for f in i["photos"]}))
+    infos = image_infos(sorted({f for i in todo for f in i["photos"] if not f.startswith("anim:")}))
     for item in todo:
         try:
             images = fetch_item(item, infos)

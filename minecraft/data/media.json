@@ -2,15 +2,29 @@
   "zombie": {
     "images": [
       {
-        "src": "assets/items/zombie/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/zombie/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Zombie_JE1_BE1.png",
-        "file": "File:Baby Zombie JE1 BE1.png",
-        "thumb": "assets/items/zombie/thumb.png"
+        "source": "https://minecraft.wiki/w/Zombie",
+        "file": "anim:zombie",
+        "thumb": "assets/anim/zombie/thumb.png"
       },
       {
         "src": "assets/items/zombie/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Zombie_JE5_BE2.png",
+        "file": "File:Zombie JE5 BE2.png"
+      },
+      {
+        "src": "assets/items/zombie/3.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Zombie_JE1_BE1.png",
+        "file": "File:Baby Zombie JE1 BE1.png"
+      },
+      {
+        "src": "assets/items/zombie/4.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:15_Year_Journey_Baby_Zombie.png",
@@ -21,15 +35,22 @@
   "skeleton": {
     "images": [
       {
-        "src": "assets/items/skeleton/1.png",
+        "src": "assets/anim/skeleton/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Skeleton",
+        "file": "anim:skeleton",
+        "thumb": "assets/anim/skeleton/thumb.png"
+      },
+      {
+        "src": "assets/items/skeleton/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Skeleton_Aiming_JE1.png",
-        "file": "File:Skeleton Aiming JE1.png",
-        "thumb": "assets/items/skeleton/thumb.png"
+        "file": "File:Skeleton Aiming JE1.png"
       },
       {
-        "src": "assets/items/skeleton/2.jpg",
+        "src": "assets/items/skeleton/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Dual_Wielding_Skeleton.png",
@@ -40,22 +61,29 @@
   "creeper": {
     "images": [
       {
-        "src": "assets/items/creeper/1.png",
+        "src": "assets/anim/creeper/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Creeper",
+        "file": "anim:creeper",
+        "thumb": "assets/anim/creeper/thumb.png"
+      },
+      {
+        "src": "assets/items/creeper/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Creeper_JE3_BE1.png",
-        "file": "File:Creeper JE3 BE1.png",
-        "thumb": "assets/items/creeper/thumb.png"
+        "file": "File:Creeper JE3 BE1.png"
       },
       {
-        "src": "assets/items/creeper/2.jpg",
+        "src": "assets/items/creeper/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:CreeperExplosion.png",
         "file": "File:CreeperExplosion.png"
       },
       {
-        "src": "assets/items/creeper/3.png",
+        "src": "assets/items/creeper/4.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Charged_Creeper_JE1_BE1.png",
@@ -66,15 +94,22 @@
   "spider": {
     "images": [
       {
-        "src": "assets/items/spider/1.png",
+        "src": "assets/anim/spider/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Spider",
+        "file": "anim:spider",
+        "thumb": "assets/anim/spider/thumb.png"
+      },
+      {
+        "src": "assets/items/spider/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Spider_JE2_BE1.png",
-        "file": "File:Spider JE2 BE1.png",
-        "thumb": "assets/items/spider/thumb.png"
+        "file": "File:Spider JE2 BE1.png"
       },
       {
-        "src": "assets/items/spider/2.jpg",
+        "src": "assets/items/spider/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:A_spider_during_Alpha.png",
@@ -85,15 +120,22 @@
   "cave-spider": {
     "images": [
       {
-        "src": "assets/items/cave-spider/1.png",
+        "src": "assets/anim/cave-spider/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Cave Spider",
+        "file": "anim:cave-spider",
+        "thumb": "assets/anim/cave-spider/thumb.png"
+      },
+      {
+        "src": "assets/items/cave-spider/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Cave_Spider_JE1_BE1.png",
-        "file": "File:Cave Spider JE1 BE1.png",
-        "thumb": "assets/items/cave-spider/thumb.png"
+        "file": "File:Cave Spider JE1 BE1.png"
       },
       {
-        "src": "assets/items/cave-spider/2.jpg",
+        "src": "assets/items/cave-spider/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Jappa_1.13_cave_spider.jpg",
@@ -130,15 +172,22 @@
   "witch": {
     "images": [
       {
-        "src": "assets/items/witch/1.png",
+        "src": "assets/anim/witch/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Witch",
+        "file": "anim:witch",
+        "thumb": "assets/anim/witch/thumb.png"
+      },
+      {
+        "src": "assets/items/witch/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Witch_BE1.png",
-        "file": "File:Witch BE1.png",
-        "thumb": "assets/items/witch/thumb.png"
+        "file": "File:Witch BE1.png"
       },
       {
-        "src": "assets/items/witch/2.jpg",
+        "src": "assets/items/witch/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:MME_Witch.jpg",
@@ -175,15 +224,22 @@
   "drowned": {
     "images": [
       {
-        "src": "assets/items/drowned/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/drowned/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Drowned_BE1.png",
-        "file": "File:Baby Drowned BE1.png",
-        "thumb": "assets/items/drowned/thumb.png"
+        "source": "https://minecraft.wiki/w/Drowned",
+        "file": "anim:drowned",
+        "thumb": "assets/anim/drowned/thumb.png"
       },
       {
         "src": "assets/items/drowned/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Drowned_BE1.png",
+        "file": "File:Baby Drowned BE1.png"
+      },
+      {
+        "src": "assets/items/drowned/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Drowned_Throwing_Trident_BE3.png",
@@ -194,15 +250,22 @@
   "husk": {
     "images": [
       {
-        "src": "assets/items/husk/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/husk/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Husk_JE1_BE1.png",
-        "file": "File:Baby Husk BE1.png",
-        "thumb": "assets/items/husk/thumb.png"
+        "source": "https://minecraft.wiki/w/Husk",
+        "file": "anim:husk",
+        "thumb": "assets/anim/husk/thumb.png"
       },
       {
         "src": "assets/items/husk/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Husk_JE1_BE1.png",
+        "file": "File:Baby Husk BE1.png"
+      },
+      {
+        "src": "assets/items/husk/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Camel_Husk_Jockey_JE1.png",
@@ -213,15 +276,22 @@
   "stray": {
     "images": [
       {
-        "src": "assets/items/stray/1.png",
+        "src": "assets/anim/stray/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Stray",
+        "file": "anim:stray",
+        "thumb": "assets/anim/stray/thumb.png"
+      },
+      {
+        "src": "assets/items/stray/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Stray_BE1.png",
-        "file": "File:Stray BE1.png",
-        "thumb": "assets/items/stray/thumb.png"
+        "file": "File:Stray BE1.png"
       },
       {
-        "src": "assets/items/stray/2.jpg",
+        "src": "assets/items/stray/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:StrayAndSkeleton.png",
@@ -426,15 +496,22 @@
   "bogged": {
     "images": [
       {
-        "src": "assets/items/bogged/1.png",
+        "src": "assets/anim/bogged/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Bogged",
+        "file": "anim:bogged",
+        "thumb": "assets/anim/bogged/thumb.png"
+      },
+      {
+        "src": "assets/items/bogged/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Bogged_Aiming_JE2.png",
-        "file": "File:Bogged Aiming JE2.png",
-        "thumb": "assets/items/bogged/thumb.png"
+        "file": "File:Bogged Aiming JE2.png"
       },
       {
-        "src": "assets/items/bogged/2.jpg",
+        "src": "assets/items/bogged/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Boggedmangrove.png",
@@ -535,12 +612,19 @@
   "zombified-piglin": {
     "images": [
       {
-        "src": "assets/items/zombified-piglin/1.png",
+        "src": "assets/anim/zombified-piglin/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Zombified Piglin",
+        "file": "anim:zombified-piglin",
+        "thumb": "assets/anim/zombified-piglin/thumb.png"
+      },
+      {
+        "src": "assets/items/zombified-piglin/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Zombified_Piglin_BE3.png",
-        "file": "File:Baby Zombified Piglin BE3.png",
-        "thumb": "assets/items/zombified-piglin/thumb.png"
+        "file": "File:Baby Zombified Piglin BE3.png"
       }
     ]
   },
@@ -573,15 +657,22 @@
   "wither-skeleton": {
     "images": [
       {
-        "src": "assets/items/wither-skeleton/1.png",
+        "src": "assets/anim/wither-skeleton/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Wither Skeleton",
+        "file": "anim:wither-skeleton",
+        "thumb": "assets/anim/wither-skeleton/thumb.png"
+      },
+      {
+        "src": "assets/items/wither-skeleton/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Wither_Skeleton_JE2.png",
-        "file": "File:Wither Skeleton JE2.png",
-        "thumb": "assets/items/wither-skeleton/thumb.png"
+        "file": "File:Wither Skeleton JE2.png"
       },
       {
-        "src": "assets/items/wither-skeleton/2.jpg",
+        "src": "assets/items/wither-skeleton/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Wither_Skeleton_Halloween_Screenshot.png",
@@ -611,15 +702,22 @@
   "piglin-brute": {
     "images": [
       {
-        "src": "assets/items/piglin-brute/1.png",
+        "src": "assets/anim/piglin-brute/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Piglin Brute",
+        "file": "anim:piglin-brute",
+        "thumb": "assets/anim/piglin-brute/thumb.png"
+      },
+      {
+        "src": "assets/items/piglin-brute/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Piglin_Brute_BE1.png",
-        "file": "File:Piglin Brute BE1.png",
-        "thumb": "assets/items/piglin-brute/thumb.png"
+        "file": "File:Piglin Brute BE1.png"
       },
       {
-        "src": "assets/items/piglin-brute/2.jpg",
+        "src": "assets/items/piglin-brute/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Piglin_Brute_with_armor.png",
@@ -720,15 +818,22 @@
   "wither": {
     "images": [
       {
-        "src": "assets/items/wither/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/wither/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Wither_JE2_BE2.png",
-        "file": "File:Wither JE2 BE2.png",
-        "thumb": "assets/items/wither/thumb.png"
+        "source": "https://minecraft.wiki/w/Wither",
+        "file": "anim:wither",
+        "thumb": "assets/anim/wither/thumb.png"
       },
       {
         "src": "assets/items/wither/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Wither_JE2_BE2.png",
+        "file": "File:Wither JE2 BE2.png"
+      },
+      {
+        "src": "assets/items/wither/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Blue_Wither_JE2_BE2.png",
@@ -791,15 +896,22 @@
   "iron-golem": {
     "images": [
       {
-        "src": "assets/items/iron-golem/1.png",
+        "src": "assets/anim/iron-golem/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Iron Golem",
+        "file": "anim:iron-golem",
+        "thumb": "assets/anim/iron-golem/thumb.png"
+      },
+      {
+        "src": "assets/items/iron-golem/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Iron_Golem_JE1_BE1.png",
-        "file": "File:Iron Golem JE1 BE1.png",
-        "thumb": "assets/items/iron-golem/thumb.png"
+        "file": "File:Iron Golem JE1 BE1.png"
       },
       {
-        "src": "assets/items/iron-golem/2.jpg",
+        "src": "assets/items/iron-golem/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:IronGolemRose.png",
@@ -810,15 +922,22 @@
   "snow-golem": {
     "images": [
       {
-        "src": "assets/items/snow-golem/1.png",
+        "src": "assets/anim/snow-golem/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Snow Golem",
+        "file": "anim:snow-golem",
+        "thumb": "assets/anim/snow-golem/thumb.png"
+      },
+      {
+        "src": "assets/items/snow-golem/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Snow_Golem_JE1_BE1.png",
-        "file": "File:Snow Golem JE1 BE1.png",
-        "thumb": "assets/items/snow-golem/thumb.png"
+        "file": "File:Snow Golem JE1 BE1.png"
       },
       {
-        "src": "assets/items/snow-golem/2.jpg",
+        "src": "assets/items/snow-golem/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Endermadegolems.jpg",
@@ -907,22 +1026,29 @@
   "cat": {
     "images": [
       {
-        "src": "assets/items/cat/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/cat/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Red_Cat_JE2_BE2.png",
-        "file": "File:Baby Red Cat JE2 BE2.png",
-        "thumb": "assets/items/cat/thumb.png"
+        "source": "https://minecraft.wiki/w/Cat",
+        "file": "anim:cat",
+        "thumb": "assets/anim/cat/thumb.png"
       },
       {
         "src": "assets/items/cat/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Red_Cat_JE2_BE2.png",
+        "file": "File:Baby Red Cat JE2 BE2.png"
+      },
+      {
+        "src": "assets/items/cat/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Black_Cat_JE2_BE2.png",
         "file": "File:Baby Black Cat JE2 BE2.png"
       },
       {
-        "src": "assets/items/cat/3.png",
+        "src": "assets/items/cat/4.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Jellie_Cat_JE2_BE2.png",
@@ -933,15 +1059,22 @@
   "horse": {
     "images": [
       {
-        "src": "assets/items/horse/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/horse/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Brown_Horse_JE5.png",
-        "file": "File:Baby Brown Horse JE5.png",
-        "thumb": "assets/items/horse/thumb.png"
+        "source": "https://minecraft.wiki/w/Horse",
+        "file": "anim:horse",
+        "thumb": "assets/anim/horse/thumb.png"
       },
       {
         "src": "assets/items/horse/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Brown_Horse_JE5.png",
+        "file": "File:Baby Brown Horse JE5.png"
+      },
+      {
+        "src": "assets/items/horse/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Black_Horse_BE3.png",
@@ -1113,15 +1246,22 @@
   "pig": {
     "images": [
       {
-        "src": "assets/items/pig/1.png",
+        "src": "assets/anim/pig/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Pig",
+        "file": "anim:pig",
+        "thumb": "assets/anim/pig/thumb.png"
+      },
+      {
+        "src": "assets/items/pig/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Pig_JE1_BE1.png",
-        "file": "File:Baby Pig JE1 BE1.png",
-        "thumb": "assets/items/pig/thumb.png"
+        "file": "File:Baby Pig JE1 BE1.png"
       },
       {
-        "src": "assets/items/pig/2.jpg",
+        "src": "assets/items/pig/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Pig_Riding_1.jpg",
@@ -1132,27 +1272,41 @@
   "cow": {
     "images": [
       {
-        "src": "assets/items/cow/1.png",
+        "src": "assets/anim/cow/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Cow",
+        "file": "anim:cow",
+        "thumb": "assets/anim/cow/thumb.png"
+      },
+      {
+        "src": "assets/items/cow/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Cow_JE1_BE1.png",
-        "file": "File:Baby Cow JE1 BE1.png",
-        "thumb": "assets/items/cow/thumb.png"
+        "file": "File:Baby Cow JE1 BE1.png"
       }
     ]
   },
   "sheep": {
     "images": [
       {
-        "src": "assets/items/sheep/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/sheep/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:White_Sheep_JE5.png",
-        "file": "File:White Sheep JE5.png",
-        "thumb": "assets/items/sheep/thumb.png"
+        "source": "https://minecraft.wiki/w/Sheep",
+        "file": "anim:sheep",
+        "thumb": "assets/anim/sheep/thumb.png"
       },
       {
         "src": "assets/items/sheep/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:White_Sheep_JE5.png",
+        "file": "File:White Sheep JE5.png"
+      },
+      {
+        "src": "assets/items/sheep/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Blue_Sheep_BE1.png",
@@ -1189,15 +1343,22 @@
   "turtle": {
     "images": [
       {
-        "src": "assets/items/turtle/1.png",
+        "src": "assets/anim/turtle/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Turtle",
+        "file": "anim:turtle",
+        "thumb": "assets/anim/turtle/thumb.png"
+      },
+      {
+        "src": "assets/items/turtle/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Turtle_JE3_BE1.png",
-        "file": "File:Turtle BE1.png",
-        "thumb": "assets/items/turtle/thumb.png"
+        "file": "File:Turtle BE1.png"
       },
       {
-        "src": "assets/items/turtle/2.jpg",
+        "src": "assets/items/turtle/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:A_Turtle_Digging_Sand.png",
@@ -1317,15 +1478,22 @@
   "llama": {
     "images": [
       {
-        "src": "assets/items/llama/1.png",
-        "credit": "Mojang Studios",
+        "src": "assets/anim/llama/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
         "license": "Minecraft Wiki",
-        "source": "https://minecraft.wiki/w/File:Baby_Brown_Llama_JE3_BE3.png",
-        "file": "File:Baby Brown Llama JE3 BE3.png",
-        "thumb": "assets/items/llama/thumb.png"
+        "source": "https://minecraft.wiki/w/Llama",
+        "file": "anim:llama",
+        "thumb": "assets/anim/llama/thumb.png"
       },
       {
         "src": "assets/items/llama/2.png",
+        "credit": "Mojang Studios",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/File:Baby_Brown_Llama_JE3_BE3.png",
+        "file": "File:Baby Brown Llama JE3 BE3.png"
+      },
+      {
+        "src": "assets/items/llama/3.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:1.1.11Llama-Brown-Orange.png",
@@ -1336,15 +1504,22 @@
   "goat": {
     "images": [
       {
-        "src": "assets/items/goat/1.png",
+        "src": "assets/anim/goat/1.gif",
+        "credit": "Mojang Studios (texture), animated for JayPictorial",
+        "license": "Minecraft Wiki",
+        "source": "https://minecraft.wiki/w/Goat",
+        "file": "anim:goat",
+        "thumb": "assets/anim/goat/thumb.png"
+      },
+      {
+        "src": "assets/items/goat/2.png",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:Baby_Goat_(left_horn)_JE2_BE3.png",
-        "file": "File:Baby Goat (left horn) JE2 BE3.png",
-        "thumb": "assets/items/goat/thumb.png"
+        "file": "File:Baby Goat (left horn) JE2 BE3.png"
       },
       {
-        "src": "assets/items/goat/2.jpg",
+        "src": "assets/items/goat/3.jpg",
         "credit": "Mojang Studios",
         "license": "Minecraft Wiki",
         "source": "https://minecraft.wiki/w/File:A_goat_in_a_coat.jpeg",

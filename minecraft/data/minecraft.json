@@ -177,6 +177,8 @@
       "funFact": "작은 아기 좀비는 아주 빨리 뛰어서 더 조심해야 해요. 가끔 닭을 타고 다니기도 해요.",
       "wiki": "Zombie",
       "photos": [
+        "anim:zombie",
+        "File:Zombie JE5 BE2.png",
         "File:Baby Zombie JE1 BE1.png",
         "File:15 Year Journey Baby Zombie.png"
       ]
@@ -211,6 +213,7 @@
       "funFact": "스켈레톤이 떨어뜨린 뼈로 늑대를 길들일 수 있어요.",
       "wiki": "Skeleton",
       "photos": [
+        "anim:skeleton",
         "File:Skeleton Aiming JE1.png",
         "File:Dual Wielding Skeleton.png"
       ]
@@ -245,6 +248,7 @@
       "funFact": "크리퍼는 고양이를 무서워해서 고양이가 있으면 도망가요. 번개를 맞으면 파랗게 빛나는 '충전된 크리퍼'가 돼요.",
       "wiki": "Creeper",
       "photos": [
+        "anim:creeper",
         "File:Creeper JE3 BE1.png",
         "File:CreeperExplosion.png",
         "File:Charged Creeper JE1 BE1.png"
@@ -280,6 +284,7 @@
       "funFact": "거미가 떨어뜨린 실로 활과 낚싯대를 만들어요.",
       "wiki": "Spider",
       "photos": [
+        "anim:spider",
         "File:Spider JE2 BE1.png",
         "File:A spider during Alpha.png"
       ]
@@ -314,6 +319,7 @@
       "funFact": "몸이 작아서 블록 한 칸 틈으로도 지나갈 수 있어요.",
       "wiki": "Cave Spider",
       "photos": [
+        "anim:cave-spider",
         "File:Cave Spider JE1 BE1.png",
         "File:Jappa 1.13 cave spider.jpg"
       ]
@@ -383,6 +389,7 @@
       "funFact": "주민이 번개를 맞으면 마녀로 변해요.",
       "wiki": "Witch",
       "photos": [
+        "anim:witch",
         "File:Witch BE1.png",
         "File:MME Witch.jpg"
       ]
@@ -452,6 +459,7 @@
       "funFact": "좀비가 물속에 오래 있으면 드라운드로 변해요.",
       "wiki": "Drowned",
       "photos": [
+        "anim:drowned",
         "File:Baby Drowned BE1.png",
         "File:Baby Drowned Throwing Trident BE3.png"
       ]
@@ -486,6 +494,7 @@
       "funFact": "허스크에게 맞으면 배가 빨리 고파져요.",
       "wiki": "Husk",
       "photos": [
+        "anim:husk",
         "File:Baby Husk BE1.png",
         "File:Camel Husk Jockey JE1.png"
       ]
@@ -520,6 +529,7 @@
       "funFact": "스켈레톤이 가루눈 속에 오래 있으면 스트레이가 돼요.",
       "wiki": "Stray",
       "photos": [
+        "anim:stray",
         "File:Stray BE1.png",
         "File:StrayAndSkeleton.png"
       ]
@@ -832,6 +842,7 @@
       "funFact": "머리에 버섯이 자라 있어서 가위로 잘라 가질 수 있어요.",
       "wiki": "Bogged",
       "photos": [
+        "anim:bogged",
         "File:Bogged Aiming JE2.png",
         "File:Boggedmangrove.png"
       ]
@@ -1004,6 +1015,7 @@
       "funFact": "피글린이 지상 세계로 오면 좀비화 피글린으로 변해요.",
       "wiki": "Zombified Piglin",
       "photos": [
+        "anim:zombified-piglin",
         "File:Baby Zombified Piglin BE3.png"
       ]
     },
@@ -1072,6 +1084,7 @@
       "funFact": "위더 스켈레톤 해골 3개를 모으면 보스 '위더'를 불러낼 수 있어요.",
       "wiki": "Wither Skeleton",
       "photos": [
+        "anim:wither-skeleton",
         "File:Wither Skeleton JE2.png",
         "File:Wither Skeleton Halloween Screenshot.png"
       ]
@@ -1140,6 +1153,7 @@
       "funFact": "한 번 쓰러뜨리면 다시 나타나지 않아요.",
       "wiki": "Piglin Brute",
       "photos": [
+        "anim:piglin-brute",
         "File:Piglin Brute BE1.png",
         "File:Piglin Brute with armor.png"
       ]
@@ -1312,6 +1326,7 @@
       "funFact": "위더가 떨어뜨린 네더의 별로 신호기를 만들 수 있어요.",
       "wiki": "Wither",
       "photos": [
+        "anim:wither",
         "File:Wither JE2 BE2.png",
         "File:Blue Wither JE2 BE2.png"
       ]
@@ -1416,6 +1431,7 @@
       "funFact": "아기 주민에게 양귀비꽃을 건네주기도 해요.",
       "wiki": "Iron Golem",
       "photos": [
+        "anim:iron-golem",
         "File:Iron Golem JE1 BE1.png",
         "File:IronGolemRose.png"
       ]
@@ -1450,6 +1466,7 @@
       "funFact": "가위로 호박을 벗기면 눈사람 얼굴이 보여요.",
       "wiki": "Snow Golem",
       "photos": [
+        "anim:snow-golem",
         "File:Snow Golem JE1 BE1.png",
         "File:Endermadegolems.jpg"
       ]
@@ -1589,6 +1606,7 @@
       "funFact": "길들인 고양이는 아침에 가끔 선물을 물어다 줘요.",
       "wiki": "Cat",
       "photos": [
+        "anim:cat",
         "File:Baby Red Cat JE2 BE2.png",
         "File:Baby Black Cat JE2 BE2.png",
         "File:Baby Jellie Cat JE2 BE2.png"
@@ -1624,6 +1642,7 @@
       "funFact": "말 색깔과 무늬가 서로 달라서 똑같은 말을 찾기 어려워요.",
       "wiki": "Horse",
       "photos": [
+        "anim:horse",
         "File:Baby Brown Horse JE5.png",
         "File:Baby Black Horse BE3.png"
       ]
@@ -1900,6 +1919,7 @@
       "funFact": "돼지가 번개를 맞으면 좀비화 피글린으로 변해요.",
       "wiki": "Pig",
       "photos": [
+        "anim:pig",
         "File:Baby Pig JE1 BE1.png",
         "File:Pig Riding 1.jpg"
       ]
@@ -1934,6 +1954,7 @@
       "funFact": "버섯 들판에는 등에 버섯이 난 빨간 '무시룸'이 살아요.",
       "wiki": "Cow",
       "photos": [
+        "anim:cow",
         "File:Baby Cow JE1 BE1.png"
       ]
     },
@@ -1967,6 +1988,7 @@
       "funFact": "양에게 'jeb_'이라고 이름을 붙이면 무지개색으로 바뀌어요.",
       "wiki": "Sheep",
       "photos": [
+        "anim:sheep",
         "File:White Sheep JE5.png",
         "File:Baby Blue Sheep BE1.png"
       ]
@@ -2036,6 +2058,7 @@
       "funFact": "아기 거북이 자라면서 떨어뜨린 껍데기 조각으로 물속에서 숨을 오래 참는 모자를 만들어요.",
       "wiki": "Turtle",
       "photos": [
+        "anim:turtle",
         "File:Turtle BE1.png",
         "File:A Turtle Digging Sand.png"
       ]
@@ -2242,6 +2265,7 @@
       "funFact": "라마 한 마리를 끈으로 묶으면 다른 라마들이 줄지어 따라와요.",
       "wiki": "Llama",
       "photos": [
+        "anim:llama",
         "File:Baby Brown Llama JE3 BE3.png",
         "File:1.1.11Llama-Brown-Orange.png"
       ]
@@ -2276,6 +2300,7 @@
       "funFact": "염소가 바위에 뿔을 부딪히면 뿔이 떨어져요. 그 뿔로 나팔을 불 수 있어요.",
       "wiki": "Goat",
       "photos": [
+        "anim:goat",
         "File:Baby Goat (left horn) JE2 BE3.png",
         "File:A goat in a coat.jpeg"
       ]
